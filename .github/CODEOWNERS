@@ -1,0 +1,22 @@
+# CODEOWNERS — IUJ Kouhai Wiki
+# Matched owners are auto-requested as reviewers on any PR touching those paths.
+# Last matching rule wins.
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# ── Everything is reviewed by the maintainer for now ─────────────────────────
+*                       @thisisartman
+
+# ── Config, layout, workflows, and the suggestion pipeline: maintainer only ──
+/quartz.config.yaml     @thisisartman
+/.github/               @thisisartman
+/quartz-plugins/        @thisisartman
+/worker/                @thisisartman
+
+# ── Future: per-section reviewer routing ─────────────────────────────────────
+# When trusted senior editors join, give them repo access and uncomment a line
+# to auto-route that section's PRs to them (personal accounts or, if you make an
+# org later, @org/team slugs).
+# /content/01_Pre-Arrival/    @some-editor
+# /content/04_Finance*/       @some-editor
+# /content/06_Academics/      @some-editor
+# /content/09_Social*/        @some-editor
