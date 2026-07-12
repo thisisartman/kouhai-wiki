@@ -69,7 +69,20 @@ Each article carries a status in its frontmatter. You'll also see symbols in the
 
 Every article ends with a **🗣️ Senior Submissions** block. If you're a senior reading this and you have something to add — a tip, a correction, a story — that block tells you exactly what kind of input is needed for that article.
 
-To contribute: contact the wiki maintainer with your addition and the article it belongs to.
+To contribute: use the **✏️ Suggest an edit** button on that article (see above) — no need to track down the maintainer separately.
+
+---
+
+## Suggesting an Edit
+
+Every article on the website has a **✏️ Suggest an edit** button under the title. Found something outdated, wrong, or missing? Click it.
+
+- If you highlight text on the page *before* clicking the button, that passage is pulled into the form automatically — no retyping.
+- Describe what should change and why.
+- You'll need to enter your **IUJ email address** (`@iuj.ac.jp`) — this isn't a login, just a way for the maintainer to follow up if needed.
+- Submit, and it goes straight to the maintainer to review and apply. No GitHub account, no git — just describe the change.
+
+This is the easiest way to contribute, and it's how the **🗣️ Senior Submissions** blocks (below) get filled in too.
 
 ---
 

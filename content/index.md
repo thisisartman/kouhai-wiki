@@ -1,8 +1,8 @@
 ---
-title: IUJ Kouhai Wiki
+title: MyIUJ! Kouhai Wiki
 ---
 
-Welcome to the IUJ Kouhai Wiki — a guide for incoming students at the International University of Japan.
+Welcome to the MyIUJ! Kouhai Wiki — a guide for incoming students at the International University of Japan.
 
 ## Sections
 
