@@ -1,4 +1,4 @@
-# Contributing to the IUJ Kouhai Wiki
+# Contributing to the MyIUJ! Kouhai Wiki
 
 Thanks for helping future kouhai! There are two ways to suggest changes — pick
 whichever fits you.
