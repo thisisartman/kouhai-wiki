@@ -63,3 +63,22 @@ body[data-slug="index"] .content-meta,
 body[data-slug$="/index"] .content-meta {
   display: none;
 }
+
+/* Sidebar tree: folders show only the collapse chevron (points right when
+   collapsed, down when open); the theme hides that chevron (opacity: 0.001)
+   and paints a folder glyph via ::before instead — reverse that, and drop
+   the document glyph on articles too. */
+.explorer .folder-icon {
+  opacity: 1 !important;
+  position: static !important; /* theme floats it absolutely in the gutter */
+  left: auto !important;
+  width: 16px !important;
+  height: 16px !important;
+  margin-right: 4px;
+  flex-shrink: 0;
+}
+.explorer .folder-container::before,
+.explorer a.nav-file-title::before {
+  display: none !important;
+  content: none !important;
+}
