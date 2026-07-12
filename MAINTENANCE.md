@@ -142,10 +142,64 @@ Deploy takes roughly 30–60 seconds once the run starts. Live in ~1 minute afte
 
 ---
 
-## 6. Handling "Suggest an Edit" Emails
+## 6. Rearranging, Renaming, and Moving Pages
+
+**Reordering articles within a section:** not manually controllable right now — the
+card grid sorts automatically (folders first, then by date newest-first, then
+alphabetically as a tiebreaker). Most articles currently share the same migration date,
+so in practice it's alphabetical. If you want manual ordering later, the `folder-page`
+plugin in `quartz.config.yaml` accepts a custom `sort` option — not currently set.
+
+**Reordering sections:** controlled by each section folder's numeric prefix
+(`07_Daily Life/`) — the sidebar sorts by that prefix, not by name (the `sortFn` under
+the `explorer` plugin in `quartz.config.yaml`). To move a section, renumber its folder:
+
+```bash
+cd ~/Documents/Quartz/content
+git mv "07_Daily Life" "07b_Daily Life"   # or fully renumber the affected folders
+```
+
+If you're renumbering several sections to make room, do all the folder moves in one
+commit so the sidebar order and the homepage list (`content/index.md`) don't drift out
+of sync with each other.
+
+**Moving an article to a different section:**
+
+```bash
+cd ~/Documents/Quartz/content
+git mv "07_Daily Life/Some Article.md" "09_Social Life & Culture/Some Article.md"
+```
+
+This changes the article's URL (the slug is derived from its file path). Two things to
+check afterward:
+1. **Wikilinks** (`[[Some Article]]`) elsewhere in the wiki keep resolving automatically
+   at build time — Quartz's link crawler (`markdownLinkResolution: shortest`) finds the
+   file wherever it currently lives. No manual link-fixing needed.
+2. **Old bookmarks or external links** to the old URL will 404 once moved. To keep them
+   working, add the old path as an alias in the moved file's frontmatter:
+   ```yaml
+   ---
+   title: Some Article
+   aliases:
+     - 07_daily-life/some-article
+   ---
+   ```
+   This generates a redirect page at the old URL. (To get the exact old slug, check the
+   article's current live URL before moving it — lowercase, spaces become hyphens, `&`
+   becomes `--and--`.)
+
+**Renaming an article or section:** same mechanics as moving — the slug is just the
+current file/folder path. Use `git mv`, and add an `aliases:` entry (articles only) if
+you want the old URL to redirect instead of 404.
+
+Always finish with the usual commit + push (§3).
+
+---
+
+## 7. Handling "Suggest an Edit" Emails
 
 Every suggestion arrives in the maintainer's inbox (the address currently wired to the
-hashed Formsubmit endpoint — see §8) as a table-formatted email from Formsubmit,
+hashed Formsubmit endpoint — see §9) as a table-formatted email from Formsubmit,
 containing:
 
 - **article** — which page it's about
@@ -168,7 +222,7 @@ subject `Kouhai Wiki suggestion:` in Gmail.
 
 ---
 
-## 7. Deploy Failing? Troubleshooting
+## 8. Deploy Failing? Troubleshooting
 
 ```bash
 gh run list -R thisisartman/kouhai-wiki -L 5
@@ -191,7 +245,7 @@ git push origin main
 
 ---
 
-## 8. Changing the Suggest-an-Edit Destination Email
+## 9. Changing the Suggest-an-Edit Destination Email
 
 The button POSTs to a Formsubmit **hashed alias** (keeps the address off the page):
 
@@ -224,7 +278,7 @@ To point it at a new address:
 
 ---
 
-## 9. Changing the Favicon / Site Title
+## 10. Changing the Favicon / Site Title
 
 - **Favicon:** replace `quartz/static/icon.png` with a new image (any size — Quartz
   generates the various sizes/formats from it), then rebuild and push.
@@ -234,7 +288,7 @@ To point it at a new address:
 
 ---
 
-## 10. Reference: Key Files
+## 11. Reference: Key Files
 
 | File | Purpose |
 |---|---|
@@ -249,7 +303,7 @@ To point it at a new address:
 
 ---
 
-## 11. Accounts / Access Needed to Maintain This
+## 12. Accounts / Access Needed to Maintain This
 
 - **GitHub** account with write access to `thisisartman/kouhai-wiki` (or admin, for
   direct-to-main pushes past branch protection).
@@ -257,5 +311,5 @@ To point it at a new address:
   managing repo settings. Not strictly required (the GitHub web UI covers everything)
   but much faster.
 - **Formsubmit** needs no account — but whoever's email address suggestions go to must
-  be able to click the one-time activation link (§8).
+  be able to click the one-time activation link (§9).
 - No Cloudflare, no CMS, no other third-party service in the current setup.
