@@ -92,3 +92,65 @@ a.internal.alias {
   border-radius: 0 !important;
   padding: 0 !important;
 }
+
+/* Folder / section landing pages ("N items under this folder") — replace the bare
+   dated link list with a responsive card grid. Subfolder entries carry no date
+   (mostRecentDatesFromChildren is empty for them), which we use as a hook to mark
+   them as sections rather than articles, so readers know a card leads deeper in. */
+.page-listing ul.section-ul {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 0.85rem;
+  margin-top: 1.2rem;
+}
+
+.page-listing li.section-li {
+  margin-bottom: 0;
+}
+
+.page-listing li.section-li > .section {
+  display: flex !important;
+  flex-direction: column;
+  gap: 0.2rem;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 0.9rem 1.05rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  background: var(--light);
+  transition: border-color 0.15s ease;
+}
+
+.page-listing li.section-li > .section:hover {
+  border-color: var(--secondary);
+}
+
+.page-listing .section .meta {
+  margin: 0;
+  font-size: 0.72rem;
+  opacity: 0.55;
+}
+
+.page-listing .section .desc h3 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.page-listing .section .desc h3 a {
+  color: var(--dark);
+}
+
+.page-listing .section .desc h3 a:hover {
+  color: var(--secondary);
+}
+
+.page-listing .section:has(.meta:empty) {
+  border-style: dashed;
+}
+
+.page-listing .section:has(.meta:empty) .desc h3::before {
+  content: "› ";
+  color: var(--secondary);
+  font-weight: 700;
+}
