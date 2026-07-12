@@ -4,9 +4,9 @@ import type {
   QuartzComponentConstructor,
 } from "@quartz-community/types";
 
-// Replaced during wiring with the hashed Formsubmit endpoint
-// (https://formsubmit.co/ajax/<hash>). Kept as a constant so it's a one-line swap.
-const FORMSUBMIT_ENDPOINT = "https://formsubmit.co/ajax/REPLACE_WITH_FORMSUBMIT_HASH";
+// Formsubmit AJAX endpoint (hashed alias, so the maintainer's email is not
+// exposed in the page source). Delivers to the activated Formsubmit form.
+const FORMSUBMIT_ENDPOINT = "https://formsubmit.co/ajax/5b121b476fc3d310066a6e491050c454";
 
 const suggestEditCss = `
 .suggest-edit {
