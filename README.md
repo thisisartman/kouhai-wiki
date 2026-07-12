@@ -1,17 +1,7 @@
-# Quartz v5
+# What Is This Wiki
+This wiki is written by IUJ students, for incoming IUJ students (Kouhais). It covers everything from getting your visa to surviving a Niigata winter — practical, honest, and updated by people who’ve actually been through it.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+# Who This Is For
+You. If you’re preparing to arrive at IUJ, already here and trying to figure something out, or looking for advice specific to your nationality — this wiki is for you.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+It’s not an official IUJ document. It’s not sanitised. It’s what seniors wish they’d had.
