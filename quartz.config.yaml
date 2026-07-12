@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: localhost:8080
+  baseUrl: thisisartman.github.io/kouhai-wiki
   ignorePatterns:
     - _PROJECT_REFERENCE.md
     - _QUARTZ_SIDEQUEST.md
@@ -143,7 +143,7 @@ plugins:
   - source: github:quartz-community/og-image
     enabled: false
   - source: github:quartz-community/cname
-    enabled: true
+    enabled: false
   - source: github:quartz-community/canvas-page
     enabled: true
   - source: github:quartz-community/content-page

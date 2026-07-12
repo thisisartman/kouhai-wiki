@@ -1,0 +1,105 @@
+---
+title: SIM & Internet Setup
+section: 02_Arrival & First Week
+tags: [arrival, SIM, internet, phone, connectivity]
+status: ready
+last_updated: 2026-05-29
+---
+
+# 📱 SIM & Internet Setup
+
+> This article has moved to [[SIM & Internet Setup]] in 11_IT & Productivity. The full guide is there — SIM plans, airport options, campus WiFi, and calling apps.
+
+---
+
+## At the Airport (Immediate Options)
+
+### Pocket WiFi Rental
+- Available at major airports (NRT, HND, KIX) from counters like **Ninja WiFi**, **Global WiFi**, **IIJmio**
+- Useful if you want immediate connectivity without committing to a plan
+- Downside: monthly cost (~¥3,000–5,000), device to carry, shared data cap
+- Good as a **bridge** while you sort a proper SIM in the first week
+
+### Airport SIM Cards
+- Available at convenience stores and vending machines in arrival halls
+- Brands: **IIJmio**, **HISMobile**, **Docomo tourist SIM**
+- Data-only (no calls/SMS in basic plans)
+- Good for the journey to IUJ; upgrade to a proper plan after settling in
+
+---
+
+## Recommended SIM Plans for Students
+
+Japan's MVNO (virtual carrier) market is large. These are the most student-relevant options:
+
+| Provider | Network | Monthly Cost | Notes |
+|---|---|---|---|
+| **IIJmio** | Docomo/au | ¥850–2,000 | Reliable, good data plans, foreigner-friendly signup |
+| **Rakuten Mobile** | Rakuten/au | ¥0–3,278 | Free up to 1GB; unlimited at ¥3,278; app-based calls included |
+| **Ahamo (Docomo)** | Docomo | ¥2,970 | 20GB, no contract, good coverage in rural areas |
+| **LINEMO (SoftBank)** | SoftBank | ¥990–2,728 | Cheap entry plan; LINE data free |
+| **Mineo** | au/Docomo/SoftBank | ¥1,298+ | Flexible; packet sharing community feature |
+
+> 💡 **For rural Niigata, coverage matters more than price.** Docomo has the strongest rural network. IIJmio (Docomo line) or Ahamo are safest bets for Minami-Uonuma.
+
+> ⚠️ Most SIM contracts require a Japanese bank account or credit card for ongoing billing. Set up your JP Bank account first, then switch to a monthly plan if you started on a prepaid/tourist SIM.
+
+---
+
+## What You Need to Sign Up
+
+- Passport (at time of purchase)
+- Residence Card (在留カード) — required for most monthly contracts
+- Japanese address (your IUJ dorm address works)
+- Payment method: credit card, debit card, or JP Bank direct debit
+
+---
+
+## Campus WiFi
+
+- IUJ provides campus WiFi — get credentials from the IT office or student portal during orientation
+- Coverage is reasonable in academic buildings and dorms
+- ⚠️ Dorm WiFi can be congested during peak hours — a personal SIM is still worth having
+
+---
+
+## Calling & Messaging Apps
+
+Physical SIM plans in Japan often charge per-minute for domestic calls. Avoid bill shock by using apps:
+
+- **LINE** — dominant messaging app in Japan. Get it immediately. Most IUJ students and clubs communicate here.
+- **WhatsApp** — for international contacts
+- **Rakuten Link** — free domestic calls if on Rakuten Mobile
+- **Google Voice / Skype** — for international calls home
+
+---
+
+## Sending Money / Receiving from Family Without a Bank Account Yet
+
+If you need to receive or send money before your bank account is set up:
+- **Wise** — works with a debit card from your home country
+- **Western Union** — available at Japan Post locations
+- See [[Sending Money Home]] for full remittance guide
+
+---
+
+## Quick Setup Priority
+
+```
+Day 1: Airport SIM or pocket WiFi rental → get online
+Week 1: Open JP Bank account
+Week 2: Switch to monthly SIM plan (IIJmio/Ahamo) with JP Bank as billing
+```
+
+---
+
+## Related Articles
+- [[First Week Checklist]]
+- [[JP Bank vs Daishi — Comparison & How to Open]]
+- [[Sending Money Home]]
+- [[Useful Apps in Japan]]
+
+---
+
+## 🗣️ Senior Submissions
+> *Have a tip, correction, or experience to add? Contact [your name/handle].*
