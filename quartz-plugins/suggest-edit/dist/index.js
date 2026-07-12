@@ -21,7 +21,7 @@ function u2(e2, t2, n2, o2, i2, u3) {
 }
 
 // src/components/SuggestEdit.tsx
-var FORMSUBMIT_ENDPOINT = "https://formsubmit.co/ajax/REPLACE_WITH_FORMSUBMIT_HASH";
+var FORMSUBMIT_ENDPOINT = "https://formsubmit.co/ajax/5b121b476fc3d310066a6e491050c454";
 var suggestEditCss = `
 .suggest-edit {
   margin: 0.4rem 0 0.2rem;
