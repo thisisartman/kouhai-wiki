@@ -82,3 +82,13 @@ body[data-slug$="/index"] .content-meta {
   display: none !important;
   content: none !important;
 }
+
+/* Aliased wikilinks ([[page|label]]) get a gold highlight background from the
+   theme — but those are everywhere in a wiki, so render them like any other
+   internal link. (Genuine ==highlights== via <mark> are unaffected.) */
+a.internal.alias {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+}
