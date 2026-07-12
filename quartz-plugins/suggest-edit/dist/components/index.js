@@ -100,6 +100,7 @@ var suggestEditCss = `
 .se-field textarea { resize: vertical; min-height: 3.5rem; }
 .se-field textarea:focus,
 .se-field input:focus { outline: none; border-color: var(--secondary); }
+.se-hint { font-size: 0.72rem; color: var(--gray); margin-top: 0.25rem; }
 .se-honey { position: absolute; left: -9999px; }
 .se-actions {
   display: flex;
@@ -148,8 +149,9 @@ var suggestEditScript = `
               '<textarea name="suggestion" id="se-suggestion" rows="4" required></textarea></div>' +
             '<div class="se-field"><label>Your name (optional)</label>' +
               '<input type="text" name="name" id="se-name" autocomplete="name"></div>' +
-            '<div class="se-field"><label>Your email (optional, so the maintainer can follow up)</label>' +
-              '<input type="email" name="reply_email" id="se-email" autocomplete="email"></div>' +
+            '<div class="se-field"><label>Your IUJ email *</label>' +
+              '<input type="email" name="reply_email" id="se-email" required autocomplete="email" placeholder="you@iuj.ac.jp">' +
+              '<div class="se-hint">Must be an @iuj.ac.jp address.</div></div>' +
             '<input type="text" name="_honey" class="se-honey" tabindex="-1" autocomplete="off">' +
             '<div class="se-status" id="se-status"></div>' +
             '<div class="se-actions">' +
@@ -177,6 +179,21 @@ var suggestEditScript = `
       if (honey) { close(); return; } // bot trap
       var statusEl = overlay.querySelector("#se-status");
       var sendBtn = overlay.querySelector("#se-send");
+      var suggestionVal = overlay.querySelector("#se-suggestion").value.trim();
+      var emailVal = overlay.querySelector("#se-email").value.trim();
+      var atIdx = emailVal.indexOf("@");
+      if (!suggestionVal) {
+        statusEl.className = "se-status se-error";
+        statusEl.textContent = "Please describe what should change.";
+        overlay.querySelector("#se-suggestion").focus();
+        return;
+      }
+      if (atIdx < 1 || emailVal.indexOf(" ") !== -1 || emailVal.toLowerCase().slice(atIdx) !== "@iuj.ac.jp") {
+        statusEl.className = "se-status se-error";
+        statusEl.textContent = "Please enter your IUJ email address (must end in @iuj.ac.jp).";
+        overlay.querySelector("#se-email").focus();
+        return;
+      }
       statusEl.className = "se-status";
       statusEl.textContent = "Sending\u2026";
       sendBtn.disabled = true;
@@ -198,7 +215,8 @@ var suggestEditScript = `
         body: JSON.stringify(payload)
       }).then(function (r) { return r.json().catch(function () { return {}; }).then(function (d) { return { ok: r.ok, d: d }; }); })
         .then(function (res) {
-          if (res.ok) {
+          var ok = res.ok && res.d && String(res.d.success) === "true";
+          if (ok) {
             overlay.querySelector(".se-body").style.display = "none";
             overlay.querySelector("#se-done").style.display = "block";
           } else {
