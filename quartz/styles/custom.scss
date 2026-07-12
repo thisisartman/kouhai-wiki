@@ -1,3 +1,65 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+/* IUJ Kouhai Wiki — Typography overrides */
+
+:root {
+  --font-size-base: 1rem;
+  --line-height-base: 1.7;
+  --line-height-heading: 1.25;
+  --letter-spacing-heading: -0.02em;
+}
+
+body {
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: var(--line-height-heading);
+  letter-spacing: var(--letter-spacing-heading);
+  font-weight: 600;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.1rem; }
+
+article {
+  max-width: 72ch;
+}
+
+code, pre {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+table {
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+.sidebar {
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+blockquote, li, .callout, .callout-content {
+  font-family: inherit;
+}
+
+/* Hide tag links on folder listing pages only */
+.page-listing ul.tags {
+  display: none;
+}
+
+/* Date + reading-time is meaningful on articles, not on the landing page
+   or the section folder notes — hide content-meta there. */
+body[data-slug="index"] .content-meta,
+body[data-slug$="/index"] .content-meta {
+  display: none;
+}
