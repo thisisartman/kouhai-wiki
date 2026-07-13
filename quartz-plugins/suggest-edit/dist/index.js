@@ -240,6 +240,17 @@ var suggestEditScript = `
     var btn = document.querySelector(".suggest-edit-btn");
     if (!btn || btn.dataset.wired === "1") return;
     btn.dataset.wired = "1";
+    // Safari clears the page's text selection when a <button> receives a
+    // click, before the click handler runs \u2014 Chrome/Firefox don't do this.
+    // Reading window.getSelection() inside the click handler saw an
+    // already-empty selection there, so "highlight text, then click
+    // Suggest an edit" never pre-filled the passage on Safari. mousedown
+    // fires before Safari's selection-clearing kicks in, so capture it
+    // there instead.
+    var pendingSelection = "";
+    btn.addEventListener("mousedown", function () {
+      pendingSelection = (window.getSelection && window.getSelection().toString()) || "";
+    });
     btn.addEventListener("click", function () {
       var overlay = ensureModal();
       // reset to form view
@@ -252,8 +263,12 @@ var suggestEditScript = `
       overlay.dataset.slug = btn.dataset.slug || "";
       overlay.dataset.url = location.href;
       overlay.querySelector("#se-article").textContent = "On: " + (btn.dataset.article || document.title);
-      var sel = (window.getSelection && window.getSelection().toString()) || "";
+      // Falls back to a fresh read for keyboard activation (Enter/Space on
+      // a focused button never fires mousedown, so pendingSelection stays
+      // empty \u2014 but nothing has cleared the selection in that path either).
+      var sel = pendingSelection || (window.getSelection && window.getSelection().toString()) || "";
       overlay.querySelector("#se-passage").value = sel.trim();
+      pendingSelection = "";
       overlay.classList.add("se-open");
       overlay.querySelector("#se-suggestion").focus();
     });
