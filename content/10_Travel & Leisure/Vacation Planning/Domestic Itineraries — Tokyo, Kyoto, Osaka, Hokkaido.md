@@ -114,8 +114,8 @@ Japan's northernmost main island. Best in summer (lavender fields, cooler temper
 ---
 
 ## Related Articles
-- [[Vacation Planning — How to Plan & Budget]]
-- [[Vacation Planning — How to Book — Flights, Stays, JR Pass]]
+- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
+- [[10_Travel & Leisure/Vacation Planning/How to Book — Flights, Stays, JR Pass|Vacation Planning — How to Book — Flights, Stays, JR Pass]]
 - [[International Travel — SEA & Korea]]
 - [[Shinkansen Strategy]]
 

@@ -62,7 +62,7 @@ IUJ group work surfaces real cultural differences in communication styles, work 
 
 Japanese students at IUJ are often quieter in class settings but highly engaged one-on-one. Some context:
 - Many are experienced professionals returning for graduate study — their insights in class discussions are worth drawing out
-- Language exchange is a genuine mutual interest — most want English practice; you might want Japanese practice. See [[Japanese Language Learning — Phrases, Apps & IUJ Classes]]
+- Language exchange is a genuine mutual interest — most want English practice; you might want Japanese practice. See [[Japanese Language Courses at IUJ]]
 - Direct social invitations work better than open-ended "let's hang out sometime" — suggest a specific activity
 
 ---
@@ -80,7 +80,7 @@ Underused by most students. IUJ professors are accessible in ways that wouldn't 
 - [[Course Registration]]
 - [[Clubs & Student Organizations]]
 - [[Thesis Guide (IR) — Supervisor, Timeline, Tips]]
-- [[Japanese Language Learning — Phrases, Apps & IUJ Classes]]
+- [[Japanese Language Courses at IUJ]]
 - [[Making Friends]]
 
 ---

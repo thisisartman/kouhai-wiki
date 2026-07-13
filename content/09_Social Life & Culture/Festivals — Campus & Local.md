@@ -90,7 +90,7 @@ See [[Seasonal Activities — Skiing, Hanami, Matsuri]] for more detail.
 ## Related Articles
 - [[Seasonal Activities — Skiing, Hanami, Matsuri]]
 - [[Local Attractions — Urasa, Nagaoka, Niigata City]]
-- [[Vacation Planning — How to Book — Flights, Stays, JR Pass]]
+- [[10_Travel & Leisure/Vacation Planning/How to Book — Flights, Stays, JR Pass|Vacation Planning — How to Book — Flights, Stays, JR Pass]]
 - [[Campus Life & Vibe]]
 
 ---

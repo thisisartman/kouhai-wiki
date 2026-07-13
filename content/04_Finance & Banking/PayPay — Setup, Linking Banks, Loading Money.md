@@ -122,7 +122,7 @@ PayPay runs frequent campaigns — up to 20% cashback at participating stores. C
 ## Related Articles
 - [[JP Bank vs Daishi — Comparison & How to Open]]
 - [[SIM & Internet Setup]]
-- [[Useful Apps in Japan]]
+- [[Useful Apps in Japan — Maps, Transit, Translation|Useful Apps in Japan]]
 
 ---
 

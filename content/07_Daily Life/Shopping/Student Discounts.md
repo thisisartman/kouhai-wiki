@@ -82,7 +82,7 @@ Most discounts require one of:
 
 ## Related Articles
 - [[Shinkansen Strategy]]
-- [[Vacation Planning — How to Plan & Budget]]
+- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
 - [[AI for Task Scheduling & Academic Productivity]]
 
 ---

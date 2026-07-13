@@ -96,7 +96,7 @@ See [[OCI Card & Passport Renewal in Japan]] if your passport is expiring.
 ---
 
 ## Related Articles
-- [[Vacation Planning — How to Book — Flights, Stays, JR Pass]]
+- [[How to Book — Flights, Stays, JR Pass|Vacation Planning — How to Book — Flights, Stays, JR Pass]]
 - [[Shinkansen Strategy]]
 - [[Student Discounts]]
 - [[Sending Money Home]]

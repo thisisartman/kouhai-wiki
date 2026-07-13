@@ -83,7 +83,7 @@ For second-years and those finishing their program:
 - Campus looks genuinely stunning in spring
 - Social energy is high — make the most of it
 - Japanese spring festivals (matsuri) begin — see [[Festivals — Campus & Local]]
-- Golden Week (late April – early May) is a travel opportunity — see [[Vacation Planning — How to Plan & Budget]]
+- Golden Week (late April – early May) is a travel opportunity — see [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
 
 ---
 
@@ -102,7 +102,7 @@ Whether continuing for another year or graduating:
 - [[Mental Health Resources]]
 - [[Seasonal Activities — Skiing, Hanami, Matsuri]]
 - [[Festivals — Campus & Local]]
-- [[Vacation Planning — How to Plan & Budget]]
+- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
 
 ---
 

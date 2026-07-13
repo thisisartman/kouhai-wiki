@@ -93,7 +93,7 @@ AI is genuinely useful for Japanese:
 - **DeepL** — better than Google Translate for nuanced translation
 - **ChatGPT / Claude for grammar questions** — more flexible than textbooks for "how would a Japanese person actually say this"
 
-See [[Japanese Language Learning — Phrases, Apps & IUJ Classes]] for dedicated language learning guidance.
+See [[Japanese Language Courses at IUJ]] for dedicated language learning guidance.
 
 ---
 
@@ -108,7 +108,7 @@ When in doubt, cite it or don't use it.
 ---
 
 ## Related Articles
-- [[Japanese Language Learning — Phrases, Apps & IUJ Classes]]
+- [[Japanese Language Courses at IUJ]]
 - [[Useful Apps in Japan — Maps, Transit, Translation]]
 - [[Library & Research Tools]]
 - [[Research Databases & Academic Tools]]
