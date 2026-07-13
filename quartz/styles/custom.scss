@@ -270,20 +270,50 @@ a.internal.alias {
 
 .breadcrumb-element a {
   display: inline-block;
-  /* --lightgray can end up nearly indistinguishable from the page background
-     depending on the active theme palette, so derive contrast directly from
-     --dark instead of trusting a named "light" token to actually be light. */
-  background: color-mix(in srgb, var(--dark) 9%, var(--light));
+  position: relative;
+  /* This is now the border color, not the fill — see ::before below. A
+     plain `border` property draws along the box's own straight sides
+     before clip-path crops it, so it can't trace the diagonal point edges
+     the polygon creates; it rendered as a flat rectangle peeking out from
+     behind the chevron. Using the box's own background as the border
+     color, with a slightly-inset lighter fill layered on top, sidesteps
+     that — the fill's polygon is identical, just 1px smaller, so the
+     1px sliver of border color left showing around it follows the shape
+     exactly. */
+  background: var(--dark);
   color: var(--darkgray);
   font-size: 0.8rem;
   font-weight: 600;
   padding: 0.3rem 1.15rem 0.3rem 1rem;
-  clip-path: polygon(0 0, calc(100% - 9px) 0, 100% 50%, calc(100% - 9px) 100%, 0 100%, 9px 50%);
+  /* Read by ::before below so the fill's outline always matches whichever
+     shape variant (default/first/last) is active on this element, without
+     repeating the polygon a third time. */
+  --crumb-clip: polygon(0 0, calc(100% - 9px) 0, 100% 50%, calc(100% - 9px) 100%, 0 100%, 9px 50%);
+  /* --lightgray can end up nearly indistinguishable from the page
+     background depending on the active theme palette, so derive contrast
+     directly from --dark instead of trusting a named "light" token to
+     actually be light. */
+  --crumb-fill: color-mix(in srgb, var(--dark) 9%, var(--light));
+  clip-path: var(--crumb-clip);
   transition: background 0.15s ease, color 0.15s ease;
 }
 
+.breadcrumb-element a::before {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  background: var(--crumb-fill);
+  clip-path: var(--crumb-clip);
+  /* Negative z-index paints this above the box's own background but below
+     its in-flow text — a positioned descendant with z-index:auto would
+     paint above in-flow text instead and hide it, which is what happened
+     on the first pass here. */
+  z-index: -1;
+  transition: background 0.15s ease;
+}
+
 .breadcrumb-element:first-child a {
-  clip-path: polygon(0 0, calc(100% - 9px) 0, 100% 50%, calc(100% - 9px) 100%, 0 100%);
+  --crumb-clip: polygon(0 0, calc(100% - 9px) 0, 100% 50%, calc(100% - 9px) 100%, 0 100%);
   padding-left: 0.9rem;
 }
 
@@ -292,13 +322,12 @@ a.internal.alias {
 }
 
 .breadcrumb-element:last-child a {
-  background: var(--secondary);
+  --crumb-fill: var(--secondary);
   color: var(--light);
-  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 9px 50%);
 }
 
 .breadcrumb-element a:hover {
-  background: var(--tertiary);
+  --crumb-fill: var(--tertiary);
   color: var(--light);
 }
 
