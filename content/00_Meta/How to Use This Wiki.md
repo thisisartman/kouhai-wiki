@@ -26,19 +26,19 @@ The wiki is divided into numbered sections, roughly in the order you'll need the
 
 | Section | What's In It |
 |---|---|
-| **01_Pre-Arrival** | Visa, packing, money setup before you leave home |
-| **02_Arrival & First Week** | Getting to IUJ, first-week admin checklist, SIM setup |
-| **03_Housing** | Dorm info |
-| **04_Finance & Banking** | Bank accounts, PayPay, part-time work, remittances |
-| **05_Legal & Administrative** | Residence card, city registration, MyNumber, tax, pension |
-| **06_Academics** | Course registration, library, term-by-term advice, thesis |
-| **07_Daily Life** | Food, shopping, transport, laundry, weather, waste disposal |
-| **08_Health & Wellness** | Insurance, clinics, mental health, emergencies |
-| **09_Social Life & Culture** | Making friends, Japanese norms, campus culture, events |
-| **10_Travel & Leisure** | Day trips, skiing, vacation planning, itineraries |
-| **11_IT & Productivity** | Apps, AI tools, printing |
-| **12_IUJ Rules & Facilities** | Gym, campus rules |
-| **13_Country-Specific** | Guides for students from specific countries |
+| **Pre-Arrival** | Visa, packing, money setup before you leave home |
+| **Arrival & First Week** | Getting to IUJ, first-week admin checklist, SIM setup |
+| **Housing** | Dorm info |
+| **Finance & Banking** | Bank accounts, PayPay, part-time work, remittances |
+| **Legal & Administrative** | Residence card, city registration, MyNumber, tax, pension |
+| **Academics** | Course registration, library, term-by-term advice, thesis |
+| **Daily Life** | Food, shopping, transport, laundry, weather, waste disposal |
+| **Health & Wellness** | Insurance, clinics, mental health, emergencies |
+| **Social Life & Culture** | Making friends, Japanese norms, campus culture, events |
+| **Travel & Leisure** | Day trips, skiing, vacation planning, itineraries |
+| **IT & Productivity** | Apps, AI tools, printing |
+| **IUJ Rules & Facilities** | Gym, campus rules |
+| **Country-Specific** | Guides for students from specific countries |
 
 ---
 
@@ -48,7 +48,7 @@ The wiki is divided into numbered sections, roughly in the order you'll need the
 
 **If you just arrived:** [[First Week Checklist]] has everything in the right order. Don't skip the legal steps — they have deadlines.
 
-**If you're looking for something specific:** Use Obsidian's search (Cmd/Ctrl + F or the search sidebar). Every article has tags and a Related Articles section.
+**If you're looking for something specific:** Use the search bar in the sidebar (or press Cmd/Ctrl + K). Every article has tags and a Related Articles section.
 
 ---
 
@@ -80,7 +80,7 @@ Every article on the website has a **✏️ Suggest an edit** button under the t
 - If you highlight text on the page *before* clicking the button, that passage is pulled into the form automatically — no retyping.
 - Describe what should change and why.
 - You'll need to enter your **IUJ email address** (`@iuj.ac.jp`) — this isn't a login, just a way for the maintainer to follow up if needed.
-- Submit, and it goes straight to the maintainer to review and apply. No GitHub account, no git — just describe the change.
+- Submit, and it goes straight to the maintainer to review and apply. No account or technical setup needed.
 
 This is the easiest way to contribute, and it's how the **🗣️ Senior Submissions** blocks (below) get filled in too.
 
@@ -88,7 +88,7 @@ This is the easiest way to contribute, and it's how the **🗣️ Senior Submiss
 
 ## Wikilinks
 
-Articles link to each other using `[[Article Title]]` format. In Obsidian, clicking a link opens that article directly. If a link appears in grey/red, the article hasn't been written yet — it's planned but pending.
+Articles link to each other — click any highlighted link to jump straight to that article. If a link appears in grey/red, the article hasn't been written yet — it's planned but pending.
 
 ---
 
