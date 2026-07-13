@@ -138,6 +138,12 @@ plugins:
     options:
       enableSiteMap: true
       enableRSS: true
+      # Auto-generated tag archive pages (e.g. /tags/visa) have no authored
+      # content, only a title — they were showing up in search results as
+      # bare, description-less entries indistinguishable from a broken
+      # result. Excluding empty files from the index keeps search results
+      # to actual articles.
+      includeEmptyFiles: false
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
