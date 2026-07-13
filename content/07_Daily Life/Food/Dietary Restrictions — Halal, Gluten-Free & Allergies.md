@@ -127,7 +127,6 @@ Japan's allergy disclosure at restaurants is inconsistent — unlike packaged fo
 ## Related Articles
 - [[Vegetarian & Vegan in Rural Niigata]]
 - [[Cooking Basics & Cheap Meal Prep]]
-- [[Indian Food Sources]]
 - [[Local Grocery Options]]
 - [[Campus Dining]]
 

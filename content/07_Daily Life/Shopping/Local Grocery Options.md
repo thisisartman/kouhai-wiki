@@ -105,7 +105,6 @@ For a full guide to conbini food, see [[Convenience Store Food Guide]].
 ## Related Articles
 - [[Cooking Basics & Cheap Meal Prep]]
 - [[Convenience Store Food Guide]]
-- [[Indian Food Sources]]
 - [[Dietary Restrictions — Halal, Gluten-Free & Allergies]]
 - [[100 Yen & Recycle Shops — Budget Furnishing|100 Yen & Recycle Shops]]
 - [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]]

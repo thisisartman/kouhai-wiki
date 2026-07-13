@@ -64,7 +64,7 @@ Japan's second-largest e-commerce platform. More complex than Amazon but has ite
 
 **Best for:** Affordable clothing, basics, accessories.
 
-Shein ships from China to Japan, usually in 7–14 days. Sizing runs small relative to Indian or Western sizing — check measurements carefully, not just size labels.
+Shein ships from China to Japan, usually in 7–14 days. Sizing runs small relative to most international sizing — check measurements carefully, not just size labels.
 
 **Practical use at IUJ:**
 - Cheap basics (thermals, casual tops, loungewear)

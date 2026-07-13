@@ -104,8 +104,6 @@ Japan has excellent, cheap versions of these — buy locally:
 | Instant noodles / snacks from home | For the first week and homesickness |
 | Tiffin/reusable containers | Japan has good bento boxes but bringing one is fine |
 
-> 💡 If you're from India: bring a basic spice kit. Turmeric, cumin, coriander, red chili powder, and garam masala are hard to find in Nagaoka. See [[Indian Food Sources]].
-
 ---
 
 ## Miscellaneous
@@ -144,7 +142,6 @@ Japan has excellent, cheap versions of these — buy locally:
 - [[Airport to IUJ Routes]]
 - [[SIM & Internet Setup]]
 - [[Seasons & Weather — Month by Month]]
-- [[Indian Food Sources]]
 
 ---
 

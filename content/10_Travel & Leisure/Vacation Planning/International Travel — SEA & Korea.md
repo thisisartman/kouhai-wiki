@@ -20,6 +20,8 @@ Japan's position in East Asia makes it an excellent base for international trave
 
 **Passport validity:** Most countries require 6 months of passport validity beyond your intended travel dates. Check this before booking.
 
+**Visa rules change frequently.** Before booking any international trip, verify current entry requirements at the destination country's official immigration website — don't rely solely on this article's visa notes below.
+
 ---
 
 ## South Korea (韓国)
@@ -29,7 +31,7 @@ Japan's position in East Asia makes it an excellent base for international trave
 
 ### Visa
 - **Most nationalities:** Visa-free or e-visa (K-ETA) for short stays
-- **Indian passport holders:** Currently require a visa — apply online (K-ETA or visa application) well in advance. *Verify current policy before booking — this has been subject to change.*
+- Requirements vary by passport — some nationalities need to apply for a visa in advance even where most don't. Verify your specific requirement before booking, as policy has changed in recent years.
 
 ### Seoul (서울) — 3–5 Days
 
@@ -53,7 +55,7 @@ Japan's position in East Asia makes it an excellent base for international trave
 **Budget airlines:** Air Asia, Scoot, Thai AirAsia from Narita/Haneda
 
 ### Visa
-- **Most nationalities (including India):** Visa-free for 30 days (verify current rules — Thailand changed its policy in recent years). Some nationalities get 60 days.
+- **Most nationalities:** Visa-free for 30 days (verify current rules — Thailand changed its policy in recent years). Some nationalities get 60 days.
 
 ### Bangkok (บางกอก) — 3–5 Days
 
@@ -76,8 +78,7 @@ Japan's position in East Asia makes it an excellent base for international trave
 **Airlines:** Air Asia, Scoot, Singapore Airlines (for direct)
 
 ### Visa
-- **Most nationalities:** Visa on arrival at Ngurah Rai International Airport (~¥4,000 equivalent)
-- **Indian passport holders:** Visa on arrival available (verify current rules before travel)
+- **Most nationalities:** Visa on arrival at Ngurah Rai International Airport (~¥4,000 equivalent, verify current rules before travel)
 
 ### Bali — 5–7 Days
 
@@ -99,7 +100,7 @@ Japan's position in East Asia makes it an excellent base for international trave
 
 ### Visa
 - **Most nationalities:** 90-day visa-free
-- **Indian passport holders:** Visa required in advance (apply online at Taiwan BOCA website)
+- Some nationalities need to apply in advance (via the Taiwan BOCA website) even where most are visa-free — verify your specific requirement before booking
 
 ### Taipei (台北) — 3–4 Days
 
@@ -122,7 +123,6 @@ Japan's position in East Asia makes it an excellent base for international trave
 
 ### Visa
 - **Most nationalities:** Visa-free 30–90 days
-- **Indian passport holders:** Visa-free for 30 days
 
 ### Singapore — 3–4 Days
 
@@ -138,15 +138,6 @@ Japan's position in East Asia makes it an excellent base for international trave
 
 ---
 
-## Visa Note for Indian Passport Holders
-
-Visa rules change frequently. Before booking any international trip, verify current entry requirements at:
-- [India's Ministry of External Affairs passport portal](https://passportindia.gov.in)
-- Destination country's official immigration website
-- [[OCI Card & Passport Renewal in Japan]] if your passport is near expiry
-
----
-
 ## Related Articles
 - [[Vacation Planning — How to Plan & Budget]]
 - [[Vacation Planning — How to Book — Flights, Stays, JR Pass]]
@@ -159,5 +150,5 @@ Visa rules change frequently. Before booking any international trip, verify curr
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
 - International trip you took from IUJ — destination, cost, and highlights
-- Visa experience for Indian passport holders to any of these destinations
+- Visa experience for your passport/nationality to any of these destinations
 - Destinations not listed above that are worth adding

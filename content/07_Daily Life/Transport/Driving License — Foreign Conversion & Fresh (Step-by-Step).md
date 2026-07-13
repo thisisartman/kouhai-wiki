@@ -101,7 +101,7 @@ Bring all documents. Arrive early — centres process applicants in batches and 
 
 - **IDP holders:** Start the conversion process before your IDP's 1-year mark — don't wait until the last minute
 - **Fresh licence:** If you want one before winter (for car access), start at the driving school in September or October of your first term
-- **Indian students:** India is on the simplified conversion track; JAF translation + knowledge test + eyesight test. Usually completed in one day.
+- **Simplified conversion track:** Some countries qualify for a simplified process — JAF translation + knowledge test + eyesight test, often completed in one day. Check whether your home country is on the list before booking your appointment.
 
 ---
 

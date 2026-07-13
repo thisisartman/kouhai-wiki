@@ -34,7 +34,7 @@ IUJ's student body is small and international — clubs are the fastest way to b
 
 ### Sports & Fitness
 - **Football (Soccer) Club**
-- **Cricket Club** — active Indian/South Asian presence
+- **Cricket Club**
 - **Basketball Club**
 - **Badminton Club**
 - **Table Tennis**

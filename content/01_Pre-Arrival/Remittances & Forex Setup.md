@@ -47,9 +47,7 @@ Wise is the best general-purpose tool for international students in Japan. It le
 
 ### 2. Forex Card / Travel Card (Backup)
 
-If Wise isn't available or set up in time, a multi-currency forex card from your home bank is a reasonable backup.
-
-**Indian students:** HDFC Multi-Currency Forex Card, ICICI Travel Card, or Niyo Global card are popular options. Load them with JPY before departure.
+If Wise isn't available or set up in time, a multi-currency forex card from your home bank is a reasonable backup — check what your home bank offers and load it with JPY before departure.
 
 **Pros:** Locked-in exchange rate, widely accepted at Japanese ATMs and shops
 **Cons:** Typically higher fees than Wise; loading rates vary
@@ -136,5 +134,5 @@ For full details on ongoing remittances, see [[Sending Money Home]].
 
 - Which remittance services worked best for your home country
 - Wise setup tips or gotchas specific to certain countries
-- Best forex cards for Indian students
+- Best forex cards for your home country
 - How much cash you actually needed in the first week
