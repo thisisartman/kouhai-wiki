@@ -202,6 +202,14 @@ a.internal.alias {
   overflow: hidden;
 }
 
+/* Result cards sat flush against the panel's own rounded edge with no
+   inset — cramped against a border that's supposed to be framing them.
+   A small breathing margin on the container gives every card room on
+   all sides without touching each card's own internal padding. */
+.search > .search-container > .search-space > .search-layout > .results-container {
+  padding: 0.5rem;
+}
+
 /* Desktop's collapsed explorer shrinks to a fixed 1.2rem flex-basis with
    overflow-y: hidden, and that box is shorter than the toggle button itself
    (~30px), so collapsing clipped off the button's own bottom edge. Rather

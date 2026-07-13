@@ -37,18 +37,25 @@ const homeSearchCss = `
   flex-direction: column;
   border: 2px solid var(--darkgray);
   border-radius: 10px;
+  padding: 0.4rem;
   overflow: hidden;
 }
 .home-search-results.hsr-open { display: flex; }
-.home-search-result {
+/* Each result is rendered as a whole-card <a>, which Quartz's generic
+   internal-link styling (a small "pill" highlight meant for inline
+   wikilink mentions inside body text) also applies to as a full-card
+   background — same specificity as that rule, so this needs the extra
+   .home-search-results ancestor to reliably win. */
+.home-search-results .home-search-result {
   display: block;
   padding: 0.65rem 1rem;
   text-decoration: none;
+  background-color: var(--light);
   border-bottom: 1px solid var(--lightgray);
 }
 .home-search-result:last-child { border-bottom: none; }
-.home-search-result:hover {
-  background: var(--lightgray);
+.home-search-results .home-search-result:hover {
+  background-color: var(--lightgray);
 }
 .home-search-result .hsr-title {
   font-family: var(--bodyFont);
