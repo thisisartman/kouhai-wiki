@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🪪 Driving License — Foreign Conversion & Fresh (Step-by-Step)
-
 If you want to drive in Japan beyond what your IDP covers (or if your country's IDP isn't valid in Japan), you need a Japanese driving licence. This article covers both the conversion process and getting a fresh licence from scratch.
 
 ---

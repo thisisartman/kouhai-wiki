@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 📬 Mail & Packages
-
 Japan's postal and courier systems are excellent — reliable, on-time, and damage-free. Understanding how they work at IUJ makes receiving packages and sending mail abroad straightforward.
 
 ---

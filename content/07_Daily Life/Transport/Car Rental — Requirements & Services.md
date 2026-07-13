@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🚗 Car Rental — Requirements & Services
-
 Car rental is the best option for day trips, grocery runs to Nagaoka, and ski trips when you don't own a car. The process is straightforward if you have the right licence.
 
 ---

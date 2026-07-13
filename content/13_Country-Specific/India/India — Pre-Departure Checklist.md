@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🇮🇳 India: Pre-Departure Checklist
-
 India-specific items to sort out before you leave. These are layered on top of the general [[Visa & Documentation]] and [[Packing List]] checklists.
 
 ---

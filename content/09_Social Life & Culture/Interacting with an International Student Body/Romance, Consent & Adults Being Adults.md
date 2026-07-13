@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# ❤️ Romance, Consent & Adults Being Adults
-
 People fall for each other at IUJ. Sometimes dramatically. The campus is small, the social intensity is high, and two years is a long time. This article isn't a warning — it's practical information for adults navigating relationships in a cross-cultural, small-community environment.
 
 ---

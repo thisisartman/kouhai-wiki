@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🤝 Making Friends
-
 IUJ has ~300 students from 40+ countries in a small campus in rural Japan. The conditions for building meaningful connections are unusually good — if you engage with them early.
 
 ---

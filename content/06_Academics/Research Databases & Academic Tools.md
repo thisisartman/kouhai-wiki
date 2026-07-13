@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2025
 ---
 
-# 🔬 Research Databases & Academic Tools
-
 A practical toolkit for graduate-level research at IUJ — databases, writing tools, and productivity software worth knowing before you start your thesis or first major paper.
 
 > ⚠️ IUJ database subscriptions change annually. Cross-reference this list with the current IUJ Library portal.

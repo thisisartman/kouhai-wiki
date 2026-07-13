@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# ✈️ International Travel — SEA & Korea
-
 Japan's position in East Asia makes it an excellent base for international travel. During winter and spring breaks, many IUJ students make regional trips. This article covers the most common destinations and their visa situation.
 
 ---

@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2026-05-29
 ---
 
-# 👷 Part-Time Work — Permits & Visa Rules
-
 Working part-time is allowed on a student visa in Japan, but within strict legal limits. Violating them risks your visa status. Know the rules before you start.
 
 ---

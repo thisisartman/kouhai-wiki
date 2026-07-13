@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🌍 Inclusivity & Sensitivity
-
 IUJ brings together people from countries that are, in some cases, in active geopolitical conflict. People with deeply different religious practices, dietary restrictions, political histories, and social norms share a 300-person campus for two years. This creates remarkable richness — and occasional friction. Navigating it well is a skill worth developing.
 
 ---

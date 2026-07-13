@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 🍳 Cooking Basics & Cheap Meal Prep
-
 Many students arrive at IUJ having never cooked seriously. Rural Niigata — with limited delivery options and a campus cafeteria that gets old fast — will change that. Cooking is one of the best investments of time you can make here: cheaper, healthier, and genuinely social.
 
 ---

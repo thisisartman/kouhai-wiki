@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2025
 ---
 
-# 🛵 Food Delivery — What Works Near Urasa
-
 Food delivery in rural Niigata is patchy at best. This is not Tokyo. Manage expectations, know what actually works, and have backup plans.
 
 ---

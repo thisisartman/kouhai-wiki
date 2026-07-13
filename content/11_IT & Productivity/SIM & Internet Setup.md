@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-29
 ---
 
-# 📱 SIM & Internet Setup
-
 Getting online is your first real task after landing. Without it, you can't navigate, contact IUJ, or do anything else on the first week checklist.
 
 ---

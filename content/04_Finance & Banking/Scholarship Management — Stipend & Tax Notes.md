@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2026-05-29
 ---
 
-# 💴 Scholarship Management — Stipend & Tax Notes
-
 If you're on a scholarship that includes a monthly stipend, here's how the payment system works and what to watch for.
 
 ---

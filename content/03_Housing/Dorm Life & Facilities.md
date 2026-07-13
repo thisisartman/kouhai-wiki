@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2026-05-29
 ---
 
-# 🏠 Dorm Life & Facilities
-
 IUJ's dormitories are on-campus and within walking distance of everything. For most students, dorm life is the default for at least Year 1. This article covers what to expect, what's available, and how second-year housing works.
 
 ---

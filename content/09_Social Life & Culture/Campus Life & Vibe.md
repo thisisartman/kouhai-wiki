@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2026-05-28
 ---
 
-# 🏫 Campus Life & Vibe
-
 IUJ is unlike most universities. 300 students, 40+ nationalities, one campus, rural Japan. The intensity of the environment shapes the entire experience — understanding what you're walking into helps you make the most of it.
 
 > 🔶 This article benefits significantly from first-person accounts. The structure below reflects general patterns; seniors can add the texture that makes it real.

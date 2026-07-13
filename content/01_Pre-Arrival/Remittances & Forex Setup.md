@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 💸 Remittances & Forex Setup
-
 Setting up your money systems before you leave is one of the highest-ROI things you can do pre-arrival. A bad remittance setup costs you real money every month. A good one is nearly invisible.
 
 This article covers what to set up before you leave. For ongoing banking in Japan, see [[JP Bank vs Daishi — Comparison & How to Open]].

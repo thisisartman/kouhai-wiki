@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🧠 Mental Health Resources
-
 IUJ is a high-pressure environment in a rural, isolated setting with limited familiar comforts. Mental health challenges — loneliness, academic stress, culture shock, anxiety, seasonal depression — are common and nothing to be ashamed of. This article is about knowing what's available before you need it.
 
 ---

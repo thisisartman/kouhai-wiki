@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 🍽️ Dietary Restrictions — Halal, Gluten-Free & Allergies
-
 Japan is not a country that naturally accommodates dietary restrictions. Awareness is growing — especially in cities — but rural Niigata lags behind. This article is for anyone who needs to navigate halal requirements, gluten intolerance, or food allergies at IUJ.
 
 ---

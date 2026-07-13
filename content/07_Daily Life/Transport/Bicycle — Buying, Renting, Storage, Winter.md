@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🚲 Bicycle — Buying, Renting, Storage, Winter
-
 A bicycle is the single best quality-of-life investment you can make at IUJ. Beisia, the station, and local spots that are impractical on foot become routine. It's also how you stay sane in a rural environment with limited public transport.
 
 The caveat: Niigata winter makes cycling dangerous and impractical for roughly 3–4 months. Plan for that.

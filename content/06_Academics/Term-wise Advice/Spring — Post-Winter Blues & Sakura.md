@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2025
 ---
 
-# 🌸 Spring Term — Post-Winter Blues & Sakura
-
 Spring is IUJ at its most beautiful and its most bittersweet. The snow melts, the campus turns green, the sakura bloom — and it's all over in days. Graduation approaches. People leave. The year compresses into something you're not ready to finish.
 
 Academically, Spring is manageable. Emotionally, it's the most complex term.

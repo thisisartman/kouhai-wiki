@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 💳 PayPay — Setup, Linking Banks & Loading Money
-
 PayPay is Japan's dominant QR payment app. Accepted at convenience stores, supermarkets, restaurants, vending machines, and most small shops. Getting it working as a foreigner has a few friction points — this guide covers all of them.
 
 ---

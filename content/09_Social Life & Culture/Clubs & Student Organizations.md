@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2025
 ---
 
-# 🎯 Clubs & Student Organizations
-
 IUJ's student body is small and international — clubs are the fastest way to build a real social network and find people outside your immediate program cohort.
 
 > 🔶 This article needs club list verification and senior input. The list below is a starting point — update with current active clubs each year.

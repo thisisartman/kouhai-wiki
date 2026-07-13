@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2025
 ---
 
-# 👥 Study Groups & Peer Culture
-
 IUJ's small cohort size is one of its biggest academic advantages — if you use it right. The peer learning environment here is genuinely stronger than larger universities, but it requires you to actively participate.
 
 ---

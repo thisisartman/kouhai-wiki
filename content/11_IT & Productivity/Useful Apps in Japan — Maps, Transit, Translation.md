@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 📱 Useful Apps in Japan — Maps, Transit, Translation
-
 A short list of apps that actually get used. Japan has its own app ecosystem — some of these are Japan-specific and make daily life significantly easier.
 
 ---

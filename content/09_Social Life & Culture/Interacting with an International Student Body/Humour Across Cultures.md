@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 😄 Humour Across Cultures
-
 Humour is one of the fastest ways to connect with people — and one of the fastest ways to accidentally cause offence in a cross-cultural environment. Understanding why some jokes land and others don't isn't about walking on eggshells. It's about being genuinely funny instead of accidentally clueless.
 
 ---

@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2026-05-28
 ---
 
-# 🚨 Emergency Contacts & Procedures
-
 > ⚠️ Verify IUJ-specific emergency contacts against current student handbook or IUJ student affairs. Numbers and procedures change. Save the key contacts in your phone on arrival day — before you need them.
 
 ---

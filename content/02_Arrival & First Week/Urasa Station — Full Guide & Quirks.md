@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 🚉 Urasa Station — Full Guide & Quirks
-
 Urasa (浦佐) is a Shinkansen stop in the middle of rural Niigata. It's small, quiet, and has almost no English signage. Once you know the quirks, it's easy — but the first time can be disorienting.
 
 ---

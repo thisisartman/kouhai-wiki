@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 📖 How to Use This Wiki
-
 This wiki is written by IUJ students, for incoming IUJ students (Kouhais). It covers everything from getting your visa to surviving a Niigata winter — practical, honest, and updated by people who've actually been through it.
 
 ---

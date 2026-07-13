@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2026-05-29
 ---
 
-# 💴 Part-Time Work — Income & Finding Jobs
-
 Before anything else: make sure you're legally cleared to work. See [[Part-Time Work — Permits & Visa Rules]] for the 28-hour rule and residence card requirements.
 
 ---

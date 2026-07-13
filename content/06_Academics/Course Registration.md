@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2025
 ---
 
-# 📚 Course Registration
-
 > ⚠️ This article is based on general IUJ program information. Verify all deadlines, portal steps, and specific procedures against the current IUJ Student Handbook and academic calendar before each term.
 
 ---

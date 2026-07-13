@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🏪 100 Yen & Recycle Shops — Budget Furnishing
-
 You arrive with luggage, not furniture. Your dorm room has the basics but not much else. 100 yen shops and recycle shops are how IUJ students turn a bare room into a liveable space for almost no money.
 
 ---

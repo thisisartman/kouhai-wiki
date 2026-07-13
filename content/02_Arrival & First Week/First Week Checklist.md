@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# ✅ First Week Checklist
-
 The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelmed, and trying to do ten things at once. This checklist gets it done in the right order so nothing falls through the cracks.
 
 > ⚠️ Some of these steps have deadlines tied to your visa or scholarship. Don't delay.

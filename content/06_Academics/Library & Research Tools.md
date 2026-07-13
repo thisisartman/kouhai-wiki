@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2025
 ---
 
-# 📖 Library & Research Tools
-
 > ⚠️ Specific database subscriptions, access URLs, and borrowing rules change. Verify current access against the IUJ Library website and orientation materials.
 
 ---

@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 🥦 Vegetarian & Vegan in Rural Niigata
-
 Being vegetarian or vegan in Japan is manageable — but rural Niigata is harder than Tokyo. The challenge isn't that Japanese food is inherently meat-heavy; it's that **dashi (fish stock) is invisible and everywhere**. With some knowledge and a few strategies, you can eat well here.
 
 ---

@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🗾 Domestic Itineraries — Tokyo, Kyoto, Osaka, Hokkaido
-
 Japan is one of the world's best countries to travel within. These are starter itineraries for the most common IUJ student trips — adjust based on your interests and budget.
 
 ---

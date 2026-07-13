@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2025
 ---
 
-# 🇮🇳 Indian Food Sources
-
 Finding Indian ingredients in rural Niigata takes effort but is doable through a combination of local shops, Nagaoka stores, and online delivery. This article maps what exists — **verify and update with current information from recent seniors**.
 
 ---
