@@ -202,6 +202,51 @@ a.internal.alias {
   overflow: hidden;
 }
 
+/* Desktop's collapsed explorer shrinks to a fixed 1.2rem flex-basis with
+   overflow-y: hidden, and that box is shorter than the toggle button itself
+   (~30px), so collapsing clipped off the button's own bottom edge. Rather
+   than patch that height mismatch, remove the ability to collapse the
+   desktop sidebar at all: hide the fold chevron and make the toggle inert,
+   leaving the "Explorer" label as a plain heading. */
+.title-button.explorer-toggle.desktop-explorer {
+  pointer-events: none;
+  cursor: default;
+}
+.title-button.explorer-toggle.desktop-explorer .fold {
+  display: none;
+}
+
+/* Mobile hamburger → X. The plugin's markup is a fixed 3-<line> "menu" SVG
+   with no open/closed variant, so morph it with pure CSS instead of touching
+   the (gitignored, upstream-reset) plugin source: fade the middle line,
+   rotate the top/bottom lines 45°/-45° and slide them to the vertical
+   center to form the X. Ancestor state comes from the existing
+   .explorer.collapsed class the plugin already toggles — collapsed = closed
+   on mobile, so :not(.collapsed) = open. Moving the button itself from
+   left to right on open uses the same state selector. */
+@media all and (max-width: 800px) {
+  .explorer .mobile-explorer .lucide-menu line {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    transform-box: fill-box;
+    transform-origin: center;
+  }
+  .explorer:not(.collapsed) .mobile-explorer .lucide-menu line:nth-child(1) {
+    opacity: 0;
+  }
+  .explorer:not(.collapsed) .mobile-explorer .lucide-menu line:nth-child(2) {
+    transform: translateY(6px) rotate(45deg);
+  }
+  .explorer:not(.collapsed) .mobile-explorer .lucide-menu line:nth-child(3) {
+    transform: translateY(-6px) rotate(-45deg);
+  }
+  .explorer:not(.collapsed) .mobile-explorer {
+    position: fixed;
+    top: 16px;
+    left: auto;
+    right: 16px;
+  }
+}
+
 /* Breadcrumbs — interlocking chevron blocks instead of plain "A > B > C"
    text. Each crumb is a pointed ribbon segment; segments overlap slightly so
    the point of one nests into the notch of the next. */
@@ -259,6 +304,21 @@ a.internal.alias {
 
 .breadcrumb-element p {
   display: none;
+}
+
+/* On every SPA navigation the explorer's fresh server-rendered markup
+   briefly renders uncollapsed (no "collapsed" class in the raw HTML at
+   all) before its own script re-collapses it, and that flip animates
+   through these same transitions — visible as the mobile nav flashing
+   open and springing shut on every page change. The paired JS in
+   close-nav-on-outside-tap stamps this attribute onto <html> for a beat
+   around each navigation; muting the transitions during that window
+   turns the flip instant, so there's nothing left to animate. */
+html[data-nav-transitioning] .explorer,
+html[data-nav-transitioning] .explorer-content,
+html[data-nav-transitioning] .explorer .fold,
+html[data-nav-transitioning] .page > #quartz-body > * {
+  transition: none !important;
 }
 
 /* Mobile explorer — the theme's default is a bare full-bleed flat-color

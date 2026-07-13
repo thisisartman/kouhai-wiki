@@ -1,0 +1,81 @@
+{
+  "name": "@kouhai-wiki/close-nav-on-outside-tap",
+  "version": "0.1.0",
+  "description": "Closes the mobile explorer (hamburger) nav when the user taps outside it.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Kouhai Wiki",
+  "keywords": [
+    "quartz",
+    "quartz-plugin",
+    "explorer",
+    "component"
+  ],
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./types": {
+      "types": "./dist/types.d.ts",
+      "import": "./dist/types.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "typecheck": "tsc --noEmit"
+  },
+  "peerDependencies": {
+    "preact": "^10.0.0"
+  },
+  "peerDependenciesMeta": {
+    "preact": {
+      "optional": false
+    }
+  },
+  "dependencies": {
+    "@quartz-community/types": "github:quartz-community/types"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "preact": "^10.28.2",
+    "sass": "^1.97.3",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  },
+  "quartz": {
+    "name": "close-nav-on-outside-tap",
+    "displayName": "Close nav on outside tap",
+    "category": "component",
+    "version": "0.1.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 5,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "CloseNavOnOutsideTap": {
+        "displayName": "Close nav on outside tap",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 5
+      }
+    }
+  },
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10.9.2"
+  }
+}
