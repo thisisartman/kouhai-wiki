@@ -188,9 +188,18 @@ a.internal.alias {
    that win over the search plugin's own opaque background regardless of
    specificity, so the results panel stayed see-through and page content
    bled through underneath. Unlayered rules always beat layered ones, so
-   reasserting it here (no !important needed) restores it. */
+   reasserting it here (no !important needed) restores it.
+
+   Same theme layer also overrides .search-layout's radius to 12px (vs the
+   plugin's 7px on this shared selector) without touching the input, so the
+   two boxes' corners no longer matched. Pin both back to one radius. */
 .search > .search-container > .search-space > *:not(.ghost-text):not(.tag-suggestions) {
-  background: var(--light);
+  background: color-mix(in srgb, var(--light) 90%, transparent);
+  border-radius: 7px;
+  /* The inner results/preview containers scroll with their own smaller
+     border-radius flush against this box's edge, so their scrollbar poked
+     past this box's corner rounding. Clip to this box's own radius instead. */
+  overflow: hidden;
 }
 
 /* Breadcrumbs — interlocking chevron blocks instead of plain "A > B > C"
