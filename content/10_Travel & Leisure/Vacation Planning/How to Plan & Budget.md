@@ -91,8 +91,7 @@ Japanese residents (on student visa) can travel internationally without losing t
 - Confirm your re-entry permit is valid (多重入国許可, or single re-entry permit)
 - If you leave Japan and your residence card or status has issues, re-entry can be refused
 - Some destinations require separate visas — check before booking
-
-**For Indian students:** South Korea, Thailand, Indonesia, and several other Southeast Asian countries now offer visa-free or visa-on-arrival entry for Indian passport holders. Verify current status before travelling — policies change.
+- Visa-free and visa-on-arrival access varies significantly by passport — see [[International Travel — SEA & Korea]] for country-by-country notes on popular destinations
 
 See [[OCI Card & Passport Renewal in Japan]] if your passport is expiring.
 

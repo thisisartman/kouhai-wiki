@@ -54,11 +54,6 @@ IUJ's small size means informal peer support networks form naturally. Talk to se
 - **Crisis line (Japanese):** 0120-783-556 (free, 24/7)
 - **English helpline:** 03-5774-0992 (first Sunday of each month, 4pm–9pm)
 
-### iCall (India-based, online)
-For Indian students who prefer support in a culturally familiar context:
-- [icallhelpline.org](https://icallhelpline.org)
-- Available online; sliding-scale fees
-
 ### Online Therapy
 Several services offer English-language therapy accessible from Japan:
 - **BetterHelp** — subscription-based; widely used internationally

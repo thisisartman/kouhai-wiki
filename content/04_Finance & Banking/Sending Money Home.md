@@ -41,19 +41,6 @@ Wise (formerly TransferWise) consistently offers the best exchange rates with tr
 
 ---
 
-## SBI Remit *(Best for India)*
-
-SBI Remit has a partnership with India's SBI (State Bank of India) and offers competitive INR rates.
-
-1. Download SBI Remit app
-2. Register with Japanese residence details
-3. Link your JP Bank account
-4. Transfer directly to Indian bank account
-
-> 💡 Same-day transfers to India are possible before the cut-off time (check their website). Good for emergencies.
-
----
-
 ## Remitly
 
 - Good for first-time users — promotional rates on first transfer

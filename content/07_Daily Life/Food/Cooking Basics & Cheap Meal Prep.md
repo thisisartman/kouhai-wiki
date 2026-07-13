@@ -99,7 +99,6 @@ Cook instant ramen → add an egg, frozen vegetables, and a dash of sesame oil. 
 - Group cooking nights are common and genuinely fun at IUJ
 - Potluck-style "bring a dish from your country" events are a great way to share culture
 - Sharing ingredients with dorm neighbors reduces waste and costs — especially useful for things like a whole cabbage or large pack of chicken
-- See [[Indian Food Sources]] for sourcing Indian spices and ingredients for cooking
 
 ---
 
@@ -108,7 +107,6 @@ Cook instant ramen → add an egg, frozen vegetables, and a dash of sesame oil. 
 - [[Campus Dining]]
 - [[Vegetarian & Vegan in Rural Niigata]]
 - [[Dietary Restrictions — Halal, Gluten-Free & Allergies]]
-- [[Indian Food Sources]]
 - [[100 Yen & Recycle Shops — Budget Furnishing]]
 
 ---

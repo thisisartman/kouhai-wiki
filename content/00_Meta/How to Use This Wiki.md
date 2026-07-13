@@ -44,7 +44,7 @@ The wiki is divided into numbered sections, roughly in the order you'll need the
 
 ## Where to Start
 
-**If you haven't arrived yet:** Start with [[Visa & Documentation]], then [[Packing List]] and [[Remittances & Forex Setup]]. If you're Indian, [[India — Pre-Departure Checklist]] has country-specific items.
+**If you haven't arrived yet:** Start with [[Visa & Documentation]], then [[Packing List]] and [[Remittances & Forex Setup]]. Check [[Country-Specific]] for guides tailored to your country.
 
 **If you just arrived:** [[First Week Checklist]] has everything in the right order. Don't skip the legal steps — they have deadlines.
 
