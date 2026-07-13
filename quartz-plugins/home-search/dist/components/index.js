@@ -39,7 +39,11 @@ var homeSearchCss = `
   font-size: 1.1rem;
   color: var(--dark);
   background: var(--light);
-  border: 2px solid var(--darkgray);
+  /* Matches the 1px/--lightgray convention used everywhere else on the
+     site (folder cards, suggest-edit form fields) \u2014 this was the one
+     outlier at 2px/--darkgray, standing out heavier than intended next
+     to everything around it. */
+  border: 1px solid var(--lightgray);
   border-radius: 10px;
   padding: 0.9rem 1.2rem;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
@@ -52,7 +56,11 @@ var homeSearchCss = `
   margin-top: 0.6rem;
   display: none;
   flex-direction: column;
-  border: 2px solid var(--darkgray);
+  /* Matches the 1px/--lightgray convention used everywhere else on the
+     site (folder cards, suggest-edit form fields) \u2014 this was the one
+     outlier at 2px/--darkgray, standing out heavier than intended next
+     to everything around it. */
+  border: 1px solid var(--lightgray);
   border-radius: 10px;
   padding: 0.4rem;
   overflow: hidden;

@@ -32,6 +32,31 @@ article {
   max-width: 72ch;
 }
 
+/* Site title/logo — page-title plugin renders plain text with no image.
+   Layer the existing favicon source in via ::before rather than an <img>,
+   since the plugin's own markup (gitignored, third-party) can't be
+   touched directly. Also sized down generally — 1.75rem read oversized
+   next to the rest of the header. */
+.page-title {
+  font-size: 1.35rem !important;
+}
+.page-title a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.page-title a::before {
+  content: "";
+  display: inline-block;
+  width: 1.6em;
+  height: 1.6em;
+  flex-shrink: 0;
+  background-image: url("./static/icon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 code, pre {
   font-size: 0.875rem;
   line-height: 1.6;
@@ -356,6 +381,27 @@ html[data-nav-transitioning] .explorer-content,
 html[data-nav-transitioning] .explorer .fold,
 html[data-nav-transitioning] .page > #quartz-body > * {
   transition: none !important;
+}
+
+/* The Obsidian-theme snapshot layer hides .page-title entirely below the
+   800px breakpoint — a convention from Obsidian's own mobile app, which
+   has its own native title bar and doesn't need an in-page one. We don't
+   have a native shell, so this left our site with no title/logo anywhere
+   in the mobile header at all (just hamburger, search, dark mode). */
+@media #{$mobile} {
+  .page-title {
+    display: block !important;
+    font-size: 1.1rem !important;
+    /* Explorer/hamburger already carries order:-1 from its own plugin CSS
+       — leaving page-title at the default order:0 puts it right after,
+       so the header reads hamburger, then title, then search/dark mode
+       (the conventional mobile layout), instead of title-before-hamburger. */
+  }
+  .page-title a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
 }
 
 /* Mobile explorer — the theme's default is a bare full-bleed flat-color
