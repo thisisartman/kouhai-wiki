@@ -103,7 +103,7 @@ Your Residence Card expires when your visa status expires (usually tied to your 
 ## Related Articles
 - [[Municipal Registration — Minami-Uonuma City Office]]
 - [[My Number Card — How to Get It & Why]]
-- [[Part-Time Work — Rules & Finding Jobs]]
+- [[Part-Time Work — Permits & Visa Rules]] / [[Part-Time Work — Income & Finding Jobs]]
 - [[First Week Checklist]]
 
 ---

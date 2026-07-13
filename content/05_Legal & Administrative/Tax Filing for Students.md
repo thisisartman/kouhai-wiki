@@ -114,7 +114,7 @@ These reduce your taxable income:
 
 ## Related Articles
 - [[My Number Card — How to Get It & Why]]
-- [[Part-Time Work — Rules & Finding Jobs]]
+- [[Part-Time Work — Permits & Visa Rules]] / [[Part-Time Work — Income & Finding Jobs]]
 - [[Scholarship Management — Stipend & Tax Notes]]
 - [[JP Bank vs Daishi — Comparison & How to Open]]
 

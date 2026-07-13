@@ -18,7 +18,7 @@ IUJ's student body is small and international — clubs are the fastest way to b
 - Cross-program mixing: MBA and IR students tend to cluster separately in class; clubs break this
 - Resume value: leadership roles in student orgs are legitimate for early-career profiles
 - Vacation planning: sports and travel clubs often organize group trips — cheaper and more fun than going alone
-- Many clubs are involved in the wiki expansion process (see [[Vacation Planning — How to Plan & Budget]])
+- Many clubs are involved in the wiki expansion process (see [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]])
 
 ---
 
@@ -41,7 +41,7 @@ IUJ's student body is small and international — clubs are the fastest way to b
 
 ### Cultural & Social
 - **International Cultural Exchange Club** — organizes cultural nights, food events
-- **CAT Program participants** — see [[What is CAT?]]
+- **CAT Program participants** — see [[CAT Program|What is CAT?]]
 - **Film Club** (if active)
 - **Music / Jam sessions** — informal but consistent at IUJ
 - **Language Exchange groups** — pair up with Japanese students for mutual language practice
@@ -83,8 +83,8 @@ Several sections of this wiki are designed to be expanded by specific clubs:
 ## Related Articles
 - [[Study Groups & Peer Culture]]
 - [[Campus Life & Vibe]]
-- [[What is CAT?]]
-- [[Vacation Planning — How to Plan & Budget]]
+- [[CAT Program|What is CAT?]]
+- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
 
 ---
 

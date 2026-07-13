@@ -117,7 +117,7 @@ The JR Pass allows unlimited travel on most JR trains (including Shinkansen, exc
 ---
 
 ## Related Articles
-- [[Vacation Planning — How to Plan & Budget]]
+- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
 - [[Domestic Itineraries — Tokyo, Kyoto, Osaka, Hokkaido]]
 - [[International Travel — SEA & Korea]]
 - [[Shinkansen Strategy]]

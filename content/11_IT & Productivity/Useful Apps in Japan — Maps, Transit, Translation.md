@@ -65,7 +65,7 @@ Japan's primary restaurant review platform. More reliable than Google Maps for r
 Alternative restaurant finder; sometimes has better local coverage than Tabelog.
 
 ### Jalan / Rakuten Travel
-Accommodation booking — consistently cheaper than international platforms for Japanese hotels. See [[Vacation Planning — How to Book — Flights, Stays, JR Pass]].
+Accommodation booking — consistently cheaper than international platforms for Japanese hotels. See [[10_Travel & Leisure/Vacation Planning/How to Book — Flights, Stays, JR Pass|Vacation Planning — How to Book — Flights, Stays, JR Pass]].
 
 ---
 
@@ -88,7 +88,7 @@ Carshare app — book hourly rentals with your phone. Requires Japanese licence 
 Better than Google Translate for nuanced translation. Good for reading dense Japanese text (news articles, forms).
 
 ### Midori / Takoboto
-Japanese dictionary apps. More useful than generic translation for learning vocabulary and checking kanji. See [[Japanese Language Learning — Phrases, Apps & IUJ Classes]] for full language learning guidance.
+Japanese dictionary apps. More useful than generic translation for learning vocabulary and checking kanji. See [[Japanese Language Courses at IUJ]] for full language learning guidance.
 
 ### Japanese (by Renzo Inc.)
 Highly rated dictionary with handwriting input — draw a kanji you can't type and it identifies it.
@@ -112,7 +112,7 @@ See [[Earthquake Preparedness]] for context.
 - [[IC Cards — Suica & Pasmo Setup]]
 - [[PayPay — Setup, Linking Banks, Loading Money]]
 - [[AI for Task Scheduling & Academic Productivity]]
-- [[Japanese Language Learning — Phrases, Apps & IUJ Classes]]
+- [[Japanese Language Courses at IUJ]]
 
 ---
 

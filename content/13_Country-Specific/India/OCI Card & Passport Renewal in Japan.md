@@ -97,7 +97,7 @@ Indian passports are valid for 10 years (adult). If yours is expiring during or 
 - [[India — Pre-Departure Checklist]]
 - [[Visa & Documentation]]
 - [[Residence Card — What It Is & Renewal]]
-- [[Vacation Planning — How to Plan & Budget]]
+- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
 - [[International Travel — SEA & Korea]]
 
 ---

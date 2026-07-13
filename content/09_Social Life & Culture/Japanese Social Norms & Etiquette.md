@@ -103,7 +103,7 @@ Japanese students at IUJ are typically there specifically because they want inte
 - [[Making Friends]]
 - [[Humour Across Cultures]]
 - [[Inclusivity & Sensitivity]]
-- [[Japanese Language Learning — Phrases, Apps & IUJ Classes]]
+- [[Japanese Language Courses at IUJ]]
 
 ---
 

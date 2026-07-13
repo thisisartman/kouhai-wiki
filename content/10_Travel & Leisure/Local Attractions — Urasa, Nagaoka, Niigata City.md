@@ -108,7 +108,7 @@ The Niigata mountains are onsen country. Several facilities are within 30–60 m
 ## Related Articles
 - [[Seasonal Activities — Skiing, Hanami, Matsuri]]
 - [[Festivals — Campus & Local]]
-- [[Vacation Planning — How to Plan & Budget]]
+- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
 
 ---
 
