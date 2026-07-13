@@ -3,7 +3,7 @@ title: First Week Checklist
 section: 02_Arrival & First Week
 tags: [arrival, checklist, admin, first-week]
 status: ready
-last_updated: 2025
+last_updated: 2026-07-14
 ---
 
 The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelmed, and trying to do ten things at once. This checklist gets it done in the right order so nothing falls through the cracks.
@@ -24,17 +24,17 @@ The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelm
 
 ## Day 2–4: Legal & Administrative *(Time-Sensitive)*
 
-- [ ] **Register at Minami-Uonuma City Office** — required by law within 14 days of arrival. IUJ usually organizes a group trip for new students. See [[Municipal Registration — Minami-Uonuma City Office]]
-- [ ] **Enroll in National Health Insurance (国民健康保険)** — done at the city office on the same visit. Don't skip this.
+- [ ] **Register at Minami-Uonuma City Office** — required by law within 14 days of arrival. IUJ organizes this at IUJ itself — city office staff come to campus to help you do it, so you don't need to travel there yourself. See [[Municipal Registration — Minami-Uonuma City Office]]
+- [ ] **Enroll in National Health Insurance (国民健康保険)** — done at the same on-campus session. Don't skip this.
 - [ ] **Apply for My Number Card (マイナンバーカード)** — you'll receive a notification letter at your dorm address. See [[My Number Card — How to Get It & Why]]
-- [ ] **Apply for Pension Exemption (国民年金免除)** — students qualify; do this at the city office. See [[Pension Exemption — How to Apply]]
+- [ ] **Pension Exemption (国民年金免除)** — you don't apply for this yourself. IUJ submits it for you automatically via a separate later event (Tax & Pension Day). See [[Pension Exemption — How to Apply]]
 
 ---
 
 ## Week 1: Banking
 
 - [ ] **Open JP Bank account** — available at the post office (JP Bank = Japan Post Bank). Recommended as your primary account. See [[JP Bank vs Daishi — Comparison & How to Open]]
-- [ ] **Open Daishi Hokuetsu Bank account** — IUJ deposits scholarship stipends here. Required if you're on scholarship. See [[JP Bank vs Daishi — Comparison & How to Open]]
+- [ ] **Open Daishi Hokuetsu Bank account** — IUJ deposits scholarship stipends here, required if you're on scholarship. Bank staff come to IUJ to help new students set this up on a specific day — get it done then rather than later; if your account isn't ready in time, your first stipend gets paid out as cash from the Accounting Office instead, which is more hassle. See [[JP Bank vs Daishi — Comparison & How to Open]]
 - [ ] **Set up PayPay** — Japan's dominant QR payment app. Essential for daily purchases. See [[PayPay — Setup, Linking Banks, Loading Money]]
 
 ---
@@ -71,9 +71,9 @@ The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelm
 
 | Task | Deadline | Where |
 |---|---|---|
-| City Hall Registration | Within 14 days | Minami-Uonuma City Office |
-| Health Insurance Enrollment | Same visit as above | City Office |
-| Scholarship bank account setup | Before first stipend | Daishi Hokuetsu Bank |
+| City Hall Registration | Within 14 days | On campus — city staff visit IUJ |
+| Health Insurance Enrollment | Same session as above | On campus |
+| Scholarship bank account setup | Before first stipend | On campus — bank staff visit IUJ |
 | Course registration | Per academic calendar | IUJ Student Portal |
 
 ---

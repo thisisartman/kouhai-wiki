@@ -3,7 +3,7 @@ title: JP Bank vs Daishi — Comparison & How to Open
 section: 04_Finance & Banking
 tags: [banking, JP-bank, Daishi, money, finance]
 status: ready
-last_updated: 2025
+last_updated: 2026-07-14
 ---
 
 You'll need **both** accounts. They serve different purposes. Open them in the right order.
@@ -19,7 +19,7 @@ You'll need **both** accounts. They serve different purposes. Open them in the r
 | **ATM access** | Nationwide (all Japan Post + 7-Eleven + more) | Primarily Niigata-only |
 | **Usability** | High — works across Japan | Low — mainly for IUJ stipend withdrawals |
 | **Recommended as primary?** | ✅ Yes | ❌ No — secondary only |
-| **Where to open** | Any Japan Post office | Daishi branch in Urasa or Nagaoka |
+| **Where to open** | Any Japan Post office | On campus — Daishi staff visit IUJ for new scholarship students |
 
 ---
 
@@ -57,7 +57,9 @@ You'll need **both** accounts. They serve different purposes. Open them in the r
 
 ## Opening a Daishi Hokuetsu Bank Account
 
-**Where:** Daishi branch in **Urasa** or **Nagaoka**. IUJ may organize a group visit for new scholarship students.
+**Where:** On campus, not a branch. Daishi Hokuetsu staff come to IUJ on a scheduled day early in the term specifically to set up accounts for new scholarship students.
+
+> ⚠️ **Get this done on that day.** If your account isn't open in time for your first stipend, IUJ can't deposit it — you'll instead need to collect that month's stipend in cash from the Accounting Office in person, which is more hassle than just showing up for the on-campus session.
 
 **What to bring:**
 - Passport
@@ -66,8 +68,8 @@ You'll need **both** accounts. They serve different purposes. Open them in the r
 - Personal seal (印鑑) — more strictly required here than at JP Bank
 
 **Process:**
-1. Visit the branch — tell them you are an IUJ student opening an account for scholarship deposits (IUJ側から指定された口座)
-2. Fill in the application form
+1. Attend the on-campus session IUJ schedules for new scholarship students
+2. Fill in the application form (staff on-site will assist)
 3. Cash card arrives within 1–2 weeks
 
 > ⚠️ Daishi is a regional Niigata bank. Its ATM network outside Niigata is limited. Do not rely on it for travel or daily spending outside the prefecture.
