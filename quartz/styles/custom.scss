@@ -118,6 +118,7 @@ a.internal.alias {
   border: 1px solid var(--lightgray);
   border-radius: 10px;
   background: var(--light);
+  position: relative;
   transition: border-color 0.15s ease;
 }
 
@@ -143,6 +144,21 @@ a.internal.alias {
 
 .page-listing .section .desc h3 a:hover {
   color: var(--secondary);
+}
+
+/* Stretch the title link to cover the whole card, so clicking anywhere in
+   the card (not just the title text) navigates — without changing the DOM
+   structure or nesting a second <a> around the card. Tag links stay above
+   the stretched overlay so they remain independently clickable. */
+.page-listing .section .desc h3 a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.page-listing .section .tags {
+  position: relative;
+  z-index: 1;
 }
 
 .page-listing .section:has(.meta:empty) {
