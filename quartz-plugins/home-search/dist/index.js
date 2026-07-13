@@ -23,7 +23,14 @@ function u2(e2, t2, n2, o2, i2, u3) {
 // src/components/HomeSearch.tsx
 var homeSearchCss = `
 .home-search {
-  margin: 0.5rem 0 1.8rem;
+  max-width: 640px;
+  margin: 0.5rem auto 1.8rem;
+}
+.home-search-intro {
+  font-family: var(--bodyFont);
+  color: var(--darkgray);
+  text-align: center;
+  margin: 0 0 1.1rem;
 }
 .home-search-input {
   width: 100%;
@@ -32,9 +39,10 @@ var homeSearchCss = `
   font-size: 1.1rem;
   color: var(--dark);
   background: var(--light);
-  border: 1px solid var(--lightgray);
+  border: 2px solid var(--darkgray);
   border-radius: 10px;
-  padding: 0.85rem 1.1rem;
+  padding: 0.9rem 1.2rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
 }
 .home-search-input:focus {
   outline: none;
@@ -44,7 +52,7 @@ var homeSearchCss = `
   margin-top: 0.6rem;
   display: none;
   flex-direction: column;
-  border: 1px solid var(--lightgray);
+  border: 2px solid var(--darkgray);
   border-radius: 10px;
   overflow: hidden;
 }
@@ -170,7 +178,9 @@ var homeSearchScript = `
 var HomeSearch = () => {
   const Component = ({ fileData }) => {
     if (fileData.slug !== "index") return null;
+    const description = fileData.frontmatter?.description;
     return /* @__PURE__ */ u2("div", { class: "home-search", children: [
+      description && /* @__PURE__ */ u2("p", { class: "home-search-intro", children: description }),
       /* @__PURE__ */ u2(
         "input",
         {
