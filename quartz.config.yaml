@@ -175,6 +175,7 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
+      condition: not-index
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
@@ -281,6 +282,7 @@ plugins:
     layout:
       position: beforeBody
       priority: 15
+      condition: not-index
       display: all
   - source:
       name: quartz-themes
