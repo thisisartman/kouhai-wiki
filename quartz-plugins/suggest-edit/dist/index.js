@@ -276,7 +276,27 @@ var SuggestEdit = () => {
         "data-article": title,
         "data-slug": slug,
         "aria-haspopup": "dialog",
-        children: "\u270F\uFE0F Suggest an edit"
+        children: [
+          /* @__PURE__ */ u2(
+            "svg",
+            {
+              xmlns: "http://www.w3.org/2000/svg",
+              width: "16",
+              height: "16",
+              viewBox: "0 0 24 24",
+              fill: "none",
+              stroke: "currentColor",
+              "stroke-width": "2",
+              "stroke-linecap": "round",
+              "stroke-linejoin": "round",
+              children: [
+                /* @__PURE__ */ u2("path", { d: "M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z" }),
+                /* @__PURE__ */ u2("path", { d: "m15 5 4 4" })
+              ]
+            }
+          ),
+          "Suggest an edit"
+        ]
       }
     ) });
   };
