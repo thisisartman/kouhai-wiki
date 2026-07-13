@@ -171,11 +171,15 @@ a.internal.alias {
   font-weight: 700;
 }
 
-/* Search overlay backdrop only blurs — no actual tint behind it, so page
-   content underneath (article title, etc.) reads through and looks like the
-   search bar has no background. Add a dim scrim behind the blur. */
+/* Search overlay backdrop only blurred — no actual tint behind it, so page
+   content underneath (article title, etc.) read through and looked like the
+   search bar had no background. Drop the blur (readability complaint) and
+   use a plain dim scrim instead — darker than a blurred version needs to be,
+   since there's no blur doing any of the obscuring work anymore. */
 .search > .search-container {
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.55);
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
 }
 
 /* Breadcrumbs — interlocking chevron blocks instead of plain "A > B > C"
@@ -192,7 +196,10 @@ a.internal.alias {
 
 .breadcrumb-element a {
   display: inline-block;
-  background: var(--lightgray);
+  /* --lightgray can end up nearly indistinguishable from the page background
+     depending on the active theme palette, so derive contrast directly from
+     --dark instead of trusting a named "light" token to actually be light. */
+  background: color-mix(in srgb, var(--dark) 9%, var(--light));
   color: var(--darkgray);
   font-size: 0.8rem;
   font-weight: 600;
@@ -234,13 +241,13 @@ a.internal.alias {
     max-width: 340px;
     box-shadow: 2px 0 24px rgba(0, 0, 0, 0.18);
     border-right: 1px solid var(--lightgray);
-    padding-top: 4.5rem;
+    padding-top: 5rem;
   }
 
   .explorer .explorer-content::before {
     content: "Explorer";
     position: absolute;
-    top: 3.1rem;
+    top: 4rem;
     left: 1.1rem;
     font-family: var(--bodyFont);
     font-weight: 700;

@@ -5,7 +5,7 @@ description: Welcome to the MyIUJ! Kouhai Wiki — a guide for incoming students
 
 ## 📌 Pinned
 
-- [[00_Meta/How to Use This Wiki|How to Use This Wiki]]
+- [[How to Use This Wiki]]
 - [[First Week Checklist]]
 - [[Visa & Documentation]]
 - [[SIM & Internet Setup]]
