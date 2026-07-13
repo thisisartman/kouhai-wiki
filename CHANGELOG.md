@@ -1,5 +1,15 @@
 # Changelog
 
+## [2026-07-13 18:15] — Session: UI polish (search backdrop, breadcrumbs, suggest-edit button, explorer label fix)
+
+### Changed
+- `quartz/styles/custom.scss` — added a dim scrim behind the search overlay's blur (it had `backdrop-filter: blur` but no `background-color`, so page content underneath read through, looking like a transparent/missing background); redesigned breadcrumbs as interlocking chevron/ribbon blocks via `clip-path` polygons instead of plain "A > B > C" text, with the current page highlighted in the accent color; moved the mobile "Explorer" label (added in the previous session's mobile sidebar polish) down so it no longer sits under the hamburger toggle button and gets occluded by it (z-index 101 > label)
+- `quartz-plugins/suggest-edit/src/components/SuggestEdit.tsx` — enlarged the "Suggest an edit" button into a filled accent-colored CTA (was a small ghost-outline button)
+
+### Notes
+- All from user-reported screenshots (transparent search bar, hamburger overlapping "Explorer" text, request for nicer breadcrumbs and a bigger suggest-edit button).
+- Pushed and deployed live.
+
 ## [2026-07-13 17:52] — Session: India-content cleanup, homepage redesign, mobile explorer polish, clickable cards
 
 ### Changed
