@@ -1,6 +1,6 @@
 ---
 title: How to Use This Wiki
-section: 00_Meta
+section: 00_About Wiki
 tags: [meta, guide, navigation]
 status: ready
 last_updated: 2026-05-28
