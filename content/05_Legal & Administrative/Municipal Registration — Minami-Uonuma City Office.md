@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 🏛️ Municipal Registration — Minami-Uonuma City Office
-
 Registering at the city office is legally required within 14 days of arrival. IUJ typically organizes a group trip for new students — go on that trip. Don't skip it.
 
 ---

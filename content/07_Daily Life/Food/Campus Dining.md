@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2025
 ---
 
-# 🍱 Campus Dining
-
 > ⚠️ This article is a placeholder. All specifics need to be filled in from direct on-campus experience or IUJ student affairs.
 
 ---

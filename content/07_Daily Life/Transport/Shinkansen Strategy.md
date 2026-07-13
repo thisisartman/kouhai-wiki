@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🚄 Shinkansen Strategy
-
 The Shinkansen is your lifeline out of Urasa. Tokyo is 1.5 hours away. Getting good at booking and pricing the Shinkansen saves significant money over two years.
 
 ---

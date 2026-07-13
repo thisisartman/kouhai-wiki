@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 👕 Laundry — Facilities & Winter Challenges
-
 Doing laundry at IUJ is straightforward in summer and a genuine challenge in winter. The machines are coin-operated, the drying situation changes with the season, and knowing a few basics saves frustration.
 
 ---

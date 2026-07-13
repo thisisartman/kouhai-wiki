@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2026-05-29
 ---
 
-# 🚌 Bus & Local Routes
-
 The IUJ campus bus is the primary way to get between campus and the outside world without a car. The network is limited but well-organised — knowing the routes and schedules is important because buses don't run all day.
 
 ---

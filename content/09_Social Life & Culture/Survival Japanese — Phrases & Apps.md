@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-29
 ---
 
-# 🗣️ Survival Japanese — Phrases & Apps
-
 IUJ teaches in English and most daily needs near campus can be managed without Japanese. But rural Niigata is not Tokyo — English is sparse outside campus. Even basic Japanese dramatically improves your quality of life here.
 
 For IUJ's credit-bearing Japanese language courses, see [[Japanese Language Courses at IUJ]].

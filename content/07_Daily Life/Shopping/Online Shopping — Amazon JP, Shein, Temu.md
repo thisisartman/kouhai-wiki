@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 📦 Online Shopping — Amazon JP, Shein, Temu
-
 Living in rural Niigata means many things aren't available locally. Online shopping fills the gap. Japan has good delivery infrastructure — even rural addresses get fast, reliable service.
 
 ---

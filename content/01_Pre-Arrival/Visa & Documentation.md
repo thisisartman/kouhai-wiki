@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 📋 Visa & Documentation
-
 Getting to Japan legally is a multi-step process that starts months before you arrive. The core bottleneck is the Certificate of Eligibility (CoE) — everything else depends on it. Start early.
 
 ---

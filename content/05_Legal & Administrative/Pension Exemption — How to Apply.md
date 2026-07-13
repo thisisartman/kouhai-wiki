@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 🏛️ Pension Exemption (国民年金免除) — How to Apply
-
 Japan requires all residents aged 20–59 to enroll in the national pension system (国民年金, *kokumin nenkin*). Students qualify for a **full exemption** from monthly payments. Most new arrivals don't know to apply — don't miss this.
 
 ---

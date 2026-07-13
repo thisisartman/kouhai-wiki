@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2026-05-28
 ---
 
-# 🏨 Nearby Clinics & Hospitals
-
 Knowing where to go before you're sick is important. Healthcare in rural Niigata is functional but limited — English support is minimal, and the nearest large hospital is in Nagaoka.
 
 > 🔶 This article needs senior input for specific clinic names, addresses, English availability, and current experiences. The framework is accurate; the specifics need ground-truth from students who've used these facilities.

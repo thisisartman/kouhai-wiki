@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 📍 Local Attractions — Urasa, Nagaoka, Niigata City
-
 IUJ's rural location is a feature, not just a constraint. The Niigata region has mountains, rivers, onsen, historic sites, and access to some of Japan's best seasonal activities. This article covers what's accessible from campus.
 
 ---

@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🏥 National Health Insurance (国民健康保険)
-
 All residents of Japan — including international students — are required to enroll in the National Health Insurance (NHI / 国民健康保険, *kokumin kenkō hoken*) scheme. This is one of the first things you do after arrival, at the city hall during your municipal registration trip.
 
 ---

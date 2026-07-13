@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2026-05-28
 ---
 
-# 🎉 Parties — Venues, Norms & Dorm Rules
-
 IUJ's social life is active despite (or because of) the rural isolation. Parties, dinners, cultural nights, and informal gatherings happen frequently — especially in the first term when everyone is still getting to know each other.
 
 > ⚠️ IUJ dorm rules around gatherings, noise, and guests must be verified against the current student handbook. Violations can have academic or residential consequences. This article covers general norms; confirm the specific rules with student affairs.

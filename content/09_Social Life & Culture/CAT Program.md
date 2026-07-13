@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-29
 ---
 
-# 🐱 CAT Program — Community Action Team
-
 CAT stands for **Community Action Team** — a volunteer programme where IUJ students visit local elementary schools to share their home countries and cultures with Japanese children. It's one of the most genuinely feel-good things you can do at IUJ, and one of the few ways to connect with the local Minamiuonuma community outside campus.
 
 ---

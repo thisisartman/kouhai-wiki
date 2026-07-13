@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🛒 Local Grocery Options
-
 Grocery shopping near IUJ means working with a limited set of options. There's no supermarket on campus. The nearest ones are in Urasa town or in Nagaoka (~30 min). Knowing what's where saves time and money.
 
 ---

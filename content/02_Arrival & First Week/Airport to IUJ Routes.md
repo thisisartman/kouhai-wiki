@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# ✈️ Airport → IUJ Routes
-
 IUJ is in Minami-Uonuma, Niigata — rural Japan. There's no direct airport nearby. Every route involves at least one Shinkansen leg. Plan accordingly, especially if arriving with heavy luggage.
 
 ---

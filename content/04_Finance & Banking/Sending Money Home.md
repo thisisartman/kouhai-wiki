@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 💸 Sending Money Home
-
 Japan has reliable remittance options, but the best one depends on your destination country, how fast you need the transfer, and whether you have a Japanese bank account yet.
 
 ---

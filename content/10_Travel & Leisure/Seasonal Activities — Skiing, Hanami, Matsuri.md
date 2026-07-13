@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🎿 Seasonal Activities — Skiing, Hanami, Matsuri
-
 IUJ's location in snow country is a genuine asset for seasonal activities. These are some of the best experiences available during your time here — plan for them.
 
 ---

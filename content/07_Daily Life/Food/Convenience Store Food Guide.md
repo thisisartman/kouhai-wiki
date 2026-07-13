@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 🏪 Convenience Store Food Guide
-
 Japanese convenience stores (コンビニ, *conbini*) are not the sad petrol-station shops you may be used to. They are genuinely good food sources — hot meals, fresh sandwiches, decent produce, and surprisingly edible prepared food at low prices. For a student at IUJ, knowing how to use a conbini well is a life skill.
 
 ---

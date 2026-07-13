@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🫨 Earthquake Preparedness
-
 Japan is one of the most seismically active countries in the world. Niigata has a notable earthquake history — the 2004 Chūetsu earthquake (magnitude 6.8) caused significant damage in Minami-Uonuma district. Earthquakes here are not theoretical.
 
 Most earthquakes are minor and go unnoticed. But knowing what to do before one happens matters.

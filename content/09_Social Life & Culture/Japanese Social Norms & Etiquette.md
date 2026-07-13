@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🎌 Japanese Social Norms & Etiquette
-
 You'll interact with Japanese students, staff, local residents, and service workers throughout your time at IUJ. Understanding a few core norms prevents unnecessary friction and significantly improves the quality of these interactions.
 
 This isn't an exhaustive etiquette guide. It's the stuff that actually matters day-to-day.

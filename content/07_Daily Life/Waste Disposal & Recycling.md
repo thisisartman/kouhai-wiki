@@ -6,8 +6,6 @@ status: needs-verification
 last_updated: 2026-05-28
 ---
 
-# 🗑️ Waste Disposal & Recycling
-
 Japan's waste disposal system is strict, detailed, and non-negotiable. Putting the wrong rubbish in the wrong bag on the wrong day causes real problems — complaints from neighbours, dorm management notices, and fines in some cases. Learn the system in the first week.
 
 > ⚠️ Minami-Uonuma City's specific rules and collection schedule must be verified against current municipal guidelines. IUJ may also have dorm-specific rules. The framework below is accurate for most Japanese municipalities — verify the specifics on-site.

@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2026-05-28
 ---
 
-# 🚙 Car Ownership — Buying Used
-
 Owning a car at IUJ is a significant quality-of-life upgrade — especially in winter when cycling stops and buses run infrequently. It's common among second-year students and those staying longer. The upfront cost is manageable if you buy right.
 
 > 🔶 This article is a skeleton. Much of the detail here comes from student experience — if you've bought and run a car at IUJ, your input would make this article significantly better.

@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2025
 ---
 
-# 📝 Thesis Guide (IR) — Supervisor, Timeline, Tips
-
 The thesis is the defining academic challenge of the IR program. It's also the thing most students start thinking about too late. This guide consolidates what seniors wish they'd known — about timelines, choosing a supervisor, and actually getting it done.
 
 > 🔶 This article needs substantial senior input. The framework below is structural — the real value comes from first-hand experiences from IR graduates.

@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# ❄️ Heavy Snow Emergency
-
 Minami-Uonuma is in Japan's snow country (雪国, *yukiguni*). In heavy winters, snowfall can exceed 3 metres accumulated on the ground. This is a genuine hazard — not just an inconvenience. Knowing how to handle it safely is part of living here.
 
 ---

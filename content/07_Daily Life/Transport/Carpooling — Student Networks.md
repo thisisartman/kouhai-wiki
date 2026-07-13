@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2026-05-28
 ---
 
-# 🚗 Carpooling — Student Networks
-
 Carpooling is essential at IUJ. A minority of students have cars; the majority benefit from rides for grocery runs, Nagaoka trips, ski days, and the occasional emergency. Knowing how this works from day one saves hassle and builds goodwill.
 
 > 🔶 This article needs senior input on the specific norms, tools, and culture at IUJ. The structure below is based on general knowledge of small international campus communities.

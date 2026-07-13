@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🧳 Packing List
-
 IUJ is in rural Niigata — not Tokyo. Shopping options near campus are limited, winters are severe, and the nearest major city (Nagaoka) is 30 minutes away. Pack accordingly.
 
 The general rule: bring everything you can't easily source in rural Japan, and don't bother with things that are cheap and easily available here.

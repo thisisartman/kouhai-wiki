@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🚃 IC Cards — Suica & Pasmo Setup
-
 An IC card is a rechargeable contactless card used for trains, buses, and many shops across Japan. Get one as soon as you arrive — it's the single most useful piece of infrastructure for daily life in Japan.
 
 ---

@@ -210,6 +210,15 @@ a.internal.alias {
   margin-top: 0.9rem !important;
 }
 
+/* The article-title plugin's own CSS sets margin-top: 2rem on its h1, but
+   adjacent sibling margins collapse in normal flow and something upstream
+   is zeroing it out — breadcrumbs and title were rendering flush against
+   each other with no gap. Pin it explicitly instead of relying on that
+   margin surviving the cascade. */
+.article-title {
+  margin-top: 1.25rem !important;
+}
+
 .breadcrumb-element {
   margin-right: -9px;
 }

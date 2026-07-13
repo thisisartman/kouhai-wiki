@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 🏦 JP Bank vs Daishi Hokuetsu — Comparison & How to Open
-
 You'll need **both** accounts. They serve different purposes. Open them in the right order.
 
 ---

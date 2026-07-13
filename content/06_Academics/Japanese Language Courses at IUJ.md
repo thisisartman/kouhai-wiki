@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-29
 ---
 
-# 🇯🇵 Japanese Language Courses at IUJ
-
 IUJ offers credit-bearing Japanese language courses as part of the curriculum. This article covers the academic side. For survival phrases, apps, and daily-life Japanese, see [[Survival Japanese — Phrases & Apps]].
 
 ---

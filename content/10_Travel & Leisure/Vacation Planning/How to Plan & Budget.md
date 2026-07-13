@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🗺️ Vacation Planning — How to Plan & Budget
-
 IUJ's trimester system gives you genuine breaks between terms. Japan is also an excellent base for travel — within the country and across Asia. This article covers the planning and budgeting framework; dedicated articles cover booking and specific itineraries.
 
 ---

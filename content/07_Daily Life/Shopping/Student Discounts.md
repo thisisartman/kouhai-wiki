@@ -6,8 +6,6 @@ status: ready
 last_updated: 2025
 ---
 
-# 🎓 Student Discounts
-
 Your student status unlocks meaningful discounts in Japan. Most require either your IUJ student ID or proof of enrollment.
 
 ---

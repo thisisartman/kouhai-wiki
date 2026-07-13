@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🎆 Festivals — Campus & Local
-
 IUJ has its own event culture, and the Niigata region hosts some of Japan's best festivals. Both are worth knowing about and planning for.
 
 ---

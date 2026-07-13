@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🎟️ How to Book — Flights, Stays, JR Pass
-
 The mechanics of booking travel in Japan are mostly familiar — but there are Japan-specific platforms and tricks that save real money.
 
 ---

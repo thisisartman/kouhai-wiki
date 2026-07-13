@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2025
 ---
 
-# ❄️ Winter Term — Credits & Survival
-
 Winter at IUJ is a study in contrasts. Academically, it can be productive — the chaos of Fall has settled, you know the system, and the course load is often more focused. Personally, it tests everyone. Niigata's winters are serious, the campus can feel isolated, and the novelty of Japan has worn off.
 
 The students who thrive in Winter are the ones who prepare for both the credits and the cold.

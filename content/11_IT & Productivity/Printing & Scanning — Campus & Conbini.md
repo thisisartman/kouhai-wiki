@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🖨️ Printing & Scanning — Campus & Conbini
-
 You'll need to print more than you expect — assignment submissions, admin forms, visa documents, academic papers, official letters. Two options cover everything: the campus printers and convenience store (conbini) multifunction machines.
 
 ---

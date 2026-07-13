@@ -6,8 +6,6 @@ status: needs-senior-input
 last_updated: 2025
 ---
 
-# 🍂 Fall Term — Hectic, Settle In Fast
-
 Fall is the hardest term. Not because the coursework is necessarily the most difficult — but because you're doing everything at once: settling in, navigating admin, meeting 60+ new people, registering for courses, and trying to perform academically from week one.
 
 The students who do well in Fall are the ones who accept the chaos early and build structure fast.

@@ -6,8 +6,6 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-# 🇮🇳 OCI Card & Passport Renewal in Japan
-
 Two documents that Indian students at IUJ may need to manage while in Japan: the OCI (Overseas Citizen of India) card and passport renewal. Both are handled through the Indian Embassy in Tokyo or the Consulates in Osaka and other cities.
 
 ---
