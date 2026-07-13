@@ -182,6 +182,17 @@ a.internal.alias {
   -webkit-backdrop-filter: none !important;
 }
 
+/* The obsidian-theme layer (a snapshot of Obsidian's own computed styles)
+   sets background-color: transparent on every direct child of .search-space
+   via a blanket `> *` reset scoped to html[saved-theme]. Cascade layers make
+   that win over the search plugin's own opaque background regardless of
+   specificity, so the results panel stayed see-through and page content
+   bled through underneath. Unlayered rules always beat layered ones, so
+   reasserting it here (no !important needed) restores it. */
+.search > .search-container > .search-space > *:not(.ghost-text):not(.tag-suggestions) {
+  background: var(--light);
+}
+
 /* Breadcrumbs — interlocking chevron blocks instead of plain "A > B > C"
    text. Each crumb is a pointed ribbon segment; segments overlap slightly so
    the point of one nests into the notch of the next. */
