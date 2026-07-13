@@ -154,3 +154,46 @@ a.internal.alias {
   color: var(--secondary);
   font-weight: 700;
 }
+
+/* Mobile explorer — the theme's default is a bare full-bleed flat-color
+   overlay with no visual separation from the page underneath it. Give it a
+   defined "sheet" edge, breathing room, and clearer touch targets instead. */
+@media #{$mobile} {
+  .explorer .explorer-content {
+    width: 88vw;
+    max-width: 340px;
+    box-shadow: 2px 0 24px rgba(0, 0, 0, 0.18);
+    border-right: 1px solid var(--lightgray);
+    padding-top: 4.5rem;
+  }
+
+  .explorer .explorer-content::before {
+    content: "Explorer";
+    position: absolute;
+    top: 1.4rem;
+    left: 1.1rem;
+    font-family: var(--bodyFont);
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--dark);
+  }
+
+  .explorer .explorer-content .folder-outer > ul {
+    border-left: 1px solid var(--lightgray);
+  }
+
+  .explorer .folder-container,
+  .explorer a.nav-file-title {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .explorer .mobile-explorer {
+    padding: 0.5rem;
+    border-radius: 8px;
+  }
+
+  .explorer:not(.collapsed) .mobile-explorer {
+    background: var(--lightgray);
+  }
+}
