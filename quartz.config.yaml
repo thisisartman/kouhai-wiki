@@ -195,6 +195,12 @@ plugins:
     layout:
       position: beforeBody
       priority: 25
+  - source: ./quartz-plugins/home-search
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 15
+      condition: is-index
   - source: github:quartz-community/tag-list
     enabled: false
     layout:
@@ -234,11 +240,20 @@ plugins:
   - source: github:quartz-community/footer
     enabled: true
     options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+      links: {}
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    options:
+      title: Recently Updated
+      limit: 5
+      linkToMore: false
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: true
+    layout:
+      position: afterBody
+      priority: 10
+      condition: is-index
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
