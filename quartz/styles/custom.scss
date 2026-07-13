@@ -171,6 +171,60 @@ a.internal.alias {
   font-weight: 700;
 }
 
+/* Search overlay backdrop only blurs — no actual tint behind it, so page
+   content underneath (article title, etc.) reads through and looks like the
+   search bar has no background. Add a dim scrim behind the blur. */
+.search > .search-container {
+  background-color: rgba(0, 0, 0, 0.35);
+}
+
+/* Breadcrumbs — interlocking chevron blocks instead of plain "A > B > C"
+   text. Each crumb is a pointed ribbon segment; segments overlap slightly so
+   the point of one nests into the notch of the next. */
+.breadcrumb-container {
+  gap: 0 !important;
+  margin-top: 0.9rem !important;
+}
+
+.breadcrumb-element {
+  margin-right: -9px;
+}
+
+.breadcrumb-element a {
+  display: inline-block;
+  background: var(--lightgray);
+  color: var(--darkgray);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.3rem 1.15rem 0.3rem 1rem;
+  clip-path: polygon(0 0, calc(100% - 9px) 0, 100% 50%, calc(100% - 9px) 100%, 0 100%, 9px 50%);
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.breadcrumb-element:first-child a {
+  clip-path: polygon(0 0, calc(100% - 9px) 0, 100% 50%, calc(100% - 9px) 100%, 0 100%);
+  padding-left: 0.9rem;
+}
+
+.breadcrumb-element:last-child {
+  margin-right: 0;
+}
+
+.breadcrumb-element:last-child a {
+  background: var(--secondary);
+  color: var(--light);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 9px 50%);
+}
+
+.breadcrumb-element a:hover {
+  background: var(--tertiary);
+  color: var(--light);
+}
+
+.breadcrumb-element p {
+  display: none;
+}
+
 /* Mobile explorer — the theme's default is a bare full-bleed flat-color
    overlay with no visual separation from the page underneath it. Give it a
    defined "sheet" edge, breathing room, and clearer touch targets instead. */
@@ -186,12 +240,13 @@ a.internal.alias {
   .explorer .explorer-content::before {
     content: "Explorer";
     position: absolute;
-    top: 1.4rem;
+    top: 3.1rem;
     left: 1.1rem;
     font-family: var(--bodyFont);
     font-weight: 700;
     font-size: 0.95rem;
     color: var(--dark);
+    z-index: 1;
   }
 
   .explorer .explorer-content .folder-outer > ul {

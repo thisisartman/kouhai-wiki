@@ -24,25 +24,27 @@ function u2(e2, t2, n2, o2, i2, u3) {
 var FORMSUBMIT_ENDPOINT = "https://formsubmit.co/ajax/5b121b476fc3d310066a6e491050c454";
 var suggestEditCss = `
 .suggest-edit {
-  margin: 0.4rem 0 0.2rem;
+  margin: 0.6rem 0 0.3rem;
 }
 .suggest-edit-btn {
   display: inline-flex;
   align-items: center;
-  gap: 0.35rem;
+  gap: 0.45rem;
   font-family: var(--bodyFont);
-  font-size: 0.8rem;
-  color: var(--gray);
-  background: transparent;
-  border: 1px solid var(--lightgray);
-  border-radius: 6px;
-  padding: 0.2rem 0.55rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--light);
+  background: var(--secondary);
+  border: 1px solid var(--secondary);
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
   cursor: pointer;
-  transition: color 0.15s ease, border-color 0.15s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  transition: filter 0.15s ease, transform 0.15s ease;
 }
 .suggest-edit-btn:hover {
-  color: var(--secondary);
-  border-color: var(--secondary);
+  filter: brightness(1.1);
+  transform: translateY(-1px);
 }
 .se-overlay {
   position: fixed;
