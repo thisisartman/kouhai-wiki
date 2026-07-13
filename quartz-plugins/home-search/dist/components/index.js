@@ -106,6 +106,7 @@ var homeSearchScript = `
     var results = document.getElementById("home-search-results");
     var debounceTimer = null;
     var indexPromise = (typeof fetchData !== "undefined") ? fetchData : Promise.resolve({});
+    var topResultSlug = null;
 
     function escapeHtml(s) {
       return s.replace(/[&<>"']/g, function (c) {
@@ -123,6 +124,7 @@ var homeSearchScript = `
     }
 
     function render(query, entries) {
+      topResultSlug = entries.length > 0 ? entries[0].slug : null;
       if (!query) {
         results.innerHTML = "";
         results.classList.remove("hsr-open");
@@ -175,6 +177,22 @@ var homeSearchScript = `
           render(query.trim(), search(query, index));
         });
       }, 120);
+    });
+
+    // Enter jumps straight to the top match \u2014 typing then hitting Enter
+    // previously did nothing at all (bare <input>, no <form>, no submit
+    // handler). Re-runs search synchronously first: the 120ms debounce
+    // above means topResultSlug can be stale (or still null, for the very
+    // first keystroke) if Enter lands before it's fired.
+    input.addEventListener("keydown", function (e) {
+      if (e.key !== "Enter") return;
+      e.preventDefault();
+      if (debounceTimer) clearTimeout(debounceTimer);
+      var query = input.value;
+      indexPromise.then(function (index) {
+        render(query.trim(), search(query, index));
+        if (topResultSlug) window.location.href = "./" + topResultSlug;
+      });
     });
   }
 
