@@ -3,7 +3,7 @@ title: How to Use This Wiki
 section: 00_About Wiki
 tags: [meta, guide, navigation]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-14
 ---
 
 This wiki is written by IUJ students, for incoming IUJ students (Kouhais). It covers everything from getting your visa to surviving a Niigata winter — practical, honest, and updated by people who've actually been through it.
@@ -52,7 +52,7 @@ The wiki is divided into numbered sections, roughly in the order you'll need the
 
 ## Status Indicators
 
-Each article carries a status in its frontmatter. You'll also see symbols in the wiki structure:
+Each article is internally tagged with a status (not something you'll see directly on the page — it's metadata behind the scenes). You'll see it reflected as symbols in the wiki structure instead:
 
 | Symbol | What It Means |
 |---|---|
