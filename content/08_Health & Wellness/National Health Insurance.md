@@ -3,10 +3,10 @@ title: National Health Insurance
 section: 08_Health & Wellness
 tags: [health, insurance, NHI, admin, legal]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-14
 ---
 
-All residents of Japan — including international students — are required to enroll in the National Health Insurance (NHI / 国民健康保険, *kokumin kenkō hoken*) scheme. This is one of the first things you do after arrival, at the city hall during your municipal registration trip.
+All residents of Japan — including international students — are required to enroll in the National Health Insurance (NHI / 国民健康保険, *kokumin kenkō hoken*) scheme. This is one of the first things you do after arrival — done for you as part of an on-campus session, not a trip to the city hall (see below).
 
 ---
 
@@ -27,14 +27,14 @@ NHI covers **70% of most medical costs** — you pay the remaining 30% out of po
 
 ## Enrolling
 
-Enrollment happens at the **Minami-Uonuma City Office** during your municipal registration visit — IUJ typically organises a group trip in the first week. You register as a resident and enroll in NHI in the same visit.
+> ⚠️ **Correction (verified against official IUJ emails):** this article previously said enrollment happens at a city office you travel to. That's backwards for IUJ students — **city office staff come to IUJ**, as part of the same on-campus session as municipal registration. See [[Municipal Registration — Minami-Uonuma City Office]].
 
 **Documents needed:**
 - Passport
 - Residence Card (在留カード)
 - My Number notification letter (or card if you have it)
 
-You'll receive a **健康保険証 (kenkō hoken-shō)** — your insurance card. Keep it with you; you present it at every medical visit.
+**Your card doesn't arrive at that session.** It's mailed separately, later, and delivered to your **dorm mailbox** (look for a pink envelope) — this is placed there by IUJ, not the city office directly. Cards are valid for one year (roughly Aug–Jul) and get renewed the same way each year. If the address on it is wrong, that needs correcting at the city office directly.
 
 > ⚠️ Enroll as soon as possible after arrival. Coverage is backdated to your registration date, but any medical costs incurred before enrollment are fully out-of-pocket.
 
@@ -44,7 +44,9 @@ You'll receive a **健康保険証 (kenkō hoken-shō)** — your insurance card
 
 NHI premiums are income-based. As a student with low or no income, your premium will be low — typically **¥1,000–3,000/month** for students.
 
-Premiums are billed by the city (usually quarterly). Pay at the convenience store using the payment slip, or set up bank transfer.
+> ⚠️ **Your first payment does not auto-withdraw, even if you've registered for bank transfer.** For new students, an envelope with a payment slip arrives in your dorm mailbox around mid-October, and that first installment must be paid manually — by convenience store, bank, or city office counter — **by October 30**. Only installments from December onward come out of your bank account automatically. Missing this because you assumed the bank transfer already covered it is an easy, avoidable mistake.
+
+**If you're an exchange student**, the process differs after that first payment: instead of ongoing bank withdrawals, your remaining balance is settled in person at the city office counter as part of your departure procedures.
 
 > 💡 If you receive a large premium bill that seems wrong, take it to the city office — students often qualify for premium reductions. Ask IUJ student affairs for guidance.
 

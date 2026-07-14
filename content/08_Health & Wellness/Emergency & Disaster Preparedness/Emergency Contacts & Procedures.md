@@ -3,7 +3,7 @@ title: Emergency Contacts & Procedures
 section: 08_Health & Wellness/Emergency & Disaster Preparedness
 tags: [health, emergency, safety, contacts]
 status: needs-verification
-last_updated: 2026-05-28
+last_updated: 2026-07-14
 ---
 
 > ⚠️ Verify IUJ-specific emergency contacts against current student handbook or IUJ student affairs. Numbers and procedures change. Save the key contacts in your phone on arrival day — before you need them.
@@ -18,6 +18,8 @@ last_updated: 2026-05-28
 | **Police** | **110** | Crime, accidents, lost/stolen items. |
 | **IUJ Emergency** | *(verify with IUJ)* | Campus emergency contact — get this from student affairs on arrival |
 | **IUJ Student Affairs** | *(verify with IUJ)* | For non-emergency issues during office hours |
+| **Dorm Staff (SD1 Dorm Staff Office)** | 025-779-1555 (ext. 555) / dorm@iuj.ac.jp | Building issues: outages, snow, maintenance. 8:30–17:00, closed 12:00–13:00. |
+| **Health & Wellness Coordinator** | 025-779-1170 (ext. 170) / healness@iuj.ac.jp | Non-emergency health/wellness contact — see [[Scholarship Management — Stipend & Tax Notes]] for context. |
 
 **Calling 119 in English:**
 - Say "Ambulance" (or "Fire") first
