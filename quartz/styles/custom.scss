@@ -272,11 +272,17 @@ a.internal.alias {
   .explorer:not(.collapsed) .mobile-explorer .lucide-menu line:nth-child(3) {
     transform: translateY(-6px) rotate(-45deg);
   }
+  .explorer:not(.collapsed) .mobile-explorer .lucide-menu line {
+    stroke: var(--dark);
+  }
   .explorer:not(.collapsed) .mobile-explorer {
     position: fixed;
     top: 16px;
     left: auto;
     right: 16px;
+    border: 1px solid var(--darkgray);
+    border-radius: 6px;
+    background-color: var(--light);
   }
 }
 
@@ -395,12 +401,16 @@ html[data-nav-transitioning] .page > #quartz-body > * {
     /* Explorer/hamburger already carries order:-1 from its own plugin CSS
        — leaving page-title at the default order:0 puts it right after,
        so the header reads hamburger, then title, then search/dark mode
-       (the conventional mobile layout), instead of title-before-hamburger. */
+       (the conventional mobile layout), instead of title-before-hamburger.
+       margin-left clears the hamburger's tap target so opening the menu
+       doesn't risk landing on the logo instead. */
+    margin-left: 1.5rem;
   }
   .page-title a {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    align-items: flex-end;
   }
 }
 
@@ -409,8 +419,18 @@ html[data-nav-transitioning] .page > #quartz-body > * {
    defined "sheet" edge, breathing room, and clearer touch targets instead. */
 @media #{$mobile} {
   .explorer .explorer-content {
-    width: 88vw;
-    max-width: 340px;
+    /* #quartz-body carries 1rem of horizontal padding on mobile (keeps
+       regular page content — header, article — inset from the edge), but
+       this panel is position:absolute inside .sidebar.left, which inherits
+       that same inset as its own left edge. Left uncorrected, the slide-out
+       panel sat visibly detached from the true screen edge by that 1rem,
+       while the padding is doing its job everywhere else. Cancel just the
+       inherited offset here so the panel reaches the true edge without
+       touching #quartz-body's padding (which would shift the actual page
+       content, not just this panel). */
+    left: -1rem;
+    width: calc(88vw + 1rem);
+    max-width: calc(340px + 1rem);
     box-shadow: 2px 0 24px rgba(0, 0, 0, 0.18);
     border-right: 1px solid var(--lightgray);
     padding-top: 5rem;
@@ -419,13 +439,19 @@ html[data-nav-transitioning] .page > #quartz-body > * {
   .explorer .explorer-content::before {
     content: "Explorer";
     position: absolute;
-    top: 4rem;
-    left: 1.1rem;
+    top: 3.2rem;
+    left: 2.1rem;
     font-family: var(--bodyFont);
     font-weight: 700;
-    font-size: 0.95rem;
+    font-size: 1.45rem;
     color: var(--dark);
     z-index: 1;
+  }
+
+  /* Top-level list items were sitting closer to the panel edge than the
+     "Explorer" label above them — pad the list in to line up under it. */
+  .explorer .explorer-content > .explorer-ul {
+    padding-left: 2.1rem;
   }
 
   .explorer .explorer-content .folder-outer > ul {
