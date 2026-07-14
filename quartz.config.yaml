@@ -204,8 +204,9 @@ plugins:
   - source: ./quartz-plugins/suggest-edit
     enabled: true
     layout:
-      position: beforeBody
+      position: left
       priority: 25
+      group: toolbar
   - source: ./quartz-plugins/home-search
     enabled: true
     layout:
@@ -329,13 +330,11 @@ layout:
     folder:
       exclude:
         - reader-mode
-        - suggest-edit
       positions:
         right: []
     tag:
       exclude:
         - reader-mode
-        - suggest-edit
       positions:
         right: []
     canvas: {}
