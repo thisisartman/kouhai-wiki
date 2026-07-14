@@ -183,8 +183,6 @@ plugins:
       position: left
       priority: 20
       group: toolbar
-      groupOptions:
-        grow: true
       condition: not-index
   - source: github:quartz-community/backlinks
     enabled: true
@@ -319,7 +317,7 @@ layout:
     toolbar:
       priority: 35
       direction: row
-      gap: 0.5rem
+      gap: 1.2rem
   byPageType:
     "404":
       positions:

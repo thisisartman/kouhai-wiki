@@ -1,4 +1,37 @@
+@use "sass:map";
 @use "./variables.scss" as *;
+
+/* Quartz's default .page cap is $desktop + 300px (1500px) — fine on a
+   typical laptop screen, but on wide monitors it leaves large empty gutters
+   on both sides while the sidebars/article stay fixed-width in the middle.
+   Give it more room before it maxes out, without going fully edge-to-edge
+   (which would look bad on ultrawide/4K). */
+@media #{$desktop} {
+  .page {
+    max-width: calc(#{map.get($breakpoints, desktop)} + 500px);
+  }
+}
+
+/* Give the last toolbar item (dark-mode) clearance from the sidebar's
+   right edge, matching the gap already used between the toolbar icons
+   themselves. */
+.darkmode {
+  margin-right: 1.2rem;
+}
+
+/* $topSpacing (6rem) is core Quartz's top padding/margin for the sidebar
+   and page-header, reset to 0 only below the mobile breakpoint (800px) —
+   at tablet widths (800–1200px) it's still fully applied, leaving a large
+   empty band above the header before content starts. Zero it there too;
+   tablet doesn't need that much breathing room. */
+@media #{$tablet} {
+  .page > #quartz-body .sidebar {
+    padding-top: 1rem;
+  }
+  .page > #quartz-body .page-header {
+    margin-top: 0;
+  }
+}
 
 /* IUJ Kouhai Wiki — Typography overrides */
 
@@ -233,6 +266,32 @@ a.internal.alias {
    all sides without touching each card's own internal padding. */
 .search > .search-container > .search-space > .search-layout > .results-container {
   padding: 0.5rem;
+}
+
+/* The whole title/search/suggest-edit/dark-mode/explorer toolbar lives
+   inside .sidebar.left, a narrow fixed 320px column ($sidePanelWidth in
+   variables.scss) — not a full-width top bar, at ANY screen size. A 14rem
+   bordered "Search" bar plus suggest-edit's colored badge plus dark-mode
+   don't fit in that column's ~256px usable width (320px minus the
+   sidebar's own 2rem/side padding) even on desktop, which pushed dark-mode
+   out of the row entirely. Keep search icon-only everywhere, matching
+   suggest-edit and dark-mode's compact footprint at every breakpoint. */
+.search {
+  max-width: none;
+  flex-grow: 0 !important;
+}
+.search > .search-button {
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: none;
+  justify-content: center;
+}
+.search > .search-button svg {
+  margin: 0;
+}
+.search > .search-button > p {
+  display: none;
 }
 
 /* Desktop's collapsed explorer shrinks to a fixed 1.2rem flex-basis with
