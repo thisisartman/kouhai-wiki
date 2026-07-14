@@ -16,6 +16,8 @@ const suggestEditCss = `
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 0.4rem;
+  box-sizing: border-box;
   width: 2rem;
   height: 2rem;
   padding: 0;
@@ -23,6 +25,9 @@ const suggestEditCss = `
   border: 1px solid var(--secondary);
   border-radius: 8px;
   color: var(--light);
+  font-family: var(--bodyFont);
+  font-weight: 600;
+  font-size: 0.85rem;
   cursor: pointer;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
   transition: filter 0.15s ease, transform 0.15s ease;
@@ -31,7 +36,19 @@ const suggestEditCss = `
   filter: brightness(1.1);
   transform: translateY(-1px);
 }
-.suggest-edit-btn svg { width: 16px; height: 16px; }
+.suggest-edit-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
+.suggest-edit-btn .se-btn-label { display: none; }
+/* Room to spare above mobile — show the label alongside the icon instead
+   of staying icon-only, closer to how this button looked before it moved
+   into the compact mobile header toolbar. */
+@media (min-width: 800px) {
+  .suggest-edit-btn {
+    width: auto;
+    height: auto;
+    padding: 0.5rem 1rem;
+  }
+  .suggest-edit-btn .se-btn-label { display: inline; }
+}
 .se-overlay {
   position: fixed;
   inset: 0;
@@ -380,6 +397,7 @@ const SuggestEdit: QuartzComponentConstructor = () => {
           <path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z" />
           <path d="m15 5 4 4" />
         </svg>
+        <span class="se-btn-label">Suggest an edit</span>
       </button>
     );
   };
