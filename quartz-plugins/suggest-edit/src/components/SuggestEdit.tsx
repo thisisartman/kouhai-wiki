@@ -66,6 +66,13 @@ const suggestEditCss = `
   color: var(--gray);
 }
 .se-field { margin-bottom: 0.9rem; }
+.se-field-row {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+}
+.se-field-row .se-field { flex: 1 1 auto; min-width: 0; }
+.se-field-row .se-field-year { flex: 0 0 auto; width: 6.5rem; }
 .se-field label {
   display: block;
   font-size: 0.8rem;
@@ -89,6 +96,35 @@ const suggestEditCss = `
 .se-field textarea:focus,
 .se-field input:focus { outline: none; border-color: var(--secondary); }
 .se-hint { font-size: 0.72rem; color: var(--gray); margin-top: 0.25rem; }
+.se-field select {
+  width: 100%;
+  box-sizing: border-box;
+  font-family: var(--bodyFont);
+  font-size: 0.9rem;
+  color: var(--dark);
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  padding: 0.5rem 0.6rem;
+}
+.se-field select:focus { outline: none; border-color: var(--secondary); }
+.se-consent {
+  display: none;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.9rem;
+  font-size: 0.8rem;
+  color: var(--darkgray);
+}
+.se-consent.se-show { display: flex; }
+.se-consent input {
+  /* Browsers apply their own UA-stylesheet margin to checkboxes (varies by
+     browser, usually a few px), which threw the checkbox's left edge out
+     of alignment with the field labels/inputs above it. Zero it out and
+     let the label's own gap handle spacing instead. */
+  margin: 0;
+  flex-shrink: 0;
+}
 /* display:none (not just off-screen positioning) is what browser autofill
    actually respects as "skip this field" — off-screen positioning alone
    still left it visible to autofill, which would silently fill it when
@@ -127,6 +163,19 @@ const suggestEditCss = `
 const suggestEditScript = `
 (function () {
   var ENDPOINT = "${FORMSUBMIT_ENDPOINT}";
+  var YEAR_PLACEHOLDER = "Select year";
+
+  // Built at runtime (not baked in at build time) so the range never goes
+  // stale. Covers alumni looking back a while plus a few years of incoming
+  // students still to graduate.
+  function buildYearOptions() {
+    var now = new Date().getFullYear();
+    var opts = "";
+    for (var y = now + 3; y >= now - 15; y--) {
+      opts += '<option value="' + y + '">' + y + "</option>";
+    }
+    return opts;
+  }
 
   function ensureModal() {
     if (document.getElementById("se-overlay")) return document.getElementById("se-overlay");
@@ -148,6 +197,16 @@ const suggestEditScript = `
             '<div class="se-field"><label>Your IUJ email *</label>' +
               '<input type="email" name="reply_email" id="se-email" required autocomplete="email" placeholder="you@iuj.ac.jp">' +
               '<div class="se-hint">Must be an @iuj.ac.jp address.</div></div>' +
+            '<div class="se-field-row">' +
+              '<div class="se-field"><label>Country (optional)</label>' +
+                '<input type="text" name="country" id="se-country" autocomplete="country-name"></div>' +
+              '<div class="se-field se-field-year"><label>Class of</label>' +
+                '<select name="grad_year" id="se-grad-year"><option value="">' + YEAR_PLACEHOLDER + '</option>' + buildYearOptions() + '</select></div>' +
+            '</div>' +
+            '<label class="se-consent" id="se-consent">' +
+              '<input type="checkbox" name="credit_consent" id="se-consent-check">' +
+              '<span>List me as a Senpai Contributor</span>' +
+            '</label>' +
             '<input type="text" name="_honey" class="se-honey" tabindex="-1" autocomplete="off">' +
             '<div class="se-status" id="se-status"></div>' +
             '<div class="se-actions">' +
@@ -162,6 +221,20 @@ const suggestEditScript = `
         '</div>' +
       '</div>';
     document.body.appendChild(overlay);
+
+    // Consent checkbox only makes sense once there's a name/email to credit
+    // — stays hidden (and unchecked, off by default) until either is filled.
+    var consentLabel = overlay.querySelector("#se-consent");
+    var consentCheck = overlay.querySelector("#se-consent-check");
+    function syncConsentVisibility() {
+      var nameVal = overlay.querySelector("#se-name").value.trim();
+      var emailVal = overlay.querySelector("#se-email").value.trim();
+      var shouldShow = !!(nameVal || emailVal);
+      consentLabel.classList.toggle("se-show", shouldShow);
+      if (!shouldShow) consentCheck.checked = false;
+    }
+    overlay.querySelector("#se-name").addEventListener("input", syncConsentVisibility);
+    overlay.querySelector("#se-email").addEventListener("input", syncConsentVisibility);
 
     function close() { overlay.classList.remove("se-open"); }
     overlay.addEventListener("click", function (e) { if (e.target === overlay) close(); });
@@ -203,7 +276,10 @@ const suggestEditScript = `
         passage: overlay.querySelector("#se-passage").value,
         suggestion: overlay.querySelector("#se-suggestion").value,
         name: overlay.querySelector("#se-name").value,
-        reply_email: overlay.querySelector("#se-email").value
+        reply_email: overlay.querySelector("#se-email").value,
+        country: overlay.querySelector("#se-country").value,
+        grad_year: overlay.querySelector("#se-grad-year").value,
+        credit_consent: overlay.querySelector("#se-consent-check").checked ? "yes" : "no"
       };
       fetch(ENDPOINT, {
         method: "POST",
@@ -253,6 +329,7 @@ const suggestEditScript = `
       overlay.querySelector("#se-form").reset();
       overlay.querySelector("#se-status").textContent = "";
       overlay.querySelector("#se-send").disabled = false;
+      overlay.querySelector("#se-consent").classList.remove("se-show");
       overlay.dataset.article = btn.dataset.article || document.title;
       overlay.dataset.slug = btn.dataset.slug || "";
       overlay.dataset.url = location.href;
