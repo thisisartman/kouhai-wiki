@@ -23,10 +23,9 @@ function u2(e2, t2, n2, o2, i2, u3) {
 // src/components/SuggestEdit.tsx
 var FORMSUBMIT_ENDPOINT = "https://formsubmit.co/ajax/5b121b476fc3d310066a6e491050c454";
 var suggestEditCss = `
-/* Global header toolbar icon \u2014 sized/styled to match the search and
-   dark-mode buttons it now sits alongside (icon-only, monochrome,
-   transparent background), rather than the colored text pill this used
-   to be back when it only rendered inline on article pages. */
+/* Global header toolbar icon \u2014 sized to fit alongside the search/dark-mode
+   buttons, but keeps the original filled-badge look (colored background,
+   light icon) rather than going fully flat/monochrome like those. */
 .suggest-edit-btn {
   display: flex;
   align-items: center;
@@ -34,15 +33,19 @@ var suggestEditCss = `
   width: 2rem;
   height: 2rem;
   padding: 0;
-  background: transparent;
-  border: none;
-  color: var(--dark);
+  background: var(--secondary);
+  border: 1px solid var(--secondary);
+  border-radius: 8px;
+  color: var(--light);
   cursor: pointer;
-  opacity: 0.75;
-  transition: opacity 0.15s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  transition: filter 0.15s ease, transform 0.15s ease;
 }
-.suggest-edit-btn:hover { opacity: 1; }
-.suggest-edit-btn svg { width: 18px; height: 18px; }
+.suggest-edit-btn:hover {
+  filter: brightness(1.1);
+  transform: translateY(-1px);
+}
+.suggest-edit-btn svg { width: 16px; height: 16px; }
 .se-overlay {
   position: fixed;
   inset: 0;
