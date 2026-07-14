@@ -1,14 +1,18 @@
-# Contributing to the MyIUJ! Kouhai Wiki
+# Contributing to the MyKouhai! Wiki
 
 Thanks for helping future kouhai! There are two ways to suggest changes — pick
 whichever fits you.
 
 ## 1. Suggest an edit — no GitHub account needed
 
-Every article has a **"Suggest an edit"** button. Click it, change the text, add
-your name (optional) and a short note about what you changed, and submit. Your
-suggestion is turned into a proposal for a maintainer to review — you don't need
-a GitHub account or any git knowledge.
+Every page has a **pencil icon** in the header (next to search and the dark-mode
+toggle) — click it to open the suggestion form. It has two tabs: **"Suggest an
+edit"** (for changing an existing page — highlight some text on the page first if
+you want to reference a specific passage) and **"Suggest a new page"** (for a topic
+you think the wiki is missing). Fill in what should change and why, your name and
+IUJ email are optional but appreciated, and submit. Your suggestion is turned into a
+proposal for a maintainer to review — you don't need a GitHub account or any git
+knowledge.
 
 > This web editor is part of the wiki's suggestion pipeline. If the button isn't
 > live yet, use option 2 below.
