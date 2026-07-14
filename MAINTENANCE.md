@@ -529,8 +529,11 @@ anyone's memory of a past conversation:
   Settings — not something to script around), but the planning/structuring work
   (what roles should exist, what a CONTRIBUTING.md update would need to say) can
   happen ahead of actually granting anything.
-- **Reconcile stale duplicate files** — `CHANGELOG.md`/`CONTRIBUTING.md`/
-  `CODEOWNERS` exist both in this repo and, as older copies, in the separate
-  project-management folder (`~/Documents/Claude/Projects/Kouhai Wiki/`, not a git
-  repo). They've drifted out of sync. Worth a cleanup pass to decide which folder is
-  the source of truth and stop duplicating.
+
+**Done, no longer backlog:** the stale duplicate `CHANGELOG.md`/`CONTRIBUTING.md`/
+`CODEOWNERS` copies that used to sit in the separate project-management folder
+(`~/Documents/Claude/Projects/Kouhai Wiki/`, not a git repo) were deleted on
+2026-07-14 — they were strictly older than this repo's own versions (the folder's
+`CODEOWNERS` still had an unfilled `@YOUR_GITHUB_USERNAME` placeholder). This repo's
+copies (`CHANGELOG.md`, `CONTRIBUTING.md`, `.github/CODEOWNERS`) are the only ones
+that exist now — don't recreate copies elsewhere.
