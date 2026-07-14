@@ -94,6 +94,30 @@ this problem — only plugin-`dist/` changes need the manual rebuild + restart. 
 gotcha cost real time during the 2026-07-14 session before the pattern was pinned
 down.
 
+### Using VS Code
+
+VS Code (with the Claude Code extension installed) is set up for this project
+specifically, opened at `~/Documents/Claude/Projects/Kouhai Wiki/Quartz` — the
+integrated terminal there is a fine place to run every command in this guide, and
+its built-in editor works for markdown content, `.scss`, `.yaml`, and `.tsx` alike;
+nothing here requires a specific editor.
+
+**One gotcha:** running `npx quartz build` (a one-off build, not `--serve`) while
+VS Code has this same repo open can hang or time out. VS Code's own file watcher
+(it watches the whole project folder to keep its file explorer, git status, and
+search index up to date) can contend with Quartz's build process, which does a lot
+of file I/O in a short burst. If a build seems stuck past ~30 seconds — normal build
+time is 15–25 seconds for the current ~94 content files — kill any stray build
+processes and retry:
+
+```bash
+pkill -f "quartz build"
+pkill -9 -f "esbuild --service"
+```
+
+This is more likely with a one-off `quartz build` than with `quartz build --serve`
+(the dev server), but can affect either.
+
 ---
 
 ## 3. Editing an Existing Article
