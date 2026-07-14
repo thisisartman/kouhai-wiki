@@ -9,29 +9,26 @@ import type {
 const FORMSUBMIT_ENDPOINT = "https://formsubmit.co/ajax/5b121b476fc3d310066a6e491050c454";
 
 const suggestEditCss = `
-.suggest-edit {
-  margin: 0.6rem 0 0.3rem;
-}
+/* Global header toolbar icon — sized/styled to match the search and
+   dark-mode buttons it now sits alongside (icon-only, monochrome,
+   transparent background), rather than the colored text pill this used
+   to be back when it only rendered inline on article pages. */
 .suggest-edit-btn {
-  display: inline-flex;
+  display: flex;
   align-items: center;
-  gap: 0.45rem;
-  font-family: var(--bodyFont);
-  font-weight: 600;
-  font-size: 0.95rem;
-  color: var(--light);
-  background: var(--secondary);
-  border: 1px solid var(--secondary);
-  border-radius: 8px;
-  padding: 0.5rem 1rem;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  background: transparent;
+  border: none;
+  color: var(--dark);
   cursor: pointer;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
-  transition: filter 0.15s ease, transform 0.15s ease;
+  opacity: 0.75;
+  transition: opacity 0.15s ease;
 }
-.suggest-edit-btn:hover {
-  filter: brightness(1.1);
-  transform: translateY(-1px);
-}
+.suggest-edit-btn:hover { opacity: 1; }
+.suggest-edit-btn svg { width: 18px; height: 18px; }
 .se-overlay {
   position: fixed;
   inset: 0;
@@ -351,37 +348,36 @@ const suggestEditScript = `
 `;
 
 const SuggestEdit: QuartzComponentConstructor = () => {
+  // Global header button now — renders on every page type (including the
+  // landing page and folder/tag listings), not just articles.
   const Component: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     const slug = (fileData.slug as string) || "";
-    // Don't show on the landing page.
-    if (slug === "index") return null;
     const title = (fileData.frontmatter?.title as string) || "";
     return (
-      <div class="suggest-edit">
-        <button
-          type="button"
-          class="suggest-edit-btn"
-          data-article={title}
-          data-slug={slug}
-          aria-haspopup="dialog"
+      <button
+        type="button"
+        class="suggest-edit-btn"
+        data-article={title}
+        data-slug={slug}
+        aria-haspopup="dialog"
+        aria-label="Suggest an edit"
+        title="Suggest an edit"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="16"
+          height="16"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="16"
-            height="16"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          >
-            <path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z" />
-            <path d="m15 5 4 4" />
-          </svg>
-          Suggest an edit
-        </button>
-      </div>
+          <path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z" />
+          <path d="m15 5 4 4" />
+        </svg>
+      </button>
     );
   };
 
