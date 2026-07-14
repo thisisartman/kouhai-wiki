@@ -37,18 +37,13 @@ const suggestEditCss = `
   transform: translateY(-1px);
 }
 .suggest-edit-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
+/* Stays icon-only at every screen size — this button lives in
+   .sidebar.left, a narrow fixed-width column (not a full top bar) at any
+   breakpoint, so an expanded text label here doesn't have room and just
+   pushes dark-mode out of the toolbar row. The title attribute on the
+   button covers the tooltip/accessible name instead, same as search and
+   dark-mode's icon-only buttons. */
 .suggest-edit-btn .se-btn-label { display: none; }
-/* Room to spare above mobile — show the label alongside the icon instead
-   of staying icon-only, closer to how this button looked before it moved
-   into the compact mobile header toolbar. */
-@media (min-width: 800px) {
-  .suggest-edit-btn {
-    width: auto;
-    height: auto;
-    padding: 0.5rem 1rem;
-  }
-  .suggest-edit-btn .se-btn-label { display: inline; }
-}
 .se-overlay {
   position: fixed;
   inset: 0;
@@ -76,6 +71,29 @@ const suggestEditCss = `
 .se-modal h3 {
   margin: 0 0 0.15rem;
   font-size: 1.15rem;
+}
+.se-mode-toggle {
+  display: flex;
+  gap: 0.5rem;
+  margin: 0.7rem 0 0.9rem;
+}
+.se-mode-btn {
+  flex: 1;
+  text-align: center;
+  font-family: var(--bodyFont);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--darkgray);
+  background: transparent;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  padding: 0.45rem 0.6rem;
+  cursor: pointer;
+}
+.se-mode-btn.se-mode-active {
+  background: var(--secondary);
+  color: var(--light);
+  border-color: var(--secondary);
 }
 .se-article {
   margin: 0 0 1rem;
@@ -203,11 +221,15 @@ const suggestEditScript = `
       '<div class="se-modal" role="dialog" aria-modal="true" aria-labelledby="se-title">' +
         '<div class="se-body">' +
           '<h3 id="se-title">Suggest an edit</h3>' +
+          '<div class="se-mode-toggle">' +
+            '<button type="button" class="se-mode-btn se-mode-active" id="se-mode-edit">Suggest an edit</button>' +
+            '<button type="button" class="se-mode-btn" id="se-mode-new">Suggest a new page</button>' +
+          '</div>' +
           '<p class="se-article" id="se-article"></p>' +
           '<form id="se-form">' +
-            '<div class="se-field"><label>Selected passage (optional)</label>' +
+            '<div class="se-field" id="se-passage-field"><label>Selected passage (optional)</label>' +
               '<textarea name="passage" id="se-passage" rows="3" placeholder="Highlight text on the page before clicking, or paste it here."></textarea></div>' +
-            '<div class="se-field"><label>What should change, and why? *</label>' +
+            '<div class="se-field"><label id="se-suggestion-label">What should change, and why? *</label>' +
               '<textarea name="suggestion" id="se-suggestion" rows="4" required></textarea></div>' +
             '<div class="se-field"><label>Your name (optional)</label>' +
               '<input type="text" name="name" id="se-name" autocomplete="name"></div>' +
@@ -253,6 +275,26 @@ const suggestEditScript = `
     overlay.querySelector("#se-name").addEventListener("input", syncConsentVisibility);
     overlay.querySelector("#se-email").addEventListener("input", syncConsentVisibility);
 
+    // Mode toggle — "edit" (default) vs "new" page/topic suggestion. Stored
+    // on the overlay itself (not a plain closure var) so the button's click
+    // handler in wire(), which calls ensureModal() again on every open but
+    // only runs this setup block once, can still reset it back to "edit" on
+    // each open via overlay._seSetMode.
+    function setMode(mode) {
+      overlay.dataset.mode = mode;
+      overlay.querySelector("#se-mode-edit").classList.toggle("se-mode-active", mode === "edit");
+      overlay.querySelector("#se-mode-new").classList.toggle("se-mode-active", mode === "new");
+      overlay.querySelector("#se-passage-field").style.display = mode === "new" ? "none" : "block";
+      overlay.querySelector("#se-suggestion-label").textContent =
+        mode === "new" ? "What page/topic should be added, and why? *" : "What should change, and why? *";
+      var article = overlay.dataset.article || document.title;
+      overlay.querySelector("#se-article").textContent =
+        mode === "new" ? "Suggested while browsing: " + article : "On: " + article;
+    }
+    overlay._seSetMode = setMode;
+    overlay.querySelector("#se-mode-edit").addEventListener("click", function () { setMode("edit"); });
+    overlay.querySelector("#se-mode-new").addEventListener("click", function () { setMode("new"); });
+
     function close() { overlay.classList.remove("se-open"); }
     overlay.addEventListener("click", function (e) { if (e.target === overlay) close(); });
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") close(); });
@@ -265,12 +307,13 @@ const suggestEditScript = `
       if (honey) { close(); return; } // bot trap
       var statusEl = overlay.querySelector("#se-status");
       var sendBtn = overlay.querySelector("#se-send");
+      var mode = overlay.dataset.mode || "edit";
       var suggestionVal = overlay.querySelector("#se-suggestion").value.trim();
       var emailVal = overlay.querySelector("#se-email").value.trim();
       var atIdx = emailVal.indexOf("@");
       if (!suggestionVal) {
         statusEl.className = "se-status se-error";
-        statusEl.textContent = "Please describe what should change.";
+        statusEl.textContent = mode === "new" ? "Please describe the page/topic to add." : "Please describe what should change.";
         overlay.querySelector("#se-suggestion").focus();
         return;
       }
@@ -284,9 +327,10 @@ const suggestEditScript = `
       statusEl.textContent = "Sending…";
       sendBtn.disabled = true;
       var payload = {
-        _subject: "Kouhai Wiki suggestion: " + (overlay.dataset.article || "unknown"),
+        _subject: mode === "new" ? "Kouhai Wiki new page suggestion" : "Kouhai Wiki suggestion: " + (overlay.dataset.article || "unknown"),
         _template: "table",
         _captcha: "false",
+        type: mode === "new" ? "New page/topic" : "Edit",
         article: overlay.dataset.article || "",
         page_url: overlay.dataset.url || "",
         slug: overlay.dataset.slug || "",
@@ -350,7 +394,7 @@ const suggestEditScript = `
       overlay.dataset.article = btn.dataset.article || document.title;
       overlay.dataset.slug = btn.dataset.slug || "";
       overlay.dataset.url = location.href;
-      overlay.querySelector("#se-article").textContent = "On: " + (btn.dataset.article || document.title);
+      overlay._seSetMode("edit");
       // Falls back to a fresh read for keyboard activation (Enter/Space on
       // a focused button never fires mousedown, so pendingSelection stays
       // empty — but nothing has cleared the selection in that path either).
