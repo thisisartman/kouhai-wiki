@@ -103,7 +103,12 @@ var suggestEditCss = `
 .se-field textarea:focus,
 .se-field input:focus { outline: none; border-color: var(--secondary); }
 .se-hint { font-size: 0.72rem; color: var(--gray); margin-top: 0.25rem; }
-.se-honey { position: absolute; left: -9999px; }
+/* display:none (not just off-screen positioning) is what browser autofill
+   actually respects as "skip this field" \u2014 off-screen positioning alone
+   still left it visible to autofill, which would silently fill it when
+   autofilling name/email and trip the bot trap below, closing the modal
+   with no error shown. */
+.se-honey { display: none; }
 .se-actions {
   display: flex;
   justify-content: flex-end;
