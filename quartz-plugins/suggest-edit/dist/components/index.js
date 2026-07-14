@@ -30,6 +30,8 @@ var suggestEditCss = `
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 0.4rem;
+  box-sizing: border-box;
   width: 2rem;
   height: 2rem;
   padding: 0;
@@ -37,6 +39,9 @@ var suggestEditCss = `
   border: 1px solid var(--secondary);
   border-radius: 8px;
   color: var(--light);
+  font-family: var(--bodyFont);
+  font-weight: 600;
+  font-size: 0.85rem;
   cursor: pointer;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
   transition: filter 0.15s ease, transform 0.15s ease;
@@ -45,7 +50,19 @@ var suggestEditCss = `
   filter: brightness(1.1);
   transform: translateY(-1px);
 }
-.suggest-edit-btn svg { width: 16px; height: 16px; }
+.suggest-edit-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
+.suggest-edit-btn .se-btn-label { display: none; }
+/* Room to spare above mobile \u2014 show the label alongside the icon instead
+   of staying icon-only, closer to how this button looked before it moved
+   into the compact mobile header toolbar. */
+@media (min-width: 800px) {
+  .suggest-edit-btn {
+    width: auto;
+    height: auto;
+    padding: 0.5rem 1rem;
+  }
+  .suggest-edit-btn .se-btn-label { display: inline; }
+}
 .se-overlay {
   position: fixed;
   inset: 0;
@@ -374,24 +391,27 @@ var SuggestEdit = () => {
         "aria-haspopup": "dialog",
         "aria-label": "Suggest an edit",
         title: "Suggest an edit",
-        children: /* @__PURE__ */ u2(
-          "svg",
-          {
-            xmlns: "http://www.w3.org/2000/svg",
-            width: "16",
-            height: "16",
-            viewBox: "0 0 24 24",
-            fill: "none",
-            stroke: "currentColor",
-            "stroke-width": "2",
-            "stroke-linecap": "round",
-            "stroke-linejoin": "round",
-            children: [
-              /* @__PURE__ */ u2("path", { d: "M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z" }),
-              /* @__PURE__ */ u2("path", { d: "m15 5 4 4" })
-            ]
-          }
-        )
+        children: [
+          /* @__PURE__ */ u2(
+            "svg",
+            {
+              xmlns: "http://www.w3.org/2000/svg",
+              width: "16",
+              height: "16",
+              viewBox: "0 0 24 24",
+              fill: "none",
+              stroke: "currentColor",
+              "stroke-width": "2",
+              "stroke-linecap": "round",
+              "stroke-linejoin": "round",
+              children: [
+                /* @__PURE__ */ u2("path", { d: "M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z" }),
+                /* @__PURE__ */ u2("path", { d: "m15 5 4 4" })
+              ]
+            }
+          ),
+          /* @__PURE__ */ u2("span", { class: "se-btn-label", children: "Suggest an edit" })
+        ]
       }
     );
   };
