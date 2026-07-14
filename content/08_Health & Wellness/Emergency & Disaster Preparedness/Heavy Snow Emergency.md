@@ -3,7 +3,7 @@ title: Heavy Snow Emergency
 section: 08_Health & Wellness/Emergency & Disaster Preparedness
 tags: [health, emergency, snow, winter, safety, disaster]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-14
 ---
 
 Minami-Uonuma is in Japan's snow country (雪国, *yukiguni*). In heavy winters, snowfall can exceed 3 metres accumulated on the ground. This is a genuine hazard — not just an inconvenience. Knowing how to handle it safely is part of living here.
@@ -46,6 +46,8 @@ Fresh snow conceals compacted ice underneath — the invisible hazard. Particula
 - **Never walk directly alongside a building wall when there's significant roof snow**
 - Look for yellow warning signs (落雪注意 — *rakusetsu chūi*) — these mark danger zones
 - IUJ buildings may have guards or nets but this is not universal
+- Dorm Staff sometimes clear roof snow directly (dropping it to the ground) — when this happens, IUJ notifies affected dorms in advance and asks everyone to stay away from windows and not look outside during the work
+- Don't force open a window that's stuck from snow buildup between it and the AC unit outside (common in SD2/SD3, especially higher floors) — you can break the screen. Contact Dorm Staff instead.
 
 > ⚠️ Roof snow falls silently and fast. This is a genuine cause of injury and death in snow country every winter. Take the warning signs seriously.
 
@@ -68,7 +70,7 @@ Heavy snow can bring down power lines. If power goes out:
 
 1. Check if it's building-wide or room-only (circuit breaker vs external outage)
 2. Keep phones charged — conserve battery if outage is prolonged
-3. Report to dorm management
+3. Report to Dorm Staff (SD1 Dorm Staff Office) — **025-779-1555 (ext. 555)**, dorm@iuj.ac.jp, business hours 8:30–17:00 (closed 12:00–13:00)
 4. Dress in layers immediately — room temperatures drop fast without heating
 5. IUJ should have an emergency protocol for extended outages — ask student affairs in advance
 
