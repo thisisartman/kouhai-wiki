@@ -75,6 +75,10 @@ An outdoor BBQ area on campus, usable in warm months (roughly April–October). 
 
 **Currently closed.** IUJ restricted rooftop access as part of a broader safety policy. This is unlikely to change.
 
+### Gym
+
+Free to use, two floors, with a Women's Only Hour and shoe/water-fountain rules — see [[Gym Rules]] for the full breakdown. Like other campus spaces, it can be booked for events and closed during others.
+
 ---
 
 ## Dorm Staff

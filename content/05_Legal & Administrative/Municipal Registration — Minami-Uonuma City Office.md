@@ -29,7 +29,7 @@ Registering with the city is legally required within 14 days of arrival. IUJ org
 
 ## What to Do in One Visit
 
-Combine these on the same city office visit — they're handled by different counters but in the same building:
+Combine these in the same on-campus session — they're handled by different counters, set up side by side for the day:
 
 1. ☑️ **Residence Registration (住民登録)** — register your address
 2. ☑️ **National Health Insurance (国民健康保険) enrollment** — sign up immediately after registering
@@ -37,7 +37,7 @@ Combine these on the same city office visit — they're handled by different cou
 
 Tell the first counter you need to do all of them.
 
-> ⚠️ **Correction:** this article previously listed pension exemption as something to apply for during this same visit. That's not how it works at IUJ — **don't try to apply for it here.** IUJ submits your pension exemption automatically through a separate mandatory event called Tax & Pension Day, held later in the year. See [[Pension Exemption — How to Apply]] for the real process.
+> ⚠️ **Don't try to apply for pension exemption here.** IUJ submits your pension exemption automatically through a separate mandatory event called Tax & Pension Day, held later in the year. See [[Pension Exemption — How to Apply]] for the real process.
 
 ---
 
@@ -75,8 +75,8 @@ Any time your address changes (room change, moving off-campus):
 
 ## English Support
 
-- City office staff generally do not speak English
-- IUJ may provide a support letter or send a staff member with the group
+- City office staff generally do not speak English, whether they're visiting IUJ for the initial session or you're at the actual city office for a later update
+- IUJ may provide a support letter, or have a staff member on hand during the on-campus session
 - Bring Google Translate or a translation app ready on your phone
 - Forms are in Japanese — IUJ seniors or staff can help pre-fill them
 

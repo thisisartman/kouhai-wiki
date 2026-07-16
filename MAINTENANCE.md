@@ -303,8 +303,11 @@ Workflow:
    section per §5, if it doesn't fit anywhere existing), citing them as the source if
    useful context, then commit/push as usual.
 4. If `credit_consent` is `"yes"`: add them to the About page's Contributors list —
-   see §15 for where that section will live once built (not live yet as of this
-   writing — keep a running note of who consented until it exists).
+   it's live at `content/00_About Wiki/index.md` under "Senpai Contributors"
+   (built 2026-07-17). Just add a `Name (count)` line; Adithya's entry there is
+   the running example. Group under `### Class of YYYY` headings once there are
+   enough entries per class to justify it — see the page's own HTML-comment
+   maintenance note for details.
 5. If it needs more info: email them back at `reply_email`.
 6. If it's spam/junk: ignore and delete. The honeypot field filters most bots, but a
    determined human can still submit garbage — no automated moderation beyond that.
@@ -495,22 +498,65 @@ in `custom.scss`.
 Things discussed but deliberately deferred — parked here instead of relying on
 anyone's memory of a past conversation:
 
-- **About page — Contributors list.** Plan: an "about me" blurb on
-  `content/00_About Wiki/index.md`, plus a **Contributors** section listing everyone
-  who's submitted a suggestion with `credit_consent: yes` (§7), by name, with their
-  contribution count in brackets (e.g. `Jane Doe (3)`) — optionally grouped by
-  graduating class using the `grad_year` field already collected on the form. This
-  is **manually maintained** (there's no database to automate it from — Formsubmit
-  only emails submissions, nothing is logged anywhere queryable), so it's on
-  whoever's maintaining the site to keep a running tally as suggestions come in and
-  periodically update the page.
-- **Fact-check remaining sections** against source material (official IUJ emails/
-  documents) — Legal/Administrative, Finance/Banking, and Health/Wellness were
-  checked and corrected in July 2026; Academics, Daily Life, Social Life & Culture,
-  Travel & Leisure, and IT & Productivity have not been checked yet.
-- **iOS-specific behavior parity check** — confirm mobile nav, search overlay,
-  breadcrumbs, and the suggest-edit modal all behave identically on iOS Safari as on
-  Android/desktop browsers. Not yet done.
+- ~~About page — Contributors list~~ — **DONE 2026-07-17.** Live at
+  `content/00_About Wiki/index.md` under "Senpai Contributors": name + `(count)`
+  format, flat list for now (Adithya's the first entry), grouping by
+  graduating class deferred until there are enough entries per class to
+  justify it. **Manually maintained** — there's no database to automate it
+  from (Formsubmit only emails submissions), so keep a running tally as
+  suggestions with `credit_consent: yes` come in (§7).
+- ~~Fact-check remaining sections~~ — **DONE 2026-07-16.** All 8 sections checked
+  against the 550 official IUJ emails (see CHANGELOG.md for the full per-section
+  breakdown). Fixes/additions landed in Academics, Daily Life, Social Life &
+  Culture, and Travel & Leisure; IT & Productivity had no official source to check
+  against and needed no changes.
+- ~~5 stub-page wikilinks~~ — **DONE 2026-07-17.** Gym Rules written (new article
+  under `03_Housing/`); Community & Festivals's two inconsistent link names merged
+  into a single link to the existing `Festivals — Campus & Local` article (no
+  separate India-community page exists or has a source to justify one); Room
+  Setup Tips deliberately kept as a stub awaiting senior contributions (no
+  official or existing source for dorm furniture/fixtures — see CHANGELOG.md);
+  Part-Time Work was already resolved in the 2026-07-14 link audit.
+- **Campus Facilities & Bookings article — flagged, not started.** The gym,
+  classrooms, CNP, and MLIC Hall are all bookable/closable campus spaces that
+  currently have partial or no coverage (Gym Rules briefly mentions bookability;
+  CNP has a subsection in `Dorm Life & Facilities.md`; classrooms and MLIC Hall
+  have nothing). A future pass should decide: one combined article, or separate
+  ones per space.
+- **My Number ↔ Japanese phone number cross-reference — flagged 2026-07-17, not
+  written yet.** `SIM & Internet Setup.md`'s "What You Need to Sign Up" list
+  (Passport, Residence Card, address, payment method) doesn't mention My Number
+  at all. **Tone for when this gets written**: it's carrier-dependent — some
+  require My Number for a contract, some don't — user will confirm which is
+  which before this goes in, so don't state it as a flat universal requirement.
+  Regardless of which carriers require it, note that getting the physical My
+  Number Card is worth doing anyway (see `My Number Card — How to Get It &
+  Why.md`, which already covers the easy letter-based process — arrives at your
+  dorm mailbox 1-2 weeks after city registration). User said they'll add this
+  later; not actioned now.
+- **"Pending pages" list — flagged 2026-07-17, not built.** Idea: a section
+  (About Wiki page or standalone) listing articles that are incomplete/thin, so
+  readers with relevant knowledge can pick one and contribute via Suggest an
+  Edit. Feasible cheaply: 13 of 82 articles already carry `status:
+  needs-verification` in frontmatter — that's the existing "needs work" signal,
+  no new tagging required. Design question left open: for an article that
+  already exists but is thin (e.g. Room Setup Tips), the natural flow is
+  **"Suggest an edit" mode** on that page directly (auto-fills "On: <article>"),
+  not "Suggest a new page" mode — confirm this is the intended flow before
+  building, since the user's phrasing ("switch to the new topic section")
+  suggested new-page mode, which is really for topics with no page at all.
+- ~~iOS-specific behavior parity check~~ — **CLOSED 2026-07-17.** Turned out to
+  be just a text-copy issue on Safari, not a broader nav/search/breadcrumb/
+  suggest-edit parity problem. Resolved, no longer tracked.
+- ~~Add a "courses" field to the suggest-edit form~~ — **SUPERSEDED
+  2026-07-17.** Considered, then dropped in favor of a **Program** field
+  instead (free text, e.g. "MBA", "IR" — not courses taken). See the form
+  reorganization note below.
+- **Suggest-edit form reorganized — DONE 2026-07-17.** Country moved to pair
+  with Name (was paired with Class of); a new **Program** field (free text)
+  takes Country's old slot next to Class of. New row order: [Name | Country],
+  email (unchanged, standalone), [Program | Class of]. See §7 for the updated
+  field list.
 - **A floating action button (FAB)** for "Suggest an edit" instead of the header
   icon — would sidestep the narrow-sidebar-column constraint in §13 entirely, and be
   more thumb-reachable on mobile. Considered not worth doing for search/dark-mode
