@@ -65,7 +65,7 @@ Because IUJ students are registered residents of Minamiuonuma City, you qualify 
 - **If you live in SD4 or off-campus:** Check your mailbox — they arrive in the city magazine in December
 - **Valid:** December 1 – March 22 (approximately)
 - **Multiple vouchers can be stacked** — two vouchers on a ¥5,000 ticket = ¥4,000 off
-- **Eligible resorts (2025–2026):** Ishiuchi Maruyama, Maiko Snow Resort, Joetsu Kokusai, Chateau Shiozawa
+- **Eligible resorts (2025–2026):** Ishiuchi Maruyama, Maiko Snow Resort, Joetsu Kokusai, Chateau Shiozawa, Muica Snow Resort, Muikamachi Hakkaisan, and Hakkaisanroku (note: Hakkaisan and Hakkaisanroku are two different resorts — Hakkaisanroku is the one close to IUJ)
 
 > 💡 With four ¥2,000 vouchers, a full day at most of these resorts is essentially free on the lift ticket alone. Don't leave OSS without picking these up in December.
 
@@ -96,6 +96,9 @@ See [[Festivals — Campus & Local]] for full details. Early August; one of Japa
 
 **Local Summer Festivals (夏祭り, *natsumatsuri*)**
 Almost every town in Japan holds a summer festival with food stalls, yukata (light cotton kimono), and traditional events. Minami-Uonuma, Nagaoka, and Niigata City all have summer matsuri worth attending.
+
+**Naked Man Festival (裸押合大祭, Hadaka Oshiai Taisai) — Early March**
+Urasa's own major matsuri, held annually at Bishamon-do Temple (see [[Local Attractions — Urasa, Nagaoka, Niigata City]]) — a 1,200-year-old event where participants march to the temple in loincloths. IUJ runs dedicated shuttle buses from campus for it; watch for the GSO announcement in late February/early March with the bus schedule and map. Don't miss this one — it happens right on IUJ's doorstep.
 
 **Niigata Beaches**
 The Sea of Japan coast near Niigata City has beaches accessible in July and August. Not tropical, but a pleasant summer day trip.

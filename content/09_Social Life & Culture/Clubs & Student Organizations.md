@@ -29,6 +29,7 @@ IUJ's student body is small and international — clubs are the fastest way to b
 - **Model UN Club** — particularly relevant for IR students; competition participation possible
 - **Entrepreneurship / Business Club** — MBA-heavy; case competitions, guest speakers
 - **Research Circles** — informal groups organized around thesis topics or faculty research
+- **TEDxIUJ** — student committee that runs an annual TEDx event on campus (independently licensed TEDx event, ~100-seat audience); also sells event merchandise
 
 ### Sports & Fitness
 - **Football (Soccer) Club**
@@ -45,10 +46,11 @@ IUJ's student body is small and international — clubs are the fastest way to b
 - **Film Club** (if active)
 - **Music / Jam sessions** — informal but consistent at IUJ
 - **Language Exchange groups** — pair up with Japanese students for mutual language practice
+- **UMEX** — not an IUJ club, but a local Minamiuonuma volunteer/exchange group that regularly invites IUJ students to potluck-style events (e.g. a New Year's party at Cafe No Problem in Urasa) featuring Japanese traditional dance, tea ceremony, and games; a good low-key way to meet locals outside CAT
 
 ### Interest-Based
 - **Photography Club**
-- **Hiking / Outdoor Club** — Niigata's mountains are right there
+- **IUJ Alpine and Trekking Society** — the hiking club's official name; open to beginners and experienced hikers alike, framed around Japanese mountaineering traditions
 - **Cooking Club** — practical and social; relevant for [[Cooking Basics & Cheap Meal Prep]]
 
 ---

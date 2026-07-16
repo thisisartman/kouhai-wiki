@@ -43,6 +43,8 @@ All bicycles in Japan must be registered. If you buy second-hand, the previous r
 
 **At a bike shop or police koban:** Bring your Residence Card and the bike. Staff handle the rest.
 
+> ⚠️ **This is separate from IUJ's own mandatory registration.** In addition to the national 防犯登録, IUJ (OSS/OGA/Dorm Staff) requires every student who owns a bicycle — including SD4 dorm residents and off-campus students — to register it directly with the university via [sites.google.com/iuj.ac.jp/bicycle/home](https://sites.google.com/iuj.ac.jp/bicycle/home) (log in with your IUJ account). Register under your own name, one bicycle per person. IUJ periodically sweeps the dormitory and main building parking areas and **confiscates any bicycle that isn't registered or is still under a graduated student's name** — no advance notice is given for the collection date. Register promptly after buying a bike, don't wait for a reminder email.
+
 ---
 
 ## Renting

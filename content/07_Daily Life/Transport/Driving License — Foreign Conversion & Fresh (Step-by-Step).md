@@ -8,6 +8,8 @@ last_updated: 2026-05-28
 
 If you want to drive in Japan beyond what your IDP covers (or if your country's IDP isn't valid in Japan), you need a Japanese driving licence. This article covers both the conversion process and getting a fresh licence from scratch.
 
+> ⚠️ **JICA and JDS-sponsored students are not permitted to drive in Japan at all**, according to an official IUJ/OSS notice on driving rules — this applies regardless of licence or IDP status. If you're on one of these scholarships, none of the below applies to you until that restriction changes.
+
 ---
 
 ## Do You Need This?

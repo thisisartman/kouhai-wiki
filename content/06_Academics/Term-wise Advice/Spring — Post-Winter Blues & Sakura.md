@@ -53,6 +53,7 @@ Not everyone experiences this, but enough people do that it's worth naming:
 Niigata's cherry blossom season typically falls in **early-to-mid April**, slightly later than Tokyo.
 
 **Best spots near IUJ:**
+- **The campus sakura lane itself** — IUJ holds an annual nighttime illumination (夜桜, yozakura) of its own on-campus sakura lane, typically mid-April, running roughly 7:15–9:30 PM. Don't sleep on your own campus for this.
 - **Uono River banks (魚野川)** — the river near campus has beautiful sakura-lined banks
 - **Nagaoka's Kome no Kuni** — riverside sakura
 - **Takada Park (Joetsu)** — one of Japan's top three sakura spots; worth the trip
