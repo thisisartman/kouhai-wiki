@@ -41,6 +41,18 @@ IUJ's main annual cultural showcase, organised by the **GSO Executive Committee*
 
 **Hosting:** If you want to represent your country or region, organise with other students and sign up early — slots go fast.
 
+### International Festival (Open Day)
+
+A separate, larger event from Culti-Fiesta — IUJ's public-facing festival, held in **late Spring (late May)**, organised jointly by OSS and the GSO Executive Committee.
+
+**Format:**
+- Open to the local public — roughly **2,000 local visitors** attend in a typical year
+- **16 international food booths**, one per country/region group, first-come-first-served (requires a food booth application submitted to both OSS and GSO in advance, since the university needs food safety approval/licensing from the city office)
+- **16 cultural stage performances**, 5–7 minutes each, same format as Culti-Fiesta
+- An orientation session for participating teams is held ahead of the event
+
+**Why it matters:** it's the one event where the surrounding Minamiuonuma community comes onto campus in large numbers — a different flavour from the internally-focused Culti-Fiesta.
+
 ### Sports Events and Tournaments
 IUJ organises intra-campus sports events. Cricket, football (soccer), basketball, and badminton are common. These are often mixed-nationality, which makes them unusually good social opportunities.
 
@@ -49,6 +61,17 @@ IUJ organises intra-campus sports events. Cricket, football (soccer), basketball
 ---
 
 ## Local Niigata Festivals
+
+### Naked Man Festival (Hadaka Matsuri) — Urasa
+
+The most locally-specific festival on this list — it happens right in Urasa, and IUJ organises buses for it.
+
+**When:** Early March (typically the first or second weekend)
+**What:** A Shinto festival with roughly 1,200 years of history. A march departs from Okuni Jiman Kaikan at 18:00 and proceeds to Bishamon-do Temple near the river. Food vendors line the route.
+
+**Getting there:** IUJ runs dedicated buses from the main entrance; the first bus is reserved for early sign-ups, the rest first-come-first-served. Return buses depart from the Urasa IUJ bus stop — check the return schedule carefully, since missing the last bus means arranging your own taxi back. Don't obstruct the march or participants, even for photos.
+
+> 💡 Given the buses are run by IUJ itself and it's a few minutes from campus, this is one of the easiest local festivals to attend — arguably easier than the Nagaoka Fireworks below.
 
 ### Nagaoka Fireworks (長岡大花火大会)
 **When:** Early August (typically first weekend)
@@ -99,6 +122,6 @@ See [[Seasonal Activities — Skiing, Hanami, Matsuri]] for more detail.
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
 - IUJ cultural nights — standout events and how to make yours great
-- Any annual IUJ events not mentioned above
+- Any annual IUJ events not mentioned above (Culti-Fiesta and Open Day/International Festival dates shift year to year — confirm current-year dates)
 - Nagaoka Fireworks practical tips — best spots, logistics
 - Local festivals near Urasa/Minami-Uonuma worth attending

@@ -16,7 +16,7 @@ The immediate area around IUJ is quiet, but not without interest.
 
 **Urasa town (浦佐)**
 - Small town; the local convenience of a station town
-- Bishamondo Temple (毘沙門堂) — a historic temple complex adjacent to Urasa Station with impressive stone stairs and local character
+- Bishamondo Temple (毘沙門堂) — a historic temple complex adjacent to Urasa Station with impressive stone stairs and local character. Also the site of the annual Naked Man Festival (裸押合大祭) in early March — see [[Seasonal Activities — Skiing, Hanami, Matsuri]]
 - Rice fields surrounding the area are striking in summer (Niigata koshihikari country)
 
 **Minami-Uonuma City**

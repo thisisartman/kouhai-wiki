@@ -20,13 +20,12 @@ IUJ runs on a trimester system — Fall, Winter, and Spring terms. Course regist
 
 | Event | Approximate Timing |
 |---|---|
-| Course catalog published | ~2–3 weeks before term |
-| Registration window opens | ~1–2 weeks before term |
-| Registration deadline | Just before term starts |
-| Add/drop period | First 1–2 weeks of term |
-| Withdrawal deadline | Mid-term (W grade) |
+| Initial course registration window | ~6–8 weeks before term start (e.g., for 2025-2026AY: Fall registration ran Aug 14–21 for an Oct 6 start; Winter ran Nov 12–19 for a mid-January start; Spring ran Feb 12–19 for an early-April start) |
+| Completion/Change of Registration period (add/drop) | First week of term, right at/just after term start |
+| Registration deadline | End of the initial registration window, weeks before the term begins |
+| Withdrawal deadline | Not confirmed — some courses (intensive/irregular schedule) have special cancellation/withdrawal deadlines separate from the regular Completion/Change period; ask OAA if you're unsure |
 
-> ⚠️ Confirm exact dates on the IUJ academic calendar each term — these shift year to year.
+> ⚠️ Confirm exact dates on the IUJ academic calendar each term — these shift year to year. The pattern above (initial registration well before the term, then a short Completion/Change window right at term start) held for the 2025-2026 academic year, but exact dates change annually.
 
 ---
 

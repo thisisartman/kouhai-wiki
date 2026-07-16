@@ -30,6 +30,14 @@ Owning a car at IUJ is a significant quality-of-life upgrade — especially in w
 
 You need a Japanese driving licence or a valid IDP (International Driving Permit) to own and drive a car in Japan. If your IDP is from a country with a time-limited conversion window, be aware of deadlines. See [[Driving License — Foreign Conversion & Fresh (Step-by-Step)|Driving License]].
 
+> ⚠️ **JICA and JDS-sponsored students are not permitted to drive in Japan at all**, per their sponsor's terms — this is independent of licence status. Confirm with your sponsor if you're unsure of your funding category.
+
+## IUJ Vehicle Registration (Mandatory)
+
+Owning a car isn't just about a driving licence — IUJ also requires every student who owns a car to **register the vehicle with the university** (OSS / Dorm Staff Office), separate from any government registration. Check dormitory notice boards or contact OSS for the current process. Unregistered vehicles on IUJ premises are treated the same way as unregistered bicycles — subject to confiscation/removal during periodic sweeps. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]] for how the parallel bicycle registration system works.
+
+**Winter note:** Snow removal in IUJ parking areas is handled by an outside contractor and clears the lot, not individual vehicles — owners are responsible for clearing snow off their own car regularly (accumulated snow can damage wipers, mirrors, antennas, and dent the roof; IUJ is not liable for this damage). If you'll be away for an extended period in winter, arrange for a friend to clear your car, and start the engine occasionally to keep it from failing to start.
+
 ---
 
 ## Buying a Used Car in Japan

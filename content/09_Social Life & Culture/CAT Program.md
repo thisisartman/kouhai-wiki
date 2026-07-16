@@ -22,7 +22,7 @@ No formal preparation is required, but students usually bring photos, objects, o
 
 CAT is coordinated by **Counselor SEKI** from the IUJ Counselor's Office.
 
-Sign-up sheets are posted on the wall **outside the Counselor's Office**. Add your name to the sheet for the visit you want. Rounds run roughly every two to three weeks throughout the academic year, active from at least October through February.
+Sign-up sheets are posted on the wall **outside the Counselor's Office**. Add your name to the sheet for the visit you want. Rounds run roughly every two to three weeks, starting in October and running through the academic-year CAT program's close in February. **The next academic year's CAT program is planned to start again in June.** Occasional visits include eating school lunch with the students (a small fee, ~¥282, applies for those).
 
 > ⚠️ Signing up does not guarantee a spot. Selected participants are contacted individually after review. Slots are limited per school.
 
@@ -32,7 +32,7 @@ Sign-up sheets are posted on the wall **outside the Counselor's Office**. Add yo
 
 Local elementary schools in the Minamiuonuma area, rotating by round:
 
-Ikazawa, Akashi, Ushiroyama, Muikamachi, Jonai, Osaki, Ueda, Hokushin Elementary Schools — check the sign-up sheet for which are included in each round.
+Miyo, Yabukami, Ishiuchi, Muikamachi, Ueda, Ikazawa, Akashi, Ushiroyama, Jonai, Osaki, Shiozawa, Omaki, Nakanoshima, Hokushin Elementary Schools — check the sign-up sheet for which are included in each round. Some are a short drive (Miyo/Yabukami ~5km), others further out (Ishiuchi, a ski-resort-area school, ~27km).
 
 ---
 
@@ -74,4 +74,4 @@ The `13_Country-Specific/` section of this wiki includes country profiles that w
 - What you brought or presented, and how the kids responded
 - Whether Japanese language ability matters in practice
 - Any particular schools or visits that stood out
-- Whether CAT runs in Spring term — confirm or deny
+- Confirm whether the June restart is Spring-term timing or an early-Summer-term start at your cohort

@@ -54,11 +54,13 @@ Most dormitories have quiet hours, typically late evening onwards. Be aware that
 - Your neighbours include people with early classes and different schedules
 - Being considerate early builds goodwill; being a noise problem early shapes how you're seen for the rest of the year
 
+This isn't just an in-building courtesy — IUJ has received actual complaints from local residents about students outside the dorms: loud music/speakers and singing while walking late at night, and groups talking loudly around midnight (sound that reads as normal conversation volume carries much further at night). OSS has sent campus-wide reminders about this specifically, so it's a real, monitored issue, not just theoretical.
+
 ---
 
 ## Overnight Guests
 
-IUJ dorms have policies on overnight guests. Know what they are — don't find out the hard way.
+IUJ dorm regulations **strictly prohibit non-residents — including family and friends — from staying overnight** in single-occupancy dorm rooms. This is specifically about overnight stays; short daytime visits are fine. OSS has issued reminders confirming this is actively enforced (violators have been penalized), so don't assume it's an unenforced rule on paper.
 
 ---
 
