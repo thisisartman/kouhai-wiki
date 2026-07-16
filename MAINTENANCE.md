@@ -286,8 +286,12 @@ containing:
 - **passage** — the text the reader selected (edit mode only; blank in new-page mode)
 - **suggestion** — what they think should change/be added, and why
 - **reply_email** — their `@iuj.ac.jp` address (required, validated client-side)
-- **name** — optional
+- **name** — optional, paired with **country** (optional) in the same form row (2026-07-17)
 - **country** — optional
+- **program** — optional, free text (2026-07-17) — deliberately not a fixed
+  dropdown; IUJ has many sub-programs/concentrations beyond just MBA/IR, so a
+  closed option list would be too restrictive. Paired with **grad_year** in the
+  same form row.
 - **grad_year** — optional, their graduating class (dropdown, built fresh at page-load
   time so the year range never goes stale — not a fixed list anyone needs to update)
 - **credit_consent** — `"yes"` or `"no"`. Only meaningful if `name` and/or
