@@ -242,14 +242,18 @@ var suggestEditScript = `
               '<textarea name="passage" id="se-passage" rows="3" placeholder="Highlight text on the page before clicking, or paste it here."></textarea></div>' +
             '<div class="se-field"><label id="se-suggestion-label">What should change, and why? *</label>' +
               '<textarea name="suggestion" id="se-suggestion" rows="4" required></textarea></div>' +
-            '<div class="se-field"><label>Your name (optional)</label>' +
-              '<input type="text" name="name" id="se-name" autocomplete="name"></div>' +
+            '<div class="se-field-row">' +
+              '<div class="se-field"><label>Your name (optional)</label>' +
+                '<input type="text" name="name" id="se-name" autocomplete="name"></div>' +
+              '<div class="se-field"><label>Country (optional)</label>' +
+                '<input type="text" name="country" id="se-country" autocomplete="country-name"></div>' +
+            '</div>' +
             '<div class="se-field"><label>Your IUJ email *</label>' +
               '<input type="email" name="reply_email" id="se-email" required autocomplete="email" placeholder="you@iuj.ac.jp">' +
               '<div class="se-hint">Must be an @iuj.ac.jp address.</div></div>' +
             '<div class="se-field-row">' +
-              '<div class="se-field"><label>Country (optional)</label>' +
-                '<input type="text" name="country" id="se-country" autocomplete="country-name"></div>' +
+              '<div class="se-field"><label>Program (optional)</label>' +
+                '<input type="text" name="program" id="se-program" placeholder="e.g. MBA, IR"></div>' +
               '<div class="se-field se-field-year"><label>Class of</label>' +
                 '<select name="grad_year" id="se-grad-year"><option value="">' + YEAR_PLACEHOLDER + '</option>' + buildYearOptions() + '</select></div>' +
             '</div>' +
@@ -350,6 +354,7 @@ var suggestEditScript = `
         name: overlay.querySelector("#se-name").value,
         reply_email: overlay.querySelector("#se-email").value,
         country: overlay.querySelector("#se-country").value,
+        program: overlay.querySelector("#se-program").value,
         grad_year: overlay.querySelector("#se-grad-year").value,
         credit_consent: overlay.querySelector("#se-consent-check").checked ? "yes" : "no"
       };
