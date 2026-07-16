@@ -27,7 +27,7 @@ NHI covers **70% of most medical costs** — you pay the remaining 30% out of po
 
 ## Enrolling
 
-> ⚠️ **Correction (verified against official IUJ emails):** this article previously said enrollment happens at a city office you travel to. That's backwards for IUJ students — **city office staff come to IUJ**, as part of the same on-campus session as municipal registration. See [[Municipal Registration — Minami-Uonuma City Office]].
+> ⚠️ **City office staff come to IUJ** — you don't travel to the city office for this. It happens as part of the same on-campus session as municipal registration. See [[Municipal Registration — Minami-Uonuma City Office]].
 
 **Documents needed:**
 - Passport

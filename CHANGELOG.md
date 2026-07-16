@@ -1,5 +1,49 @@
 # Changelog
 
+## [2026-07-17] — Stub-page cleanup (post fact-check)
+
+### Added
+- `content/03_Housing/Gym Rules.md` — new article: Women's Only Hour (Tue/Wed/Sun 6-8PM, 2nd floor), shoe/locker policy (1st floor), drinking-water-only fountain rule. Sourced from "IUJ Gym Facilities Guidelines" and "Proper Use of Drinking Water Facilities at the Gym" emails; deliberately excluded specific tennis-court/outdoor-facility reopening-closing dates from other gym emails as not necessary for a rules reference. Added a note that the gym (like classrooms, CNP, MLIC Hall) can be booked for events and closed during others — flagged a future "Campus Facilities & Bookings" article/section as not-yet-done, not built now.
+- `content/02_Arrival & First Week/Room Setup Tips.md` — added as an explicit **stub awaiting senior contributions**, not a researched article. No official IUJ email documents dormitory furniture/fixtures, and `Dorm Life & Facilities.md` already flags this exact gap in its own Senior Submissions list — nothing to fact-check, so this stays a placeholder rather than inventing content.
+
+### Fixed
+- `content/13_Country-Specific/India/Indian Food Sources.md` — merged two inconsistent wikilink names (`[[Community & Festivals]]` and `[[Community & Festivals — India]]`, neither ever had a target page) into a single link to `[[Festivals — Campus & Local]]` — the wiki's actual general festivals article, most recently updated in the 2026-07-16 fact-check pass. No official or informal source exists for India-specific community festivals separately from that article, so this avoids creating a redundant/empty page.
+- `content/03_Housing/Dorm Life & Facilities.md` — added a Gym entry to the Campus Common Spaces section, cross-linking the new Gym Rules article.
+
+### Stub-page backlog status
+Of the 5 originally identified stub links: **Gym Rules** written, **Community & Festivals** (×2 names) merged into an existing article, **Room Setup Tips** kept as an explicit contribution-needed stub, **Part-Time Work** was already resolved in the 2026-07-14 link audit (no remaining unqualified link). All 5 are now accounted for.
+
+## [2026-07-16] — Fact-check pass: Academics, IT & Productivity
+
+### Fixed
+- `content/06_Academics/Course Registration.md` — Registration Timeline table was wrong: claimed the registration window opens ~1–2 weeks before term; actual official OAA "Course Registration" emails for all three 2025-26 terms show it opens **6–8 weeks** before term (Fall: Aug 14–21 for an Oct 6 start; Winter: Nov 12–19 for a mid-Jan start; Spring: Feb 12–19 for an early-April start). The "add/drop" row was really describing a separate one-week "Completion/Change of Registration" window right at term start (e.g. Oct 6–13), not a loose 1–2 week period — corrected. Withdrawal/W-grade mid-term deadline had no supporting email (only special deadlines for intensive/irregular-schedule courses exist) — changed to an honest "not confirmed" rather than leaving an unsourced specific.
+- `content/06_Academics/Term-wise Advice/Spring — Post-Winter Blues & Sakura.md` — added IUJ's own campus sakura lane to the "best spots" list; it was missing entirely despite being the most obvious spot and having an official annual nighttime illumination event (confirmed via a 2026 "Sakura Lane Lit-Up" announcement email, ~7:15–9:30 PM mid-April).
+
+### Fact-checked, no changes needed
+- Rest of `06_Academics` (Japanese Language Courses, Library & Research Tools, Research Databases & Academic Tools, Study Groups & Peer Culture, Fall/Winter term-wise advice, Thesis Guide) — no contradicting official emails found; existing ⚠️ verify-against-official-source hedges left as-is rather than inventing sourcing.
+- All of `11_IT & Productivity` (SIM & Internet Setup, Printing & Scanning, AI for Task Scheduling, Useful Apps in Japan) — no IUJ email exists covering SIM/carrier setup, printing procedures, or campus network provisioning specifically (bodies parsed as base64 MIME, not naive-grepped, to rule out false negatives). An MLIC IT-section WiFi thread and a power-outage notice confirm the wiki's generic "IT office" framing is directionally correct without adding new specifics. The Academic Honor Pledge email confirms no AI-specific policy exists, so `AI for Task Scheduling & Academic Productivity.md`'s hedge stands.
+
+### Fixed/added — Daily Life
+- `content/07_Daily Life/Transport/Bicycle — Buying, Renting, Storage, Winter.md` — article only covered Japan's national anti-theft registration; missing IUJ's own separate mandatory bicycle registration (one bike/person, via `sites.google.com/iuj.ac.jp/bicycle/home`), with unregistered/graduated-student bikes subject to unannounced confiscation sweeps. Source: "Registration / Bicycle, Car, Others" (2025-10-30), "Reminder: Bicycle Registration Required" (2025-11-10).
+- `content/07_Daily Life/Transport/Car Ownership — Buying Used.md` — added mandatory IUJ vehicle registration (separate from any government process) and a winter note that the owner, not the contractor, is responsible for clearing snow off their own vehicle (IUJ disclaims damage liability). Source: same Oct/Nov 2025 emails, plus "Notice for Winter Safety" (2026-01-09), "Notes: Snow!" (2025-12-05), "Notice to Students Who Own a Car" (2026-01-23).
+- `Transport/Car Ownership — Buying Used.md` and `Transport/Driving License — Foreign Conversion & Fresh (Step-by-Step).md` — added a prominent warning that JICA- and JDS-sponsored students are barred from driving in Japan entirely regardless of licence/IDP status — a restriction neither article mentioned despite being directly on-topic. Source: "👮🚨Know the Rules! Driving in Japan🚨👮" (2026-01-20).
+- Checked and left alone (corroborated, no changes needed): Waste Disposal & Recycling (no official email exists; already correctly hedged), Mail & Packages, Seasons & Weather (cross-checked against multiple snow/winter-safety emails), Bus & Local Routes (matches the Nov 2025 timetable-change + Dec 2025 night-bus emails almost verbatim), Driving License/Car Rental IDP eligibility details. Laundry, Shopping/*, Food/* are experiential content with no official source to check against.
+
+### Fixed/added — Social Life & Culture
+- `content/09_Social Life & Culture/CAT Program.md` — added 6 missing partner schools (Miyo, Yabukami, Ishiuchi, Shiozawa, Omaki, Nakanoshima — was 8, now 14), confirmed the program restarts in June for the next academic year, added the ¥282 school-lunch detail. Source: five CAT sign-up emails from Counselor SEKI (Oct–Nov 2025, Jan 2026).
+- `Festivals — Campus & Local.md` — added two events missing entirely: the **International Festival/Open Day** (a separate ~2,000-visitor event from Culti-Fiesta, late May, 16 food booths + 16 performances, OSS/GSO-EC organized) and the **Naked Man Festival** (裸押合大祭) at Bishamon-do Temple, Urasa — IUJ runs its own dedicated shuttle buses for it.
+- `Clubs & Student Organizations.md` — added TEDxIUJ (confirmed real, ~100-seat annual event), corrected a generic "Hiking/Outdoor Club" placeholder to its real name (IUJ Alpine and Trekking Society, per a March 2026 new-club announcement), added UMEX (local exchange group, not an IUJ club, that hosts potlucks IUJ students attend).
+- `Parties — Venues, Norms & Dorm Rules.md` — replaced vague hedges with concrete official rules: overnight guests strictly prohibited in single-occupancy dorm rooms (enforced), per OSS's "Dormitory Rules and Responsibilities" reminder (2026-03-19); added specifics on what noise complaints were actually about (late-night/off-campus noise, not just in-building quiet hours) per OSS's "Please Be Considerate of Our Community and Neighbors" (2026-05-22).
+- Checked and left alone: Campus Life & Vibe, Japanese Social Norms & Etiquette, Survival Japanese, all four Interacting-with-International-Student-Body articles (Humour, Inclusivity, Making Friends, Romance/Consent) — experiential/cultural-advice content with no official source to check against.
+
+### Fixed/added — Travel & Leisure
+- `content/10_Travel & Leisure/Seasonal Activities — Skiing, Hanami, Matsuri.md` — the Minamiuonuma ski-voucher "eligible resorts" list was incomplete (4 of 7 official resorts, missing Hakkaisanroku — the closest resort to campus and the one used for GSO Ski Day). Expanded to match "Discounted Ski Lift Tickets for Minamiuonuma City Residents (2025–2026 Season)" (2025-12-05) and its follow-up (2026-02-10); voucher amount/distribution/validity were already correct.
+- `Seasonal Activities` and `Local Attractions — Urasa, Nagaoka, Niigata City.md` — added the Naked Man Festival (same event found via Social Life & Culture) and cross-linked both articles; Bishamon-do Temple was already named but the festival tied to it was never mentioned.
+- Checked and left alone: GSO Ski Day details (confirmed accurate), term-break table in "How to Plan & Budget.md" (already hedged, no clean contradiction available), Nagaoka Fireworks timing (general knowledge, not IUJ-sourced), everything in How to Book/Domestic Itineraries/International Travel (pure travel-planning advice, no official angle).
+
+### Fact-check pass complete
+All 8 sections now checked: Legal & Administrative, Finance & Banking, Health & Wellness (2026-07-14); Academics, IT & Productivity, Daily Life, Social Life & Culture, Travel & Leisure (2026-07-16). Total: 2 critical errors fixed in the first pass (pension/tax) plus the fixes/additions above in this pass. Remaining wiki backlog: the 5 stub-page wikilinks (Gym Rules, Community & Festivals ×2, Room Setup Tips, Part-Time Work) identified during the 2026-07-14 link audit are now unblocked and can be written using the sourcing confirmed here.
+
 ## [2026-07-14 05:30] — Session: search UX, mobile nav overhaul, branding, link audit, color scheme
 
 ### Changed

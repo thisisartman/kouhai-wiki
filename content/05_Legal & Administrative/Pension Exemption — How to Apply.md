@@ -8,7 +8,7 @@ last_updated: 2026-07-14
 
 Japan requires all residents aged 20–59 to enroll in the national pension system (国民年金, *kokumin nenkin*). Students qualify for a **full exemption** from monthly payments.
 
-> ⚠️ **Correction (verified against official IUJ emails):** this article previously told students to self-apply at the city office. That's wrong for IUJ students — **IUJ submits your exemption application for you automatically.** See below for what actually happens and what you need to do.
+> ⚠️ **IUJ submits your exemption application for you automatically** — you don't self-apply at the city office. See below for what actually happens and what you need to do.
 
 ---
 
