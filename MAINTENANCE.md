@@ -687,14 +687,25 @@ get built is 4 credited contributions, not 1.
 Original text: map of IUJ and the city, bus stops and schedule, mention it's okay
 to ask senpais for help/advice, don't forget the bear warning, mention winter is
 hard and summer is hot, add photos in general.
-Action items (all Backlog, none started):
-1. IUJ + city map — Backlog
-2. Bus stops/schedule — Backlog
-3. "It's okay to ask senpais for help" encouragement blurb — Backlog
-4. Bear warning — Backlog (check first: may already exist in another article)
-5. Winter/summer hardship note — Backlog (check first: may already exist in
-   `Seasons & Weather.md`)
-6. More photos in general — Backlog
+Action items — resolved 2026-07-19, checked each against existing content first:
+1. IUJ + city map — **Skipped.** Google Maps app coverage (with an offline-map
+   tip) already exists in `Useful Apps in Japan — Maps, Transit,
+   Translation.md`; no custom map graphic exists or is needed.
+2. Bus stops/schedule — **Skipped.** `Bus & Local Routes.md` already exists,
+   fact-checked, `ready`. Homepage now links to it directly (see item 3).
+3. "It's okay to ask senpais for help" encouragement blurb — **Actioned.**
+   Added as a welcoming line on the homepage (`content/index.md`), above the
+   Pinned list, linking to `Bus & Local Routes` and `Useful Apps`.
+4. Bear warning — **Actioned.** Was a genuine gap (zero coverage anywhere).
+   Added as a new bullet in `Seasons & Weather — Month by Month.md`'s
+   "Niigata-Specific Notes" section, alongside the existing avalanche/
+   earthquake risk bullets — spring/autumn bear activity, not a daily
+   campus concern.
+5. Winter/summer hardship note — **Skipped.** Already thoroughly covered in
+   `Seasons & Weather — Month by Month.md` (Month by Month + Key Weather
+   Survival Points) and in the Winter/Spring term-wise advice articles.
+6. More photos in general — **Stays Backlog.** No image-asset pipeline
+   exists; needs actual senior-submitted photos, not something to generate.
 Needs a decision (still open): homepage blurb vs. verify-and-link existing
 articles, before any of these six get built.
 
