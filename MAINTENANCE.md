@@ -506,6 +506,30 @@ in `custom.scss`.
 Things discussed but deliberately deferred — parked here instead of relying on
 anyone's memory of a past conversation:
 
+- **Community-folder template — DONE 2026-07-19.** Each country gets one
+  folder under `13_Country-Specific/`. New reusable pattern for any new
+  community folder (this is *in addition to* whatever country-specific
+  logistics articles already exist for that country, like India's Pre-
+  Departure Checklist and OCI Card — those aren't part of this template,
+  they're separate country-specific content that happened to exist first):
+  three stub articles, all `status: needs-work`, tagged `needs-input` +
+  `empty` (nobody outside that community can ever fill these in, and
+  they start genuinely empty):
+  1. **`<Country> — Festivals & Celebrations.md`** — which home festivals
+     matter, and whether/how they're marked at IUJ.
+  2. **`<Country> — Community & Events at IUJ.md`** — whether a student
+     group/chat exists for that nationality, and what events they've run.
+  3. **`<Country> — Cultural Information & Etiquette.md`** — context other
+     students would benefit from, plus any home-vs-Japan etiquette gaps.
+
+  Each file: `section: 13_Country-Specific/<Country>`, a one-line framing
+  intro, a `> 🔶` stub disclaimer, 2 placeholder sections, Related Articles,
+  and a Senior Submissions footer with specific prompts — same honest-stub
+  shape as `Room Setup Tips.md`, not invented content. Scaffolded for
+  **Kyrgyzstan** (new folder) and **India** (added alongside its existing
+  3 articles) as the first two communities. To add another country: copy
+  the 3-file pattern, swap the country name throughout, add a lowercase
+  country tag.
 - **Status/tag system redesign — migration complete 2026-07-18.** `status:`
   frontmatter simplified from 3 values (`ready` / `needs-verification` /
   `needs-senior-input`) down to just 2 (`ready` / `needs-work`), with
