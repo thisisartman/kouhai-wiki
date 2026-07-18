@@ -3,7 +3,7 @@ title: Course Registration
 section: 06_Academics
 tags: [academics, registration, courses, portal]
 status: needs-verification
-last_updated: 2025
+last_updated: 2026-07-16
 ---
 
 > ⚠️ This article is based on general IUJ program information. Verify all deadlines, portal steps, and specific procedures against the current IUJ Student Handbook and academic calendar before each term.

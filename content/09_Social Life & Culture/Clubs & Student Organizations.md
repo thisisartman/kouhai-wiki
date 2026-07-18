@@ -3,7 +3,7 @@ title: Clubs & Student Organizations
 section: 09_Social Life & Culture
 tags: [academics, clubs, social, extracurricular, community]
 status: needs-senior-input
-last_updated: 2025
+last_updated: 2026-07-16
 ---
 
 IUJ's student body is small and international — clubs are the fastest way to build a real social network and find people outside your immediate program cohort.

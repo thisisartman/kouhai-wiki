@@ -505,6 +505,51 @@ in `custom.scss`.
 Things discussed but deliberately deferred — parked here instead of relying on
 anyone's memory of a past conversation:
 
+- **Status/tag system redesign — in progress, started 2026-07-18.** Decided:
+  `status:` frontmatter simplifies from 3 values (`ready` /
+  `needs-verification` / `needs-senior-input`) down to just 2 (`ready` /
+  `needs-work`), with separate tags capturing *why* an article needs work
+  instead of encoding that in the status value itself. A full audit of all 26
+  non-ready articles (cross-checked against CHANGELOG fact-check history)
+  found the "why" splits into 3 independent, co-occurring gap types: (1)
+  **unverified** — an official source likely exists, hasn't been checked yet
+  (e.g. Waste Disposal's city collection schedule, Library's DB list,
+  Emergency Contacts' literal placeholder numbers); (2) **needs a firsthand
+  student account** — no official source will ever cover this (club activity
+  levels, clinic recs, "what I wish I'd done differently"); (3) **thin/stub**
+  — barely any content regardless of source (Room Setup Tips, Campus Dining,
+  Food Delivery, Indian Food Sources). Confirmed as the right split with the
+  maintainer 2026-07-18; **actual tag names still to be brainstormed** — don't
+  invent names without that conversation.
+  - **Status flips applied 2026-07-18** (content was already fact-checked,
+    tag was just stale): `Gym Rules.md` and `Bus & Local Routes.md` both
+    flipped `needs-verification` → `ready`.
+  - **`Parties — Venues, Norms & Dorm Rules.md` deliberately held back** —
+    flagged during the audit as messier than a simple stale tag: it has a
+    broad top-of-article hedge ("must be verified against the current student
+    handbook") that reads as superseded by specific sourced content later in
+    the same article (OSS enforcement reminders), plus a second, narrower,
+    still-genuinely-open hedge about quiet hours specifically. Needs a content
+    edit (trim the stale blanket hedge, keep the quiet-hours one), not just a
+    status flip. **User wants to go over this one separately** — don't touch
+    without that conversation.
+  - **`last_updated` bumped to 2026-07-16** on 4 files whose content was
+    fixed during the 2026-07-16 fact-check pass but never got the frontmatter
+    field updated at the time: `Course Registration.md`, `Spring —
+    Post-Winter Blues & Sakura.md`, `Clubs & Student Organizations.md`,
+    `Car Ownership — Buying Used.md`.
+  - **Not yet done**: renaming the `status` field's 2 remaining values and
+    actually adding the new work-type tags to all 26 articles (frontmatter
+    still says the old 3-value scheme until that migration happens); a
+    broader **topic-category tag taxonomy** (e.g. an "IUJ" tag) was raised in
+    the same conversation but **explicitly deferred to a separate,
+    later discussion** — don't conflate the two tag systems.
+  - **Live status badge on articles** — separate but related thread: a "B"
+    full-width-banner-above-title mockup (using the site's real palette) was
+    approved as the placement direction on 2026-07-18, before this status/tag
+    redesign came up. The badge implementation itself hasn't started — it
+    should be built against whatever the final `ready`/`needs-work` + tags
+    scheme ends up being, not the old 3-value scheme.
 - ~~About page — Contributors list~~ — **DONE 2026-07-17.** Live at
   `content/00_About Wiki/index.md` under "Senpai Contributors": name + `(count)`
   format, flat list for now (Adithya's the first entry), grouping by

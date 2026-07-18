@@ -2,7 +2,7 @@
 title: Gym Rules
 section: 03_Housing
 tags: [housing, campus-facilities, gym, health]
-status: needs-verification
+status: ready
 last_updated: 2026-07-17
 ---
 
