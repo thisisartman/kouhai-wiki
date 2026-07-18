@@ -679,11 +679,12 @@ get built is 4 credited contributions, not 1.
 |---|---|---|---|---|---|---|
 | 2026-07-13 | First Week Checklist | Senpai | Adithya | City-office staff visit campus for registration | Actioned | Backfilled — live in file since 2026-07-14, not logged at the time |
 | 2026-07-13 | First Week Checklist | Senpai | Adithya | Bank staff visit campus for scholarship account setup | Actioned | Backfilled — live in file since 2026-07-14 |
-| 2026-07-18 | SIM & Internet Setup | Senpai | Sree (consent: yes) | Add eSIM/Trip.com option (~¥1000/mo or ¥14/day/GB) | Actioned | New "eSIM (Pre-Arrival Option)" bullet added under Airport (Immediate Options); credited on About page |
+| 2026-07-18 | SIM & Internet Setup | Senpai | Sree (consent: yes; DXP, Class of 2026, India) | Add eSIM/Trip.com option (~¥1000/mo or ¥14/day/GB) | Actioned | New "eSIM (Pre-Arrival Option)" bullet added under Airport (Immediate Options); credited on About page |
 | 2026-07-18 | How to Use This Wiki (new-page mode) | Self-test | Terwadkar Apoorv Rajiv | Joke text, not a real suggestion | Skipped | Also the submission that surfaced the passage-field bug below |
 
 **2026-07-18 — MyKouhai! Wiki (homepage) — Senpai — koshoi_k** (real name
-Koshoi, MBA, Kyrgyzstan, provided by the maintainer 2026-07-19; credited on
+Koshoi, MBA, Class of 2027, Kyrgyzstan, provided by the maintainer
+2026-07-19; credited on
 the About page for the 2 actioned items below)
 Original text: map of IUJ and the city, bus stops and schedule, mention it's okay
 to ask senpais for help/advice, don't forget the bear warning, mention winter is
