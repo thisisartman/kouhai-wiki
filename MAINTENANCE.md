@@ -592,6 +592,17 @@ anyone's memory of a past conversation:
   "Campus Common Spaces" section, each honestly marked as needing senior
   input on the booking process rather than inventing details. File's tags
   gained `needs-input` alongside its existing `unverified`.
+- **`Dorm Life & Facilities.md` naming/structure mismatch — flagged
+  2026-07-19, not decided.** The file now covers both dorm-specific content
+  (SD1–4, MSA) and campus-wide facilities (CNP, Gym, Classrooms, MLIC Hall,
+  BBQ, Rooftop) under a title that only names the former. Maintainer wants
+  to think it over before choosing between: (1) just reorder sections so
+  Campus Common Spaces comes before Dormitory Buildings, same file/title;
+  (2) rename the file (something other than "Campus Life & Facilities" —
+  too close to the existing `Campus Life & Vibe` article in
+  `09_Social Life & Culture`, which is social/cultural, not physical
+  spaces); (3) split into two separate articles. Don't act on this without
+  the maintainer picking one.
 - **My Number ↔ Japanese phone number cross-reference — flagged 2026-07-17, not
   written yet.** `SIM & Internet Setup.md`'s "What You Need to Sign Up" list
   (Passport, Residence Card, address, payment method) doesn't mention My Number
