@@ -560,10 +560,17 @@ anyone's memory of a past conversation:
     `quartz.config.yaml` at `beforeBody` priority 8, just ahead of
     `article-title`'s priority 10. Reviewed locally via `quartz build
     --serve` and approved by the maintainer before committing.
-  - **Separately noticed, not yet fixed**: 21 articles have
-    `last_updated: 2025` (bare year, not a full date) — pre-existing
-    inconsistency unrelated to this migration, spotted while auditing
-    frontmatter. Flagged for a future cleanup pass.
+  - ~~21 articles had `last_updated: 2025`~~ — **FIXED 2026-07-19.** Bare
+    year, not a full date — pre-existing inconsistency, unrelated to this
+    migration, spotted while auditing frontmatter. Resolved by git
+    archaeology rather than guessing: for each file, checked its creation
+    commit and every subsequent commit's diff, filtering out mechanical
+    site-wide passes (the status/tag migration, the duplicate-H1 removal,
+    the wikilink/site-rename fix) that touch the file without actually
+    changing any fact in it. 20 of the 21 had never had a real content
+    edit since their 2026-07-13 creation, so got `last_updated: 2026-07-13`;
+    `Indian Food Sources.md` had one real edit since (a wikilink fix on
+    2026-07-16), so got that date instead.
 - ~~About page — Contributors list~~ — **DONE 2026-07-17.** Live at
   `content/00_About Wiki/index.md` under "Senpai Contributors": name + `(count)`
   format, flat list for now (Adithya's the first entry), grouping by
