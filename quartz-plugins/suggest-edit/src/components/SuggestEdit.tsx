@@ -338,7 +338,6 @@ const suggestEditScript = `
         article: overlay.dataset.article || "",
         page_url: overlay.dataset.url || "",
         slug: overlay.dataset.slug || "",
-        passage: overlay.querySelector("#se-passage").value,
         suggestion: overlay.querySelector("#se-suggestion").value,
         name: overlay.querySelector("#se-name").value,
         reply_email: overlay.querySelector("#se-email").value,
@@ -347,6 +346,13 @@ const suggestEditScript = `
         grad_year: overlay.querySelector("#se-grad-year").value,
         credit_consent: overlay.querySelector("#se-consent-check").checked ? "yes" : "no"
       };
+      // "New page" mode has no selected passage to report — the field is only
+      // ever meaningful for an edit suggestion, so it's omitted entirely
+      // rather than sent blank/stale (see MAINTENANCE.md §16 for the bug this
+      // fixes: the textarea's value from a prior selection was leaking through).
+      if (mode !== "new") {
+        payload.passage = overlay.querySelector("#se-passage").value;
+      }
       fetch(ENDPOINT, {
         method: "POST",
         headers: { "Content-Type": "application/json", "Accept": "application/json" },
