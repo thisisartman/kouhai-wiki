@@ -3,7 +3,7 @@ title: How to Use This Wiki
 section: 00_About Wiki
 tags: [meta, guide, navigation]
 status: ready
-last_updated: 2026-07-14
+last_updated: 2026-07-19
 ---
 
 This wiki is written by IUJ students, for incoming IUJ students (Kouhais). It covers everything from getting your visa to surviving a Niigata winter — practical, honest, and updated by people who've actually been through it.
@@ -52,14 +52,15 @@ The wiki is divided into numbered sections, roughly in the order you'll need the
 
 ## Status Indicators
 
-Each article is internally tagged with a status (not something you'll see directly on the page — it's metadata behind the scenes). You'll see it reflected as symbols in the wiki structure instead:
+Every article is either **ready** (drafted, checked, safe to rely on) or **needs work** — and if it needs work, you'll see a colored banner right above the title explaining why. An article can carry more than one reason at once:
 
-| Symbol | What It Means |
+| Banner | What It Means |
 |---|---|
-| ✅ | Drafted and ready to use |
-| 🔶 | Has content, but needs input from seniors — read with that in mind |
-| ⚠️ | Needs verification against IUJ official sources — treat as a starting point, not gospel |
-| 🔴 | Placeholder — not enough info to write yet |
+| **unverified** | Hasn't been checked against an official IUJ source yet — treat it as a starting point, not gospel |
+| **needs-input** | No official source will ever cover this; it needs a firsthand student account to fill in |
+| **empty** | Barely any content yet — a stub, regardless of source |
+
+Ready articles show no banner at all.
 
 ---
 
