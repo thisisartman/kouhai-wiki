@@ -315,9 +315,12 @@ Workflow:
 5. If it needs more info: email them back at `reply_email`.
 6. If it's spam/junk: ignore and delete. The honeypot field filters most bots, but a
    determined human can still submit garbage — no automated moderation beyond that.
+7. Log every submission in §16's table regardless of outcome — including skips and
+   backlog items — so the inbox isn't the only record of what's been triaged.
 
-There's no dashboard or queue — it's just your inbox. If volume grows large, filter on
-subject `Kouhai Wiki suggestion:` (edits) or `Kouhai Wiki new page suggestion` (new
+There's no dashboard or queue beyond §16 — it's just your inbox plus that table. If
+volume grows large, filter on subject `Kouhai Wiki suggestion:` (edits) or `Kouhai
+Wiki new page suggestion` (new
 page/topic) in Gmail.
 
 ---
@@ -587,3 +590,74 @@ anyone's memory of a past conversation:
 `CODEOWNERS` still had an unfilled `@YOUR_GITHUB_USERNAME` placeholder). This repo's
 copies (`CHANGELOG.md`, `CONTRIBUTING.md`, `.github/CODEOWNERS`) are the only ones
 that exist now — don't recreate copies elsewhere.
+
+---
+
+## 16. Suggestion Log — Every Submission Received
+
+Every "Suggest an edit"/"Suggest a new page" email that's ever landed, tracked here
+so nothing gets actioned twice or silently dropped. **This table is the single
+source of truth** — a short-lived `suggestions-log.md` was drafted outside the repo
+on 2026-07-18 and folded in here same-day; don't recreate a separate copy (same
+stale-duplicate mistake as the old `CHANGELOG`/`CONTRIBUTING` copies above).
+
+**"Senpai" vs "Self-test"** in the Source column just distinguishes real student
+submissions from the maintainer's own test/debug traffic through the same form —
+it is *not* the same thing as the About page's "Senpai Contributors" credit list
+(§7 step 4), though a Senpai-sourced suggestion with `credit_consent: yes` often
+ends up on both.
+
+**Multi-item submissions get split.** If one email's `suggestion` text bundles
+several distinct asks (e.g. "add a map, mention bus stops, warn about bears..."),
+don't track it as one lump row — list the feedback entry once (date, article,
+source, submitter, original text), then break it into individually-numbered
+action items underneath, each with its own status. If `credit_consent` is
+`"yes"`, each *actioned* item counts as a separate entry toward that person's
+tally on the About page's Contributors list — a 6-item submission where 4 items
+get built is 4 credited contributions, not 1.
+
+| Date | Article | Source | Submitter | Summary | Status | Notes |
+|---|---|---|---|---|---|---|
+| 2026-07-13 | First Week Checklist | Senpai | Adithya | City-office staff visit campus for registration | Actioned | Backfilled — live in file since 2026-07-14, not logged at the time |
+| 2026-07-13 | First Week Checklist | Senpai | Adithya | Bank staff visit campus for scholarship account setup | Actioned | Backfilled — live in file since 2026-07-14 |
+| 2026-07-18 | SIM & Internet Setup | Senpai | Sree (consent: yes) | Add eSIM/Trip.com option (~¥1000/mo or ¥14/day/GB) | Pending | Drafted once 2026-07-18, reverted per maintainer request same day; revisit |
+| 2026-07-18 | How to Use This Wiki (new-page mode) | Self-test | Terwadkar Apoorv Rajiv | Joke text, not a real suggestion | Skipped | Also the submission that surfaced the passage-field bug below |
+
+**2026-07-18 — MyKouhai! Wiki (homepage) — Senpai — koshoi_k** (no name given;
+`credit_consent: yes` but nothing to credit without a name)
+Original text: map of IUJ and the city, bus stops and schedule, mention it's okay
+to ask senpais for help/advice, don't forget the bear warning, mention winter is
+hard and summer is hot, add photos in general.
+Action items (all Backlog, none started):
+1. IUJ + city map — Backlog
+2. Bus stops/schedule — Backlog
+3. "It's okay to ask senpais for help" encouragement blurb — Backlog
+4. Bear warning — Backlog (check first: may already exist in another article)
+5. Winter/summer hardship note — Backlog (check first: may already exist in
+   `Seasons & Weather.md`)
+6. More photos in general — Backlog
+Needs a decision (still open): homepage blurb vs. verify-and-link existing
+articles, before any of these six get built.
+
+**Bug found via the Self-test row above, fixed 2026-07-18:** the "new page"
+mode's payload used to include a `passage` field carrying whatever text was
+selected on the page *before* the modal opened — the field was hidden via CSS in
+new-page mode but its value was never cleared, so new-page emails could show
+stray, unrelated passage text. Edit-mode emails didn't have this problem (an
+empty passage there is a legitimate "nothing selected", not stale data).
+Fixed in `quartz-plugins/suggest-edit/src/components/SuggestEdit.tsx` by
+omitting `passage` from the payload entirely when `mode === "new"`, rather than
+just clearing the textarea — the field isn't structurally meaningful for a
+new-page ask. Rebuilt via `npm run build` in that package (dist/ is committed,
+not gitignored — always rebuild after editing src/).
+
+**Process for handling new submissions** (see also §7 for the decision rules):
+1. Scan `~/Downloads/Mail/IUJ/MyKouhai! Wiki/` for new `.eml` files, skipping
+   known test/setup noise (subjects containing "Activate FormSubmit",
+   "rate-limit test", "diagnostic", "hashed endpoint test", "PROD origin test",
+   "TEST —").
+2. Parse with Python's `email` module (handles base64 MIME bodies correctly).
+3. Check the table above by article/date/submitter; skip anything already
+   logged.
+4. Decide per §7, act if it's a clear edit, then add a row here — don't leave
+   it untracked even if the decision is "skip."
