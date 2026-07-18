@@ -1,8 +1,8 @@
 ---
 title: Parties — Venues, Norms & Dorm Rules
 section: 09_Social Life & Culture/Interacting with an International Student Body
-tags: [social, parties, events, dorm, culture]
-status: needs-verification
+tags: [social, parties, events, dorm, culture, unverified]
+status: needs-work
 last_updated: 2026-07-18
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Carpooling — Student Networks
 section: 07_Daily Life/Transport
-tags: [transport, carpooling, daily-life, community]
-status: needs-senior-input
+tags: [transport, carpooling, daily-life, community, needs-input]
+status: needs-work
 last_updated: 2026-05-28
 ---
 

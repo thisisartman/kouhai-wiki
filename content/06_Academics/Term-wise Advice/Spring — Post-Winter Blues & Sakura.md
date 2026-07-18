@@ -1,8 +1,8 @@
 ---
 title: Spring — Post-Winter Blues & Sakura
 section: 06_Academics/Term-wise Advice
-tags: [academics, spring, term, advice, sakura, mental-health]
-status: needs-senior-input
+tags: [academics, spring, term, advice, sakura, mental-health, needs-input]
+status: needs-work
 last_updated: 2026-07-16
 ---
 

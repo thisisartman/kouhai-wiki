@@ -1,8 +1,8 @@
 ---
 title: Room Setup Tips
 section: 02_Arrival & First Week
-tags: [housing, dorm, first-week]
-status: needs-verification
+tags: [housing, dorm, first-week, empty]
+status: needs-work
 last_updated: 2026-07-17
 ---
 

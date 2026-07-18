@@ -1,8 +1,8 @@
 ---
 title: Campus Dining
 section: 07_Daily Life/Food
-tags: [food, campus, cafeteria, dining]
-status: needs-verification
+tags: [food, campus, cafeteria, dining, unverified, empty]
+status: needs-work
 last_updated: 2025
 ---
 

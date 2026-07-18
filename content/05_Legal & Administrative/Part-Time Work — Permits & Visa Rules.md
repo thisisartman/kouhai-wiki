@@ -1,8 +1,8 @@
 ---
 title: Part-Time Work — Permits & Visa Rules
 section: 05_Legal & Administrative
-tags: [part-time, work, visa, legal, permits, residence-card]
-status: needs-senior-input
+tags: [part-time, work, visa, legal, permits, residence-card, unverified]
+status: needs-work
 last_updated: 2026-05-29
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Dorm Life & Facilities
 section: 03_Housing
-tags: [housing, dorm, facilities, campus-life, daily-life]
-status: needs-verification
+tags: [housing, dorm, facilities, campus-life, daily-life, unverified]
+status: needs-work
 last_updated: 2026-05-29
 ---
 

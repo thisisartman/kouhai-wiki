@@ -1,8 +1,8 @@
 ---
 title: Clubs & Student Organizations
 section: 09_Social Life & Culture
-tags: [academics, clubs, social, extracurricular, community]
-status: needs-senior-input
+tags: [academics, clubs, social, extracurricular, community, needs-input, unverified]
+status: needs-work
 last_updated: 2026-07-16
 ---
 

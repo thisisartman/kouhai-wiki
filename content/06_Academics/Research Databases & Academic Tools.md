@@ -1,8 +1,8 @@
 ---
 title: Research Databases & Academic Tools
 section: 06_Academics
-tags: [academics, research, databases, tools, thesis]
-status: needs-verification
+tags: [academics, research, databases, tools, thesis, unverified]
+status: needs-work
 last_updated: 2025
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Indian Food Sources
 section: 07_Daily Life/Food
-tags: [food, indian, spices, groceries, nagaoka]
-status: needs-verification
+tags: [food, indian, spices, groceries, nagaoka, unverified, empty]
+status: needs-work
 last_updated: 2025
 ---
 
