@@ -3,7 +3,7 @@ title: Thesis Guide (IR) — Supervisor, Timeline, Tips
 section: 06_Academics/Term-wise Advice
 tags: [academics, thesis, IR, research, supervisor, needs-input, unverified]
 status: needs-work
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 The thesis is the defining academic challenge of the IR program. It's also the thing most students start thinking about too late. This guide consolidates what seniors wish they'd known — about timelines, choosing a supervisor, and actually getting it done.

@@ -3,7 +3,7 @@ title: Cooking Basics & Cheap Meal Prep
 section: 07_Daily Life/Food
 tags: [food, cooking, budget, meal-prep, dorm]
 status: ready
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 Many students arrive at IUJ having never cooked seriously. Rural Niigata — with limited delivery options and a campus cafeteria that gets old fast — will change that. Cooking is one of the best investments of time you can make here: cheaper, healthier, and genuinely social.

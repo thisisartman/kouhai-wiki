@@ -3,7 +3,7 @@ title: Residence Card — What It Is & Renewal
 section: 05_Legal & Administrative
 tags: [residence-card, visa, legal, zairyu, admin]
 status: ready
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 Your Residence Card (在留カード, *zairyū kādo*) is your single most important document in Japan. More immediately useful than your passport for day-to-day legal identity.

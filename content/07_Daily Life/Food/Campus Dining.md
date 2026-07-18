@@ -3,7 +3,7 @@ title: Campus Dining
 section: 07_Daily Life/Food
 tags: [food, campus, cafeteria, dining, unverified, empty]
 status: needs-work
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 > ⚠️ This article is a placeholder. All specifics need to be filled in from direct on-campus experience or IUJ student affairs.

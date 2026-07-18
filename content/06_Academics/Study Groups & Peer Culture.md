@@ -3,7 +3,7 @@ title: Study Groups & Peer Culture
 section: 06_Academics
 tags: [academics, study, collaboration, peer-learning, culture, needs-input]
 status: needs-work
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 IUJ's small cohort size is one of its biggest academic advantages — if you use it right. The peer learning environment here is genuinely stronger than larger universities, but it requires you to actively participate.
