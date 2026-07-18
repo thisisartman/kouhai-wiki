@@ -1,5 +1,64 @@
 # Changelog
 
+## [2026-07-18/19] — Status/tag redesign, live badge, suggestion backlog cleared
+
+### Added
+- `MAINTENANCE.md` §16 — permanent suggestion log; every "Suggest an edit"/
+  "Suggest a new page" submission tracked with status, replacing a
+  short-lived external `suggestions-log.md` draft (folded in and deleted
+  same day). Multi-item submissions split into individually-numbered,
+  individually-creditable action items.
+- `quartz-plugins/status-badge/` — new local plugin rendering a colored
+  full-width banner above the article title on any `status: needs-work`
+  page, one line per reason tag present (`unverified` amber, `needs-input`
+  violet, `empty` slate). `ready` pages render nothing. Registered
+  `beforeBody` priority 8, just ahead of `article-title`.
+- Community-folder template: 3 stub articles (Festivals & Celebrations,
+  Community & Events at IUJ, Cultural Information & Etiquette) for any
+  country under `13_Country-Specific/`. Scaffolded for **Kyrgyzstan** (new
+  folder) and **India** (added alongside its existing Pre-Departure
+  Checklist/Food Sources/OCI Card articles).
+- `content/11_IT & Productivity/SIM & Internet Setup.md` — eSIM/Trip.com
+  pre-arrival option (Sree's suggestion): ~¥1,000/mo or ¥14/day/GB, no
+  Japanese bank account or Residence Card needed.
+- `content/index.md` — homepage welcome blurb encouraging new students to
+  ask senpais for help, linking to Bus & Local Routes and Useful Apps.
+- `content/07_Daily Life/Seasons & Weather — Month by Month.md` — bear
+  (ツキノワグマ) safety note in Niigata-Specific Notes, spring/autumn
+  activity near Minami-Uonuma.
+- `content/03_Housing/Dorm Life & Facilities.md` — Classrooms and MLIC Hall
+  stub subsections in Campus Common Spaces (resolves the Campus Facilities
+  & Bookings backlog item — chose to extend this file rather than write a
+  new standalone article, since Gym/CNP already had real homes).
+- About page: credited **Sree** (DXP, Class of 2026, India) and **Koshoi**
+  (MBA, Class of 2027, Kyrgyzstan).
+
+### Changed
+- `status:` frontmatter simplified from 3 values
+  (`ready`/`needs-verification`/`needs-senior-input`) to 2
+  (`ready`/`needs-work`); the "why" moved to 3 independent tags
+  (`unverified`, `needs-input`, `empty`) across all 24 non-ready articles.
+  2 articles (Gym Rules, Bus & Local Routes) flipped straight to `ready` —
+  content was already fact-checked, tag was just stale.
+- `content/00_About Wiki/How to Use This Wiki.md` — Status Indicators
+  section rewritten for the new scheme; the old version described a
+  4-symbol system (✅/🔶/⚠️/🔴) and claimed status was invisible metadata,
+  both stale after this session's changes.
+- 21 articles' `last_updated: 2025` (bare year) replaced with real dates,
+  derived from git history rather than guessed.
+
+### Fixed
+- `quartz-plugins/suggest-edit/src/components/SuggestEdit.tsx` — "new page"
+  mode was leaking stale passage text into suggestion emails (textarea
+  pre-filled on page-selection, never cleared on mode switch). Now omits
+  the `passage` field entirely outside edit mode.
+
+### Open
+- `Dorm Life & Facilities.md` now covers dorm-specific *and* campus-wide
+  content under a dorm-only title — reorder/rename/split not yet decided.
+- Topic-category tags (e.g. "IUJ") explicitly deferred to a separate
+  future discussion.
+
 ## [2026-07-17] — Stub-page cleanup (post fact-check)
 
 ### Added
