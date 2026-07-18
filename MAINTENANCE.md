@@ -583,12 +583,15 @@ anyone's memory of a past conversation:
   Setup Tips deliberately kept as a stub awaiting senior contributions (no
   official or existing source for dorm furniture/fixtures — see CHANGELOG.md);
   Part-Time Work was already resolved in the 2026-07-14 link audit.
-- **Campus Facilities & Bookings article — flagged, not started.** The gym,
-  classrooms, CNP, and MLIC Hall are all bookable/closable campus spaces that
-  currently have partial or no coverage (Gym Rules briefly mentions bookability;
-  CNP has a subsection in `Dorm Life & Facilities.md`; classrooms and MLIC Hall
-  have nothing). A future pass should decide: one combined article, or separate
-  ones per space.
+- ~~Campus Facilities & Bookings article~~ — **DECIDED & DONE 2026-07-19.**
+  Chose separate coverage per space over a new combined article, since Gym
+  and CNP already had natural homes with real content (Gym Rules; the CNP
+  subsection in `Dorm Life & Facilities.md`) — a standalone page would've
+  mostly just re-linked to those two. Added **Classrooms** and **MLIC Hall**
+  as two new stub subsections in `Dorm Life & Facilities.md`'s existing
+  "Campus Common Spaces" section, each honestly marked as needing senior
+  input on the booking process rather than inventing details. File's tags
+  gained `needs-input` alongside its existing `unverified`.
 - **My Number ↔ Japanese phone number cross-reference — flagged 2026-07-17, not
   written yet.** `SIM & Internet Setup.md`'s "What You Need to Sign Up" list
   (Passport, Residence Card, address, payment method) doesn't mention My Number
