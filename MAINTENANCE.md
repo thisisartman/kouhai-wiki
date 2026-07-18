@@ -682,8 +682,9 @@ get built is 4 credited contributions, not 1.
 | 2026-07-18 | SIM & Internet Setup | Senpai | Sree (consent: yes) | Add eSIM/Trip.com option (~¥1000/mo or ¥14/day/GB) | Actioned | New "eSIM (Pre-Arrival Option)" bullet added under Airport (Immediate Options); credited on About page |
 | 2026-07-18 | How to Use This Wiki (new-page mode) | Self-test | Terwadkar Apoorv Rajiv | Joke text, not a real suggestion | Skipped | Also the submission that surfaced the passage-field bug below |
 
-**2026-07-18 — MyKouhai! Wiki (homepage) — Senpai — koshoi_k** (no name given;
-`credit_consent: yes` but nothing to credit without a name)
+**2026-07-18 — MyKouhai! Wiki (homepage) — Senpai — koshoi_k** (real name
+Koshoi, MBA, Kyrgyzstan, provided by the maintainer 2026-07-19; credited on
+the About page for the 2 actioned items below)
 Original text: map of IUJ and the city, bus stops and schedule, mention it's okay
 to ask senpais for help/advice, don't forget the bear warning, mention winter is
 hard and summer is hot, add photos in general.
