@@ -69,8 +69,9 @@ track it, so it's empty right after cloning the repo fresh and needs this comman
 populate it).
 
 **If you edit one of the local plugins in `quartz-plugins/`** (`suggest-edit`,
-`home-search`, or `close-nav-on-outside-tap` — these are custom-written, not
-downloaded, so they live in the repo itself and get git-tracked) — a plain edit to
+`home-search`, `close-nav-on-outside-tap`, or `status-badge` — these are
+custom-written, not downloaded, so they live in the repo itself and get
+git-tracked) — a plain edit to
 the `.tsx` source file isn't enough on its own. These plugins ship as pre-compiled
 JavaScript (in each plugin's own `dist/` folder — "dist" is short for
 "distribution," i.e. the built/compiled output actually used at runtime, as opposed
@@ -550,11 +551,15 @@ anyone's memory of a past conversation:
   - **Not yet done**: a broader **topic-category tag taxonomy** (e.g. an
     "IUJ" tag) was raised in the same conversation but **explicitly deferred
     to a separate, later discussion** — don't conflate the two tag systems.
-  - **Live status badge on articles** — separate but related thread: a "B"
-    full-width-banner-above-title mockup (using the site's real palette) was
-    approved as the placement direction on 2026-07-18. Now that the tag
-    scheme has landed, the badge can be built against it — still not started;
-    maintainer wants a screenshot check-in before it ships.
+  - ~~Live status badge on articles~~ — **DONE 2026-07-18.** New local
+    plugin `quartz-plugins/status-badge/` renders a full-width banner above
+    the article title (the "B" placement approved earlier) whenever
+    `status: needs-work`, with one colored line per reason tag present
+    (`unverified` amber, `needs-input` violet, `empty` slate — colors match
+    the design-review mockup). Ready pages render nothing. Registered in
+    `quartz.config.yaml` at `beforeBody` priority 8, just ahead of
+    `article-title`'s priority 10. Reviewed locally via `quartz build
+    --serve` and approved by the maintainer before committing.
   - **Separately noticed, not yet fixed**: 21 articles have
     `last_updated: 2025` (bare year, not a full date) — pre-existing
     inconsistency unrelated to this migration, spotted while auditing
