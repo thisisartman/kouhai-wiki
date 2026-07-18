@@ -3,7 +3,7 @@ title: My Number Card — How to Get It & Why
 section: 05_Legal & Administrative
 tags: [my-number, マイナンバー, legal, admin, ID]
 status: ready
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 My Number is Japan's national identification number system. Every resident — including foreign nationals — gets a number. The physical card that goes with it is optional but increasingly essential.

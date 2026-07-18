@@ -3,7 +3,7 @@ title: Student Discounts
 section: 07_Daily Life/Shopping
 tags: [discounts, student, savings, transport, software]
 status: ready
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 Your student status unlocks meaningful discounts in Japan. Most require either your IUJ student ID or proof of enrollment.

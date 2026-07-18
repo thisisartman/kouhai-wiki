@@ -3,7 +3,7 @@ title: Winter Term — Credits & Survival
 section: 06_Academics/Term-wise Advice
 tags: [academics, winter, term, advice, snow, mental-health, needs-input]
 status: needs-work
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 Winter at IUJ is a study in contrasts. Academically, it can be productive — the chaos of Fall has settled, you know the system, and the course load is often more focused. Personally, it tests everyone. Niigata's winters are serious, the campus can feel isolated, and the novelty of Japan has worn off.

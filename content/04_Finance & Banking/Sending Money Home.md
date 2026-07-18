@@ -3,7 +3,7 @@ title: Sending Money Home
 section: 04_Finance & Banking
 tags: [remittance, wire-transfer, Wise, money, finance]
 status: ready
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 Japan has reliable remittance options, but the best one depends on your destination country, how fast you need the transfer, and whether you have a Japanese bank account yet.

@@ -3,7 +3,7 @@ title: Library & Research Tools
 section: 06_Academics
 tags: [academics, library, research, resources, unverified]
 status: needs-work
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 > ⚠️ Specific database subscriptions, access URLs, and borrowing rules change. Verify current access against the IUJ Library website and orientation materials.

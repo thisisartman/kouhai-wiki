@@ -3,7 +3,7 @@ title: Research Databases & Academic Tools
 section: 06_Academics
 tags: [academics, research, databases, tools, thesis, unverified]
 status: needs-work
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 A practical toolkit for graduate-level research at IUJ — databases, writing tools, and productivity software worth knowing before you start your thesis or first major paper.

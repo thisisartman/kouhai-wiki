@@ -3,7 +3,7 @@ title: Tax Filing for Students
 section: 05_Legal & Administrative
 tags: [tax, kakutei-shinkoku, legal, admin, finance]
 status: ready
-last_updated: 2025
+last_updated: 2026-07-13
 ---
 
 Most IUJ students will deal with Japanese taxes in one form or another — especially if working part-time or on a scholarship. Here's what you actually need to know.
