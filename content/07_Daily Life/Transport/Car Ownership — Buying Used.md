@@ -1,8 +1,8 @@
 ---
 title: Car Ownership — Buying Used
 section: 07_Daily Life/Transport
-tags: [transport, car, ownership, daily-life]
-status: needs-senior-input
+tags: [transport, car, ownership, daily-life, needs-input, unverified]
+status: needs-work
 last_updated: 2026-07-16
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Library & Research Tools
 section: 06_Academics
-tags: [academics, library, research, resources]
-status: needs-verification
+tags: [academics, library, research, resources, unverified]
+status: needs-work
 last_updated: 2025
 ---
 

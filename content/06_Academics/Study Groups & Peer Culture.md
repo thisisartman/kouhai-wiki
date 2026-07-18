@@ -1,8 +1,8 @@
 ---
 title: Study Groups & Peer Culture
 section: 06_Academics
-tags: [academics, study, collaboration, peer-learning, culture]
-status: needs-senior-input
+tags: [academics, study, collaboration, peer-learning, culture, needs-input]
+status: needs-work
 last_updated: 2025
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Campus Life & Vibe
 section: 09_Social Life & Culture
-tags: [social, campus, community, culture, iuj]
-status: needs-senior-input
+tags: [social, campus, community, culture, iuj, needs-input]
+status: needs-work
 last_updated: 2026-05-28
 ---
 

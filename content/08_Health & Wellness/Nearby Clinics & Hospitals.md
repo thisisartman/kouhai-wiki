@@ -1,8 +1,8 @@
 ---
 title: Nearby Clinics & Hospitals
 section: 08_Health & Wellness
-tags: [health, clinics, hospitals, medical, daily-life]
-status: needs-senior-input
+tags: [health, clinics, hospitals, medical, daily-life, needs-input, unverified]
+status: needs-work
 last_updated: 2026-05-28
 ---
 

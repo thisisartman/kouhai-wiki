@@ -1,8 +1,8 @@
 ---
 title: Waste Disposal & Recycling
 section: 07_Daily Life
-tags: [daily-life, waste, recycling, rules]
-status: needs-verification
+tags: [daily-life, waste, recycling, rules, unverified]
+status: needs-work
 last_updated: 2026-05-28
 ---
 

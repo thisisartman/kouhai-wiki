@@ -1,8 +1,8 @@
 ---
 title: Course Registration
 section: 06_Academics
-tags: [academics, registration, courses, portal]
-status: needs-verification
+tags: [academics, registration, courses, portal, unverified]
+status: needs-work
 last_updated: 2026-07-16
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Emergency Contacts & Procedures
 section: 08_Health & Wellness/Emergency & Disaster Preparedness
-tags: [health, emergency, safety, contacts]
-status: needs-verification
+tags: [health, emergency, safety, contacts, unverified]
+status: needs-work
 last_updated: 2026-07-14
 ---
 

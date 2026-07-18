@@ -1,8 +1,8 @@
 ---
 title: Fall Term — Hectic, Settle In Fast
 section: 06_Academics/Term-wise Advice
-tags: [academics, fall, term, advice, first-term]
-status: needs-senior-input
+tags: [academics, fall, term, advice, first-term, needs-input]
+status: needs-work
 last_updated: 2025
 ---
 
