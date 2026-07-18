@@ -524,15 +524,15 @@ anyone's memory of a past conversation:
   - **Status flips applied 2026-07-18** (content was already fact-checked,
     tag was just stale): `Gym Rules.md` and `Bus & Local Routes.md` both
     flipped `needs-verification` → `ready`.
-  - **`Parties — Venues, Norms & Dorm Rules.md` deliberately held back** —
-    flagged during the audit as messier than a simple stale tag: it has a
-    broad top-of-article hedge ("must be verified against the current student
-    handbook") that reads as superseded by specific sourced content later in
-    the same article (OSS enforcement reminders), plus a second, narrower,
-    still-genuinely-open hedge about quiet hours specifically. Needs a content
-    edit (trim the stale blanket hedge, keep the quiet-hours one), not just a
-    status flip. **User wants to go over this one separately** — don't touch
-    without that conversation.
+  - **`Parties — Venues, Norms & Dorm Rules.md` — resolved 2026-07-18.** The
+    stale blanket hedge ("must be verified against the current student
+    handbook") was deleted — it was superseded by specific sourced content
+    later in the same article (OSS enforcement reminders on overnight guests
+    and noise complaints). The narrower, genuinely-open quiet-hours hedge was
+    kept. Senior Submissions footer's first ask narrowed from "current dorm
+    rules on gatherings, noise, and guests" (now sourced, too broad) to just
+    "exact quiet hours times, if known." Status stays `needs-verification` —
+    the quiet-hours gap is real — `last_updated` bumped to 2026-07-18.
   - **`last_updated` bumped to 2026-07-16** on 4 files whose content was
     fixed during the 2026-07-16 fact-check pass but never got the frontmatter
     field updated at the time: `Course Registration.md`, `Spring —

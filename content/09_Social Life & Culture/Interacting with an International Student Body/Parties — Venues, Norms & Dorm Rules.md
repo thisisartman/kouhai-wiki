@@ -3,12 +3,10 @@ title: Parties — Venues, Norms & Dorm Rules
 section: 09_Social Life & Culture/Interacting with an International Student Body
 tags: [social, parties, events, dorm, culture]
 status: needs-verification
-last_updated: 2026-05-28
+last_updated: 2026-07-18
 ---
 
 IUJ's social life is active despite (or because of) the rural isolation. Parties, dinners, cultural nights, and informal gatherings happen frequently — especially in the first term when everyone is still getting to know each other.
-
-> ⚠️ IUJ dorm rules around gatherings, noise, and guests must be verified against the current student handbook. Violations can have academic or residential consequences. This article covers general norms; confirm the specific rules with student affairs.
 
 ---
 
@@ -85,7 +83,7 @@ If you're hosting a gathering:
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
-- Current dorm rules on gatherings, noise, and guests
+- Exact quiet hours times, if known
 - Best social events that happened at IUJ — what made them work
 - Off-campus venues in Nagaoka good for group outings
 - Cultural night tips — what works, what to avoid
