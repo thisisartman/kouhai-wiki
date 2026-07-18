@@ -1,9 +1,9 @@
 ---
 title: Dorm Life & Facilities
 section: 03_Housing
-tags: [housing, dorm, facilities, campus-life, daily-life, unverified]
+tags: [housing, dorm, facilities, campus-life, daily-life, unverified, needs-input]
 status: needs-work
-last_updated: 2026-05-29
+last_updated: 2026-07-19
 ---
 
 IUJ's dormitories are on-campus and within walking distance of everything. For most students, dorm life is the default for at least Year 1. This article covers what to expect, what's available, and how second-year housing works.
@@ -79,6 +79,18 @@ An outdoor BBQ area on campus, usable in warm months (roughly April–October). 
 
 Free to use, two floors, with a Women's Only Hour and shoe/water-fountain rules — see [[Gym Rules]] for the full breakdown. Like other campus spaces, it can be booked for events and closed during others.
 
+### Classrooms
+
+Used for regular coursework, but also bookable for club meetings, study groups, or events outside class hours — like other campus spaces, check with OSS/the academic office rather than assuming a room is free.
+
+> 🔶 Senior input needed: which office actually handles classroom booking requests, and how far in advance?
+
+### MLIC Hall
+
+A larger campus venue used for bigger events (this article doesn't yet have specifics on capacity, typical use, or how to book it).
+
+> 🔶 Senior input needed: what is MLIC Hall typically used for, and what's the booking process?
+
 ---
 
 ## Dorm Staff
@@ -142,3 +154,5 @@ Estimated costs for SD4 and off-campus options are distributed with the survey �
 - Actual dorm room dimensions and what furniture is provided in SD1–3
 - Laundry room location and coin machine details (number of machines, peak times)
 - Any other communal spaces or facilities not listed here
+- Classroom booking: which office handles it, how far in advance to ask
+- MLIC Hall: typical use, capacity, and how to book it
