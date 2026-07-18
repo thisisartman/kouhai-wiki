@@ -3,7 +3,7 @@ title: SIM & Internet Setup
 section: 11_IT & Productivity
 tags: [SIM, internet, phone, connectivity, IT]
 status: ready
-last_updated: 2026-05-29
+last_updated: 2026-07-18
 ---
 
 Getting online is your first real task after landing. Without it, you can't navigate, contact IUJ, or do anything else on the first week checklist.
@@ -23,6 +23,15 @@ Getting online is your first real task after landing. Without it, you can't navi
 - Brands: **IIJmio**, **HISMobile**, **Docomo tourist SIM**
 - Data-only (no calls/SMS in basic plans)
 - Good for the journey to IUJ; upgrade to a proper plan after settling in
+
+### eSIM (Pre-Arrival Option)
+- Purchase and install before you land — apps like **Trip.com** sell Japan
+  data eSIMs, no physical SIM swap needed
+- Typical pricing: ~¥1,000/month flat, or ¥14/day/GB on pay-as-you-go plans
+- Data-only, no calls/SMS — same trade-off as airport SIM cards
+- Doesn't require a Japanese bank account, credit card, or Residence Card —
+  useful if you want connectivity active the moment you land, before any
+  Japan-side paperwork is possible
 
 ---
 

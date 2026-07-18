@@ -25,6 +25,7 @@ spirit.
 Everyone listed here helped make this wiki better by submitting a suggestion through the site.
 
 - **Adithya** (3) — MBA, Class of 2026, India
+- **Sree** (1)
 
 <!--
   TODO (fill in yourself, as suggestions come in):
