@@ -3,7 +3,7 @@ title: Seasons & Weather — Month by Month
 section: 07_Daily Life
 tags: [daily-life, weather, seasons, winter, niigata]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-19
 ---
 
 Niigata is one of Japan's snowiest regions. Minami-Uonuma specifically sits between mountains that funnel in heavy snowfall every winter. If you're arriving from a tropical or mild climate, this will be the biggest environmental adjustment you make.
@@ -130,6 +130,7 @@ Peak summer. Temperatures: 26–34°C with high humidity. Obon holiday period (m
 - Niigata City (the coast) gets less snow than inland areas. **Minami-Uonuma is significantly snowier** than the coast — it's in the heavy snowbelt.
 - Avalanche risk exists in the mountains but is not typically relevant for campus life.
 - **Earthquakes** are more common in Niigata than much of Japan — see [[Earthquake Preparedness]].
+- **Bears (ツキノワグマ, Asian black bears)** are occasionally sighted in rural areas around Minami-Uonuma, especially in spring (post-hibernation foraging) and autumn (pre-winter foraging). Not a daily campus concern, but avoid hiking alone at dawn/dusk in wooded or mountainous areas during those seasons, and watch for local/city bear-sighting alerts.
 
 ---
 
