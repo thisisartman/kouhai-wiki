@@ -3,7 +3,7 @@ title: Spring — Post-Winter Blues & Sakura
 section: 06_Academics/Term-wise Advice
 tags: [academics, spring, term, advice, sakura, mental-health]
 status: needs-senior-input
-last_updated: 2025
+last_updated: 2026-07-16
 ---
 
 Spring is IUJ at its most beautiful and its most bittersweet. The snow melts, the campus turns green, the sakura bloom — and it's all over in days. Graduation approaches. People leave. The year compresses into something you're not ready to finish.

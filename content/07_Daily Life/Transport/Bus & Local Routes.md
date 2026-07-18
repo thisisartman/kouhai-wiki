@@ -2,8 +2,8 @@
 title: Bus & Local Routes
 section: 07_Daily Life/Transport
 tags: [transport, bus, local, daily-life]
-status: needs-verification
-last_updated: 2026-05-29
+status: ready
+last_updated: 2026-07-16
 ---
 
 The IUJ campus bus is the primary way to get between campus and the outside world without a car. The network is limited but well-organised — knowing the routes and schedules is important because buses don't run all day.

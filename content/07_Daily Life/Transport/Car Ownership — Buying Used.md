@@ -3,7 +3,7 @@ title: Car Ownership — Buying Used
 section: 07_Daily Life/Transport
 tags: [transport, car, ownership, daily-life]
 status: needs-senior-input
-last_updated: 2026-05-28
+last_updated: 2026-07-16
 ---
 
 Owning a car at IUJ is a significant quality-of-life upgrade — especially in winter when cycling stops and buses run infrequently. It's common among second-year students and those staying longer. The upfront cost is manageable if you buy right.
