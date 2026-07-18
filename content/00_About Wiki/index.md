@@ -26,6 +26,7 @@ Everyone listed here helped make this wiki better by submitting a suggestion thr
 
 - **Adithya** (3) — MBA, Class of 2026, India
 - **Sree** (1)
+- **Koshoi** (2) — MBA, Kyrgyzstan
 
 <!--
   TODO (fill in yourself, as suggestions come in):
