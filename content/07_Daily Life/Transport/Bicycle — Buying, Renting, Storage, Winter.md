@@ -3,7 +3,7 @@ title: Bicycle — Buying, Renting, Storage, Winter
 section: 07_Daily Life/Transport
 tags: [transport, bicycle, daily-life, winter]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-19
 ---
 
 A bicycle is the single best quality-of-life investment you can make at IUJ. Beisia, the station, and local spots that are impractical on foot become routine. It's also how you stay sane in a rural environment with limited public transport.
@@ -35,15 +35,25 @@ Check [[Online Shopping — Amazon JP, Shein, Temu|Mercari]] for listings near M
 
 ---
 
-## Bicycle Registration (防犯登録)
+## Bicycle Registration (防犯登録, Bouhan Touroku)
 
-All bicycles in Japan must be registered. If you buy second-hand, the previous registration should be transferred to you. If buying new, the shop does it automatically (¥500–600).
+All bicycles in Japan must carry a **Bouhan Touroku** sticker — registration with the prefectural police. This is mandatory to own a bicycle in Japan at all, and IUJ requires it to park on campus.
 
-**Why it matters:** If your bike is found by police (stolen, abandoned), they check the registration. An unregistered or wrongly-registered bike can cause problems.
+> ⚠️ **Don't buy a used bike without a Bouhan Touroku sticker already on it.** Without one, it's not considered legit in Japan and can be genuinely difficult to register with IUJ afterward.
 
-**At a bike shop or police koban:** Bring your Residence Card and the bike. Staff handle the rest.
+**Buying new online (e.g. Amazon):** the bike may arrive without Bouhan Touroku depending on the shop. If so, take it to a local bike shop with your **Residence Card** and **proof of purchase (receipt)** and pay the registration fee. Local shops near IUJ: **Hirasei**, **Home Center Urasa**, **Shiokawa Jitensha**.
 
-> ⚠️ **This is separate from IUJ's own mandatory registration.** In addition to the national 防犯登録, IUJ (OSS/OGA/Dorm Staff) requires every student who owns a bicycle — including SD4 dorm residents and off-campus students — to register it directly with the university via [sites.google.com/iuj.ac.jp/bicycle/home](https://sites.google.com/iuj.ac.jp/bicycle/home) (log in with your IUJ account). Register under your own name, one bicycle per person. IUJ periodically sweeps the dormitory and main building parking areas and **confiscates any bicycle that isn't registered or is still under a graduated student's name** — no advance notice is given for the collection date. Register promptly after buying a bike, don't wait for a reminder email.
+**Selling or giving away your bike:** it's the seller's responsibility to hand over valid Bouhan Touroku. Some shops also require a signed Transfer of Ownership form (available in English translation) handed to the new owner.
+
+> ⚠️ **Mandatory bicycle insurance since April 1, 2023.** Under Niigata Prefecture's Ordinance on the Promotion of Safe and Proper Bicycle Use, every bicycle user in Niigata Prefecture must carry insurance to cover damages if you injure someone or damage property in an accident — real compensation cases have run into the tens of millions of yen. Helmets are also a "best effort" requirement under the same ordinance. Check with a local shop (e.g. Lawson sells a bicycle insurance product) about getting covered — this isn't optional and isn't the same thing as Bouhan Touroku.
+
+**IUJ's own registration is separate again.** In addition to Bouhan Touroku and the prefectural insurance requirement, IUJ (Dorm Staff) requires every student who owns a bicycle — including SD4 dorm residents and off-campus students — to submit 4 documents to the Dorm Staff Office (or send them electronically for electronic registration):
+1. IUJ Bicycle Registration Form
+2. A color photo of the bicycle
+3. A copy of your Bouhan Touroku card
+4. A completed sheet confirming your bicycle insurance/helmet status
+
+One bicycle per person (ask Dorm Staff if you're in MSA with a spouse/children). See [sites.google.com/iuj.ac.jp/bicycle/home](https://sites.google.com/iuj.ac.jp/bicycle/home) for the current forms. IUJ periodically sweeps the dormitory and main building parking areas and **confiscates any bicycle that isn't registered or is still under a graduated student's name** — no advance notice is given for the collection date. Register promptly after buying a bike, don't wait for a reminder email.
 
 ---
 
