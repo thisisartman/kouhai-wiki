@@ -3,7 +3,7 @@ title: Residence Card — What It Is & Renewal
 section: 05_Legal & Administrative
 tags: [residence-card, visa, legal, zairyu, admin]
 status: ready
-last_updated: 2026-07-13
+last_updated: 2026-07-19
 ---
 
 Your Residence Card (在留カード, *zairyū kādo*) is your single most important document in Japan. More immediately useful than your passport for day-to-day legal identity.
@@ -71,17 +71,20 @@ Your Residence Card expires when your visa status expires (usually tied to your 
 - If your program length changes (e.g., thesis extension), renew accordingly
 
 **Where to renew:**
-- **Nagaoka Regional Immigration Services Bureau** (nearest office)
-  - Address: confirm current address at [immi-moj.go.jp](https://www.moj.go.jp/isa/)
-  - Or apply online via the Immigration Bureau's web system for eligible categories
+- **Niigata Immigration Office**, located inside Niigata Airport (3710 Matsuhama-cho, Higashi-ku, Niigata, 950-0001; tel. 025-275-4735) — **not** Nagaoka. Nagaoka Station is only a train-transfer stop on the way there, not the office itself.
+  - By Shinkansen: buy a round-trip "S-kippu" discount ticket at Urasa Station (¥6,040 round-trip), get off at Niigata Station, then bus (Lane 5, ~25 min, ¥400) to the airport.
+  - By local train: ¥1,890 one-way, ~2 hours, usually changing trains at Nagaoka Station.
+  - See IUJ's own "Map to Niigata" page for the current walking directions from the airport terminal to the Immigration Office entrance (it's a separate building from the main terminal).
 
 **What to bring for renewal:**
-- Current Residence Card
-- Passport
-- Enrollment certificate (在学証明書) from IUJ — get from admin office
-- Completed application form (available at the immigration office or printable online)
-- Photographs (4cm × 3cm, plain background)
-- Fee: ¥4,000 revenue stamp (収入印紙) — sold at post offices and convenience stores
+- Application form (download from the Immigration Bureau's website)
+- Soft copy of your passport ID page
+- A bust photo taken within the last 6 months (digital file under 50KB)
+- Transcript (apply at OAA)
+- Certificate of enrollment (apply at OAA)
+- Scholarship Certificate (apply at OSS)
+- Fee: **¥6,000 in cash, paid afterward** — not a revenue stamp bought in advance
+- Be ready to state: your work history for the past 5 years, your total years of education from elementary school onward, your scheduled graduation date, your supervisor's name, your research theme, credits earned in the past year and cumulatively, and your IUJ attendance rate
 
 **Processing time:** ~2 weeks to 2 months depending on workload. Apply early.
 
@@ -90,7 +93,7 @@ Your Residence Card expires when your visa status expires (usually tied to your 
 ## If Lost or Stolen
 
 1. Report to the nearest police station immediately — get a 紛失届 (loss report)
-2. Go to the nearest Regional Immigration Services Bureau with:
+2. Go to the Niigata Immigration Office (see directions above) with:
    - Passport
    - Police report
    - 2 passport photos
