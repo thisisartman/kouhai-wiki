@@ -3,7 +3,7 @@ title: Part-Time Work — Income & Finding Jobs
 section: 04_Finance & Banking
 tags: [part-time, work, income, jobs, finance, needs-input]
 status: needs-work
-last_updated: 2026-05-29
+last_updated: 2026-07-19
 ---
 
 Before anything else: make sure you're legally cleared to work. See [[Part-Time Work — Permits & Visa Rules]] for the 28-hour rule and residence card requirements.
@@ -32,7 +32,10 @@ Rural Niigata has a limited job market compared to Tokyo. Realistic options:
 
 - **Teaching Assistant (TA)** positions — assist professors with courses; check with your department
 - **Research Assistant (RA)** — paid research support roles; ask your academic advisor
+- **Pay rate:** roughly **¥800–1,000/hour** for on-campus jobs, per IUJ's own materials
 - These are the easiest options for students who prefer not to deal with Japanese-language workplaces
+- **TA/RA positions do not require a Work Permit** — this is an explicit exception per IUJ's official guidance. Library jobs are different: they **do** require a Work Permit like off-campus work does. Don't assume all on-campus jobs are permit-free.
+- **Some scholarships ban part-time work outright.** Many scholarships don't allow part-time employment that requires a Work Permit, and **JICA, ADB, and IMF-sponsored students specifically cannot get a Work Permit at all**. Check your scholarship's terms before assuming you can take any job — this applies beyond just the driving restriction covered elsewhere.
 
 ---
 

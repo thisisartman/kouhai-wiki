@@ -3,7 +3,7 @@ title: Festivals — Campus & Local
 section: 09_Social Life & Culture
 tags: [social, festivals, events, culture, japan]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-19
 ---
 
 IUJ has its own event culture, and the Niigata region hosts some of Japan's best festivals. Both are worth knowing about and planning for.
@@ -41,6 +41,8 @@ IUJ's main annual cultural showcase, organised by the **GSO Executive Committee*
 
 **Hosting:** If you want to represent your country or region, organise with other students and sign up early — slots go fast.
 
+> 🔶 IUJ's own event pages also separately list an "**Around the World @ IUJ**" event (mid-November, "festival for the town introducing country games, handicrafts, dance, dress and music") — it's unclear whether this is the same event as Culti-Fiesta under a different/newer name, or a genuinely separate town-facing event. Worth confirming with GSO-EC before assuming either name is the current one.
+
 ### International Festival (Open Day)
 
 A separate, larger event from Culti-Fiesta — IUJ's public-facing festival, held in **late Spring (late May)**, organised jointly by OSS and the GSO Executive Committee.
@@ -66,12 +68,19 @@ IUJ organises intra-campus sports events. Cricket, football (soccer), basketball
 
 The most locally-specific festival on this list — it happens right in Urasa, and IUJ organises buses for it.
 
-**When:** Early March (typically the first or second weekend)
+**When:** The **1st Saturday of March** — confirmed consistently across IUJ's own event pages.
 **What:** A Shinto festival with roughly 1,200 years of history. A march departs from Okuni Jiman Kaikan at 18:00 and proceeds to Bishamon-do Temple near the river. Food vendors line the route.
 
 **Getting there:** IUJ runs dedicated buses from the main entrance; the first bus is reserved for early sign-ups, the rest first-come-first-served. Return buses depart from the Urasa IUJ bus stop — check the return schedule carefully, since missing the last bus means arranging your own taxi back. Don't obstruct the march or participants, even for photos.
 
 > 💡 Given the buses are run by IUJ itself and it's a few minutes from campus, this is one of the easiest local festivals to attend — arguably easier than the Nagaoka Fireworks below.
+
+### Ojiya Events (near Urasa, per IUJ's own sightseeing guide)
+
+- **Ojiya Balloon Festival** — 3rd weekend of February. Hot air balloons lift off from the snow field; you can even ride in one.
+- **Ojiya Bull Fights** — between May and November, select weekends. Bulls "fight" sumo-style, led out by their trainers.
+- **Ojiya Fireworks Display** — **September 8–9**. A distinctive format where individual fireworks are dedicated to specific people/occasions (births, birthdays, engagements, weddings) — includes a Guinness World Record launch each year.
+- **Echigo Tsumari Art Triennale** — a major art event held every 3 years (most recently 2018 per this source — confirm the current cycle before planning around it), drawing overseas visitors specifically for it. Runs August–early September.
 
 ### Nagaoka Fireworks (長岡大花火大会)
 **When:** Early August (typically first weekend)
