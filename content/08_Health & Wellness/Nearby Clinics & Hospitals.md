@@ -74,7 +74,7 @@ For anything beyond a local clinic's scope — specialist care, emergency care, 
 - ~10 minutes by car from IUJ
 - Registration 8:30–11:30 (walk-in) or 13:00–15:00 (by appointment); consultation 9:00–12:00 (walk-in) or 13:30–17:15 (by appointment)
 - Some doctors speak English
-- **Go with a referral if possible** — from Yamato Hospital, Moegi Clinic, or the IUJ school doctor. Without one, you pay an extra **¥7,700** and face a long wait.
+- **Go with a referral if possible** — from Yamato Hospital, Moegi Clinic, or the IUJ school doctor. Without one, you pay an extra **¥7,700 for medical** or **¥5,500 for dental**, and face a long wait either way.
 - Also handles pregnancy: Koide Hospital or Uonuma Kikan for checkups; **deliveries only happen at Uonuma Kikan**.
 
 **Other hospitals in the area, for reference:**
@@ -106,6 +106,17 @@ Per IUJ's own guide, Yukiguni Yamato Hospital is the recommended first stop for 
 - **Uonuma Orthodontic Clinic** (orthodontic treatment only) — 1918 Urasa, Minami-Uonuma-shi — 025-777-3770
 
 All closed Sundays and national holidays; appointments required ahead of time.
+
+---
+
+## School Infectious Disease Policy
+
+If you're diagnosed with an infectious disease, time away from class is recorded as a **Suspension of Attendance**, not a regular absence — this follows Japan's School Health and Safety Act. Common cases:
+
+- **COVID-19:** stay home at least 5 days from symptom onset; return only after 24 hours symptom-free
+- **Influenza:** stay home at least 5 days from symptom onset; return only after 48 hours fever-free
+
+If infected: don't attend any in-person university activities, and notify both your lecturers and the Health & Wellness Coordinator.
 
 ---
 

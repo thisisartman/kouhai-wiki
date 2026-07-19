@@ -3,7 +3,7 @@ title: Bus & Local Routes
 section: 07_Daily Life/Transport
 tags: [transport, bus, local, daily-life]
 status: ready
-last_updated: 2026-07-16
+last_updated: 2026-07-19
 ---
 
 The IUJ campus bus is the primary way to get between campus and the outside world without a car. The network is limited but well-organised — knowing the routes and schedules is important because buses don't run all day.
@@ -18,46 +18,35 @@ The system runs on **named stops**, not route numbers. Key stops include:
 
 | Stop | What's there |
 |---|---|
-| **Station** (駅) | Urasa Station — Shinkansen access |
+| **Toda Store** | Convenience store, first stop after IUJ on every run |
+| **Hospital** | Yukiguni Yamato Hospital — see [[Nearby Clinics & Hospitals]] |
+| **Tenno-machi** | Near Moegi Clinic |
+| **Station** (駅, Urasa Station) | Shinkansen access |
 | **Supermarket** | Beisia supermarket — main grocery run |
 | **City Office** (市役所) | Minami-Uonuma City Office and Daishi Hokuetsu Bank (now relocated inside the City Office building) |
-| **Kodomo-en** | Local childcare facility (some buses stop here on request) |
+| **Kodomo-en** | Local childcare facility — request-only, bus won't stop unless asked before departing IUJ |
 | **MSA** | The MSA dormitory building — not all buses go here |
 
-> ⚠️ **Timetables change.** The schedule is revised when stops or demand change — confirmed changes happened Nov 2025 and April 2026. Always check the current timetable at OSS or the campus notice board. The information here is structural, not a live schedule.
+**Bus capacity is 32 passengers, including babies** — if a bus is full, wait for the next one. Large items (baby strollers, shelves, etc.) aren't allowed on board, except luggage when you're arriving at or departing IUJ for good. Arrive at your stop **5 minutes before** the posted time — times are approximate.
+
+> ⚠️ **Timetables change.** The schedule below is effective from **June 8, 2026** — always check the current timetable at OSS or the campus notice board before relying on specific times.
 
 ---
 
 ## Weekday Buses
 
-Multiple buses run on weekdays. Key features of the current (post-April 2026) schedule:
-- Multiple runs between IUJ and Urasa Station, timed around Shinkansen arrivals/departures where possible
-- Buses now go to the **supermarket and City Office without a request** — previously you had to pre-register
-- The post office stop has been removed (low demand) — walk from the station
-- Some buses stop at Kodomo-en on request — tell the driver when departing IUJ
+Effective June 8, 2026: **15 runs a day**, Monday–Friday, from the first (7:50 AM) to the last (10:10 PM departing IUJ, arriving back 10:44 PM) — this already covers late returns, there's no separate "night bus" to wait for. Every run stops at Toda Store, Hospital, Tenno-machi, and Urasa Station; the Supermarket and City Office are only served by some runs (mid-day through evening) — check the current timetable for which. Kodomo-en is request-only.
 
 ---
 
 ## Weekend Shopping Buses
 
-Separate weekend service to AEON (Saturdays) and Gyomu Super (Sundays). These are the main shopping runs for students without cars.
+Separate weekend service to AEON (Saturdays) and Gyomu Super, near Koide (Sundays) — in addition to a separate, more frequent regular bus to Urasa Station that also runs both weekend days.
 
-- **Saturday:** AEON bus. Runs once or twice depending on demand; historically operated with 1–2 buses
-- **Sunday:** Gyomu Super bus. Multiple runs (1st–4th bus); 1st and 2nd runs tend to have more capacity
-- Demand-responsive: OSS adjusts the number of buses based on ridership. During Fall term (many new students), two buses often run; later in the year, it may drop to one
-- **Use the earlier runs** when possible — later runs fill up and can be oversubscribed
-
-> 💡 May 2026 update: OSS temporarily ran 2 buses on weekends due to high demand. From June 2026, reverts to 1 bus (may go back to 2 for Fall intake). Check current status at OSS.
-
----
-
-## Night Bus / Late Service
-
-As of late 2025, IUJ was working to extend bus hours for late-night returns from Urasa Station. Taxis in the area were not available for weekly arrangements — no taxi companies could commit to a standing service. IUJ decided to extend bus operating hours instead, with implementation pending driver hiring and contract revision. Check current status with OSS or student reps — this may now be operational.
-
-In the meantime, late-night returns from the station typically mean:
-- Arranging a carpool with a car-owning student
-- Paying for a taxi from Urasa Station (~¥1,000–1,500 to campus)
+- **Saturday AEON bus:** 4 fixed runs (not "once or twice depending on demand") — 1st bus priority goes to off-campus and SD4 residents.
+- **Sunday Gyomu Super bus:** 6 fixed runs, with seating priority assigned by residency, not by which run you catch: **1st run** — off-campus families; **3rd, 5th** — off-campus & SD4 residents; **2nd, 4th, 6th** — on-campus residents. Earlier runs aren't simply "more capacity" — they're reserved for specific resident groups.
+- **To board a weekend bus:** get a ticket, distributed about **10 minutes before departure**. Your ticket shows your assigned priority seating for the return trip — board a different time than your ticket at your own risk, first-come-first-served ("Gentlemen's rules"), and if there's no seat, you're on your own to get back.
+- Bus capacity is capped at 32 passengers (including babies) by law, same as weekday buses.
 
 ---
 
@@ -119,7 +108,6 @@ Late-night driving imposes extra fatigue on drivers; the rules matter.
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
-- Current campus bus timetable (weekday and weekend) — please share a photo or the times
-- Whether the night bus extension is now operational and what hours it covers
+- Confirm whether the June 8, 2026 timetable is still current, since these schedules change
 - Local taxi company names and numbers for late-night situations
 - Tips for getting around in winter when cycling isn't viable
