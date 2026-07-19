@@ -3,7 +3,7 @@ title: Printing & Scanning — Campus & Conbini
 section: 11_IT & Productivity
 tags: [daily-life, printing, scanning, campus, convenience-store]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-19
 ---
 
 You'll need to print more than you expect — assignment submissions, admin forms, visa documents, academic papers, official letters. Two options cover everything: the campus printers and convenience store (conbini) multifunction machines.
@@ -12,14 +12,21 @@ You'll need to print more than you expect — assignment submissions, admin form
 
 ## Campus Printing
 
-IUJ's library and computer labs have printers available for students. These are the primary option for academic printing.
+IUJ has **12 printers** across campus: in the dorms (SD1 2F, SD2 5F, SD3 5F, MSA 1F — all color), the Study Room and Library (color), and PC Rooms 120 and 124 (mix of B&W and color).
 
-> ⚠️ Confirm current pricing, print quota, and how to load credits with IUJ IT or the library desk — systems and costs vary year to year.
+**Printing fee (current, per MLIC IT):**
+- **¥7/page black & white, ¥50/page color** — same price regardless of paper size
+- **Double-sided doubles it**: ¥14/page B&W, ¥100/page color
+- The fee is **automatically deducted from your bank account every month** — not a prepaid credit system
+- **Color printers default to B&W mode.** If you print a document in B&W using a color printer, you're charged the ¥7 B&W rate — but check the mode before printing if you actually want color, since it's easy to assume "color printer" means every job comes out in color.
+- **A4 or A3 only — do not print to US Letter size.** The printer may stop if you do.
+- **Paper jam?** No charge — bring the jammed paper as proof to MLIC and they'll refund you.
+- **Banner/large-format printing** is restricted to GSO-EC and the IM/IR councils — personal use isn't allowed.
 
-**Typical setup:**
-- Log in with your IUJ student credentials
-- Select a printer, send the document from your laptop or a campus computer
-- Collect and pay (print credits deducted from your student account or paid per job)
+**Setup:**
+- Windows: press Win+R, type `\\iuj-home` (or `\\iuj-home.iuj.ac.jp`), enter your IUJ credentials, then double-click the printer icon to install its driver
+- Mac: connect via `smb://iuj-home.iuj.ac.jp/<printername>` under System Settings → Printers & Scanners → Advanced
+- **MLIC Office hours:** Mon–Fri 8:30–17:00, closed weekends/holidays. **Student Helpdesk:** Mon–Fri 15:00–17:00 & 20:00–22:00, Sun 15:00–17:00.
 
 **What campus printing is good for:**
 - Lecture notes and readings
@@ -114,6 +121,5 @@ Japanese bureaucracy still uses fax occasionally. Conbini machines fax to domest
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
-- Current campus printing prices and quota
 - Which conbini near IUJ has the best multifunction machine
 - Any specific printing situations that came up (official documents, thesis binding, etc.)
