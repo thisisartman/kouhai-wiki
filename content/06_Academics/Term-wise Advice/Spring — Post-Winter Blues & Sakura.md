@@ -3,7 +3,7 @@ title: Spring — Post-Winter Blues & Sakura
 section: 06_Academics/Term-wise Advice
 tags: [academics, spring, term, advice, sakura, mental-health, needs-input]
 status: needs-work
-last_updated: 2026-07-16
+last_updated: 2026-07-19
 ---
 
 Spring is IUJ at its most beautiful and its most bittersweet. The snow melts, the campus turns green, the sakura bloom — and it's all over in days. Graduation approaches. People leave. The year compresses into something you're not ready to finish.
@@ -70,6 +70,8 @@ Niigata's cherry blossom season typically falls in **early-to-mid April**, sligh
 
 ## Graduation & Goodbyes
 
+Per the 2026-27 academic calendar: **IUJ Foundation Day** is May 14, the **International Festival** is May 29, and **Graduation Ceremony** is June 26 (One-Year Program students graduate separately, Aug 27). Confirm the current year's exact dates rather than assuming these hold every year.
+
 For second-years and those finishing their program:
 - **Start job/career logistics early** — visa status changes after graduation, job searches take time
 - **Administrative checkout** — dormitory checkout, address deregistration at city hall, closing bank accounts or maintaining them — plan this in advance
@@ -84,7 +86,7 @@ For second-years and those finishing their program:
 - Campus looks genuinely stunning in spring
 - Social energy is high — make the most of it
 - Japanese spring festivals (matsuri) begin — see [[Festivals — Campus & Local]]
-- Golden Week (late April – early May) is a travel opportunity — see [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
+- Golden Week (late April – early May) falls right in the middle of Spring 1st Module — **IUJ holds classes as scheduled through it**, per the academic calendar's own note ("Classes will be held as scheduled; Office will be closed" on the IUJ Foundation Day national holiday). Don't assume it's automatically free time; check the actual calendar before planning a trip. See [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
 
 ---
 

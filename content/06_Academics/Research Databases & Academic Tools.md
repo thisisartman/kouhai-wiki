@@ -3,7 +3,7 @@ title: Research Databases & Academic Tools
 section: 06_Academics
 tags: [academics, research, databases, tools, thesis, unverified]
 status: needs-work
-last_updated: 2026-07-13
+last_updated: 2026-07-19
 ---
 
 A practical toolkit for graduate-level research at IUJ — databases, writing tools, and productivity software worth knowing before you start your thesis or first major paper.
@@ -31,7 +31,7 @@ A practical toolkit for graduate-level research at IUJ — databases, writing to
 
 | Resource | What It's For | Access |
 |---|---|---|
-| **Bloomberg Terminal** | Financial data, market analysis | ⚠️ Confirm IUJ terminal availability |
+| **LSEG Workspace** (Refinitiv/Eikon) | Financial data, market analysis | Computer Room 121, 1 terminal only — not IUJ's "Bloomberg Terminal," which doesn't appear on IUJ's current campus software list |
 | **Nikkei BP / Nikkei Data** | Japanese business data | Via IUJ library |
 | **EBSCO Business Source** | Management and business journals | Via IUJ library |
 | **Statista** | Market data and industry statistics | Via IUJ library |
@@ -68,18 +68,20 @@ Google Scholar alone won't give you full-text access to paywalled articles. Link
 
 ### Writing
 - **Overleaf** — browser-based LaTeX editor; useful if your thesis has heavy quantitative/mathematical content. Free tier available.
-- **Microsoft Word** — standard for most IUJ submissions; available via IUJ's Office 365 license ⚠️ confirm via IT
+- **Microsoft Word** — standard for most IUJ submissions. IUJ's actual license is **Office 2021 Professional Plus (64-bit)** — a perpetual license, not an Office 365 subscription — including Word, Excel, PowerPoint, Access, Publisher, InfoPath, and OneNote. Usable in Computer Room 120/121 and dorm lounges, and **installable on your own PC**.
 
 ### Data & Quantitative Analysis
 - **R + RStudio** — free, standard for academic statistical analysis
 - **Python (pandas, statsmodels)** — flexible; good if you're already comfortable with it
-- **STATA** — common in economics/policy programs; ⚠️ check if IUJ has a site license
+- **STATA** — IUJ provides **StataNow 19.5**, usable in Computer Room 120/121 and dorm lounges, and installable on your own PC
+- **E-Views** (v12) and **Stat Transfer** (v16, trial install) — also available in Computer Room 120/121, not installable on your own PC (Stat Transfer's trial is)
 - **Excel** — sufficient for basic data work; don't underestimate it
 
 ### Qualitative Analysis
-- **NVivo** — qualitative coding tool; ⚠️ check IUJ license availability
+- **NVivo** — IUJ has **version 14, on a single terminal in Computer Room 121 only** — not installable on your own PC, so plan around that limited access rather than assuming it's available like STATA
 - **Atlas.ti** — alternative to NVivo
 - Manual coding in a well-structured spreadsheet is also completely valid for many IR theses
+- Also available on campus, 1 terminal each in Computer Room 121: **SPSS** (v30) and **Adobe Creative Cloud** (v6.0 — Acrobat, Photoshop, Premiere Pro, Illustrator), neither installable on your own PC.
 
 ---
 
@@ -122,6 +124,5 @@ Not everything needs a library subscription:
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
 - Which databases were actually useful for your thesis topic
-- Bloomberg Terminal access situation at IUJ
 - Recommended R / STATA / Python resources for students without quant backgrounds
 - Any IUJ-specific data access tips or librarian recommendations

@@ -3,7 +3,7 @@ title: SIM & Internet Setup
 section: 11_IT & Productivity
 tags: [SIM, internet, phone, connectivity, IT]
 status: ready
-last_updated: 2026-07-18
+last_updated: 2026-07-19
 ---
 
 Getting online is your first real task after landing. Without it, you can't navigate, contact IUJ, or do anything else on the first week checklist.
@@ -64,9 +64,10 @@ Japan's MVNO (virtual carrier) market is large. These are the most student-relev
 
 ## Campus WiFi
 
-- IUJ provides campus WiFi — get credentials from the IT office or student portal during orientation
+- The network name is **iuj-air1** — available campus-wide and in the dorms, log in with your IUJ credentials
 - Coverage is reasonable in academic buildings and dorms
-- ⚠️ Dorm WiFi can be congested during peak hours — a personal SIM is still worth having
+- **Free wired LAN is also available in dorm rooms** (SD1/SD2/SD3/MSA) if you bring or borrow a LAN cable (available for loan at the MLIC office, or purchase at the school shop). Outlet locations: SD1 near the bathroom door, SD2 near the bathroom door, SD3 near the desk, MSA via the LAN2 port on the WiFi router.
+- ⚠️ Dorm WiFi can be congested during peak hours — a personal SIM is still worth having, and wired LAN is a more stable alternative if your setup allows it
 
 ---
 
