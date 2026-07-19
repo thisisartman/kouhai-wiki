@@ -3,7 +3,7 @@ title: National Health Insurance
 section: 08_Health & Wellness
 tags: [health, insurance, NHI, admin, legal]
 status: ready
-last_updated: 2026-07-14
+last_updated: 2026-07-19
 ---
 
 All residents of Japan — including international students — are required to enroll in the National Health Insurance (NHI / 国民健康保険, *kokumin kenkō hoken*) scheme. This is one of the first things you do after arrival — done for you as part of an on-campus session, not a trip to the city hall (see below).
@@ -42,11 +42,13 @@ NHI covers **70% of most medical costs** — you pay the remaining 30% out of po
 
 ## Premiums
 
-NHI premiums are income-based. As a student with low or no income, your premium will be low — typically **¥1,000–3,000/month** for students.
+IUJ students get a discount — your premium comes out to roughly **¥18,000/year** (about 70% less than the standard rate), paid automatically from your **Daishi Hokuetsu Bank** account via account transfer (口座振替, *kōza furikae*).
 
-> ⚠️ **Your first payment does not auto-withdraw, even if you've registered for bank transfer.** For new students, an envelope with a payment slip arrives in your dorm mailbox around mid-October, and that first installment must be paid manually — by convenience store, bank, or city office counter — **by October 30**. Only installments from December onward come out of your bank account automatically. Missing this because you assumed the bank transfer already covered it is an easy, avoidable mistake.
+> ⚠️ **No payment is taken in April or May of your first year** — the city office is still calculating the new year's fee during that window. April and May are combined into one payment and withdrawn **at the end of June**. From then on, it's a normal monthly auto-withdrawal on the last day of each month. In your second year, April/May/June get combined the same way. There is no separate manual October payment slip — the whole thing runs through automatic bank withdrawal from the start.
 
-**If you're an exchange student**, the process differs after that first payment: instead of ongoing bank withdrawals, your remaining balance is settled in person at the city office counter as part of your departure procedures.
+> ⚠️ **Keep enough money in the account.** If the balance is insufficient on withdrawal day, you're charged a **¥100/month** penalty.
+
+**If you're a one-term exchange/special student**, you don't get ongoing bank withdrawals at all — instead you pay in cash at a convenience store (7-Eleven, Lawson, Family Mart) or the city office counter, after receiving a postcard showing the amount due. Two-year students may also need to settle a final bill in cash when submitting Move-Out forms before graduation.
 
 > 💡 If you receive a large premium bill that seems wrong, take it to the city office — students often qualify for premium reductions. Ask IUJ student affairs for guidance.
 
@@ -69,11 +71,26 @@ Notify the city office to deregister. Any unused premiums paid may be partially 
 
 ## What NHI Doesn't Cover
 
-- Cosmetic procedures
-- Some dental work (orthodontics, implants)
-- Most glasses / contact lenses (exception: certain eye conditions)
-- Alternative medicine
-- Some overseas emergency treatment (get travel insurance for trips abroad)
+Per IUJ's official Hospital Guide, NHI does not cover:
+- Traffic accident injuries
+- Glasses or contact lenses
+- Birth control pills
+- Abortions
+- Other special treatments (cosmetic procedures, some dental work like orthodontics/implants, alternative medicine, some overseas emergency treatment — get travel insurance for trips abroad)
+
+Check the Family Guide and Guide to Women's Health (available from OSS) for more detail on categories relevant to you.
+
+---
+
+## The Other Mandatory Insurance: Liability & Injury Insurance ("Gakken Sai")
+
+NHI isn't the only insurance IUJ requires. **All students must also enroll in Liability and Injury Insurance** (often called "Gakken Sai"), which covers injury to yourself or damage/injury to others during IUJ-approved activities — separate from NHI's medical-cost coverage.
+
+- 1-year program: ¥1,340
+- 2-year program: ¥2,430
+- PhD: ¥3,620
+
+Charged once during your enrolled period, alongside your other program fees.
 
 ---
 
