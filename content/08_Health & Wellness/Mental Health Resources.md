@@ -3,7 +3,7 @@ title: Mental Health Resources
 section: 08_Health & Wellness
 tags: [health, mental-health, wellbeing, support]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-19
 ---
 
 IUJ is a high-pressure environment in a rural, isolated setting with limited familiar comforts. Mental health challenges — loneliness, academic stress, culture shock, anxiety, seasonal depression — are common and nothing to be ashamed of. This article is about knowing what's available before you need it.
@@ -26,10 +26,18 @@ None of this is unique to you. Most students feel at least some version of this.
 
 ## On-Campus Support
 
-### IUJ Health Centre (保健室)
-The campus health centre is the first port of call. A nurse is available during office hours and can make referrals to a counsellor or off-campus mental health services.
+### IUJ Health and Wellness Office
+Staffed by a Health & Wellness Coordinator (registered nurse), Mon–Fri 9:00–12:30 & 13:30–17:00, walk-in — A-Wing Building 1st Floor (behind the ATM), 025-779-1170 / ext. 170. First port of call; can make referrals. See [[Nearby Clinics & Hospitals]] for full detail.
 
-> ⚠️ Confirm current counselling availability and hours with IUJ student affairs — provision changes year to year.
+### IUJ Counselor
+IUJ has a dedicated on-campus counselor (currently **Kiyoshi Sekihara, "SEKI"** — a certified psychologist and social worker). Sessions are **free**, confidential, and flexible on timing — Zoom available on request.
+
+- **Phone:** 025-779-1506 / ext. 506
+- **Email:** counselor@iuj.ac.jp
+- **Location:** MLIC Building, 2nd Floor, near the Language Faculty Offices
+- Book by email, phone, or just walking in — no referral needed, you can go directly
+
+A monthly school-doctor consultation is also available for both physical and mental health needs — watch for announcements about a week before each visit.
 
 ### Academic Advisors and Student Affairs
 If academic stress is the primary driver, your academic advisor or the student affairs office can help with extensions, accommodations, or referrals.
@@ -77,7 +85,7 @@ These aren't substitutes for professional support, but they matter:
 
 IUJ is small enough that you'll notice. If you're concerned about a classmate:
 - Check in directly — most people appreciate being asked
-- Let them know about the IUJ health centre or TELL
+- Let them know about the IUJ Counselor (SEKI) or TELL
 - Alert a student affairs staff member if you're seriously concerned about their safety
 
 ---
