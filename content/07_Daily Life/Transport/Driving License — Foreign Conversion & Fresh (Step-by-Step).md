@@ -3,7 +3,7 @@ title: Driving License — Foreign Conversion & Fresh (Step-by-Step)
 section: 07_Daily Life/Transport
 tags: [transport, driving-license, legal, daily-life]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-19
 ---
 
 If you want to drive in Japan beyond what your IDP covers (or if your country's IDP isn't valid in Japan), you need a Japanese driving licence. This article covers both the conversion process and getting a fresh licence from scratch.
@@ -14,13 +14,20 @@ If you want to drive in Japan beyond what your IDP covers (or if your country's 
 
 ## Do You Need This?
 
-**You don't need this if:**
-- Your home country's IDP is valid in Japan AND you plan to leave within 1 year
+Per IUJ's current official guidance, only three things let you legally drive in Japan:
+1. A valid Japanese driver's license
+2. An International Driving Permit (IDP) based on the **Geneva Convention** specifically, carried together with your passport (Paris/Washington/Vienna Convention permits are **not** recognized)
+3. A foreign license + an **official Japanese translation** of it + passport — but only for license holders from **Switzerland, Germany, France, Belgium, Monaco, and Taiwan**
+
+For options 2 and 3, the clock is **one year from the date you landed in Japan**, or the permit/license's own expiry, whichever comes first — not one year from the IDP's issue date. Leaving Japan for less than 3 months doesn't reset this clock. Driving after this window, or without meeting any of the 3 conditions above, counts as unlicensed driving.
+
+**You don't need a Japanese license if:**
+- You hold a valid Geneva Convention IDP + passport (or, for the 6 countries/regions above, a translated license + passport) and you're still inside your 1-year-from-landing window
 - You don't plan to drive at all
 
 **You do need this if:**
-- Your home country's IDP is NOT recognised in Japan (e.g. USA, Germany, France, Belgium, Switzerland)
-- Your IDP is about to expire and you're staying longer
+- Your country isn't covered by either of the above paths at all
+- You're past the 1-year-from-landing mark and still want to drive
 - You want a permanent Japanese licence
 
 ---
@@ -35,11 +42,11 @@ Countries that have reciprocal agreements with Japan — includes most European 
 
 **Process:**
 1. Gather documents (see below)
-2. Visit the **Niigata Driving Licence Centre (新潟県運転免許センター)** in Niigata City
-3. Take a **Japanese knowledge test** (translated; 10 questions; straightforward if you review)
-4. Take an **eyesight test**
+2. Have a Japanese-speaking friend call **聖籠町運転免許センター (Seiroumachi Unten Menkyo Center)**, tel. 025-256-1212, to book your initial interview — this is the actual center IUJ students are directed to, not a Niigata-City-proper location
+3. After the initial interview, you'll likely be sent to the **Nagaoka branch office (長岡運転免許試験場)**, tel. 0258-22-1050, for follow-up visits and testing
+4. Take a **Japanese knowledge test**, an **eyesight test** (including color-blindness), and a practical driving test
 5. Pay the fee (~¥4,000–5,000 total)
-6. Licence issued same day if you pass
+6. It's genuinely unusual to pass the practical test on your first or second attempt — budget for retakes and stay patient
 
 **Documents needed:**
 - Current foreign driving licence (original)
@@ -52,15 +59,9 @@ Countries that have reciprocal agreements with Japan — includes most European 
 
 > 💡 Get your JAF translation before going to the centre: [jaf.or.jp/e/switch](https://www.jaf.or.jp/e/switch). Takes 1–2 weeks. Cost: ~¥3,000.
 
-### Countries Requiring Full Practical Test
+### On the Practical Test
 
-Some countries (notably the USA and certain others) require applicants to take a practical driving test in addition to the written test — despite being licensed drivers. This is a bureaucratic quirk, not a comment on your driving ability.
-
-**Additional steps:**
-- Book a practical test date at the Niigata Driving Licence Centre
-- Test is conducted in Japanese; an interpreter may be allowed (confirm in advance)
-- The test is notoriously precise — study Japan-specific manoeuvres (mirror-checking sequence, speed, positioning)
-- Many applicants fail once or twice; this is normal; budget time for retakes
+IUJ's own materials on which countries get a "simplified" conversion vs. a full practical test are inconsistent/outdated in places — don't assume your country's exact track without confirming at the interview stage. What's consistent across sources: everyone takes a written exam, an eyesight/color-blindness test, and a driving test on the center's course; the practical test is conducted in Japanese (bring a Japanese-speaking friend — OSS explicitly does not provide interpretation for driving-license matters, since IUJ's own translations aren't accepted by the police at the License Center); and it's notoriously precise about Japan-specific manoeuvres (mirror-checking sequence, speed, positioning). Failing once or twice is normal — budget time and patience for retakes.
 
 ---
 
@@ -88,12 +89,29 @@ Used by experienced drivers who don't want to pay for school. Budget for 2–4 a
 
 ---
 
-## The Niigata Driving Licence Centre
+## The Driving License Centers
 
-**Location:** 新潟県新潟市中央区紫竹山 (Niigata City, Chūō-ku, Shichikuyama)
-**Access:** Bus from Niigata Station; ~30 min
+IUJ students go through **two locations**, not one:
+
+- **聖籠町運転免許センター (Seiroumachi Unten Menkyo Center)** — tel. 025-256-1212 — for your initial interview. Reachable by Shinkansen (Urasa → Niigata Station → express bus from Bandai Bus Terminal) or local train (Urasa → change at Nagaoka → Niigata Station → same bus).
+- **長岡運転免許試験場 (Nagaoka Unten Menkyo Shikenjo)** — tel. 0258-22-1050 — the branch office you're typically sent to afterward for testing and follow-up visits. Reachable via Urasa → Miyauchi Station (local train) → taxi/walk.
 
 Bring all documents. Arrive early — centres process applicants in batches and missing your slot means rescheduling.
+
+---
+
+## Penalties for Driving Without a Valid License
+
+This isn't a minor bureaucratic slip — it's a real criminal offense under Road Traffic Act Article 117-2, Paragraph 1:
+- **Imprisonment up to 3 years, or a fine up to ¥500,000** (sometimes both)
+- Causing an accident while unlicensed is treated more severely
+- Separately, the general traffic-violation point system applies: 2 points for running a red light, up to 12 for speeding; **license suspension at 6–14 points, revocation at 25+**. Any alcohol in your system makes the points "skyrocket."
+
+**Drunk driving specifically:** as of the 2001 revision, a breath-test alcohol content of just **0.15mg/L** (lowered from 0.25mg/L) triggers a fine of **¥100,000–500,000 or 6 months–5 years imprisonment**. IUJ is explicit that this also risks your scholarship and enrollment status (suspension or expulsion) — and that a friend who lets you drive drunk is held responsible too. Traffic violations involving IUJ students are routinely reported by police to OSS, so don't expect this to stay off IUJ's radar.
+
+**No need to drink and drive:** this area has a "**Daiko**" service — a special taxi-like service that drives you, your friends, *and your car* back to campus for just over normal taxi fare. Use it.
+
+**Seatbelts:** since June 1, 2008, all passengers — front and rear seats — are legally required to wear one while driving.
 
 ---
 

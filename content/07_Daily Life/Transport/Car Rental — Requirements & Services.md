@@ -3,7 +3,7 @@ title: Car Rental — Requirements & Services
 section: 07_Daily Life/Transport
 tags: [transport, car, rental, daily-life]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-19
 ---
 
 Car rental is the best option for day trips, grocery runs to Nagaoka, and ski trips when you don't own a car. The process is straightforward if you have the right licence.
@@ -15,13 +15,11 @@ Car rental is the best option for day trips, grocery runs to Nagaoka, and ski tr
 To rent a car in Japan you need **one of the following:**
 
 ### Option A: International Driving Permit (IDP) + Home Licence
-- Valid for **1 year** from date of issue
-- IDP must be from a country that is a signatory to the **1949 Geneva Convention on Road Traffic**
-- Carry both the IDP and your original home driving licence — one without the other is not valid
+- Valid for **1 year from the date you landed in Japan** (or the permit's own expiry, whichever is first) — **not** 1 year from the IDP's issue date. Leaving Japan for less than 3 months doesn't reset this clock.
+- IDP must be from a country that is a signatory to the **1949 Geneva Convention on Road Traffic** — Paris/Washington/Vienna Convention permits are explicitly **not** recognized
+- Carry both the IDP and your original home driving licence, plus your passport — missing any one of these is not valid
 
-**Countries where IDPs work in Japan (partial list):** India, Australia, New Zealand, most European countries, Canada, most African and South/Southeast Asian countries.
-
-**Countries where IDPs do NOT work:** USA, France, Germany, Switzerland, Belgium, Monaco (these use the 1968 Vienna Convention instead). If your country is on this list, see [[Driving License — Foreign Conversion & Fresh (Step-by-Step)|Driving License]].
+**If your country isn't a Geneva Convention signatory**, there's a separate, narrower path: a foreign license + an **official Japanese translation** of it + passport works, but only for license holders from **Switzerland, Germany, France, Belgium, Monaco, and Taiwan** specifically. Everyone else without a recognized IDP needs a Japanese license — see [[Driving License — Foreign Conversion & Fresh (Step-by-Step)|Driving License]].
 
 > ⚠️ Get the IDP from your home country's designated authority **before leaving**. India: issued by your regional RTO. Takes 1–2 weeks.
 
@@ -71,8 +69,9 @@ Major chains have locations in Nagaoka (30 min from IUJ) and at larger JR statio
 ## Driving in Japan: Key Rules
 
 - **Drive on the left** — opposite to India, most of Europe and North America
-- Speed limits: 60 km/h on regular roads, 100 km/h on expressways unless posted otherwise
-- **Zero tolerance for drunk driving** — even a small amount is a serious criminal offence
+- Speed limits: 60 km/h on regular roads, 100 km/h on expressways unless posted otherwise (confirm posted signs — this varies by road)
+- **Zero tolerance for drunk driving** — a breath-test reading of just 0.15mg/L triggers a fine of ¥100,000–500,000 or 6 months–5 years imprisonment. IUJ also risks your scholarship/enrollment status. Use the local **"Daiko"** service instead — it drives you, your friends, and your car home for just over normal taxi fare.
+- **Seatbelts are mandatory for every seat**, front and rear, by law since June 2008.
 - ETC (electronic toll) cards are often available from rental companies — worth getting for expressway trips
 - **Navigators are GPS-equipped** — input destinations by phone number (電話番号) as it's easier than address entry in Japanese
 
