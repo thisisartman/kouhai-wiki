@@ -3,7 +3,7 @@ title: Car Ownership — Buying Used
 section: 07_Daily Life/Transport
 tags: [transport, car, ownership, daily-life, needs-input, unverified]
 status: needs-work
-last_updated: 2026-07-16
+last_updated: 2026-07-19
 ---
 
 Owning a car at IUJ is a significant quality-of-life upgrade — especially in winter when cycling stops and buses run infrequently. It's common among second-year students and those staying longer. The upfront cost is manageable if you buy right.
@@ -34,7 +34,15 @@ You need a Japanese driving licence or a valid IDP (International Driving Permit
 
 ## IUJ Vehicle Registration (Mandatory)
 
-Owning a car isn't just about a driving licence — IUJ also requires every student who owns a car to **register the vehicle with the university** (OSS / Dorm Staff Office), separate from any government registration. Check dormitory notice boards or contact OSS for the current process. Unregistered vehicles on IUJ premises are treated the same way as unregistered bicycles — subject to confiscation/removal during periodic sweeps. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]] for how the parallel bicycle registration system works.
+Owning a car isn't just about a driving licence — anyone who parks a car or motorcycle on campus at any time must register it with **OSS** and get an **IUJ parking sticker** — no exceptions. To get your parking permit (Shako-shomei), submit copies of:
+- Your valid driver's license (Japanese license, or international license + your home country's license)
+- Your Shaken-sho (car registration papers)
+- Your Third-party Insurance papers (Nin-i Hoken)
+- **¥1,000** for issuance of the permit
+
+**Where to park:** dorm residents use the space near SD2 or SD3; off-campus residents use the area above or near the Baiten or Library. The Main Entrance parking area is reserved for short-term visitors — don't use it.
+
+Unregistered vehicles on IUJ premises are treated the same way as unregistered bicycles — subject to confiscation/removal during periodic sweeps. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]] for how the parallel bicycle registration system works.
 
 **Winter note:** Snow removal in IUJ parking areas is handled by an outside contractor and clears the lot, not individual vehicles — owners are responsible for clearing snow off their own car regularly (accumulated snow can damage wipers, mirrors, antennas, and dent the roof; IUJ is not liable for this damage). If you'll be away for an extended period in winter, arrange for a friend to clear your car, and start the engine occasionally to keep it from failing to start.
 
@@ -87,12 +95,30 @@ For students with no Japanese driving history, insurance can be expensive (¥50,
 
 ---
 
+## Car Tax Deadlines
+
+All car owners pay an annual tax to the Transport Authority, separate from purchase-time taxes:
+- **Light vehicles (K-cars):** notice arrives ~April 19, **payment due April 30**
+- **Sedan-type cars:** notice arrives ~May 10, **payment due May 31**
+
+> ⚠️ **If you sell or dispose of your car without formally notifying the Transport Authority, you keep getting charged the tax indefinitely** — you remain responsible until the correct paperwork is filed. This is explicitly flagged as a graduating-student trap: IUJ gets asked to track down graduated students who left without deregistering their car. Handle this *before* graduation, not after — contact JA Autopal (Nokyo, 025-772-8811) or a car dealer to help file the transfer/disposal paperwork correctly.
+>
+> Two examples of how this plays out: if you **sell to someone**, the tax stays in your name until the next fiscal year (April 1) regardless of when the sale happens — negotiate with the buyer about who covers the tax already paid. If you **dispose of the car**, tax is calculated monthly from the disposal-registration date, and you can apply for a partial refund for the unused months — but only if you actually register it as disposed.
+
+If your car is stolen, contact the Muikamachi Tax Office (025-773-6668) as well as the police.
+
+---
+
 ## Selling the Car When You Leave
 
 Japan's used car market absorbs cars easily. Options:
 - **Sell to a dealer** (Gulliver etc.) — convenient, slightly below market value
 - **Sell on Car Sensor / Goo-net** — better price, more effort
 - **Sell to an IUJ student** — best for community continuity
+
+Whichever route you take, make sure the ownership-transfer or disposal paperwork is actually filed with the Transport Authority (see Car Tax Deadlines above) — don't just hand over the keys.
+
+**Car tires and car batteries aren't covered by Minami-Uonuma City's regular waste collection** — dispose of them at a gas station instead (not free). See [[Waste Disposal & Recycling]].
 
 ---
 

@@ -3,7 +3,7 @@ title: Remittances & Forex Setup
 section: 01_Pre-Arrival
 tags: [pre-arrival, finance, remittance, forex, wise, money]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-19
 ---
 
 Setting up your money systems before you leave is one of the highest-ROI things you can do pre-arrival. A bad remittance setup costs you real money every month. A good one is nearly invisible.
@@ -103,6 +103,8 @@ Once in Japan, the main options for sending money home:
 | **JP Bank international transfer** | Direct bank-to-bank | Requires recipient bank details; reasonable fees |
 
 > 💡 Wise or Remitly will beat JP Bank rates for most India-Japan transfers. Set them up before you need them — identity verification takes time.
+
+> ⚠️ **Your first 6 months in Japan, you're a "non-resident" for banking purposes** — this can turn what looks like a domestic payment (tuition, fees, travel-agency charges) into an "international remittance" with an extra ~¥7,500 fee, and can delay or add a fee to incoming scholarship deposits. See [[Sending Money Home]] for the full detail and how to fix your status after 6 months.
 
 For full details on ongoing remittances, see [[Sending Money Home]].
 
