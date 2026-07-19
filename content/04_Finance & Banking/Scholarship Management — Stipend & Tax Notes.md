@@ -3,10 +3,12 @@ title: Scholarship Management — Stipend & Tax Notes
 section: 04_Finance & Banking
 tags: [finance, scholarship, stipend, tax, banking, unverified, needs-input]
 status: needs-work
-last_updated: 2026-05-29
+last_updated: 2026-07-19
 ---
 
 If you're on a scholarship that includes a monthly stipend, here's how the payment system works and what to watch for.
+
+**JASSO stipend amount:** ¥48,000/month, paid October through March, with a second application (on a more competitive basis) available for April through March of your second year.
 
 ---
 
@@ -32,11 +34,14 @@ You'll receive a reminder email when your stipend is ready for collection.
 
 ## Monthly Expense Invoices
 
-IUJ issues monthly expense invoices (dorm fees, meal plan costs, insurance deductions, etc.) through the **MyIUJ portal**.
+IUJ issues monthly expense invoices (dorm fees, meal plan costs, insurance deductions, etc.) through the **MyIUJ portal**, on a fixed monthly cycle:
 
-- Log in at [iuj.ac.jp/myiuj/login](https://www.iuj.ac.jp/myiuj/login/)
-- Check your invoice before stipend collection / bank deduction day
-- Deductions happen automatically from your Daishi account once linked
+- **20th of each month:** your statement is issued and viewable on MyIUJ (via "Statements of your expenses" in the bottom-left corner)
+- **25th of each month:** the amount is automatically deducted from your bank account
+- If either date falls on a weekend or national holiday, it moves to the working day immediately before
+- Deducted charges typically cover: dormitory fees for the *current* month, plus other fees (copy fees, phone charges, etc.) for the *previous* month — so the September 25th deduction covers September's rent + August's other fees
+
+> ⚠️ **Keep enough money in your account before the 25th.** Missing a payment isn't a soft failure: a late fee of **¥1,000/month** applies, and repeated non-payment can trigger **forced withdrawal from IUJ** under the school's own regulations (Article 27(4)). Check your balance a day or two ahead of the deduction date, every month.
 
 ---
 
@@ -93,8 +98,6 @@ For the full tax filing process, see [[Tax Filing for Students]].
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
-- Actual stipend amounts for MIPP/MBA/IRP programmes — how much per month?
-- Payment dates — which day of the month does the deposit hit?
-- How the monthly expense deduction works in practice — what's typically included?
+- Actual stipend amounts for MIPP/MBA/IRP programmes if different from the JASSO figure above
 - Whether the scholarship stipend is taxable and how to handle it on your tax return
 - Anything that went wrong with your stipend collection and how you resolved it
