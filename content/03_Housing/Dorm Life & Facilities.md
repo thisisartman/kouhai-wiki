@@ -22,23 +22,29 @@ The primary student dormitories. Around 70 rooms across the three buildings hous
 
 ### SD4
 
-An additional dormitory building. Second-year students (and Nakayama Scholarship students) are typically moved here for the Fall term to free up SD1–3 for incoming first-years.
+An additional dormitory building, about 1.5–2km from campus. **This is a capacity fallback, not a standard placement**: per IUJ's own Dormitory Info, "if capacity in SD1-3 is insufficient, 2nd year students are invited to live in SD4 units" — it's contingent on SD1-3 running out of room for returning students, not an automatic default.
 
 - Separate from the main SD1–3 cluster
 - Roughly 50 students capacity
 - No specific layout details confirmed — ask returning students
 
-### MSA
+### MSA (Married Student Apartments)
 
-An older building with very limited availability (typically 2–3 rooms per year, selected by lottery). Conditions are honestly rough:
+MSA is explicitly **for officially married couples only** — IUJ does allow 1-2 non-school-age children to live with parents there, but it's not recommended given the apartment size and evacuation requirements; no other family or friends may stay (IUJ can ask you to vacate immediately if they do).
+
+**Availability is much higher than rumor suggests** — two lotteries run each academic year:
+- **1st week of October**: aimed at 1st-years wanting to bring a spouse quickly (not recommended — better to wait for spring term). **About 6–8 units** available, with priority given to special cases (both partners are IUJ students, single parents, special needs).
+- **Mid-May**: for 1st-years planning to bring a spouse in October of their 2nd year. **About 10 units** available. Students already living off-campus aren't eligible for this one.
+
+That's roughly **16–18 units/year total**, not the tiny handful sometimes assumed. Conditions are still rough:
 
 - No elevator
-- No furniture provided — you arrange everything yourself
-- Emergency evacuation is via a rope ladder through a small balcony opening (not suitable if you have children)
+- Unfurnished — you arrange your own furniture (bedding/table rentals can be arranged)
+- Emergency evacuation is via a rope ladder through a small balcony opening (part of why children living there isn't recommended)
 - The building is old and may have heating or drainage issues
 - Cockroaches have been reported
 
-MSA is not a desirable placement — it occasionally becomes available mid-year and is offered by lottery. If you're offered it, go in eyes open.
+If you're offered a unit, go in eyes open — but don't assume the odds are as bad as "2-3 rooms" makes it sound.
 
 ---
 
@@ -69,7 +75,7 @@ To book: contact OSS in advance.
 
 ### BBQ Area
 
-An outdoor BBQ area on campus, usable in warm months (roughly April–October). No booking system confirmed — check with OSS. Keep music and noise considerate of students who are studying.
+An outdoor BBQ area on campus, usable in warm months (roughly April–October). **Advance reservation is required** — per IUJ's own Dormitory Info, the BBQ site (like the Snack Lounge and MSA tatami rooms) needs booking ahead through OSS, not a walk-up space. Keep music and noise considerate of students who are studying.
 
 ### Rooftop
 
@@ -93,6 +99,12 @@ A larger campus venue used for bigger events (this article doesn't yet have spec
 
 ---
 
+## Quiet Policy
+
+Lounge quiet hours are **11:00 PM Sunday–Thursday, and midnight Friday–Saturday**. Enforcement runs through a few informal channels before anything formal: your **Floor Representative** (an appointed student per floor who liaises with Dorm Staff/OSS and helps resolve quiet-policy issues) and the **Lounge Busters** (a volunteer group covering communal lounges, kitchens, outdoor areas, rooftops, and the Snack Lounge — if you're disturbed at night, you can call on them to ask noise-makers to quiet down or move to the Snack Lounge). Repeated violations feed into the dorm's yellow-card enforcement system (see SD3 Lounge rules above).
+
+---
+
 ## Dorm Staff
 
 The Dorm Staff team manages day-to-day dorm operations, room issues, and emergency procedures.
@@ -100,12 +112,14 @@ The Dorm Staff team manages day-to-day dorm operations, room issues, and emergen
 | Contact | Details |
 |---|---|
 | **Office** | SD1 Dorm Staff Office (1st floor) |
-| **Hours** | 8:30–17:00 daily (except 12:00–13:00) |
+| **Hours** | 8:30–12:00 and 13:00–17:00, **every day including weekends and public holidays** |
 | **Phone** | 025-779-1555 (ext. 555) |
 | **Email** | dorm@iuj.ac.jp |
 | **Staff** | Megumi Mitera, Mihoko Sakurai, Takae Hasegawa |
 
 For urgent maintenance issues (heating failure, window problems, drainage), contact Dorm Staff first. Outside office hours, use the emergency contact provided at orientation.
+
+**Bedding and linens**: fresh sheets are provided as part of the dorm package (not extended to off-campus residents). Put used sheets in the provided bag and hang it on your doorknob **every Tuesday morning by 10:00 AM** for exchange — miss the window and you wait until the following week. Badly damaged or stained sheets may be charged to you.
 
 ---
 
@@ -114,13 +128,13 @@ For urgent maintenance issues (heating failure, window problems, drainage), cont
 Second-year students must submit a housing preference survey in April (typically opens April 9, deadline ~April 19). Options:
 
 1. **SD1–3** — Apply early; first-year students get priority but ~70 rooms are available for continuing students
-2. **SD4** — ~50 students; standard second-year placement; can return to SD1–3 later if rooms open (Nov–Jan)
-3. **MSA** — Extremely limited (2–3 rooms); lottery-based; read the conditions above carefully
-4. **Off-campus** — You arrange your own housing along the bus route; must submit "Application to Permanently Move Out of Dorms" at least 4 weeks before moving
+2. **SD4** — ~50 students; a capacity-contingent fallback if SD1-3 can't fit everyone, not a guaranteed or "standard" placement; can return to SD1–3 later if rooms open (Nov–Jan)
+3. **MSA** — For married couples only; ~16-18 units/year across two lotteries (see MSA section above) — more available than the "extremely limited" reputation suggests, but still competitive
+4. **Off-campus** — You arrange your own housing along the bus route; must submit "Application to Permanently Move Out of Dorms" at least 4 weeks before moving. IUJ recommends living on campus for at least your first 2 terms even if you have family arrival plans.
 
 > ⚠️ **If you don't submit the survey, you are automatically assigned off-campus.** Do not miss this.
 
-**Nakayama Scholarship students** are requested to move to SD4 for the Fall term (can return to dorms if space becomes available, or stay off-campus).
+Students on IUJ-provided scholarships are prioritized to move to SD4 first if SD1-3 overcrowds (can return to dorms if space becomes available, or stay off-campus) — the article previously named this as specifically "Nakayama Scholarship" students, but IUJ's own materials only say "those on scholarships provided by IUJ" without naming a specific scholarship, so treat the specific name as unconfirmed.
 
 Estimated costs for SD4 and off-campus options are distributed with the survey — compare carefully before choosing.
 
@@ -151,7 +165,6 @@ Estimated costs for SD4 and off-campus options are distributed with the survey �
 - SD4 layout, facilities, and what to expect vs SD1–3
 - MSA experience — was it manageable or as bad as it sounds?
 - Off-campus housing: how to find places, what costs look like, pros/cons
-- Actual dorm room dimensions and what furniture is provided in SD1–3
 - Laundry room location and coin machine details (number of machines, peak times)
 - Any other communal spaces or facilities not listed here
 - Classroom booking: which office handles it, how far in advance to ask

@@ -3,7 +3,7 @@ title: Part-Time Work — Permits & Visa Rules
 section: 05_Legal & Administrative
 tags: [part-time, work, visa, legal, permits, residence-card, unverified]
 status: needs-work
-last_updated: 2026-05-29
+last_updated: 2026-07-19
 ---
 
 Working part-time is allowed on a student visa in Japan, but within strict legal limits. Violating them risks your visa status. Know the rules before you start.
@@ -31,7 +31,10 @@ Your student visa already includes **Permission to Engage in Activity Other than
 
 - Look at the back of your Residence Card
 - If it says **「資格外活動許可」** with a stamp — you're cleared to work within the 28-hr limit
-- If it's not there, apply at the nearest **Regional Immigration Services Bureau** before starting any job
+- **If it's not there, IUJ's own path is easier than going to Immigration yourself**: you can get the permit stamped **at the airport immigration counter on arrival**, with a completed form. If you miss that, apply through IUJ instead — **contact OSS**, who mediate the application, rather than going directly to a Regional Immigration Services Bureau.
+- Bring your **Student ID card** as well as passport/Residence Card — a document the wiki's own list previously left out.
+- Library jobs on campus require this Work Permit, same as off-campus work — don't assume all on-campus jobs are exempt (TA/RA specifically are, see [[Part-Time Work — Income & Finding Jobs]]).
+- **Some scholarships prohibit getting a Work Permit at all** — JICA, ADB, and IMF-sponsored students can't get one, full stop, regardless of hours. Spouses on a dependent visa are also capped at 28 hrs/week total. Check your scholarship's terms before assuming you're eligible.
 
 ---
 

@@ -3,7 +3,7 @@ title: Urasa Station — Full Guide & Quirks
 section: 02_Arrival & First Week
 tags: [arrival, transport, urasa, station, shinkansen]
 status: ready
-last_updated: 2026-07-13
+last_updated: 2026-07-19
 ---
 
 Urasa (浦佐) is a Shinkansen stop in the middle of rural Niigata. It's small, quiet, and has almost no English signage. Once you know the quirks, it's easy — but the first time can be disorienting.
@@ -92,7 +92,7 @@ Only **Toki** and **Tanigawa** services stop here.
 - **Platform confusion** — Shinkansen platforms are upstairs; local JR platforms are ground level. They are separate fare zones.
 - **Snow season** — Urasa gets heavy snow (Nov–Mar). Platforms and exits are heated/covered, but the walk to taxis or buses can be icy. Wear appropriate footwear.
 - **Taxis disappear at night** — late arrivals should arrange pickup in advance or accept a taxi won't be waiting
-- **The "bear statue"** — outside the East Exit is a famous local statue of a man wrestling a bear (毘沙門堂の裸押合い). Good landmark for meeting people at the station.
+- **Bishamon-do Temple** — reached via the **West Exit** (take Route 265, follow it as it curves right, temple's on your left). This is the site of the Hadaka Oshiai Matsuri ("naked pushing festival," 裸押合大祭) in early March — men in loincloths push their way into the temple in the dead of winter. See [[Festivals — Campus & Local]] for the current date.
 
 ---
 
