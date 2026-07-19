@@ -1,36 +1,49 @@
 ---
 title: Nearby Clinics & Hospitals
 section: 08_Health & Wellness
-tags: [health, clinics, hospitals, medical, daily-life, needs-input, unverified]
-status: needs-work
-last_updated: 2026-05-28
+tags: [health, clinics, hospitals, medical, daily-life]
+status: ready
+last_updated: 2026-07-19
 ---
 
-Knowing where to go before you're sick is important. Healthcare in rural Niigata is functional but limited — English support is minimal, and the nearest large hospital is in Nagaoka.
-
-> 🔶 This article needs senior input for specific clinic names, addresses, English availability, and current experiences. The framework is accurate; the specifics need ground-truth from students who've used these facilities.
+Knowing where to go before you're sick is important. Healthcare in rural Niigata is functional but limited — English support exists at a couple of specific places, and IUJ's own Hospital Guide centers everything around Uonuma Kikan Hospital, 10 minutes from campus (not Nagaoka).
 
 ---
 
-## IUJ Health Centre
+## IUJ Health and Wellness Office
 
-IUJ has a campus health centre (保健室, *hokenshitsu*) staffed by a nurse and/or visiting doctor.
+Officially the **Health and Wellness Office** (not "Health Centre"), staffed by a Health & Wellness Coordinator (registered nurse).
 
-> ⚠️ Confirm current hours, services, and whether a doctor visits regularly — this changes by year.
+- **Hours:** Mon–Fri 9:00–12:30, 13:30–17:00 — walk-in, no appointment needed
+- **Location:** A-Wing Building, 1st Floor (behind the ATM)
+- **Contact:** 025-779-1170 (ext. 170) / healness@iuj.ac.jp
+- A school doctor also holds a monthly consultation for physical *and* mental health needs — watch for announcements about a week ahead of the visit
+- IUJ does **not** provide hospital escort services as a general policy (exceptions possible), and is not responsible for your family members' healthcare needs while visiting
 
 **Use it for:**
 - Minor illness, first assessment
 - Referrals to local clinics or hospitals
 - Mental health first contact (see [[Mental Health Resources]])
 - Medical certificates for absences
+- Annual health checkup (April and October — required under the School Health and Safety Act; one per year, fall term of your first year recommended)
 
 ---
 
 ## Local Clinics (近くのクリニック)
 
-For standard illness — cold, flu, gastrointestinal issues, minor injuries — a local clinic (クリニック or 診療所) in Urasa or Minami-Uonuma handles most things.
+For standard illness — cold, flu, gastrointestinal issues, minor injuries — go to one of these two first (per IUJ's own Hospital Guide 2025, "It's best to have a regular doctor... such as at Yamato Hospital or Moegi Clinic. Do not go to Uonuma Kikan Hospital for basic health issues"):
 
-> 🔶 Senior input needed: Which specific clinics near IUJ are English-accessible or have staff who can manage basic English communication? Please include clinic name, location, and your experience.
+**Yukiguni Yamato Hospital**
+- 4115 Urasa, Minami-Uonuma-shi, Niigata 949-7302 — 025-777-2111
+- English-speaking doctor: Mon, Tue, Thu, Fri (internal medicine)
+- Registration 8:30–10:00, consultation from 9:00; closed Sat afternoon, Sun, holidays
+- Reachable by IUJ Bus (every run stops there on request) or ~4km taxi ride
+
+**Moegi Clinic**
+- 5363-1 Urasa, Minami-Uonuma-shi, Niigata 949-7302 — 025-777-5222
+- English-speaking doctor: Mon, Tue (AM), Wed, Thu (PM), Fri (AM)
+- Hours: Mon–Fri 8:30–12:00 & 16:30–18:00, Sat 8:30–12:00
+- ~5 min by car from IUJ, near Urasa Elementary School; IUJ Bus stops at "Tenno-machi," then walk
 
 **General process at any Japanese clinic:**
 1. Walk in or call for an appointment (walk-in is usually fine for minor illness)
@@ -53,16 +66,22 @@ For standard illness — cold, flu, gastrointestinal issues, minor injuries — 
 
 ---
 
-## Nagaoka Hospital (長岡市民病院 / Nagaoka Red Cross)
+## Uonuma Kikan Hospital
 
-For more serious conditions, specialist consultations, emergency care, or anything beyond a clinic's scope, Nagaoka is the nearest city with full hospital facilities.
+For anything beyond a local clinic's scope — specialist care, emergency care, referrals, or hospitalization — this is IUJ's actual designated hospital, not Nagaoka.
 
-> 🔶 Senior input needed: Which specific hospital in Nagaoka have students used? Is there English support or an interpreter service?
+- 4132 Urasa, Minami-Uonuma-shi, Niigata 949-7302 — **025-777-3200** (24/7 ER line)
+- ~10 minutes by car from IUJ
+- Registration 8:30–11:30 (walk-in) or 13:00–15:00 (by appointment); consultation 9:00–12:00 (walk-in) or 13:30–17:15 (by appointment)
+- Some doctors speak English
+- **Go with a referral if possible** — from Yamato Hospital, Moegi Clinic, or the IUJ school doctor. Without one, you pay an extra **¥7,700** and face a long wait.
+- Also handles pregnancy: Koide Hospital or Uonuma Kikan for checkups; **deliveries only happen at Uonuma Kikan**.
 
-**Getting there:**
-- ~30 min by car
-- Bus from Urasa to Nagaoka, then taxi or bus to the hospital
-- In a genuine emergency: call 119 (ambulance) — free to call, no cost for the ambulance ride
+**Other hospitals in the area, for reference:**
+- **Koide Hospital** — 34 Hiwatashi-shinden, Uonuma-shi, Niigata 946-0001 — 025-792-2111
+- **Minami Uonuma City Hospital** — 2643-1 Muikamachi, Minami-Uonuma-shi, Niigata 949-6680 — 025-788-1222
+
+**In a genuine emergency:** call 119 (ambulance) — free to call, no cost for the ride. See [[Emergency Contacts & Procedures]] for the exact calling script.
 
 ---
 
@@ -81,7 +100,12 @@ For full emergency procedures, see [[Emergency Contacts & Procedures]].
 
 Basic dental is covered under NHI. For routine cleaning, fillings, or pain — local dentists are fine and affordable. Cosmetic dentistry is not covered.
 
-> 🔶 Senior input needed: Nearest accessible dentist to IUJ.
+Per IUJ's own guide, Yukiguni Yamato Hospital is the recommended first stop for dental (IUJ has an established relationship with them). Two dedicated dental clinics nearby:
+- **Sato Dental Clinic** — 5421-4 Urasa, Minami-Uonuma-shi — 025-777-2872 — Mon, Tue, Thu, Fri, Sat 8:30–12:00
+- **Sawata Dental Clinic** — 1137 Urasa, Minami-Uonuma-shi — 025-777-4925 — Mon, Tue, Wed, Fri, Sat 9:00–13:00 & 14:30–18:30
+- **Uonuma Orthodontic Clinic** (orthodontic treatment only) — 1918 Urasa, Minami-Uonuma-shi — 025-777-3770
+
+All closed Sundays and national holidays; appointments required ahead of time.
 
 ---
 
@@ -110,8 +134,6 @@ For mental health support specifically, see [[Mental Health Resources]] — this
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
-- Specific clinic names and addresses near IUJ with English availability
-- Hospital in Nagaoka you used and how to navigate it
-- Dentist recommendations
-- Experience using the IUJ health centre
+- Current IUJ Health Centre hours and whether a doctor visits regularly
+- Firsthand experience at Uonuma Kikan, Yamato Hospital, or Moegi Clinic — what actually happened
 - Any tips for navigating Japanese medical appointments without Japanese fluency
