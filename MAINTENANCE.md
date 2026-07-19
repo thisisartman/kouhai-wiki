@@ -506,33 +506,41 @@ in `custom.scss`.
 Things discussed but deliberately deferred — parked here instead of relying on
 anyone's memory of a past conversation:
 
-- **IUJ official-site scrape + fact-check pass — 14 critical fixes DONE
-  2026-07-19, ~40 more queued.** Scraped IUJ's public OSS/current-student
-  site (`Resources/IUJ-site/`, outside the git repo — 121 pages + 95 PDFs,
+- **IUJ official-site scrape + fact-check pass — DONE 2026-07-19, all ~54
+  findings fixed.** Scraped IUJ's public OSS/current-student site
+  (`Resources/IUJ-site/`, outside the git repo — 121 pages + 95 PDFs,
   boilerplate-stripped and organized into 104 topic files under
   `extracted/`) and ran 6 parallel fact-check passes against it, one per
   wiki section. Full findings in
-  `Resources/IUJ-site/fact-check-report-2026-07-19.md`. Fixed same day (7
-  commits, `f4452f8`..`f630d5e`): Residence Card renewal sent students to
-  the wrong immigration office (Nagaoka instead of Niigata) with the wrong
-  fee (¥4,000 vs actual ¥6,000); Emergency Contacts and Nearby Clinics both
-  routed serious medical cases toward "Nagaoka," which IUJ's own guide
-  never mentions — everything actually routes to Uonuma Kikan Hospital,
-  10 min from campus; wrong NHI payment schedule (invented an October
-  manual-payment slip that doesn't exist); missing mandatory second
-  insurance ("Gakken Sai"); dorm waste-sorting rule was backwards (plastic/
-  PET go in Burnable at IUJ dorms, not a separate category); missing 2023
-  mandatory bicycle insurance law; wrong driving-license center location
-  and wrong IDP validity period (1 year from landing, not from issue);
-  missing car-tax deadlines and a graduating-student tax-liability trap;
-  missing non-resident-banking-status cost trap (~¥7,500 fee risk in the
-  first 6 months); missing scholarship billing cycle/late-fee details; and
-  the club-formation process was wrong (wiki invented a Student Council
-  proposal + minimum-member + faculty-advisor requirement; IUJ's own page
-  says there's no stated policy at all) alongside a likely-fabricated club
-  name and a missing HOUSE program. **~40 "fix soon" items remain queued**
-  in the report (bus schedules, printer costs, stipend/clinic/festival
-  gaps, etc.) — not yet actioned, pick up from the report file.
+  `Resources/IUJ-site/fact-check-report-2026-07-19.md`. Fixed across ~11
+  commits (`f4452f8`..`a990ecc`), highlights: Residence Card renewal sent
+  students to the wrong immigration office (Nagaoka instead of Niigata)
+  with the wrong fee (¥4,000 vs actual ¥6,000); Emergency Contacts and
+  Nearby Clinics both routed serious medical cases toward "Nagaoka," which
+  IUJ's own guide never mentions — everything actually routes to Uonuma
+  Kikan Hospital, 10 min from campus; wrong NHI payment schedule (invented
+  an October manual-payment slip that doesn't exist); missing mandatory
+  second insurance ("Gakken Sai"); dorm waste-sorting rule was backwards
+  (plastic/PET go in Burnable at IUJ dorms, not a separate category);
+  missing 2023 mandatory bicycle insurance law; wrong driving-license
+  center location and wrong IDP validity period (1 year from landing, not
+  from issue); missing car-tax deadlines and a graduating-student
+  tax-liability trap; missing non-resident-banking-status cost trap
+  (~¥7,500 fee risk in the first 6 months); missing scholarship billing
+  cycle/late-fee details; club-formation process was wrong (wiki invented
+  a Student Council proposal + minimum-member + faculty-advisor
+  requirement; IUJ's own page says there's no stated policy at all)
+  alongside a likely-fabricated club name and a missing HOUSE program;
+  MSA lottery availability was off by ~5-8x; stale bus/Shinkansen
+  schedules; Bloomberg Terminal replaced with the real LSEG Workspace;
+  Office 365 corrected to the actual perpetual Office 2021 license;
+  missing campus WiFi network name and free wired LAN option; wrong
+  Naked Man Festival date; and real course-registration/withdrawal dates
+  resolving several of the wiki's own "not confirmed" hedges. Some
+  narrower items were flagged rather than fixed where IUJ's own official
+  pages contradict each other (e.g. two different names for a fall
+  festival, conflicting driving-license documents) — noted inline in the
+  affected articles rather than silently picking a side.
 - **Community-folder template — DONE 2026-07-19.** Each country gets one
   folder under `13_Country-Specific/`. New reusable pattern for any new
   community folder (this is *in addition to* whatever country-specific

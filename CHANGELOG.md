@@ -1,6 +1,6 @@
 # Changelog
 
-## [2026-07-19] — Official-site fact-check pass: 14 critical fixes
+## [2026-07-19] — Official-site fact-check pass: all ~54 findings fixed
 
 Scraped IUJ's public OSS/current-student site (121 pages + 95 PDFs,
 `Resources/IUJ-site/` outside the repo) and ran 6 parallel fact-check
@@ -19,9 +19,16 @@ agents against it, one per wiki section. Full findings in
 - `content/04_Finance & Banking/Sending Money Home.md` and `content/01_Pre-Arrival/Remittances & Forex Setup.md` — added the non-resident banking status trap (first 6 months in Japan), which can turn domestic-looking payments into ~¥7,500-fee international remittances and delay scholarship deposits.
 - `content/04_Finance & Banking/Scholarship Management — Stipend & Tax Notes.md` — added the JASSO stipend amount, the exact 20th/25th MyIUJ billing cycle, and the ¥1,000/month late fee with forced-withdrawal risk.
 - `content/09_Social Life & Culture/Clubs & Student Organizations.md` — the club-formation process was wrong (invented a Student Council proposal, minimum-member count, and faculty-advisor requirement; IUJ's own page says there's no stated policy at all). Replaced the club catalog with the current roster and added the HOUSE program; flagged a likely-fabricated club name ("IUJ Alpine and Trekking Society").
-
-### Open
-~40 lower-priority "fix soon" items remain queued in the fact-check report (bus schedules, printer costs, missing stipend/clinic/festival detail, etc.) — not yet actioned.
+- `content/03_Housing/Dorm Life & Facilities.md` and `Room Setup Tips.md` — MSA lottery availability was off by ~5-8x (wiki said 2-3 rooms/year; official is ~16-18/year); SD4 corrected from "standard" 2nd-year placement to a capacity-contingent fallback; added Quiet Policy hours, BBQ/lounge booking requirements, the weekly bedding-exchange system, MSA's married-couples-only framing, and real room dimensions.
+- `content/02_Arrival & First Week/Urasa Station — Full Guide & Quirks.md` — removed a "bear statue" story that conflated the real Hadaka Oshiai Matsuri into an invented statue at the wrong exit.
+- `content/09_Social Life & Culture/Festivals — Campus & Local.md` — fixed the Naked Man Festival date (1st Saturday of March, not "first or second weekend"); flagged a naming conflict between two official pages for the fall town festival; added Ojiya Balloon Festival/Bull Fights/Fireworks and Echigo Tsumari.
+- `content/07_Daily Life/Transport/Bus & Local Routes.md` and `Shinkansen Strategy.md` — replaced a stale weekend-bus description with the actual fixed schedule (residency-based seating priority, not run order) and real stop list; removed an outdated "pending" night-bus claim (the current timetable already runs to 22:44); flagged the only available Shinkansen fare as a decade-stale reference and added the Gakuwari partial-discount nuance.
+- `content/04_Finance & Banking/Part-Time Work — Income & Finding Jobs.md`, `05_Legal & Administrative/Part-Time Work — Permits & Visa Rules.md`, and `JP Bank vs Daishi — Comparison & How to Open.md` — added the TA/RA vs. library work-permit distinction, on-campus pay rate, scholarship-specific work-permit bans (JICA/ADB/IMF), the real airport/OSS-mediated permit path, and Daishi's branch hours/card-reissue fee.
+- `content/08_Health & Wellness/Nearby Clinics & Hospitals.md` — added the ¥5,500 dental referral fee and the school infectious disease policy (COVID/flu return-to-class rules).
+- `content/11_IT & Productivity/Printing & Scanning — Campus & Conbini.md` and `SIM & Internet Setup.md` — replaced a pricing hedge with the actual current campus printing costs and gotchas (B&W-default-on-color, A4/A3-only, jam refunds); named the campus WiFi network (iuj-air1) and added the free wired-LAN option.
+- `content/06_Academics/Research Databases & Academic Tools.md` — "Bloomberg Terminal" replaced with the real **LSEG Workspace**; resolved the STATA/NVivo licensing hedges; corrected Microsoft Word's license from "Office 365" to the actual perpetual **Office 2021 Professional Plus**.
+- `content/06_Academics/Course Registration.md` — resolved the "not confirmed" withdrawal-deadline hedge with the real 2026-27 per-term dates.
+- `content/06_Academics/Term-wise Advice/Spring — Post-Winter Blues & Sakura.md` — corrected the Golden Week framing (IUJ holds classes as scheduled through it) and added confirmed 2026-27 milestone dates.
 
 ## [2026-07-18/19] — Status/tag redesign, live badge, suggestion backlog cleared
 
