@@ -3,7 +3,7 @@ title: Course Registration
 section: 06_Academics
 tags: [academics, registration, courses, portal, unverified]
 status: needs-work
-last_updated: 2026-07-16
+last_updated: 2026-07-19
 ---
 
 > ⚠️ This article is based on general IUJ program information. Verify all deadlines, portal steps, and specific procedures against the current IUJ Student Handbook and academic calendar before each term.
@@ -18,14 +18,22 @@ IUJ runs on a trimester system — Fall, Winter, and Spring terms. Course regist
 
 ## Registration Timeline (General)
 
-| Event | Approximate Timing |
+| Event | 2026-27 Academic Year Dates |
 |---|---|
-| Initial course registration window | ~6–8 weeks before term start (e.g., for 2025-2026AY: Fall registration ran Aug 14–21 for an Oct 6 start; Winter ran Nov 12–19 for a mid-January start; Spring ran Feb 12–19 for an early-April start) |
-| Completion/Change of Registration period (add/drop) | First week of term, right at/just after term start |
-| Registration deadline | End of the initial registration window, weeks before the term begins |
-| Withdrawal deadline | Not confirmed — some courses (intensive/irregular schedule) have special cancellation/withdrawal deadlines separate from the regular Completion/Change period; ask OAA if you're unsure |
+| Fall: Course Registration Period | Aug 12–19, 2026 (1st Module: Oct 5–Nov 28) |
+| Fall: Completion/Change of Registration | Oct 5–12, 2026 |
+| Fall: **Last Day for Withdrawal** | **Oct 30, 2026** |
+| Winter: Course Registration Period | Nov 11–18, 2026 (1st Module: Jan 11–Mar 6, 2027) |
+| Winter: Completion/Change of Registration | Jan 11–18, 2027 |
+| Winter: **Last Day for Withdrawal** | **Feb 5, 2027** |
+| Spring: Course Registration Period | Feb 10–17, 2027 (1st Module: Apr 5–May 29) |
+| Spring: Completion/Change of Registration | Apr 5–12, 2027 |
+| Spring: **Last Day for Withdrawal** | **Apr 30, 2027** |
+| Summer (Capstone) Registration | Mid-May 2027 (course period: late-June–mid-August) |
 
-> ⚠️ Confirm exact dates on the IUJ academic calendar each term — these shift year to year. The pattern above (initial registration well before the term, then a short Completion/Change window right at term start) held for the 2025-2026 academic year, but exact dates change annually.
+Each term runs 10 weeks total — the first 8 weeks are the 1st Module, the remaining weeks are the 2nd Module, then Exam Week. Course offerings vary by module; language courses run the full 10 weeks.
+
+> ⚠️ The exact dates above are for the 2026-27 academic year specifically — confirm the current year's calendar each term, since these dates shift annually even though the overall pattern (registration ~6-8 weeks before term start, a short Completion/Change window right at term start, a Last Day for Withdrawal partway through the 1st Module) has held consistently.
 
 ---
 
