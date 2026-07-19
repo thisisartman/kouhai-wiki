@@ -1,5 +1,28 @@
 # Changelog
 
+## [2026-07-19] — Official-site fact-check pass: 14 critical fixes
+
+Scraped IUJ's public OSS/current-student site (121 pages + 95 PDFs,
+`Resources/IUJ-site/` outside the repo) and ran 6 parallel fact-check
+agents against it, one per wiki section. Full findings in
+`Resources/IUJ-site/fact-check-report-2026-07-19.md`.
+
+### Fixed
+- `content/05_Legal & Administrative/Residence Card — What It Is & Renewal.md` — renewal office corrected from "Nagaoka Regional Immigration Services Bureau" to the actual **Niigata Immigration Office** (Nagaoka is only a train-transfer stop en route); fee corrected from ¥4,000 revenue stamp to **¥6,000 cash paid afterward**; added the full required-document list the article was missing.
+- `content/08_Health & Wellness/Emergency & Disaster Preparedness/Emergency Contacts & Procedures.md` and `content/08_Health & Wellness/Nearby Clinics & Hospitals.md` — both routed serious cases toward "Nagaoka," which IUJ's own Hospital Guide never mentions; corrected to **Uonuma Kikan Hospital** (10 min from campus, 24/7 ER). Replaced the generic 119 script with IUJ's actual one; added AED locations, the two-guarantor hospitalization requirement, and a real clinic/hospital/dentist directory with phones and English-availability days.
+- `content/08_Health & Wellness/Mental Health Resources.md` — added the actual on-campus counselor contact (SEKI, ext. 506, MLIC 2F, free sessions), which was missing entirely.
+- `content/08_Health & Wellness/National Health Insurance.md` — replaced an invented October-manual-payment narrative with IUJ's real mechanism (no April/May charge, combined and auto-withdrawn end of June); added the mandatory "Gakken Sai" liability/injury insurance and the ¥100/month low-balance penalty.
+- `content/07_Daily Life/Waste Disposal & Recycling.md` — IUJ's own dorm garbage guide puts plastic packaging and PET bottles in **Burnable**, not a separate category as the article claimed; added the tiered big-item ticket system and the ¥4,000 appliance disposal charge.
+- `content/07_Daily Life/Transport/Bicycle — Buying, Renting, Storage, Winter.md` — added the mandatory Niigata Prefecture bicycle insurance law (since April 2023), missing entirely; corrected the registration process to the real 4-document Dorm Staff submission.
+- `content/07_Daily Life/Transport/Driving License — Foreign Conversion & Fresh (Step-by-Step).md` and `Car Rental — Requirements & Services.md` — corrected the license center location (Seiroumachi + Nagaoka branch, not a Niigata-City address) and the IDP validity clock (1 year from landing in Japan, not from issue); added real unlicensed/drunk-driving penalties, the Daiko service, and the 2008 seatbelt law.
+- `content/07_Daily Life/Transport/Car Ownership — Buying Used.md` — added car tax deadlines (Apr 30 light vehicles, May 31 sedans) and the graduating-student tax-liability trap for undischarged vehicles.
+- `content/04_Finance & Banking/Sending Money Home.md` and `content/01_Pre-Arrival/Remittances & Forex Setup.md` — added the non-resident banking status trap (first 6 months in Japan), which can turn domestic-looking payments into ~¥7,500-fee international remittances and delay scholarship deposits.
+- `content/04_Finance & Banking/Scholarship Management — Stipend & Tax Notes.md` — added the JASSO stipend amount, the exact 20th/25th MyIUJ billing cycle, and the ¥1,000/month late fee with forced-withdrawal risk.
+- `content/09_Social Life & Culture/Clubs & Student Organizations.md` — the club-formation process was wrong (invented a Student Council proposal, minimum-member count, and faculty-advisor requirement; IUJ's own page says there's no stated policy at all). Replaced the club catalog with the current roster and added the HOUSE program; flagged a likely-fabricated club name ("IUJ Alpine and Trekking Society").
+
+### Open
+~40 lower-priority "fix soon" items remain queued in the fact-check report (bus schedules, printer costs, missing stipend/clinic/festival detail, etc.) — not yet actioned.
+
 ## [2026-07-18/19] — Status/tag redesign, live badge, suggestion backlog cleared
 
 ### Added
