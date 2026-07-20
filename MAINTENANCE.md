@@ -506,6 +506,57 @@ in `custom.scss`.
 Things discussed but deliberately deferred — parked here instead of relying on
 anyone's memory of a past conversation:
 
+- **Images in articles — in progress, started 2026-07-20.** Decided
+  convention: images live in a per-article folder,
+  `content/<section>/images/<article-slug>/file.ext`, referenced with
+  standard markdown. Pulled 4 real images out of the IUJ site scrape
+  (everything else logged during the scrape was decorative — club icons,
+  language-flag icons, generic stock photos — not worth importing):
+  - `urasa-map.png` — hand-drawn area map from IUJ's Hospital Guide 2025,
+    for `Urasa Station — Full Guide & Quirks.md`
+  - `koide-map.png` and `muikamachi-map.png` — same source, for
+    `Nearby Clinics & Hospitals.md`
+  - `niigata-lines-map.gif` — small orientation map (Niigata Prefecture,
+    Urasa/Koide/Muikamachi relative to Tokyo/Niigata City/Nagaoka), for
+    `Bus & Local Routes.md`
+
+  Files are copied into their folders but **not yet embedded in the
+  article markdown** — finish wiring in the `![alt](path)` embeds before
+  considering this done.
+- **Google Maps links for wiki-recommended places — not started, needs
+  confirmed addresses first.** Two separate mechanisms agreed 2026-07-20:
+  (1) plain `google.com/maps/search/?q=<address>` hyperlinks for places
+  the wiki already has verified addresses for (hospitals/clinics/dentists
+  in `Nearby Clinics & Hospitals.md`, Daishi Bank, the Niigata Immigration
+  Office) — no API key needed, add these directly; (2) for the hand-drawn
+  Urasa Map's shops/restaurants, which have no addresses, don't invent
+  Maps links — gather real addresses via the suggestion form first. The
+  following named places from the Urasa Map need a confirmed address
+  before they can get a Maps link (skip any already covered elsewhere in
+  the wiki with a real address — hospitals, Moegi Clinic, Uonuma
+  Orthodontic, City Office, Hirasei bike shop, Toda Store):
+  - Restaurants/food: Tanakaya, Ezumiya Diner, Kodamaya, Rire, Grassa,
+    Hisago, Yasuharu, Genji, Yokoso, Seirin, Budo no Hana, Kitano Yado,
+    Azumaken, Buffalo, Soba no Hana, Saikan
+  - Shops/errands: Cupid Supermarket, Home Center Urasa, Takasakiya Home
+    Center, Kadoyama Denki, Yamada Shop, Welcia, LAWSON
+  - Leisure: Noa Noa Karaoke Bar, Eige-kai Karaoke Bar, Yummy Ice Cream,
+    AKO Cafe
+  - Lodging: Hotel Paramount, Forest Inn, Kenyukan
+  - Services: Rainbow Language House, Yamato Real Estate, Kizu Real
+    Estate, the used-car lot
+  - Other: Ikeda Art Museum, Yairomori Park, Agri Park, Cycling Terminal,
+    Golf Range, KJ High School, Kitasato University
+
+  Once addresses come in via suggestions, add them as plain hyperlinks
+  first (cheap, no setup). A nicer upgrade — one embedded **Google My
+  Maps** widget per area (Urasa/Koide/Muikamachi) with pins for all
+  confirmed places — is a manual one-time setup in a Google account (no
+  programmatic way to create/pin a My Maps map without one), worth doing
+  once there are enough confirmed addresses to make a multi-pin map
+  meaningful. Don't bother with the Google Maps JavaScript API — it now
+  requires a billing account even on the free tier, unnecessary complexity
+  for a static student wiki.
 - **IUJ official-site scrape + fact-check pass — DONE 2026-07-19, all ~54
   findings fixed.** Scraped IUJ's public OSS/current-student site
   (`Resources/IUJ-site/`, outside the git repo — 121 pages + 95 PDFs,
