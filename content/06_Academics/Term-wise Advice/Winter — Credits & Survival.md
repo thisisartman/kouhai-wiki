@@ -1,5 +1,5 @@
 ---
-title: Winter — Credits & Survival
+title: "Winter Term: Credits & Survival"
 section: 06_Academics/Term-wise Advice
 tags: [academics, winter, term, advice, snow, mental-health, needs-input]
 status: needs-work

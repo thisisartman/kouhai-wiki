@@ -1,5 +1,5 @@
 ---
-title: Fall — Hectic, Settle In Fast
+title: "Fall Term: Hectic, Settle In Fast"
 section: 06_Academics/Term-wise Advice
 tags: [academics, fall, term, advice, first-term, needs-input]
 status: needs-work
