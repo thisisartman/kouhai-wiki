@@ -89,7 +89,7 @@ If your bank isn't linked yet:
 ## Using PayPay
 
 - **At a store**: Open app → tap the QR icon → scan merchant's QR code → confirm amount → pay
-- **Merchant scans you**: Show your PayPay barcode at the register
+- **Merchant scans you** by showing your PayPay barcode at the register
 - **Splitting bills**: PayPay has a "Request Money" feature, useful for group meals
 
 ---

@@ -31,9 +31,9 @@ Registering with the city is legally required within 14 days of arrival. IUJ org
 
 Combine these in the same on-campus session; they're handled by different counters, set up side by side for the day:
 
-1. ☑️ **Residence Registration (住民登録)**: register your address
+1. ☑️ **Residence Registration (住民登録)**, to register your address
 2. ☑️ **National Health Insurance (国民健康保険) enrollment**: sign up immediately after registering
-3. ☑️ **My Number notification (マイナンバー)**: you'll receive your number; card application is separate
+3. ☑️ **My Number notification (マイナンバー)**. You'll receive your number; card application is separate.
 
 Tell the first counter you need to do all of them.
 

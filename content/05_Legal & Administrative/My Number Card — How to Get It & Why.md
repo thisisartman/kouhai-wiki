@@ -34,12 +34,12 @@ After registering at the city office:
 
 Even though it's technically optional, get the card. Here's why:
 
-- **Tax filing**: required for e-Tax (online tax filing); increasingly mandatory
+- **Tax filing** requires it for e-Tax (online tax filing); increasingly mandatory
 - **Banking**: some banks now require My Number for account operations
-- **Health insurance**: My Number Card is replacing the traditional health insurance card (保険証) as Japan phases this in
-- **Convenience store printing**: My Number Card + convenience store terminals lets you print official government documents (住民票, etc.) without going to city hall
-- **Digital government services**: needed for the マイナポータル (My Number Portal) app for various administrative tasks
-- **Student scholarships**: some scholarship processes require it
+- **Health insurance** is switching to the card, which is replacing the traditional health insurance card (保険証) as Japan phases this in
+- My Number Card plus convenience store terminals lets you print official government documents (住民票, etc.) without going to city hall
+- Digital government services need it for the マイナポータル (My Number Portal) app for various administrative tasks
+- Some student scholarship processes require it
 
 ---
 
