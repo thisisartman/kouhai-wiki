@@ -20,17 +20,17 @@ IUJ's on-campus gym is free to use (see [[Student Discounts]], [[Mental Health R
 
 - Remove outdoor shoes before entering; use the temporary shoe lockers.
 - Wear clean indoor sports shoes or slippers inside.
-- Take your shoes with you when you leave — long-term storage in the lockers isn't permitted.
+- Take your shoes with you when you leave. Long-term storage in the lockers isn't permitted.
 
 ## Drinking Water
 
-- The water dispensers inside the gym are **strictly for drinking**, not for washing hands, faces, or personal items — use the restroom sinks for that instead.
+- The water dispensers inside the gym are **strictly for drinking**, not for washing hands, faces, or personal items. Use the restroom sinks for that instead.
 
 ---
 
 ## Bookings & Closures
 
-Like other campus spaces (classrooms, [[Dorm Life & Facilities|CNP]], and MLIC Hall), the gym can be **booked** for events and can be **closed** for the duration of specific campus events during the year — check with OSS/GSO if you have a specific date in mind rather than assuming it's always open.
+Like other campus spaces (classrooms, [[Dorm Life & Facilities|CNP]], and MLIC Hall), the gym can be **booked** for events and can be **closed** for the duration of specific campus events during the year. Check with OSS/GSO if you have a specific date in mind rather than assuming it's always open.
 
 ---
 
@@ -45,5 +45,5 @@ Like other campus spaces (classrooms, [[Dorm Life & Facilities|CNP]], and MLIC H
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
 - What's actually on the reservation schedule for non-Women's-Hour slots?
-- Equipment available (weights, cardio machines, etc.) — not yet documented
+- What equipment is available (weights, cardio machines, etc.)? Not yet documented.
 - How to book the gym for a private event

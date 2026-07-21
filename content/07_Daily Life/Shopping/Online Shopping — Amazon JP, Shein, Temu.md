@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-Living in rural Niigata means many things aren't available locally. Online shopping fills the gap. Japan has good delivery infrastructure — even rural addresses get fast, reliable service.
+Living in rural Niigata means many things aren't available locally. Online shopping fills the gap. Japan has good delivery infrastructure: even rural addresses get fast, reliable service.
 
 ---
 
@@ -15,7 +15,7 @@ Living in rural Niigata means many things aren't available locally. Online shopp
 **The default option for most things.** Amazon JP has near-comprehensive coverage and fast delivery (often next-day or same-day in rural areas with Prime).
 
 **Account setup:**
-- Create at [amazon.co.jp](https://www.amazon.co.jp) — Japanese interface but manageable with Google Translate
+- Create at [amazon.co.jp](https://www.amazon.co.jp): Japanese interface but manageable with Google Translate
 - Use your dorm room address for delivery
 - Add a Visa/Mastercard or link PayPay for payment
 
@@ -24,13 +24,13 @@ Living in rural Niigata means many things aren't available locally. Online shopp
 - Books (physical and Kindle)
 - Kitchen supplies, room items
 - Specialty food items (kombu dashi, vegan products, imported snacks)
-- Supplements and health products (iHerb is often cheaper for these — see below)
+- Supplements and health products (iHerb is often cheaper for these; see below)
 - Stationery and academic supplies
 
 **Prime (¥600/month or ¥5,900/year):**
-Worth it if you order frequently — includes free next-day shipping and Prime Video (Japanese library). Can share with family. Cancel anytime.
+Worth it if you order frequently: includes free next-day shipping and Prime Video (Japanese library). Can share with family. Cancel anytime.
 
-> 💡 Amazon JP's marketplace includes third-party sellers — check seller ratings before buying. Fulfilled by Amazon (FBA) items are generally reliable.
+> 💡 Amazon JP's marketplace includes third-party sellers: check seller ratings before buying. Fulfilled by Amazon (FBA) items are generally reliable.
 
 ---
 
@@ -50,7 +50,7 @@ iHerb ships directly from the US to Japan, usually in 5–10 days. Pricing in US
 
 ## Rakuten (楽天市場)
 
-Japan's second-largest e-commerce platform. More complex than Amazon but has items Amazon doesn't carry — especially from smaller Japanese retailers, traditional foods, and local specialty items.
+Japan's second-largest e-commerce platform. More complex than Amazon but has items Amazon doesn't carry: especially from smaller Japanese retailers, traditional foods, and local specialty items.
 
 - Rakuten Points accumulate and can be used across Rakuten services (travel, books, etc.)
 - Interface is busier; Google Translate helps
@@ -62,7 +62,7 @@ Japan's second-largest e-commerce platform. More complex than Amazon but has ite
 
 **Best for:** Affordable clothing, basics, accessories.
 
-Shein ships from China to Japan, usually in 7–14 days. Sizing runs small relative to most international sizing — check measurements carefully, not just size labels.
+Shein ships from China to Japan, usually in 7–14 days. Sizing runs small relative to most international sizing; check measurements carefully, not just size labels.
 
 **Practical use at IUJ:**
 - Cheap basics (thermals, casual tops, loungewear)
@@ -75,7 +75,7 @@ Shein ships from China to Japan, usually in 7–14 days. Sizing runs small relat
 
 ## Temu
 
-Similar to Shein but covers more categories — electronics accessories, home goods, stationery, kitchen items, small appliances. Prices are very low; quality is inconsistent.
+Similar to Shein but covers more categories: electronics accessories, home goods, stationery, kitchen items, small appliances. Prices are very low; quality is inconsistent.
 
 **Useful for:** Phone cases, cable organizers, kitchen tools, small décor items, travel accessories.
 
@@ -83,7 +83,7 @@ Similar to Shein but covers more categories — electronics accessories, home go
 
 ---
 
-## Mercari (メルカリ) — Japanese Second-Hand Market
+## Mercari (メルカリ): Japanese Second-Hand Market
 
 Japan's dominant C2C (consumer-to-consumer) marketplace. Think eBay but faster, cheaper, and very well-organised.
 
@@ -91,22 +91,22 @@ Japan's dominant C2C (consumer-to-consumer) marketplace. Think eBay but faster, 
 
 **What to use it for:**
 - Second-hand furniture and electronics (excellent condition, low prices)
-- Textbooks — buy them here, sell them back here when done
+- Textbooks: buy them here, sell them back here when done
 - Winter gear, bicycles, kitchen appliances
 - Basically anything physical at 30–70% off retail
 
 > 💡 Sellers often list items with full condition descriptions. Japanese sellers are meticulous about packaging. Trust the ratings.
 
-**Language:** Mostly Japanese interface, but Google Translate handles it. Messaging sellers is the only tricky part — use short, polite Japanese or have a Japanese-speaking student help.
+**Language:** Mostly Japanese interface, but Google Translate handles it. Messaging sellers is the only tricky part; use short, polite Japanese or have a Japanese-speaking student help.
 
 ---
 
 ## Delivery at IUJ
 
 - **Dorm address:** Get the exact Japanese address format from IUJ's welcome packet. You need it in Japanese (日本語) for most services.
-- **Yamato Transport (ヤマト運輸) and Sagawa (佐川急便)** are the main couriers — both reliable
+- **Yamato Transport (ヤマト運輸) and Sagawa (佐川急便)** are the main couriers, both reliable
 - **Redelivery:** If you miss a delivery, use the slip left at your door to schedule a redelivery online. Both Yamato and Sagawa have English redelivery options.
-- **Convenience store pickup:** Amazon JP lets you redirect packages to a nearby 7-Eleven or Lawson — useful if you're unsure of your schedule
+- **Convenience store pickup:** Amazon JP lets you redirect packages to a nearby 7-Eleven or Lawson, useful if you're unsure of your schedule
 
 ---
 

@@ -26,28 +26,28 @@ Niigata has four distinct seasons but winter dominates the experience:
 ## Month by Month
 
 ### September
-**Arrival month for most students.** Warm and humid — temperatures 20–30°C. Deceptively pleasant. Use this time to get set up before the cold arrives. Outdoor activities are easy; cycling is comfortable.
+**Arrival month for most students.** Warm and humid: temperatures 20–30°C. Deceptively pleasant. Use this time to get set up before the cold arrives. Outdoor activities are easy; cycling is comfortable.
 
 *Prepare for:* Rain; occasional typhoon-adjacent weather.
 
 ---
 
 ### October
-Temperatures drop noticeably — 12–22°C by end of month. Autumn foliage begins. Niigata's autumn colours are excellent. Still comfortable for cycling and outdoor activities.
+Temperatures drop noticeably: 12–22°C by end of month. Autumn foliage begins. Niigata's autumn colours are excellent. Still comfortable for cycling and outdoor activities.
 
 *Prepare for:* Temperature swings; have a light jacket ready.
 
 ---
 
 ### November
-Cold arrives in earnest — 5–15°C. First frost possible late in the month. Mountains around Urasa get early snowfall. Transition month: cycling becomes uncomfortable, heavy coats come out.
+Cold arrives in earnest: 5–15°C. First frost possible late in the month. Mountains around Urasa get early snowfall. Transition month: cycling becomes uncomfortable, heavy coats come out.
 
 *Prepare for:* Start of heating season; buy/confirm your winter coat by now if you haven't.
 
 ---
 
 ### December
-**Winter begins.** Significant snowfall typically starts in December — Minami-Uonuma averages 2–3 metres of snow total over winter. Temperatures: -5 to 5°C. Cycling is effectively over. Roads are icy.
+**Winter begins.** Significant snowfall typically starts in December: Minami-Uonuma averages 2–3 metres of snow total over winter. Temperatures: -5 to 5°C. Cycling is effectively over. Roads are icy.
 
 *Prepare for:* Snow boots with grip; thermals as daily wear; store the bicycle; stock up on supplies before storms.
 
@@ -61,35 +61,35 @@ Cold arrives in earnest — 5–15°C. First frost possible late in the month. M
 ---
 
 ### February
-Still deep winter. Temperatures start to moderate slightly by end of month — -5 to 5°C. Snow accumulation continues. Psychological toll of winter is high for many students at this point.
+Still deep winter. Temperatures start to moderate slightly by end of month: -5 to 5°C. Snow accumulation continues. Psychological toll of winter is high for many students at this point.
 
 *Prepare for:* The hardest month mentally; plan social events, travel, or ski trips to break it up. See [[Seasonal Activities — Skiing, Hanami, Matsuri]].
 
 ---
 
 ### March
-**Winter breaks.** Snow begins to melt, though heavy snowfall can still occur in early March. Temperatures: 2–12°C. Energy returns noticeably. Cherry blossoms begin elsewhere in Japan; Niigata blooms late — usually early April.
+**Winter breaks.** Snow begins to melt, though heavy snowfall can still occur in early March. Temperatures: 2–12°C. Energy returns noticeably. Cherry blossoms begin elsewhere in Japan; Niigata blooms late, usually in early April.
 
 *Prepare for:* Mud and slush; roads are messy during melt. Start thinking about spring gear.
 
 ---
 
 ### April
-Spring arrives properly. Temperatures: 8–18°C. Cherry blossoms bloom around early to mid-April in Minami-Uonuma — spectacular against the remaining snow-capped mountains. Cycling resumes. Morale high.
+Spring arrives properly. Temperatures: 8–18°C. Cherry blossoms bloom around early to mid-April in Minami-Uonuma: spectacular against the remaining snow-capped mountains. Cycling resumes. Morale high.
 
 *Prepare for:* Hanami (cherry blossom viewing). See [[Seasonal Activities — Skiing, Hanami, Matsuri]].
 
 ---
 
 ### May
-Warm and green — the best surprise of the year for most students. Temperatures: 14–24°C. Long days, comfortable evenings. Outdoor activities, day trips, and exploration are all easy.
+Warm and green: the best surprise of the year for most students. Temperatures: 14–24°C. Long days, comfortable evenings. Outdoor activities, day trips, and exploration are all easy.
 
-*Prepare for:* Golden Week (late April–early May) — Japan-wide travel rush; book anything in advance.
+*Prepare for:* Golden Week (late April–early May): Japan-wide travel rush; book anything in advance.
 
 ---
 
 ### June
-**Rainy season (梅雨, *tsuyu*)** begins — frequent rain, high humidity. Temperatures: 18–26°C. Less dramatic than typhoon season but persistently grey and damp.
+**Rainy season (梅雨, *tsuyu*)** begins: frequent rain, high humidity. Temperatures: 18–26°C. Less dramatic than typhoon season but persistently grey and damp.
 
 *Prepare for:* Good umbrella; mould risk in rooms; keep ventilation up.
 
@@ -103,7 +103,7 @@ Rainy season ends; hot and humid summer begins. Temperatures: 24–32°C. Can fe
 ---
 
 ### August
-Peak summer. Temperatures: 26–34°C with high humidity. Obon holiday period (mid-August) — Japan partially shuts down; some shops and services have reduced hours.
+Peak summer. Temperatures: 26–34°C with high humidity. Obon holiday period (mid-August): Japan partially shuts down; some shops and services have reduced hours.
 
 *Prepare for:* Heat; possible travel during Obon. Niigata's beach access is a summer option.
 
@@ -113,23 +113,23 @@ Peak summer. Temperatures: 26–34°C with high humidity. Obon holiday period (m
 
 **Winter essentials you need before December:**
 - Heavy waterproof winter coat (rated -10°C or below)
-- Thermal base layers (top and bottom) — 3–4 sets
+- Thermal base layers (top and bottom), 3–4 sets
 - Waterproof snow boots with serious grip
 - Warm gloves, scarf, hat
-- Hand warmers (カイロ, *kairo*) — cheap and widely available; essential for commuting
+- Hand warmers (カイロ, *kairo*): cheap and widely available; essential for commuting
 
 **Things Japan does well that help:**
-- **Kotatsu (こたつ):** A heated table with a blanket — the centre of life in Japanese winters. If your dorm room allows one, get it.
-- **Kairo (カイロ):** Single-use adhesive heat patches — stick to your back or stomach under clothes; revolutionary for cold mornings
-- **Heated toilet seats** — standard in Japan; relevant when the bathroom is cold
+- **Kotatsu (こたつ):** A heated table with a blanket, the centre of life in Japanese winters. If your dorm room allows one, get it.
+- **Kairo (カイロ):** Single-use adhesive heat patches: stick to your back or stomach under clothes; revolutionary for cold mornings
+- **Heated toilet seats**: standard in Japan; relevant when the bathroom is cold
 
 ---
 
 ## Niigata-Specific Notes
 
-- Niigata City (the coast) gets less snow than inland areas. **Minami-Uonuma is significantly snowier** than the coast — it's in the heavy snowbelt.
+- Niigata City (the coast) gets less snow than inland areas. **Minami-Uonuma is significantly snowier** than the coast, since it's in the heavy snowbelt.
 - Avalanche risk exists in the mountains but is not typically relevant for campus life.
-- **Earthquakes** are more common in Niigata than much of Japan — see [[Earthquake Preparedness]].
+- **Earthquakes** are more common in Niigata than much of Japan; see [[Earthquake Preparedness]].
 - **Bears (ツキノワグマ, Asian black bears)** are occasionally sighted in rural areas around Minami-Uonuma, especially in spring (post-hibernation foraging) and autumn (pre-winter foraging). Not a daily campus concern, but avoid hiking alone at dawn/dusk in wooded or mountainous areas during those seasons, and watch for local/city bear-sighting alerts.
 
 ---

@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-07-13
 ---
 
-IUJ is in Minami-Uonuma, Niigata — rural Japan. There's no direct airport nearby. Every route involves at least one Shinkansen leg. Plan accordingly, especially if arriving with heavy luggage.
+IUJ is in Minami-Uonuma, Niigata (rural Japan). There's no direct airport nearby. Every route involves at least one Shinkansen leg. Plan accordingly, especially if arriving with heavy luggage.
 
 ---
 
@@ -25,13 +25,13 @@ IUJ is in Minami-Uonuma, Niigata — rural Japan. There's no direct airport near
 
 **Total time: ~4.5 hrs | Cost: ~¥18,000**
 
-1. **Narita → Tokyo Station** — Narita Express (N'EX), ~1 hr, ¥3,070
+1. **Narita → Tokyo Station**: Narita Express (N'EX), ~1 hr, ¥3,070
    - IC card won't cover this leg; buy a ticket at the machine
    - N'EX runs every ~30 min
-2. **Tokyo Station → Urasa** — Joetsu Shinkansen (Toki/Tanigawa), ~1.5 hrs, ~¥6,680
-   - Take **Toki** or **Tanigawa** — both stop at Urasa
-   - ⚠️ Do NOT board Kagayaki or Hakutaka — they skip Urasa
-3. **Urasa Station → IUJ** — [[Urasa Station — Full Guide & Quirks|Campus bus or taxi]], ~10 min
+2. **Tokyo Station → Urasa**: Joetsu Shinkansen (Toki/Tanigawa), ~1.5 hrs, ~¥6,680
+   - Take **Toki** or **Tanigawa**, both stop at Urasa
+   - ⚠️ Do NOT board Kagayaki or Hakutaka: they skip Urasa
+3. **Urasa Station → IUJ**: [[Urasa Station — Full Guide & Quirks|Campus bus or taxi]], ~10 min
 
 > 💡 Book Shinkansen tickets in advance via [Ekinet](https://www.eki-net.com) or at any JR ticket office (みどりの窓口). IC cards do not cover reserved Shinkansen seats.
 
@@ -41,9 +41,9 @@ IUJ is in Minami-Uonuma, Niigata — rural Japan. There's no direct airport near
 
 **Total time: ~3.5 hrs | Cost: ~¥13,000**
 
-1. **Haneda → Tokyo Station** — Keikyu Line + Yamanote, ~40 min, ¥600
+1. **Haneda → Tokyo Station**: Keikyu Line + Yamanote, ~40 min, ¥600
    - Or Tokyo Monorail → Hamamatsucho → JR to Tokyo Station
-2. **Tokyo Station → Urasa** — same Shinkansen as Route 1
+2. **Tokyo Station → Urasa**: same Shinkansen as Route 1
 
 > 💡 Haneda is closer to central Tokyo and significantly cheaper to get in from. Prefer it over Narita when booking flights.
 
@@ -53,11 +53,11 @@ IUJ is in Minami-Uonuma, Niigata — rural Japan. There's no direct airport near
 
 **Total time: ~5.5–6 hrs | Cost: ~¥22,000**
 
-1. **KIX → Shin-Osaka** — Haruka Express, ~75 min, ¥3,640
-2. **Shin-Osaka → Tokyo** — Tokaido Shinkansen (Nozomi/Hikari), ~2.5 hrs, ¥14,000+
-3. **Tokyo Station → Urasa** — Joetsu Shinkansen as above
+1. **KIX → Shin-Osaka**: Haruka Express, ~75 min, ¥3,640
+2. **Shin-Osaka → Tokyo**: Tokaido Shinkansen (Nozomi/Hikari), ~2.5 hrs, ¥14,000+
+3. **Tokyo Station → Urasa**: Joetsu Shinkansen as above
 
-> 💡 Consider breaking the journey with a night in Osaka — saves exhaustion and costs less if you find a cheap hostel.
+> 💡 Consider breaking the journey with a night in Osaka. It saves exhaustion and costs less if you find a cheap hostel.
 
 ---
 
@@ -65,10 +65,10 @@ IUJ is in Minami-Uonuma, Niigata — rural Japan. There's no direct airport near
 
 **Total time: ~1.5 hrs | Cost: ~¥5,000**
 
-1. **Niigata Airport → Niigata Station** — Limousine bus, ~25 min, ¥410
-2. **Niigata Station → Urasa** — Joetsu Shinkansen (Toki), ~30 min, ¥2,870
+1. **Niigata Airport → Niigata Station**: Limousine bus, ~25 min, ¥410
+2. **Niigata Station → Urasa**: Joetsu Shinkansen (Toki), ~30 min, ¥2,870
 
-> 💡 Check if your country has direct or seasonal flights into KIJ — some routes exist from China, South Korea, and select Southeast Asian cities.
+> 💡 Check if your country has direct or seasonal flights into KIJ. Some routes exist from China, South Korea, and select Southeast Asian cities.
 
 ---
 
@@ -77,7 +77,7 @@ IUJ is in Minami-Uonuma, Niigata — rural Japan. There's no direct airport near
 Dragging multiple suitcases through Tokyo's train network is brutal. Use luggage forwarding instead.
 
 - **Yamato Transport** (black cat logo) counters are at all major airports
-- Send bags directly to IUJ dormitory — next-day delivery within Japan
+- Send bags directly to IUJ dormitory (next-day delivery within Japan)
 - Cost: ~¥2,000–3,000 per large bag
 - ⚠️ Use your IUJ dorm address from your admission letter as the delivery address
 - Travel light on the day; your bags arrive the next morning

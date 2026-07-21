@@ -12,7 +12,7 @@ last_updated: 2026-07-19
 
 ## Overview
 
-IUJ runs on a trimester system — Fall, Winter, and Spring terms. Course registration happens before each term via the IUJ student portal. Missing registration deadlines has real consequences: late registration may not be possible for all courses, and some courses fill up fast.
+IUJ runs on a trimester system: Fall, Winter, and Spring terms. Course registration happens before each term via the IUJ student portal. Missing registration deadlines has real consequences: late registration may not be possible for all courses, and some courses fill up fast.
 
 ---
 
@@ -31,9 +31,9 @@ IUJ runs on a trimester system — Fall, Winter, and Spring terms. Course regist
 | Spring: **Last Day for Withdrawal** | **Apr 30, 2027** |
 | Summer (Capstone) Registration | Mid-May 2027 (course period: late-June–mid-August) |
 
-Each term runs 10 weeks total — the first 8 weeks are the 1st Module, the remaining weeks are the 2nd Module, then Exam Week. Course offerings vary by module; language courses run the full 10 weeks.
+Each term runs 10 weeks total: the first 8 weeks are the 1st Module, the remaining weeks are the 2nd Module, then Exam Week. Course offerings vary by module; language courses run the full 10 weeks.
 
-> ⚠️ The exact dates above are for the 2026-27 academic year specifically — confirm the current year's calendar each term, since these dates shift annually even though the overall pattern (registration ~6-8 weeks before term start, a short Completion/Change window right at term start, a Last Day for Withdrawal partway through the 1st Module) has held consistently.
+> ⚠️ The exact dates above are for the 2026-27 academic year specifically. Confirm the current year's calendar each term, since these dates shift annually even though the overall pattern (registration ~6-8 weeks before term start, a short Completion/Change window right at term start, a Last Day for Withdrawal partway through the 1st Module) has held consistently.
 
 ---
 
@@ -43,7 +43,7 @@ Each term runs 10 weeks total — the first 8 weeks are the 1st Module, the rema
 2. Navigate to Course Registration
 3. Browse by term, program (MBA / IR), or requirement category
 4. Add desired courses to your schedule
-5. Check for conflicts — the system may not auto-flag all of them
+5. Check for conflicts: the system may not auto-flag all of them
 6. Submit registration before the deadline
 
 ---
@@ -54,8 +54,8 @@ Each term runs 10 weeks total — the first 8 weeks are the 1st Module, the rema
 
 **General structure (subject to change):**
 - MBA and IR programs have required core courses, electives, and research credits
-- Minimum credits per term are set by your program — dropping below may affect scholarship or visa status
-- Maximum credits per term are also capped — don't overload, especially in Fall (see [[Fall — Hectic, Settle In Fast]])
+- Minimum credits per term are set by your program: dropping below may affect scholarship or visa status
+- Maximum credits per term are also capped: don't overload, especially in Fall (see [[Fall — Hectic, Settle In Fast]])
 
 ---
 
@@ -73,11 +73,11 @@ Each term runs 10 weeks total — the first 8 weeks are the 1st Module, the rema
 
 ## Practical Tips
 
-- **Register early** — popular electives fill up; don't wait until the last day
-- **Read syllabi before registering** — workload varies enormously between courses
-- **Talk to seniors** — the best intel on which professors and courses are worth it comes from people who've taken them. See [[Study Groups & Peer Culture]]
-- **Don't overload Fall term** — you're also settling in, dealing with admin, and adjusting. See [[Fall — Hectic, Settle In Fast]]
-- **IR students: plan thesis credits early** — thesis registration has its own timeline. See [[Thesis Guide (IR) — Supervisor, Timeline, Tips|Thesis Guide (IR)]]
+- **Register early**: popular electives fill up; don't wait until the last day
+- **Read syllabi before registering**: workload varies enormously between courses
+- **Talk to seniors**: the best intel on which professors and courses are worth it comes from people who've taken them. See [[Study Groups & Peer Culture]]
+- **Don't overload Fall term**: you're also settling in, dealing with admin, and adjusting. See [[Fall — Hectic, Settle In Fast]]
+- **IR students: plan thesis credits early.** Thesis registration has its own timeline. See [[Thesis Guide (IR) — Supervisor, Timeline, Tips|Thesis Guide (IR)]]
 
 ---
 
@@ -85,7 +85,7 @@ Each term runs 10 weeks total — the first 8 weeks are the 1st Module, the rema
 
 - You can adjust your registration during the first week or two of term
 - Use this if a course isn't what you expected, or if workload clashes emerge
-- Dropping after the add/drop period shows a W (Withdrawal) on your transcript — use sparingly
+- Dropping after the add/drop period shows a W (Withdrawal) on your transcript, so use it sparingly
 
 ---
 
@@ -101,6 +101,6 @@ Each term runs 10 weeks total — the first 8 weeks are the 1st Module, the rema
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
 - Which electives are most worth it (MBA and IR separately)
-- Registration quirks — courses that fill instantly, hidden gems, avoid-at-all-costs
+- Registration quirks: courses that fill instantly, hidden gems, avoid-at-all-costs
 - How to navigate cross-listed courses
 - Thesis credit registration specifics for IR students

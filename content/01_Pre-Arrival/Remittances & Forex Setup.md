@@ -20,19 +20,19 @@ Japan is still heavily cash-based in rural areas. You need yen on arrival, and y
 
 ## What to Set Up Before Departure
 
-### 1. Wise (formerly TransferWise) — Recommended Primary Tool
+### 1. Wise (formerly TransferWise): Recommended Primary Tool
 
 Wise is the best general-purpose tool for international students in Japan. It lets you hold multiple currencies, convert at near-interbank rates (small fixed fee), and send/receive internationally.
 
 **Set up before leaving because:**
-- Verification requires uploading identity documents — easier on a stable internet connection at home
+- Verification requires uploading identity documents, easier on a stable internet connection at home
 - Some countries require additional verification steps that take days
 
 **What to do:**
 1. Create account at [wise.com](https://wise.com)
 2. Verify your identity (passport + selfie)
 3. Add your home bank account as a source
-4. Get the Wise card if available in your country (physical debit card — works in Japan's ATMs and most card terminals)
+4. Get the Wise card if available in your country (physical debit card that works in Japan's ATMs and most card terminals)
 
 **Use case at IUJ:**
 - Receive money from family in home currency → convert to JPY → spend or withdraw
@@ -45,7 +45,7 @@ Wise is the best general-purpose tool for international students in Japan. It le
 
 ### 2. Forex Card / Travel Card (Backup)
 
-If Wise isn't available or set up in time, a multi-currency forex card from your home bank is a reasonable backup — check what your home bank offers and load it with JPY before departure.
+If Wise isn't available or set up in time, a multi-currency forex card from your home bank is a reasonable backup. Check what your home bank offers and load it with JPY before departure.
 
 **Pros:** Locked-in exchange rate, widely accepted at Japanese ATMs and shops
 **Cons:** Typically higher fees than Wise; loading rates vary
@@ -60,7 +60,7 @@ Check before you leave that your home bank card (debit or credit) works internat
 - Does it work for international withdrawals? Enable this in your bank app.
 - What's the per-transaction international fee? (Can be 2–4%+ per withdrawal)
 
-Japan Post Bank (JP Bank) ATMs accept most Visa/Mastercard international cards — useful in emergencies. 7-Eleven ATMs (Japan Post/Seven Bank) also accept international cards and have English interfaces.
+Japan Post Bank (JP Bank) ATMs accept most Visa/Mastercard international cards, useful in emergencies. 7-Eleven ATMs (Japan Post/Seven Bank) also accept international cards and have English interfaces.
 
 ---
 
@@ -73,7 +73,7 @@ Bring at least **¥20,000–30,000** in cash for the first few days. You'll need
 
 **Where to get yen at home:**
 - Airport forex on your way out (not ideal rates, but convenient)
-- Your home bank's currency service (order in advance — better rates than airport)
+- Your home bank's currency service (order in advance for better rates than airport)
 - Wise transfer to a yen-holding card
 
 > ⚠️ Do NOT rely on exchanging money at Narita Airport on arrival. The rates are poor and you'll be tired. Bring cash from home.
@@ -102,9 +102,9 @@ Once in Japan, the main options for sending money home:
 | **Japan Post (国際送金)** | Anywhere | Available at post offices; more expensive but no tech barriers |
 | **JP Bank international transfer** | Direct bank-to-bank | Requires recipient bank details; reasonable fees |
 
-> 💡 Wise or Remitly will beat JP Bank rates for most India-Japan transfers. Set them up before you need them — identity verification takes time.
+> 💡 Wise or Remitly will beat JP Bank rates for most India-Japan transfers. Set them up before you need them: identity verification takes time.
 
-> ⚠️ **Your first 6 months in Japan, you're a "non-resident" for banking purposes** — this can turn what looks like a domestic payment (tuition, fees, travel-agency charges) into an "international remittance" with an extra ~¥7,500 fee, and can delay or add a fee to incoming scholarship deposits. See [[Sending Money Home]] for the full detail and how to fix your status after 6 months.
+> ⚠️ **Your first 6 months in Japan, you're a "non-resident" for banking purposes.** This can turn what looks like a domestic payment (tuition, fees, travel-agency charges) into an "international remittance" with an extra ~¥7,500 fee, and can delay or add a fee to incoming scholarship deposits. See [[Sending Money Home]] for the full detail and how to fix your status after 6 months.
 
 For full details on ongoing remittances, see [[Sending Money Home]].
 

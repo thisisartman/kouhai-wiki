@@ -6,15 +6,15 @@ status: needs-work
 last_updated: 2026-07-19
 ---
 
-This page is for Indian students to share cultural context that would help other IUJ students understand where you're coming from — and to note anything about Japanese/IUJ etiquette that was a genuine adjustment.
+This page is for Indian students to share cultural context that would help other IUJ students understand where you're coming from, and to note anything about Japanese/IUJ etiquette that was a genuine adjustment.
 
-> 🔶 This is a stub — general knowledge isn't enough here; this needs real firsthand input.
+> 🔶 This is a stub. General knowledge isn't enough here; this needs real firsthand input.
 
 ---
 
 ## About India
 
-- (Add here: brief cultural context worth knowing — India is large and regionally diverse, so note where something is regional vs. broadly shared)
+- (Add here: brief cultural context worth knowing. India is large and regionally diverse, so note where something is regional vs. broadly shared)
 
 ---
 

@@ -6,17 +6,17 @@ status: ready
 last_updated: 2026-07-13
 ---
 
-Japanese convenience stores (コンビニ, *conbini*) are not the sad petrol-station shops you may be used to. They are genuinely good food sources — hot meals, fresh sandwiches, decent produce, and surprisingly edible prepared food at low prices. For a student at IUJ, knowing how to use a conbini well is a life skill.
+Japanese convenience stores (コンビニ, *conbini*) are not the sad petrol-station shops you may be used to. They are genuinely good food sources: hot meals, fresh sandwiches, decent produce, and surprisingly edible prepared food at low prices. For a student at IUJ, knowing how to use a conbini well is a life skill.
 
 ---
 
 ## Which Conbini Are Near IUJ
 
-> ⚠️ Confirm exact locations and walking distances from campus — add specifics here.
+> ⚠️ Confirm exact locations and walking distances from campus. Add specifics here.
 
-- **7-Eleven (セブン-イレブン)** — nearest to Urasa Station area; also has international ATM
-- **Lawson (ローソン)** — confirm if one is accessible near campus
-- **FamilyMart (ファミリーマート)** — confirm location
+- **7-Eleven (セブン-イレブン)**: nearest to Urasa Station area; also has international ATM
+- **Lawson (ローソン)**: confirm if one is accessible near campus
+- **FamilyMart (ファミリーマート)**: confirm location
 
 > 💡 7-Eleven is generally considered to have the best food quality among the three chains.
 
@@ -25,7 +25,7 @@ Japanese convenience stores (コンビニ, *conbini*) are not the sad petrol-sta
 ## What's Worth Buying
 
 ### Hot Food Counter (レジ横)
-Items kept warm near the register — ask staff or point:
+Items kept warm near the register: ask staff or point.
 
 | Item | Japanese | Notes |
 |---|---|---|
@@ -34,24 +34,24 @@ Items kept warm near the register — ask staff or point:
 | Corn dog | アメリカンドッグ | Cheap and filling |
 | Oden | おでん | Seasonal winter stew; fish cakes, tofu, egg in broth |
 
-### Onigiri (おにぎり) — Rice Balls
+### Onigiri (おにぎり, Rice Balls)
 - ¥120–180 each; filling for a snack
 - **Vegetarian-safe options**: kombu (昆布/seaweed), ume (梅/pickled plum), takana (たかな/mustard greens)
 - Non-vegetarian: tuna mayo (ツナマヨ), salmon (鮭), cod roe (明太子)
-- Packaging has a three-step opening instruction — follow it or the seaweed gets soggy
+- Packaging has a three-step opening instruction: follow it or the seaweed gets soggy
 
 ### Sandwiches & Bread
-- Egg salad (たまごサンド) — a Japanese conbini classic; try it
-- Fruit sandwiches (フルーツサンド) — surprisingly good dessert option
-- Avoid pre-made sandwiches with meat if you're keeping halal/vegetarian — labeling is in Japanese; use Google Translate camera
+- Egg salad (たまごサンド): a Japanese conbini classic; try it
+- Fruit sandwiches (フルーツサンド): surprisingly good dessert option
+- Avoid pre-made sandwiches with meat if you're keeping halal/vegetarian; labeling is in Japanese, so use Google Translate camera
 
 ### Prepared Meals
-- Bento boxes (弁当) — full meals; rice + protein + sides; ¥400–700
-- Pasta, noodle dishes, rice bowls — all microwaveable; decent quality
-- Discount stickers (割引) appear on approaching best-before items — check the bento section after 20:00
+- Bento boxes (弁当): full meals; rice + protein + sides; ¥400–700
+- Pasta, noodle dishes, rice bowls: all microwaveable; decent quality
+- Discount stickers (割引) appear on approaching best-before items; check the bento section after 20:00
 
 ### Drinks
-- Hot drinks dispensed from machines near the register — canned coffee, hot tea, corn soup
+- Hot drinks dispensed from machines near the register: canned coffee, hot tea, corn soup
 - Onigiri + hot green tea from the machine = ¥250 breakfast
 
 ---
@@ -72,15 +72,15 @@ Japan labels ingredients in Japanese. Key things to check:
 
 ---
 
-## Beyond Food — Conbini Services
+## Beyond Food: Conbini Services
 
 Conbini are more than food:
 
 | Service | Details |
 |---|---|
 | **ATM** | 7-Eleven ATMs accept foreign cards; English interface; ¥110–220 fee |
-| **Printing** | Print documents, photos, PDFs from USB, phone, or cloud — ¥10–50/page. See [[Printing & Scanning — Campus & Conbini]] |
-| **Bill payment** | Pay utility bills, NHK, insurance — bring the payment slip |
+| **Printing** | Print documents, photos, PDFs from USB, phone, or cloud: ¥10–50/page. See [[Printing & Scanning — Campus & Conbini]] |
+| **Bill payment** | Pay utility bills, NHK, insurance; bring the payment slip |
 | **Package pickup/dropoff** | Yamato and Sagawa use conbini as pickup/dropoff points. See [[Mail & Packages]] |
 | **Tickets** | Concert, event, and Shinkansen tickets via the terminal machines |
 | **Fax** | Yes, fax. Japan still uses it. |

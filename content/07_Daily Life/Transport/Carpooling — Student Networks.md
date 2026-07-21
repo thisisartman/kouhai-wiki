@@ -17,7 +17,7 @@ Carpooling is essential at IUJ. A minority of students have cars; the majority b
 - No Uber or rideshare in Minami-Uonuma
 - Buses to Nagaoka are infrequent
 - Grocery runs, winter travel, ski trips, and hospital visits are much easier with a car
-- Car owners are community assets — treat them accordingly
+- Car owners are community assets: treat them accordingly
 
 ---
 
@@ -30,7 +30,7 @@ The general pattern at small international campuses:
 - Passengers contribute fuel money proportional to their share
 - For regular routes (e.g. weekly Beisia run), informal standing arrangements form
 
-**Fuel contribution norm:** Typically ¥200–500 per person per trip depending on distance. Confirm with the driver — some don't ask, but offering is always correct.
+**Fuel contribution norm:** Typically ¥200–500 per person per trip depending on distance. Confirm with the driver: some don't ask, but offering is always correct.
 
 ---
 
@@ -50,10 +50,10 @@ The general pattern at small international campuses:
 ## Etiquette
 
 - **Be on time.** The driver is doing you a favour; don't make them wait.
-- **Offer fuel contribution** proactively — don't wait to be asked.
+- **Offer fuel contribution** proactively: don't wait to be asked.
 - **Help navigate** if the driver needs it.
-- **Don't overload the car** — K-cars have limited space and legal passenger limits.
-- **Reciprocate where you can** — share useful information, help with other tasks, or return the favour in other ways.
+- **Don't overload the car**: K-cars have limited space and legal passenger limits.
+- **Reciprocate where you can**: share useful information, help with other tasks, or return the favour in other ways.
 
 ---
 
@@ -84,4 +84,4 @@ Joining a student driver network (if one exists) formalises this and reduces ad-
 - Current fuel contribution norms
 - Any formal or informal carpooling system in place
 - Tips for students who are car owners on managing requests
-- Emergency ride situations — what to do if you urgently need transport
+- Emergency ride situations: what to do if you urgently need transport

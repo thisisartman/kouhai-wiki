@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-IUJ is in rural Niigata — not Tokyo. Shopping options near campus are limited, winters are severe, and the nearest major city (Nagaoka) is 30 minutes away. Pack accordingly.
+IUJ is in rural Niigata, not Tokyo. Shopping options near campus are limited, winters are severe, and the nearest major city (Nagaoka) is 30 minutes away. Pack accordingly.
 
 The general rule: bring everything you can't easily source in rural Japan, and don't bother with things that are cheap and easily available here.
 
@@ -14,18 +14,18 @@ The general rule: bring everything you can't easily source in rural Japan, and d
 
 ## What Japan Does Well (Don't Pack These)
 
-Japan has excellent, cheap versions of these — buy locally:
+Japan has excellent, cheap versions of these, so buy locally:
 
 - Toiletries (shampoo, soap, toothpaste, razors)
-- OTC medications (pain relievers, cold medicine, vitamins — generally good quality and cheap)
+- OTC medications, such as pain relievers, cold medicine, and vitamins (generally good quality and cheap)
 - Kitchen basics (utensils, dishes, chopsticks)
-- Bedding, towels, and room basics — available at 100 yen shops and recycle shops
+- Bedding, towels, and room basics, available at 100 yen shops and recycle shops
 - Umbrellas (buy a cheap ¥500 one here)
 - Stationery
 
 ---
 
-## Documents (Carry-On — Never Check These)
+## Documents (Carry-On: Never Check These)
 
 - Passport + visa
 - Certificate of Eligibility (original)
@@ -44,26 +44,26 @@ Japan has excellent, cheap versions of these — buy locally:
 | Laptop | Essential; bring charger + spare cable |
 | Phone | Unlocked preferred for JP SIM. See [[SIM & Internet Setup]] |
 | Power bank | Useful for travel |
-| Universal adapter | Japan uses Type A (flat 2-pin, 100V) — same as North America. US plugs work directly. Others need an adapter. |
+| Universal adapter | Japan uses Type A (flat 2-pin, 100V), same as North America. US plugs work directly. Others need an adapter. |
 | Voltage converter | Only needed for high-wattage appliances (hair dryers, electric shavers). Most modern devices (laptops, phone chargers) handle 100–240V automatically. |
 | Earphones/headphones | Quality ones; Japan's are good but expensive |
 | External hard drive or USB | For academic backups |
 
-> 💡 Japan's voltage is 100V — lower than most countries. Cheap appliances from India/Europe may underperform. Electronics designed for 220V need a converter for heavy use.
+> 💡 Japan's voltage is 100V, lower than most countries. Cheap appliances from India/Europe may underperform. Electronics designed for 220V need a converter for heavy use.
 
 ---
 
 ## Clothing
 
 ### Essentials (Year-Round)
-- Comfortable everyday wear — 7–10 days' worth is enough
+- Comfortable everyday wear (7–10 days' worth is enough)
 - Formal wear: 2–3 sets minimum. IUJ has presentations, events, and Japan has dress culture.
 - Comfortable walking shoes (good quality; Japanese footwear sizing can be tricky for large feet)
-- Indoor slippers — many Japanese environments require removing shoes
+- Indoor slippers (many Japanese environments require removing shoes)
 
-### Winter Gear (Critical — Niigata Winters are Severe)
+### Winter Gear (Critical: Niigata Winters are Severe)
 - Heavy winter coat (waterproof/windproof rated for -10°C or below)
-- Thermal base layers (3–4 sets) — these are the real workhorses in winter
+- Thermal base layers (3–4 sets), the real workhorses in winter
 - Waterproof snow boots with good traction
 - Warm gloves, scarf, woolen hat
 - Waterproof shell jacket (for snow days and commuting)
@@ -89,7 +89,7 @@ Japan has excellent, cheap versions of these — buy locally:
 | Contraceptives | Your preferred brand may not be available in Japan |
 | Feminine hygiene products | Widely available in Japan, but bring favourites if you have them |
 | Glasses/contacts + spares | Getting prescriptions filled in Japan can be complex without Japanese proficiency |
-| First aid basics | Plasters, antiseptic — small kit for the first week before you can shop |
+| First aid basics | Plasters, antiseptic, a small kit for the first week before you can shop |
 | Sunscreen with high SPF | Japan's selections are generally good, but preference-specific |
 
 ---
@@ -98,7 +98,7 @@ Japan has excellent, cheap versions of these — buy locally:
 
 | Item | Notes |
 |---|---|
-| Spice kit | If you have hard-to-find favourites from home — small packets of chili powder, garam masala, etc. Japan's supermarkets are limited on South Asian/African spices |
+| Spice kit | If you have hard-to-find favourites from home (small packets of chili powder, garam masala, etc.). Japan's supermarkets are limited on South Asian/African spices |
 | Instant noodles / snacks from home | For the first week and homesickness |
 | Tiffin/reusable containers | Japan has good bento boxes but bringing one is fine |
 
@@ -131,7 +131,7 @@ Japan has excellent, cheap versions of these — buy locally:
 ## Luggage Strategy
 
 - **Carry-on:** All documents, laptop, medications, one day's change of clothes
-- **Checked bags:** Everything else — but consider shipping heavy bags directly to IUJ via Yamato Transport's Takkyubin service from the airport. Costs ~¥2,000–3,000/bag and arrives next day. See [[Airport to IUJ Routes]].
+- **Checked bags:** Everything else, but consider shipping heavy bags directly to IUJ via Yamato Transport's Takkyubin service from the airport. Costs ~¥2,000–3,000/bag and arrives next day. See [[Airport to IUJ Routes]].
 
 ---
 
@@ -148,5 +148,5 @@ Japan has excellent, cheap versions of these — buy locally:
 
 - Things you wish you'd brought that aren't on this list
 - Things you brought and never used
-- Winter gear recommendations — specific brands or types that held up
+- Winter gear recommendations: specific brands or types that held up
 - Spice/food items from home that are impossible to find near IUJ

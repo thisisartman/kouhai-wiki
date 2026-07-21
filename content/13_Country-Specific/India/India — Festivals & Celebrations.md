@@ -8,7 +8,7 @@ last_updated: 2026-07-19
 
 This page is for Indian students to fill in: which festivals and celebrations from home matter most, and how (or whether) they're marked at IUJ or in Nagaoka/Niigata.
 
-> 🔶 This is a stub — no official source can fill this in, only students who've actually celebrated these at IUJ can.
+> 🔶 This is a stub. No official source can fill this in; only students who've actually celebrated these at IUJ can.
 
 ---
 

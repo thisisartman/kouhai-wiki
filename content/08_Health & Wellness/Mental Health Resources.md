@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-07-19
 ---
 
-IUJ is a high-pressure environment in a rural, isolated setting with limited familiar comforts. Mental health challenges — loneliness, academic stress, culture shock, anxiety, seasonal depression — are common and nothing to be ashamed of. This article is about knowing what's available before you need it.
+IUJ is a high-pressure environment in a rural, isolated setting with limited familiar comforts. Mental health challenges (loneliness, academic stress, culture shock, anxiety, seasonal depression) are common and nothing to be ashamed of. This article is about knowing what's available before you need it.
 
 ---
 
@@ -17,7 +17,7 @@ A few factors combine to make mental health a real consideration:
 - **Isolation:** Rural Niigata has limited options for getting away from campus. You live, study, and socialise in a very small space.
 - **Intensity:** IUJ's programme is academically demanding from the start.
 - **Culture adjustment:** Even for students who've lived abroad before, Japan's social dynamics take time to read.
-- **Winter:** February especially — dark, cold, and cabin-fever-inducing — hits many students hard. See [[Seasons & Weather — Month by Month]].
+- **Winter:** February especially (dark, cold, and cabin-fever-inducing) hits many students hard. See [[Seasons & Weather — Month by Month]].
 - **Distance from home:** Family and established support networks are far away.
 
 None of this is unique to you. Most students feel at least some version of this.
@@ -27,15 +27,15 @@ None of this is unique to you. Most students feel at least some version of this.
 ## On-Campus Support
 
 ### IUJ Health and Wellness Office
-Staffed by a Health & Wellness Coordinator (registered nurse), Mon–Fri 9:00–12:30 & 13:30–17:00, walk-in — A-Wing Building 1st Floor (behind the ATM), 025-779-1170 / ext. 170. First port of call; can make referrals. See [[Nearby Clinics & Hospitals]] for full detail.
+Staffed by a Health & Wellness Coordinator (registered nurse), Mon–Fri 9:00–12:30 & 13:30–17:00, walk-in, A-Wing Building 1st Floor (behind the ATM), 025-779-1170 / ext. 170. First port of call; can make referrals. See [[Nearby Clinics & Hospitals]] for full detail.
 
 ### IUJ Counselor
-IUJ has a dedicated on-campus counselor (currently **Kiyoshi Sekihara, "SEKI"** — a certified psychologist and social worker). Sessions are **free**, confidential, and flexible on timing — Zoom available on request.
+IUJ has a dedicated on-campus counselor (currently **Kiyoshi Sekihara, "SEKI"**, a certified psychologist and social worker). Sessions are **free**, confidential, and flexible on timing; Zoom is available on request.
 
 - **Phone:** 025-779-1506 / ext. 506
 - **Email:** counselor@iuj.ac.jp
 - **Location:** MLIC Building, 2nd Floor, near the Language Faculty Offices
-- Book by email, phone, or just walking in — no referral needed, you can go directly
+- Book by email, phone, or just walking in: no referral needed, you can go directly
 
 A monthly school-doctor consultation is also available for both physical and mental health needs — watch for announcements about a week before each visit.
 

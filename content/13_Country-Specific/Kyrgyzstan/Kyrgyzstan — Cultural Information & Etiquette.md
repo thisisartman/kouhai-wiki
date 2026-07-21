@@ -6,9 +6,9 @@ status: needs-work
 last_updated: 2026-07-19
 ---
 
-This page is for Kyrgyz students to share cultural context that would help other IUJ students understand where you're coming from — and to note anything about Japanese/IUJ etiquette that was a genuine adjustment.
+This page is for Kyrgyz students to share cultural context that would help other IUJ students understand where you're coming from, and to note anything about Japanese/IUJ etiquette that was a genuine adjustment.
 
-> 🔶 This is a stub — general knowledge isn't enough here; this needs real firsthand input.
+> 🔶 This is a stub. General knowledge isn't enough here; this needs real firsthand input.
 
 ---
 

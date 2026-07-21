@@ -6,7 +6,7 @@ status: needs-work
 last_updated: 2026-05-28
 ---
 
-IUJ is unlike most universities. 300 students, 40+ nationalities, one campus, rural Japan. The intensity of the environment shapes the entire experience — understanding what you're walking into helps you make the most of it.
+IUJ is unlike most universities. 300 students, 40+ nationalities, one campus, rural Japan. The intensity of the environment shapes the entire experience. Understanding what you're walking into helps you make the most of it.
 
 > 🔶 This article benefits significantly from first-person accounts. The structure below reflects general patterns; seniors can add the texture that makes it real.
 
@@ -14,9 +14,9 @@ IUJ is unlike most universities. 300 students, 40+ nationalities, one campus, ru
 
 ## The Physical Reality
 
-The campus is compact. Everything — classrooms, library, cafeteria, gym, dormitories — is within walking distance. In winter, you can go entire days without stepping off campus.
+The campus is compact. Everything (classrooms, library, cafeteria, gym, dormitories) is within walking distance. In winter, you can go entire days without stepping off campus.
 
-This means you will see the same people constantly. You cannot avoid someone. There's no commute to decompress, no separate neighbourhood to escape to. The campus is the world for stretches of time — particularly in winter.
+This means you will see the same people constantly. You cannot avoid someone. There's no commute to decompress, no separate neighbourhood to escape to. The campus is the world for stretches of time, particularly in winter.
 
 This is both the greatest thing about IUJ and the hardest thing about IUJ.
 
@@ -30,7 +30,7 @@ IUJ is a graduate school. Students are here because they chose to be, and that c
 - Diversity of perspectives is treated as a genuine academic resource, not just a marketing point
 - The expectation is that you bring your professional and personal experience into the classroom
 
-Competition exists but the dominant mode is collaborative — small cohorts create mutual dependency.
+Competition exists but the dominant mode is collaborative; small cohorts create mutual dependency.
 
 ---
 
@@ -51,7 +51,7 @@ General patterns at graduate schools like IUJ:
 
 There's a distinct "IUJ person" that most students eventually grow into — someone who can engage substantively with people from very different backgrounds, hold complexity without collapsing it, and navigate ambiguity as a default rather than an exception.
 
-This sounds grand. In practice it develops through hundreds of small interactions — disagreements in seminar, dinners with people from three continents, the shared suffering of February.
+This sounds grand. In practice it develops through hundreds of small interactions: disagreements in seminar, dinners with people from three continents, the shared suffering of February.
 
 ---
 
@@ -75,6 +75,6 @@ This sounds grand. In practice it develops through hundreds of small interaction
 
 - What the campus vibe is actually like across the three terms
 - How the dynamic between cohorts (first-year vs second-year) plays out
-- MBA vs IR culture — similarities and differences
+- MBA vs IR culture: similarities and differences
 - What makes IUJ different from other international graduate schools you know of
 - Any unwritten rules of campus social life that Kouhais should know

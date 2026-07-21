@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-05-29
 ---
 
-IUJ teaches in English and most daily needs near campus can be managed without Japanese. But rural Niigata is not Tokyo — English is sparse outside campus. Even basic Japanese dramatically improves your quality of life here.
+IUJ teaches in English and most daily needs near campus can be managed without Japanese. But rural Niigata is not Tokyo; English is sparse outside campus. Even basic Japanese dramatically improves your quality of life here.
 
 For IUJ's credit-bearing Japanese language courses, see [[Japanese Language Courses at IUJ]].
 
@@ -27,7 +27,7 @@ For IUJ's credit-bearing Japanese language courses, see [[Japanese Language Cour
 
 | App / Resource | What It Does | Cost |
 |---|---|---|
-| **Bunpro** | Grammar SRS — structured grammar study | Paid (reasonable) |
+| **Bunpro** | Grammar SRS, structured grammar study | Paid (reasonable) |
 | **WaniKani** | Kanji learning via SRS; structured curriculum | Paid |
 | **Satori Reader** | Graded reading practice; excellent quality | Paid |
 | **Yomichan (browser extension)** | Hover-over dictionary for reading Japanese online | Free |
@@ -43,7 +43,7 @@ For IUJ's credit-bearing Japanese language courses, see [[Japanese Language Cour
 
 ---
 
-## Survival Phrases — Daily Life at IUJ
+## Survival Phrases for Daily Life at IUJ
 
 Learn these first. Pronunciation guide: vowels are pure (a=ah, i=ee, u=oo, e=eh, o=oh).
 

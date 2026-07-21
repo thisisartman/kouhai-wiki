@@ -12,33 +12,33 @@ IUJ offers credit-bearing Japanese language courses as part of the curriculum. T
 
 ## IUJ Japanese Language Courses
 
-- Multiple proficiency levels — beginner to advanced
-- Credit-bearing — counts toward your degree requirements
+- Multiple proficiency levels, from beginner to advanced
+- Credit-bearing: counts toward your degree requirements
 - Taught by dedicated Japanese language faculty
 - Enrollment via the standard [[Course Registration]] process
 
 > ⚠️ Confirm current course offerings, levels, and scheduling on the IUJ portal each term.
 
-> 💡 **Take Japanese classes even if you're not "a language person."** At minimum, get through beginner level. The practical return — at shops, clinics, and city hall — is immediate.
+> 💡 **Take Japanese classes even if you're not "a language person."** At minimum, get through beginner level. The practical return, at shops, clinics, and city hall, is immediate.
 
 ---
 
 ## Learning Script: Priority Order
 
-1. **Hiragana** — 46 characters; learn in one focused week; essential for everything
-2. **Katakana** — 46 characters; used for foreign words; learn second
-3. **Basic Kanji** — start with numbers and common signs; builds slowly
-4. **Grammar patterns** — basic sentence structure unlocks real communication
+1. **Hiragana**: 46 characters; learn in one focused week; essential for everything
+2. **Katakana**: 46 characters; used for foreign words; learn second
+3. **Basic Kanji**: start with numbers and common signs; builds slowly
+4. **Grammar patterns**: basic sentence structure unlocks real communication
 
-> 💡 Hiragana + Katakana takes 1–2 weeks of consistent effort. There's no excuse to skip it — it makes everything easier.
+> 💡 Hiragana + Katakana takes 1–2 weeks of consistent effort. There's no excuse to skip it since it makes everything easier.
 
 ---
 
 ## Language Exchange at IUJ
 
-- Many Japanese students want English practice — you want Japanese practice. Mutual.
+- Many Japanese students want English practice, and you want Japanese practice. Mutual.
 - Organize informal language exchange sessions: 30 min English, 30 min Japanese
-- Language exchange clubs sometimes exist formally — check with student council
+- Language exchange clubs sometimes exist formally: check with student council
 - Apps like **HelloTalk** or **Tandem** also connect you with Japanese speakers online
 
 ---

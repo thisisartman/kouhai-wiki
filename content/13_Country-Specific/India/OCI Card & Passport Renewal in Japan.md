@@ -33,7 +33,7 @@ Applications are handled online through the Indian government's OCI portal, then
 
 **Indian Consulate, Osaka:**
 - Covers Niigata and much of central/western Japan
-- May be more relevant than Tokyo for some procedures — confirm jurisdiction with the embassy
+- May be more relevant than Tokyo for some procedures; confirm jurisdiction with the embassy
 
 ### OCI Application Process (Simplified)
 1. Apply online at [ociservices.gov.in](https://ociservices.gov.in)
@@ -42,7 +42,7 @@ Applications are handled online through the Indian government's OCI portal, then
 4. Mail physical documents to the Indian Embassy in Tokyo or attend in person
 5. Processing: 4–8 weeks typically; varies
 
-> ⚠️ If your OCI is linked to an old passport (now expired or different), you need to update it. This is called "OCI booklet re-issuance" — the fee is lower and the process is simpler.
+> ⚠️ If your OCI is linked to an old passport (now expired or different), you need to update it. This is called "OCI booklet re-issuance," and the fee is lower with a simpler process.
 
 ---
 
@@ -58,7 +58,7 @@ Indian passports are valid for 10 years (adult). If yours is expiring during or 
 
 ### The Process
 
-1. **Check eligibility and requirements** on the Indian Embassy Tokyo website — requirements change
+1. **Check eligibility and requirements** on the Indian Embassy Tokyo website, since requirements change
 2. **Apply online** at [passportindia.gov.in](https://passportindia.gov.in) → select Passport Seva Kendra abroad → Tokyo
 3. **Book an appointment** at the Embassy in Tokyo
 4. **Documents typically required:**
@@ -68,14 +68,14 @@ Indian passports are valid for 10 years (adult). If yours is expiring during or 
    - Residence Card (in lieu of Indian address proof while abroad)
    - Any additional documents requested
 
-5. **Attend appointment** in Tokyo — the embassy is near Kudanshita Station (Hanzomon line)
-6. **Processing:** 3–6 weeks for normal; express service may be available — check current status
+5. **Attend appointment** in Tokyo. The embassy is near Kudanshita Station (Hanzomon line).
+6. **Processing:** 3–6 weeks for normal; express service may be available, so check current status
 
 **Cost:** ~¥5,000–8,000 equivalent depending on service type (normal/Tatkal)
 
 ### Practical Notes
 
-- **Plan 3–4 months ahead** — don't let your passport expire while in Japan
+- **Plan 3–4 months ahead.** Don't let your passport expire while in Japan.
 - Tokyo is 1.5h from IUJ; embassy appointments are typically on weekdays. Plan a Tokyo trip around it.
 - The embassy's website is the authoritative source — check it, as procedures change
 - If your passport expires while your residence card is still valid, inform IUJ student affairs immediately
@@ -105,7 +105,7 @@ Indian passports are valid for 10 years (adult). If yours is expiring during or 
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
-- Experience renewing your Indian passport from Japan — process and timeline
-- OCI card update after passport renewal — how it worked
+- Experience renewing your Indian passport from Japan: process and timeline
+- OCI card update after passport renewal: how it worked
 - Tips for the Tokyo embassy visit (appointment booking, what to bring, timing)
 - Any consular services from Osaka that are relevant for IUJ students

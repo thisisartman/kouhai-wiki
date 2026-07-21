@@ -16,11 +16,11 @@ Everything costs ¥100 (plus 10% tax = ¥110). Quality is surprisingly good for 
 
 ### Main Chains
 
-**Daiso (ダイソー)** — The biggest. Enormous selection. Most Aeon Malls have one; also standalone stores in Nagaoka.
+**Daiso (ダイソー)**: the biggest. Enormous selection. Most Aeon Malls have one; also standalone stores in Nagaoka.
 
-**Seria (セリア)** — Smaller but excellent for stationery, organizers, and aesthetically nicer items.
+**Seria (セリア)**: smaller but excellent for stationery, organizers, and aesthetically nicer items.
 
-**Can Do (キャンドゥ)** — Similar to Daiso; slightly different stock.
+**Can Do (キャンドゥ)**: similar to Daiso; slightly different stock.
 
 ### What to Buy at 100 Yen Shops
 
@@ -34,29 +34,29 @@ Everything costs ¥100 (plus 10% tax = ¥110). Quality is surprisingly good for 
 | Seasonal | Hot water bottles (essential in winter), hand warmers, rain gear |
 | Food storage | Tupperware-style containers, Ziploc bags, bento boxes |
 
-> 💡 **Don't buy electronics or anything battery-operated from 100 yen shops** — these tend to fail fast. Stick to non-powered items.
+> 💡 **Don't buy electronics or anything battery-operated from 100 yen shops**: these tend to fail fast. Stick to non-powered items.
 
 ### What's Not Worth It at 100 Yen Shops
 
 - Umbrellas (the ¥500 ones from convenience stores last longer)
 - Scissors and cutting tools (buy proper ones from a hardware store)
-- Anything you'll use daily for 2 years — invest a bit more
+- Anything you'll use daily for 2 years: invest a bit more
 
 ---
 
 ## Recycle Shops (リサイクルショップ)
 
-Second-hand shops that buy, sell, and trade used goods. The Japanese concept of second-hand is different from most countries — items are typically in excellent condition, well-cleaned, and often nearly new. Prices are 30–70% below retail.
+Second-hand shops that buy, sell, and trade used goods. The Japanese concept of second-hand is different from most countries: items are typically in excellent condition, well-cleaned, and often nearly new. Prices are 30–70% below retail.
 
 ### Main Chains Near IUJ
 
-**Hard Off (ハードオフ)** — Electronics, furniture, instruments, sporting goods. Often has remarkably good electronics for very low prices.
+**Hard Off (ハードオフ)**: electronics, furniture, instruments, sporting goods. Often has remarkably good electronics for very low prices.
 
-**Off House (オフハウス)** — Clothing, household goods, furniture, kitchenware. Part of the Hard Off group.
+**Off House (オフハウス)**: clothing, household goods, furniture, kitchenware. Part of the Hard Off group.
 
-**Book Off (ブックオフ)** — Books, manga, CDs, DVDs, games. Excellent for cheap reading material and textbooks.
+**Book Off (ブックオフ)**: books, manga, CDs, DVDs, games. Excellent for cheap reading material and textbooks.
 
-**2nd Street (セカンドストリート)** — Clothing and general goods; trendier selection.
+**2nd Street (セカンドストリート)**: clothing and general goods; trendier selection.
 
 > 💡 These are all in Nagaoka or nearby. A single trip to Hard Off + Off House will equip your room for under ¥5,000.
 
@@ -73,13 +73,13 @@ Second-hand shops that buy, sell, and trade used goods. The Japanese concept of 
 | Small shelving | ¥500–2,000 | Great for room organisation |
 | Winter coat | ¥1,000–5,000 | Especially ski jackets |
 | Textbooks | ¥100–500 | Check Book Off first before buying new |
-| Ski gear | ¥3,000–10,000 | Boards, boots, poles — excellent value |
+| Ski gear | ¥3,000–10,000 | Boards, boots, poles: excellent value |
 
 ### Selling Back When You Leave
 
-The same recycle shops buy your items when you leave IUJ. Keep gear in good condition and you'll recover a meaningful portion of what you paid. This is the IUJ student cycle — buy second-hand, sell second-hand.
+The same recycle shops buy your items when you leave IUJ. Keep gear in good condition and you'll recover a meaningful portion of what you paid. This is the IUJ student cycle: buy second-hand, sell second-hand.
 
-> 💡 Japanese students sometimes leave items at the dorm's free-take area or sell directly via [[Online Shopping — Amazon JP, Shein, Temu|Mercari]] — check both before buying new.
+> 💡 Japanese students sometimes leave items at the dorm's free-take area or sell directly via [[Online Shopping — Amazon JP, Shein, Temu|Mercari]], but check both before buying new.
 
 ---
 
@@ -87,10 +87,10 @@ The same recycle shops buy your items when you leave IUJ. Keep gear in good cond
 
 For a well-equipped room for under ¥15,000 total:
 
-1. **100 yen shop first** — plates, cups, kitchen basics, hangers, cleaning supplies (~¥2,000–3,000)
-2. **Recycle shop for appliances** — kettle, rice cooker, desk lamp, fan/heater (~¥3,000–6,000)
-3. **Recycle shop or Mercari for bedding and extras** — duvet, pillow, small shelves (~¥1,000–3,000)
-4. **Beisia or Amazon JP for any gaps** — things that must be new or specific
+1. **100 yen shop first**: plates, cups, kitchen basics, hangers, cleaning supplies (~¥2,000–3,000)
+2. **Recycle shop for appliances**: kettle, rice cooker, desk lamp, fan/heater (~¥3,000–6,000)
+3. **Recycle shop or Mercari for bedding and extras**: duvet, pillow, small shelves (~¥1,000–3,000)
+4. **Beisia or Amazon JP for any gaps**: things that must be new or specific
 
 ---
 

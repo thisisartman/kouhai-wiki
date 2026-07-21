@@ -12,18 +12,18 @@ Grocery shopping near IUJ means working with a limited set of options. There's n
 
 ## The Main Options
 
-### Beisia (ベイシア) — Urasa
+### Beisia (ベイシア), Urasa
 **Distance from IUJ:** ~10 min by car / bicycle; ~20 min on foot
 **Type:** Large supermarket + home goods + clothing
 
-The workhorse store for most IUJ students. Beisia is a large regional chain with a solid grocery section — produce, meat, fish, tofu, dairy, rice, noodles, snacks, frozen food. Prices are reasonable. It also has a home goods section (useful for room setup) and clothing.
+The workhorse store for most IUJ students. Beisia is a large regional chain with a solid grocery section: produce, meat, fish, tofu, dairy, rice, noodles, snacks, frozen food. Prices are reasonable. It also has a home goods section (useful for room setup) and clothing.
 
 **Pros:** Closest large grocery option; good selection; home goods in same trip
 **Cons:** Requires transport; limited in South Asian or halal products
 
 ---
 
-### Don Quijote (ドン・キホーテ) — Nagaoka
+### Don Quijote (ドン・キホーテ), Nagaoka
 **Distance from IUJ:** ~30 min by car
 **Type:** Discount department store with full grocery section
 
@@ -34,22 +34,22 @@ Don Quijote ("Donki") is open 24 hours and stocks a wide range of food, alcohol,
 
 ---
 
-### Aeon (イオン) / Aeon Mall — Nagaoka
+### Aeon (イオン) / Aeon Mall, Nagaoka
 **Distance from IUJ:** ~30 min by car
 **Type:** Full supermarket inside a large mall
 
-Aeon is Japan's largest supermarket chain. The Nagaoka location has a full grocery section with better variety than Beisia — more imported products, better selection of produce, and sometimes halal-friendly options. The mall around it has pharmacies, clothing, electronics, and food courts.
+Aeon is Japan's largest supermarket chain. The Nagaoka location has a full grocery section with better variety than Beisia: more imported products, better selection of produce, and sometimes halal-friendly options. The mall around it has pharmacies, clothing, electronics, and food courts.
 
 **Pros:** Best selection in the area; one-stop for most needs
 **Cons:** Farthest option; a dedicated trip
 
 ---
 
-### Convenience Stores (Conbini) — On-Campus/Urasa
+### Convenience Stores (Conbini), On-Campus/Urasa
 **Distance from IUJ:** On campus or walking distance
 **Type:** Convenience store
 
-There is a convenience store accessible from campus (confirm which chain with current students). Useful for immediate needs — onigiri, drinks, instant noodles, snacks, basic toiletries, ATM. Not a substitute for a proper grocery run but covers daily needs without a trip.
+There is a convenience store accessible from campus (confirm which chain with current students). Useful for immediate needs: onigiri, drinks, instant noodles, snacks, basic toiletries, ATM. Not a substitute for a proper grocery run but covers daily needs without a trip.
 
 **Pros:** Closest option; open long hours; good for small purchases
 **Cons:** Expensive per item for most things; limited fresh produce
@@ -60,10 +60,10 @@ For a full guide to conbini food, see [[Convenience Store Food Guide]].
 
 ## Produce & Fresh Food Tips
 
-- **Buy produce at Beisia** — fresher and cheaper than conbini, better selection than Donki
-- Japanese supermarkets have excellent **tofu, natto, and fresh fish** — much cheaper than in Tokyo
+- **Buy produce at Beisia**: fresher and cheaper than conbini, better selection than Donki
+- Japanese supermarkets have excellent **tofu, natto, and fresh fish**, much cheaper than in Tokyo
 - **Bargain hours:** Most supermarkets mark down meat, sushi, and bento in the evening (around 7–8pm). Look for yellow discount stickers (割引 or %).
-- **Seasonal produce is very cheap** — Niigata is rice country; local koshihikari rice is excellent and affordable. Edamame in summer, mushrooms in autumn.
+- **Seasonal produce is very cheap**: Niigata is rice country; local koshihikari rice is excellent and affordable. Edamame in summer, mushrooms in autumn.
 
 ---
 
@@ -84,7 +84,7 @@ For a full guide to conbini food, see [[Convenience Store Food Guide]].
 
 - **Bicycle:** Beisia is manageable by bicycle in non-winter months. Panniers or a front basket help. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]].
 - **Bus:** Check the local bus schedule for Urasa routes. See [[Bus & Local Routes]].
-- **Carpool:** Many IUJ students with cars do grocery runs and welcome passengers — ask in the student community group. See [[Carpooling — Student Networks]].
+- **Carpool:** Many IUJ students with cars do grocery runs and welcome passengers; ask in the student community group. See [[Carpooling — Student Networks]].
 
 ---
 

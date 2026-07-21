@@ -29,19 +29,19 @@ Wise (formerly TransferWise) consistently offers the best exchange rates with tr
 **Setup:**
 1. Download Wise app or go to [wise.com](https://wise.com)
 2. Create account with email
-3. Verify identity — passport + selfie
+3. Verify identity: passport + selfie
 4. Add source: JP Bank debit card or bank transfer from JP Bank
 5. Send to recipient's bank account in home country
 
 **Limits:** Wise has transfer limits; for large amounts (over ~¥500,000), additional verification may be required.
 
-> 💡 Wise also offers a multi-currency account — useful if you need to receive money from family in your home currency before Japan bank is set up.
+> 💡 Wise also offers a multi-currency account, useful if you need to receive money from family in your home currency before Japan bank is set up.
 
 ---
 
 ## Remitly
 
-- Good for first-time users — promotional rates on first transfer
+- Good for first-time users: promotional rates on first transfer
 - Wide coverage of countries
 - Express (hours) vs Economy (1–3 days) options
 
@@ -60,7 +60,7 @@ Wise (formerly TransferWise) consistently offers the best exchange rates with tr
 - Available at post offices
 - Requires filling physical forms
 - Good if you're not comfortable with apps
-- Slower and more expensive than Wise — but officially the most "traditional" option
+- Slower and more expensive than Wise, but officially the most "traditional" option
 
 ---
 
@@ -68,10 +68,10 @@ Wise (formerly TransferWise) consistently offers the best exchange rates with tr
 
 International students in Japan under 6 months are legally treated as **"non-residents"** for banking purposes under the Foreign Exchange and Foreign Trade Law. This has two concrete consequences with JP Bank (and likely other Japanese banks):
 
-- **Paying tuition, fees, or travel-agency charges (e.g. airport tax) can get reclassified as an "international remittance"** even though it looks like a domestic payment — triggering an extra fee of **~¥7,500**. (Exception: if you use a university-issued request form specifically for tuition/fee transfers, it may still count as domestic.)
-- **Incoming scholarship payments can also be treated as "international remittances"** while you're a non-resident — meaning your account might be credited later than the scheduled date, or charged a separate receiving fee.
+- **Paying tuition, fees, or travel-agency charges (e.g. airport tax) can get reclassified as an "international remittance"** even though it looks like a domestic payment, triggering an extra fee of **~¥7,500**. (Exception: if you use a university-issued request form specifically for tuition/fee transfers, it may still count as domestic.)
+- **Incoming scholarship payments can also be treated as "international remittances"** while you're a non-resident, meaning your account might be credited later than the scheduled date, or charged a separate receiving fee.
 
-**Fix it after 6 months:** go to your bank (e.g. Japan Post Bank / JP Bank) and actively change your status from "non-resident" to "resident." This doesn't happen automatically — if you don't do it, you keep being treated as a non-resident indefinitely. Confirm the exact procedure with your specific bank, since it varies.
+**Fix it after 6 months:** go to your bank (e.g. Japan Post Bank / JP Bank) and actively change your status from "non-resident" to "resident." This doesn't happen automatically; if you don't do it, you keep being treated as a non-resident indefinitely. Confirm the exact procedure with your specific bank, since it varies.
 
 ---
 
@@ -88,9 +88,9 @@ For most services you'll need:
 
 ## Exchange Rate Tips
 
-- **Never use airport currency exchange** — rates are terrible
-- **Avoid transferring on weekends** — rates can be less favorable
-- **Wise's rate tracker** lets you set a target rate and notifies you when it's hit — useful for large transfers
+- **Never use airport currency exchange**: rates are terrible
+- **Avoid transferring on weekends**: rates can be less favorable
+- **Wise's rate tracker** lets you set a target rate and notifies you when it's hit, useful for large transfers
 
 ---
 
@@ -98,9 +98,9 @@ For most services you'll need:
 
 If family sends you money:
 - Wise is the cleanest option for receiving into a Wise account, then transferring to JP Bank
-- **SWIFT transfer directly to JP Bank** is possible but requires your JP Bank SWIFT details and branch address — ask at the post office for the correct format
+- **SWIFT transfer directly to JP Bank** is possible but requires your JP Bank SWIFT details and branch address; ask at the post office for the correct format
 - Western Union cash pickup at Japan Post if urgent
-- If you bank with **Daishi Hokuetsu Bank** instead (see [[JP Bank vs Daishi — Comparison & How to Open]]), IUJ provides a ready-made "Receiving Money from Overseas" form pre-filled with the Yamato Branch's SWIFT code (DAISJPJT) and address — you just add your own account number and hand it to whoever's sending the money. When actually receiving the transfer, the bank will ask for your Residence Card, cash card/bankbook, and (first time only) your My Number Sheet, plus a stated "purpose of receiving."
+- If you bank with **Daishi Hokuetsu Bank** instead (see [[JP Bank vs Daishi — Comparison & How to Open]]), IUJ provides a ready-made "Receiving Money from Overseas" form pre-filled with the Yamato Branch's SWIFT code (DAISJPJT) and address. You just add your own account number and hand it to whoever's sending the money. When actually receiving the transfer, the bank will ask for your Residence Card, cash card/bankbook, and (first time only) your My Number Sheet, plus a stated "purpose of receiving."
 
 > ⚠️ **Non-resident banking status matters for your first 6 months.** International students who've been in Japan under 6 months are legally treated as "non-residents" for banking purposes. This mainly affects **sending** money (see below), but be aware it's a status that applies to your account generally during this window.
 
