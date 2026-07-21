@@ -62,6 +62,8 @@ Every article is either **ready** (drafted, checked, safe to rely on) or **needs
 
 Ready articles show no banner at all.
 
+Want to browse flagged articles by reason and find one you can help with? See [[Help Improve This Wiki]].
+
 ---
 
 ## Senior Submissions
