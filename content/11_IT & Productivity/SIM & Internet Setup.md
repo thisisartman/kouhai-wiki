@@ -1,9 +1,9 @@
 ---
 title: SIM & Internet Setup
 section: 11_IT & Productivity
-tags: [SIM, internet, phone, connectivity, IT]
-status: ready
-last_updated: 2026-07-19
+tags: [SIM, internet, phone, connectivity, IT, unverified]
+status: needs-work
+last_updated: 2026-07-21
 ---
 
 Getting online is your first real task after landing. Without it, you can't navigate, contact IUJ, or do anything else on the first week checklist.
@@ -59,6 +59,14 @@ Japan's MVNO (virtual carrier) market is large. These are the most student-relev
 - Residence Card (在留カード), required for most monthly contracts
 - Japanese address (your IUJ dorm address works)
 - Payment method: credit card, debit card, or JP Bank direct debit
+
+> 🔶 **My Number (マイナンバー)**: some carriers require it for a monthly
+> contract, some don't — this varies by provider and hasn't been confirmed
+> per-carrier here yet. Don't assume it's required or that it isn't; ask
+> the carrier directly at signup. Regardless, getting the physical My
+> Number Card is worth doing early either way — see
+> [[My Number Card — How to Get It & Why]] for the (easy, letter-based)
+> process.
 
 ---
 

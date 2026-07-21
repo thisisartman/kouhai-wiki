@@ -506,23 +506,20 @@ in `custom.scss`.
 Things discussed but deliberately deferred — parked here instead of relying on
 anyone's memory of a past conversation:
 
-- **Images in articles — in progress, started 2026-07-20.** Decided
-  convention: images live in a per-article folder,
-  `content/<section>/images/<article-slug>/file.ext`, referenced with
-  standard markdown. Pulled 4 real images out of the IUJ site scrape
-  (everything else logged during the scrape was decorative — club icons,
-  language-flag icons, generic stock photos — not worth importing):
+- ~~Images in articles~~ — **DONE.** Convention: images live in a
+  per-article folder, `content/<section>/images/<article-slug>/file.ext`,
+  referenced with standard markdown. Pulled 4 real images out of the IUJ
+  site scrape (everything else logged during the scrape was decorative —
+  club icons, language-flag icons, generic stock photos — not worth
+  importing), all now embedded with alt text (and a caption on the Urasa
+  map noting shop/restaurant names aren't individually address-confirmed):
   - `urasa-map.png` — hand-drawn area map from IUJ's Hospital Guide 2025,
-    for `Urasa Station — Full Guide & Quirks.md`
-  - `koide-map.png` and `muikamachi-map.png` — same source, for
+    in `Urasa Station — Full Guide & Quirks.md`
+  - `koide-map.png` and `muikamachi-map.png` — same source, in
     `Nearby Clinics & Hospitals.md`
   - `niigata-lines-map.gif` — small orientation map (Niigata Prefecture,
-    Urasa/Koide/Muikamachi relative to Tokyo/Niigata City/Nagaoka), for
+    Urasa/Koide/Muikamachi relative to Tokyo/Niigata City/Nagaoka), in
     `Bus & Local Routes.md`
-
-  Files are copied into their folders but **not yet embedded in the
-  article markdown** — finish wiring in the `![alt](path)` embeds before
-  considering this done.
 - **Google Maps links for wiki-recommended places — not started, needs
   confirmed addresses first.** Two separate mechanisms agreed 2026-07-20:
   (1) plain `google.com/maps/search/?q=<address>` hyperlinks for places
