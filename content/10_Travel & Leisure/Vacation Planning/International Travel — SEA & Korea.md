@@ -140,7 +140,6 @@ Japan's position in East Asia makes it an excellent base for international trave
 - [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
 - [[10_Travel & Leisure/Vacation Planning/How to Book — Flights, Stays, JR Pass|Vacation Planning — How to Book — Flights, Stays, JR Pass]]
 - [[Domestic Itineraries — Tokyo, Kyoto, Osaka, Hokkaido]]
-- [[OCI Card & Passport Renewal in Japan]]
 
 ---
 

@@ -15,7 +15,6 @@ India-specific items to sort out before you leave. These are layered on top of t
 - [ ] **Passport.** Verify expiry; minimum 6 months beyond your program end date. Tatkal renewal is possible but stressful. Do this early.
 - [ ] **CoE (Certificate of Eligibility)**, issued by IUJ and delivered by post. Confirm delivery address is accurate and reachable.
 - [ ] **Japanese Student Visa:** apply at the Japanese Embassy or Consulate in your city (Delhi, Mumbai, Chennai, Kolkata, Bengaluru all have consulates/embassy)
-- [ ] **OCI Card.** If you have one, bring it. Not mandatory for Japan but useful as secondary ID.
 - [ ] **PAN Card + Aadhaar**, needed for Indian banking/tax purposes while you're abroad. Don't leave them in India.
 - [ ] **Scholarship letter:** MEXT, JASSO, or private scholarship documentation
 
@@ -106,7 +105,6 @@ For ongoing Indian food sourcing in Japan, see [[Indian Food Sources]].
 - [[Remittances & Forex Setup]]
 - [[Airport to IUJ Routes]]
 - [[Indian Food Sources]]
-- [[OCI Card & Passport Renewal in Japan]]
 
 ---
 

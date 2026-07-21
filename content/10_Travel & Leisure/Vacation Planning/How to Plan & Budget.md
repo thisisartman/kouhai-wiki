@@ -91,8 +91,6 @@ Japanese residents (on student visa) can travel internationally without losing t
 - Some destinations require separate visas; check before booking
 - Visa-free and visa-on-arrival access varies significantly by passport. See [[International Travel — SEA & Korea]] for country-by-country notes on popular destinations
 
-See [[OCI Card & Passport Renewal in Japan]] if your passport is expiring.
-
 ---
 
 ## Related Articles
