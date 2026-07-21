@@ -6,20 +6,20 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-Humour is one of the fastest ways to connect with people — and one of the fastest ways to accidentally cause offence in a cross-cultural environment. Understanding why some jokes land and others don't isn't about walking on eggshells. It's about being genuinely funny instead of accidentally clueless.
+Humour is one of the fastest ways to connect with people, and one of the fastest ways to accidentally cause offence in a cross-cultural environment. Understanding why some jokes land and others don't isn't about walking on eggshells. It's about being genuinely funny instead of accidentally clueless.
 
 ---
 
 ## Why Humour Fails Across Cultures
 
-Most humour relies on shared assumptions. A joke that works in one culture embeds cultural knowledge, social expectations, or historical context that the audience either has or doesn't. At IUJ, your audience is from everywhere — the shared baseline is thin.
+Most humour relies on shared assumptions. A joke that works in one culture embeds cultural knowledge, social expectations, or historical context that the audience either has or doesn't. At IUJ, your audience is from everywhere, so the shared baseline is thin.
 
 **Common failure modes:**
 
-- **Irony and sarcasm** — Some cultures use these constantly; others read them literally. "Oh great, another 7am class" may be understood as genuine enthusiasm by someone for whom English sarcasm isn't intuitive.
-- **Self-deprecation** — Works well in British, Australian, and some East Asian contexts; can read as odd or concerning in cultures where saving face matters more.
-- **Edgy or taboo topics** — What's acceptable to joke about varies enormously. What's a light punchline in one culture may touch a genuine wound in another.
-- **Wordplay / language humour** — Basically doesn't travel unless everyone shares the language at a native level.
+- **Irony and sarcasm.** Some cultures use these constantly; others read them literally. "Oh great, another 7am class" may be understood as genuine enthusiasm by someone for whom English sarcasm isn't intuitive.
+- **Self-deprecation.** Works well in British, Australian, and some East Asian contexts; can read as odd or concerning in cultures where saving face matters more.
+- **Edgy or taboo topics.** What's acceptable to joke about varies enormously. What's a light punchline in one culture may touch a genuine wound in another.
+- **Wordplay / language humour** basically doesn't travel unless everyone shares the language at a native level.
 
 ---
 
@@ -29,7 +29,7 @@ Most humour relies on shared assumptions. A joke that works in one culture embed
 
 **Absurdism and physical humour** tend to be more universal — reactions to Japan's quirks, unexpected bureaucratic situations, the general chaos of the first week.
 
-**Self-aware cultural commentary** — gently poking fun at your own culture's reputation. This works well at IUJ because everyone has one, and everyone knows it.
+**Self-aware cultural commentary**, gently poking fun at your own culture's reputation, works well at IUJ because everyone has one, and everyone knows it.
 
 ---
 
@@ -46,9 +46,9 @@ The same applies in reverse: if your joke didn't work, adjust. IUJ's small size 
 ## Japan's Humour Culture
 
 Japanese humour tends toward:
-- **Boke and tsukkomi (ボケ・突っ込み):** Straight-man / fool dynamic — one person says something absurd, the other reacts with exasperation. The foundation of Japanese comedy.
-- **Understatement** — Japanese culture favours not over-expressing, including in humour. A deadpan delivery is often the point.
-- **Avoiding direct ridicule** — Humour that ridicules specific people is less common in Japanese contexts than, say, Anglo-American comedy.
+- **Boke and tsukkomi (ボケ・突っ込み):** Straight-man / fool dynamic. One person says something absurd, the other reacts with exasperation. The foundation of Japanese comedy.
+- **Understatement.** Japanese culture favours not over-expressing, including in humour. A deadpan delivery is often the point.
+- **Avoiding direct ridicule.** Humour that ridicules specific people is less common in Japanese contexts than, say, Anglo-American comedy.
 
 Japanese students at IUJ will often understand international humour better than their demeanour suggests. Don't mistake reserve for humourlessness.
 
@@ -58,7 +58,7 @@ Japanese students at IUJ will often understand international humour better than 
 
 - Lead with situational and self-aware humour in the first few weeks
 - Read the room before going edgy or niche
-- If something didn't work, own it and move on — don't over-explain
+- If something didn't work, own it and move on; don't over-explain
 - When in doubt, laugh at yourself first
 
 ---
