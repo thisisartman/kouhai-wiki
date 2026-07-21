@@ -731,17 +731,15 @@ anyone's memory of a past conversation:
   Why.md`, which already covers the easy letter-based process — arrives at your
   dorm mailbox 1-2 weeks after city registration). User said they'll add this
   later; not actioned now.
-- **"Pending pages" list — flagged 2026-07-17, not built.** Idea: a section
-  (About Wiki page or standalone) listing articles that are incomplete/thin, so
-  readers with relevant knowledge can pick one and contribute via Suggest an
-  Edit. Feasible cheaply: 13 of 82 articles already carry `status:
-  needs-verification` in frontmatter — that's the existing "needs work" signal,
-  no new tagging required. Design question left open: for an article that
-  already exists but is thin (e.g. Room Setup Tips), the natural flow is
-  **"Suggest an edit" mode** on that page directly (auto-fills "On: <article>"),
-  not "Suggest a new page" mode — confirm this is the intended flow before
-  building, since the user's phrasing ("switch to the new topic section")
-  suggested new-page mode, which is really for topics with no page at all.
+- **"Pending pages" list — flagged 2026-07-17, DONE 2026-07-20.** Shipped as
+  `content/00_About Wiki/Help Improve This Wiki.md`, linked from the homepage
+  Pinned list and cross-referenced from How to Use This Wiki's Status
+  Indicators section. Instead of a hand-maintained list, it points readers at
+  the three existing auto-generated tag pages (`/tags/unverified/`,
+  `/tags/needs-input/`, `/tags/empty/`) from the status/tag redesign shipped
+  the same day, so it stays current with no manual upkeep. Flow is "Suggest an
+  edit" on the article itself once a reader picks one from the tag listing,
+  same as the existing edit flow everywhere else on the wiki.
 - ~~iOS-specific behavior parity check~~ — **CLOSED 2026-07-17.** Turned out to
   be just a text-copy issue on Safari, not a broader nav/search/breadcrumb/
   suggest-edit parity problem. Resolved, no longer tracked.

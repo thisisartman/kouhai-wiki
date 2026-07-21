@@ -11,3 +11,4 @@ New here? It's completely normal to feel lost the first few weeks. Ask a senior 
 - [[First Week Checklist]]
 - [[Visa & Documentation]]
 - [[SIM & Internet Setup]]
+- [[00_About Wiki/Help Improve This Wiki|Help Improve This Wiki]]
