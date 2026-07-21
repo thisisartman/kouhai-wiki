@@ -14,9 +14,9 @@ This wiki is written by students, for students, which means some articles are fu
 
 Every incomplete article carries one or more of these tags, explaining specifically what it needs:
 
-- **[Unverified](/tags/unverified/)**: the article's content likely has an official IUJ source, but nobody's checked it against that source yet. Good for readers who can cross-reference the student handbook, OSS pages, or similar.
-- **[Needs a firsthand account](/tags/needs-input/)**: no official source will ever cover this; it needs someone who's actually lived it (club experiences, clinic recommendations, "what I wish I'd known").
-- **[Thin/stub content](/tags/empty/)**: barely anything is written yet, regardless of source. Good for readers who want to build out a whole article rather than fix a detail.
+- **[Unverified](../tags/unverified)**: the article's content likely has an official IUJ source, but nobody's checked it against that source yet. Good for readers who can cross-reference the student handbook, OSS pages, or similar.
+- **[Needs a firsthand account](../tags/needs-input)**: no official source will ever cover this; it needs someone who's actually lived it (club experiences, clinic recommendations, "what I wish I'd known").
+- **[Thin/stub content](../tags/empty)**: barely anything is written yet, regardless of source. Good for readers who want to build out a whole article rather than fix a detail.
 
 Click through to browse articles under any of those tags, pick one that matches something you actually know, and go help.
 
