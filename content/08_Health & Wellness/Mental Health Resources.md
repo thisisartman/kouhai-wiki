@@ -37,13 +37,13 @@ IUJ has a dedicated on-campus counselor (currently **Kiyoshi Sekihara, "SEKI"**,
 - **Location:** MLIC Building, 2nd Floor, near the Language Faculty Offices
 - Book by email, phone, or just walking in: no referral needed, you can go directly
 
-A monthly school-doctor consultation is also available for both physical and mental health needs — watch for announcements about a week before each visit.
+A monthly school-doctor consultation is also available for both physical and mental health needs; watch for announcements about a week before each visit.
 
 ### Academic Advisors and Student Affairs
 If academic stress is the primary driver, your academic advisor or the student affairs office can help with extensions, accommodations, or referrals.
 
 ### Peer Support
-IUJ's small size means informal peer support networks form naturally. Talk to seniors — most will have felt something similar and are usually willing to talk.
+IUJ's small size means informal peer support networks form naturally. Talk to seniors; most will have felt something similar and are usually willing to talk.
 
 ---
 
@@ -52,8 +52,8 @@ IUJ's small size means informal peer support networks form naturally. Talk to se
 ### TELL (Tokyo English LifeLine)
 **The primary English-language mental health resource in Japan.**
 
-- **Helpline:** 03-5774-0992 (open daily, limited hours — check [telljp.com](https://telljp.com) for current schedule)
-- **Counselling services:** TELL offers professional counselling by video/phone — accessible from Niigata
+- **Helpline:** 03-5774-0992 (open daily, limited hours; check [telljp.com](https://telljp.com) for current schedule)
+- **Counselling services:** TELL offers professional counselling by video/phone, accessible from Niigata
 - Language: English
 
 ### Inochi no Denwa (いのちの電話)
@@ -62,9 +62,9 @@ IUJ's small size means informal peer support networks form naturally. Talk to se
 
 ### Online Therapy
 Several services offer English-language therapy accessible from Japan:
-- **BetterHelp** — subscription-based; widely used internationally
-- **Talkspace** — similar model
-- Some Japanese prefectures offer subsidised mental health access for residents — check with Minami-Uonuma City Office
+- **BetterHelp**, subscription-based; widely used internationally
+- **Talkspace**, similar model
+- Some Japanese prefectures offer subsidised mental health access for residents; check with Minami-Uonuma City Office
 
 ---
 
@@ -77,14 +77,14 @@ These aren't substitutes for professional support, but they matter:
 - **Getting off campus:** Even a short trip to Nagaoka or a walk in the area resets the cabin-fever loop
 - **Skiing in winter:** Sounds counterintuitive in the hardest season, but it works. See [[Seasonal Activities — Skiing, Hanami, Matsuri]].
 - **Talking to someone at home:** Don't let time zone friction mean you stop connecting
-- **Light exposure:** Japan in winter is grey. Getting outside during daylight hours — even briefly — makes a difference
+- **Light exposure:** Japan in winter is grey. Getting outside during daylight hours, even briefly, makes a difference
 
 ---
 
 ## If Someone Else Seems to Be Struggling
 
 IUJ is small enough that you'll notice. If you're concerned about a classmate:
-- Check in directly — most people appreciate being asked
+- Check in directly; most people appreciate being asked
 - Let them know about the IUJ Counselor (SEKI) or TELL
 - Alert a student affairs staff member if you're seriously concerned about their safety
 
@@ -111,4 +111,4 @@ Mental health stigma exists in most of the cultures represented at IUJ. It's wor
 - What helped you most during difficult periods at IUJ
 - Experience using the campus health centre for mental health
 - Any counselling resources that worked well from Niigata
-- Winter survival strategies — what made February bearable
+- Winter survival strategies: what made February bearable

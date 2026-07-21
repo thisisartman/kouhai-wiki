@@ -26,7 +26,7 @@ The students who thrive in Winter are the ones who prepare for both the credits 
 
 - Course offerings in Winter sometimes differ from Fall/Spring: check the catalog carefully during [[Course Registration]]
 - Some students use Winter to catch up on credit requirements or take courses lighter on workload
-- Others use it for intensive focus — fewer social distractions can mean better thesis progress
+- Others use it for intensive focus, since fewer social distractions can mean better thesis progress
 - **IR students: Winter is when thesis work should begin in earnest.** If you haven't identified your topic and supervisor by end of Winter, Spring becomes stressful. See [[Thesis Guide (IR) — Supervisor, Timeline, Tips]]
 
 ---
@@ -43,12 +43,12 @@ The students who thrive in Winter are the ones who prepare for both the credits 
 **Where to get it:**
 - Recycle shops (Hard Off, Book Off) in Nagaoka often have good winter gear cheaply
 - Workman (ワークマン) in Nagaoka: excellent value waterproof gear
-- Uniqlo Heattech — thermal layers; pick up in Fall before winter hits
+- Uniqlo Heattech: thermal layers; pick up in Fall before winter hits
 - See [[100 Yen & Recycle Shops — Budget Furnishing]] and [[Local Grocery Options]]
 
 **On campus in winter:**
 - Heated buildings: learn which paths between buildings are sheltered
-- Snow on walkways is cleared but ice forms — walk carefully, especially mornings
+- Snow on walkways is cleared but ice forms, so walk carefully, especially mornings
 - Bicycles become unusable for most of winter: plan transport alternatives. See [[Bicycle — Buying, Renting, Storage, Winter]]
 
 ---
@@ -79,7 +79,7 @@ This deserves its own section because it affects more people than admit it.
 By end of Winter:
 - Core credit requirements should be largely on track
 - IR students: thesis topic and supervisor should be settled
-- Mentally prepare for spring's whiplash — suddenly warm, beautiful, and short. Don't waste it.
+- Mentally prepare for spring's whiplash, suddenly warm, beautiful, and short. Don't waste it.
 
 ---
 
