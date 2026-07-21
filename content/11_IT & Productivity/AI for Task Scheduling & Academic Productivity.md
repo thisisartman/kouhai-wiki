@@ -8,7 +8,7 @@ last_updated: 2026-05-28
 
 AI tools have meaningfully changed what a graduate student can do with limited time. Used well, they compress the mechanical parts of academic work so you can spend more time thinking. Used poorly, they produce plausible-sounding nonsense that undermines your credibility.
 
-This article covers practical AI use for IUJ students — not hype, not fear, just what works.
+This article covers practical AI use for IUJ students: not hype, not fear, just what works.
 
 ---
 
@@ -35,7 +35,7 @@ The graduate school context matters: your professors will notice AI-generated wr
 
 ## Practical Tools
 
-### ChatGPT / Claude / Gemini — General Purpose
+### ChatGPT / Claude / Gemini (General Purpose)
 
 Use for: explaining concepts, summarising long documents, restructuring your own notes, generating outlines, translation help, getting unstuck on writing.
 
@@ -44,7 +44,7 @@ Use for: explaining concepts, summarising long documents, restructuring your own
 - Give context: paste your own draft and ask for specific feedback
 - Iterate: the first output is a starting point, not a final answer
 
-### Perplexity — Search + AI
+### Perplexity (Search + AI)
 
 Better than raw ChatGPT for research because it cites sources. Useful for: literature landscape questions, finding recent papers, fact-checking AI-generated claims.
 
@@ -54,7 +54,7 @@ Upload PDFs of your readings, lecture notes, or papers. Ask questions about them
 
 ### Grammarly / LanguageTool
 
-For non-native English writers: good for catching grammatical patterns you repeat. Don't outsource your voice — use it for error-catching.
+For non-native English writers: good for catching grammatical patterns you repeat. Don't outsource your voice; use it for error-catching.
 
 ---
 
@@ -63,10 +63,10 @@ For non-native English writers: good for catching grammatical patterns you repea
 ### Task Management
 
 A simple system beats an elaborate one. Options:
-- **Notion** — flexible all-in-one; works well for assignment tracking, reading lists, and project management
-- **Obsidian** — if you already use it for notes; good for linking concepts
-- **Todoist / Things** — dedicated task apps; cleaner than Notion for pure task management
-- **Paper** — genuinely fine if you use it consistently
+- **Notion**: flexible all-in-one; works well for assignment tracking, reading lists, and project management
+- **Obsidian**, if you already use it for notes; good for linking concepts
+- **Todoist / Things**, dedicated task apps; cleaner than Notion for pure task management
+- **Paper** is genuinely fine if you use it consistently
 
 **The key habit:** Weekly review. Every Sunday (or equivalent), look at what's due, what's upcoming, and what slipped. 20 minutes of planning prevents many crises.
 
@@ -74,24 +74,24 @@ A simple system beats an elaborate one. Options:
 
 IUJ's reading load is substantial. Managing it matters.
 
-- **Zotero** (free) — reference manager; collect papers, annotate PDFs, generate citations automatically. Use this from week one.
-- **Zotero + Obsidian** integration — link your reference manager to your note-taking; some students find this powerful
-- **Active reading over passive reading** — write one sentence per paper summarising the argument before moving on; improves retention significantly
+- **Zotero** (free): reference manager; collect papers, annotate PDFs, generate citations automatically. Use this from week one.
+- **Zotero + Obsidian** integration links your reference manager to your note-taking; some students find this powerful
+- **Active reading over passive reading**: write one sentence per paper summarising the argument before moving on; improves retention significantly
 
 ### Note-Taking for Seminars
 
-- **Cornell Method** — divide notes into main points, cues, and summary; proven for recall
-- **Concept mapping** — useful for IR's interdisciplinary material; tools: Miro, Obsidian Canvas
-- Review notes within 24 hours of a seminar — spaced repetition principle; prevents cramming
+- **Cornell Method**: divide notes into main points, cues, and summary; proven for recall
+- **Concept mapping**, useful for IR's interdisciplinary material; tools: Miro, Obsidian Canvas
+- Review notes within 24 hours of a seminar (spaced repetition principle); it prevents cramming
 
 ---
 
 ## Japanese Language Support
 
 AI is genuinely useful for Japanese:
-- **Google Translate camera mode** — point at text for instant translation; use constantly in daily life
-- **DeepL** — better than Google Translate for nuanced translation
-- **ChatGPT / Claude for grammar questions** — more flexible than textbooks for "how would a Japanese person actually say this"
+- **Google Translate camera mode**: point at text for instant translation; use constantly in daily life
+- **DeepL** is better than Google Translate for nuanced translation
+- **ChatGPT / Claude for grammar questions**, more flexible than textbooks for "how would a Japanese person actually say this"
 
 See [[Japanese Language Courses at IUJ]] for dedicated language learning guidance.
 
@@ -99,9 +99,9 @@ See [[Japanese Language Courses at IUJ]] for dedicated language learning guidanc
 
 ## Academic Integrity
 
-IUJ's academic integrity policies apply to AI use. The field is evolving — check current IUJ guidance on what's permitted.
+IUJ's academic integrity policies apply to AI use. The field is evolving, so check current IUJ guidance on what's permitted.
 
-The general principle: if you're using AI to generate ideas, arguments, or text that you then submit as your own, that's an integrity issue. If you're using AI as a research tool, writing aid, or productivity system — that's within normal scholarly practice.
+The general principle: if you're using AI to generate ideas, arguments, or text that you then submit as your own, that's an integrity issue. If you're using AI as a research tool, writing aid, or productivity system, that's within normal scholarly practice.
 
 When in doubt, cite it or don't use it.
 

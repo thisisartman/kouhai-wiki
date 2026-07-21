@@ -23,16 +23,16 @@ Minami-Uonuma is a rural area. Major delivery platforms have limited or no cover
 ### Uber Eats (ウーバーイーツ)
 - Coverage in Minami-Uonuma / Urasa: **likely unavailable or very limited**
 - Nagaoka City (~30 min away) has Uber Eats coverage
-- Check by entering your dorm address in the app — it will tell you immediately
+- Check by entering your dorm address in the app; it will tell you immediately
 
-> ⚠️ **Verify current coverage** — enter IUJ dorm address in the Uber Eats app and add actual result here.
+> ⚠️ **Verify current coverage**: enter IUJ dorm address in the Uber Eats app and add actual result here.
 
 ### Demae-can (出前館)
 - Japan's largest domestic delivery platform
 - Better rural coverage than Uber Eats in some areas
 - More likely to have local Nagaoka restaurants than Uber Eats
 
-> ⚠️ **Verify current coverage** — check demae-can.com with IUJ address.
+> ⚠️ **Verify current coverage**: check demae-can.com with IUJ address.
 
 ### Menu (メニュー)
 - Smaller platform; worth checking for Nagaoka coverage
@@ -56,11 +56,11 @@ Minami-Uonuma is a rural area. Major delivery platforms have limited or no cover
 
 Since delivery is limited, these are the real alternatives:
 
-- **Group ordering + pickup** — someone drives to Nagaoka, picks up orders for multiple students; split costs. Coordinate via dorm LINE groups.
-- **Cook** — genuinely the most reliable option. See [[Cooking Basics & Cheap Meal Prep]]
-- **Conbini** — always available, always open. See [[Convenience Store Food Guide]]
-- **Campus cafeteria** — when open. See [[Campus Dining]]
-- **Frozen food** — Japanese frozen food is legitimately good; stock your freezer for low-energy nights
+- **Group ordering + pickup**: someone drives to Nagaoka, picks up orders for multiple students, and splits costs. Coordinate via dorm LINE groups.
+- **Cook**: genuinely the most reliable option. See [[Cooking Basics & Cheap Meal Prep]]
+- **Conbini**: always available, always open. See [[Convenience Store Food Guide]]
+- **Campus cafeteria**: when open. See [[Campus Dining]]
+- **Frozen food**: Japanese frozen food is legitimately good; stock your freezer for low-energy nights
 
 ---
 

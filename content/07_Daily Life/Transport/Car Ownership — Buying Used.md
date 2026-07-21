@@ -6,9 +6,9 @@ status: needs-work
 last_updated: 2026-07-19
 ---
 
-Owning a car at IUJ is a significant quality-of-life upgrade — especially in winter when cycling stops and buses run infrequently. It's common among second-year students and those staying longer. The upfront cost is manageable if you buy right.
+Owning a car at IUJ is a significant quality-of-life upgrade (especially in winter when cycling stops and buses run infrequently). It's common among second-year students and those staying longer. The upfront cost is manageable if you buy right.
 
-> 🔶 This article is a skeleton. Much of the detail here comes from student experience — if you've bought and run a car at IUJ, your input would make this article significantly better.
+> 🔶 This article is a skeleton. Much of the detail here comes from student experience: if you've bought and run a car at IUJ, your input would make this article significantly better.
 
 ---
 
@@ -30,38 +30,38 @@ Owning a car at IUJ is a significant quality-of-life upgrade — especially in w
 
 You need a Japanese driving licence or a valid IDP (International Driving Permit) to own and drive a car in Japan. If your IDP is from a country with a time-limited conversion window, be aware of deadlines. See [[Driving License — Foreign Conversion & Fresh (Step-by-Step)|Driving License]].
 
-> ⚠️ **JICA and JDS-sponsored students are not permitted to drive in Japan at all**, per their sponsor's terms — this is independent of licence status. Confirm with your sponsor if you're unsure of your funding category.
+> ⚠️ **JICA and JDS-sponsored students are not permitted to drive in Japan at all**, per their sponsor's terms, independent of licence status. Confirm with your sponsor if you're unsure of your funding category.
 
 ## IUJ Vehicle Registration (Mandatory)
 
-Owning a car isn't just about a driving licence — anyone who parks a car or motorcycle on campus at any time must register it with **OSS** and get an **IUJ parking sticker** — no exceptions. To get your parking permit (Shako-shomei), submit copies of:
+Owning a car isn't just about a driving licence: anyone who parks a car or motorcycle on campus at any time must register it with **OSS** and get an **IUJ parking sticker**, no exceptions. To get your parking permit (Shako-shomei), submit copies of:
 - Your valid driver's license (Japanese license, or international license + your home country's license)
 - Your Shaken-sho (car registration papers)
 - Your Third-party Insurance papers (Nin-i Hoken)
 - **¥1,000** for issuance of the permit
 
-**Where to park:** dorm residents use the space near SD2 or SD3; off-campus residents use the area above or near the Baiten or Library. The Main Entrance parking area is reserved for short-term visitors — don't use it.
+**Where to park:** dorm residents use the space near SD2 or SD3; off-campus residents use the area above or near the Baiten or Library. The Main Entrance parking area is reserved for short-term visitors; don't use it.
 
-Unregistered vehicles on IUJ premises are treated the same way as unregistered bicycles — subject to confiscation/removal during periodic sweeps. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]] for how the parallel bicycle registration system works.
+Unregistered vehicles on IUJ premises are treated the same way as unregistered bicycles: subject to confiscation/removal during periodic sweeps. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]] for how the parallel bicycle registration system works.
 
-**Winter note:** Snow removal in IUJ parking areas is handled by an outside contractor and clears the lot, not individual vehicles — owners are responsible for clearing snow off their own car regularly (accumulated snow can damage wipers, mirrors, antennas, and dent the roof; IUJ is not liable for this damage). If you'll be away for an extended period in winter, arrange for a friend to clear your car, and start the engine occasionally to keep it from failing to start.
+**Winter note:** Snow removal in IUJ parking areas is handled by an outside contractor and clears the lot, not individual vehicles: owners are responsible for clearing snow off their own car regularly (accumulated snow can damage wipers, mirrors, antennas, and dent the roof; IUJ is not liable for this damage). If you'll be away for an extended period in winter, arrange for a friend to clear your car, and start the engine occasionally to keep it from failing to start.
 
 ---
 
 ## Buying a Used Car in Japan
 
-Japan has a large, well-organised used car market. Cars are maintained to a high standard — Japanese owners are meticulous and vehicle inspections (shaken) are strict.
+Japan has a large, well-organised used car market. Cars are maintained to a high standard: Japanese owners are meticulous and vehicle inspections (shaken) are strict.
 
 ### Where to Buy
-- **Gulliver / IDOM** — large used car chain; English somewhat supported
-- **Car Sensor (carsensor.net)** — used car aggregator; Japan's version of AutoTrader
-- **Goo-net (goo.gl/vehicles)** — another major aggregator
-- **Yahoo Auctions Japan** — auction-based; cheaper but more complex
-- **Direct from a departing student** — best option if available; IUJ students sometimes sell cars within the community
+- **Gulliver / IDOM**: large used car chain; English somewhat supported
+- **Car Sensor (carsensor.net)**: used car aggregator; Japan's version of AutoTrader
+- **Goo-net (goo.gl/vehicles)**: another major aggregator
+- **Yahoo Auctions Japan**: auction-based; cheaper but more complex
+- **Direct from a departing student**: best option if available; IUJ students sometimes sell cars within the community
 
 ### What to Look For
-- **K-cars (軽自動車, Kei cars):** Small, cheap to run, low road tax, easy parking. Most common choice for IUJ students. 660cc engine — fine for local and highway use.
-- **Shaken (車検) validity:** Japan's mandatory bi-annual vehicle inspection. Buy a car with recent shaken — it means the car has been certified roadworthy and you don't face an immediate ¥60,000–100,000 inspection cost.
+- **K-cars (軽自動車, Kei cars):** Small, cheap to run, low road tax, easy parking. Most common choice for IUJ students. 660cc engine: fine for local and highway use.
+- **Shaken (車検) validity:** Japan's mandatory bi-annual vehicle inspection. Buy a car with recent shaken: it means the car has been certified roadworthy and you don't face an immediate ¥60,000–100,000 inspection cost.
 - **Mileage and age:** Japanese used cars are generally trustworthy up to 100,000–150,000 km if maintained. Check service records.
 
 ### Approximate Costs
@@ -101,9 +101,9 @@ All car owners pay an annual tax to the Transport Authority, separate from purch
 - **Light vehicles (K-cars):** notice arrives ~April 19, **payment due April 30**
 - **Sedan-type cars:** notice arrives ~May 10, **payment due May 31**
 
-> ⚠️ **If you sell or dispose of your car without formally notifying the Transport Authority, you keep getting charged the tax indefinitely** — you remain responsible until the correct paperwork is filed. This is explicitly flagged as a graduating-student trap: IUJ gets asked to track down graduated students who left without deregistering their car. Handle this *before* graduation, not after — contact JA Autopal (Nokyo, 025-772-8811) or a car dealer to help file the transfer/disposal paperwork correctly.
+> ⚠️ **If you sell or dispose of your car without formally notifying the Transport Authority, you keep getting charged the tax indefinitely**: you remain responsible until the correct paperwork is filed. This is explicitly flagged as a graduating-student trap: IUJ gets asked to track down graduated students who left without deregistering their car. Handle this *before* graduation, not after: contact JA Autopal (Nokyo, 025-772-8811) or a car dealer to help file the transfer/disposal paperwork correctly.
 >
-> Two examples of how this plays out: if you **sell to someone**, the tax stays in your name until the next fiscal year (April 1) regardless of when the sale happens — negotiate with the buyer about who covers the tax already paid. If you **dispose of the car**, tax is calculated monthly from the disposal-registration date, and you can apply for a partial refund for the unused months — but only if you actually register it as disposed.
+> Two examples of how this plays out: if you **sell to someone**, the tax stays in your name until the next fiscal year (April 1) regardless of when the sale happens, so negotiate with the buyer about who covers the tax already paid. If you **dispose of the car**, tax is calculated monthly from the disposal-registration date, and you can apply for a partial refund for the unused months, but only if you actually register it as disposed.
 
 If your car is stolen, contact the Muikamachi Tax Office (025-773-6668) as well as the police.
 
@@ -112,13 +112,13 @@ If your car is stolen, contact the Muikamachi Tax Office (025-773-6668) as well 
 ## Selling the Car When You Leave
 
 Japan's used car market absorbs cars easily. Options:
-- **Sell to a dealer** (Gulliver etc.) — convenient, slightly below market value
-- **Sell on Car Sensor / Goo-net** — better price, more effort
-- **Sell to an IUJ student** — best for community continuity
+- **Sell to a dealer** (Gulliver etc.): convenient, slightly below market value
+- **Sell on Car Sensor / Goo-net**: better price, more effort
+- **Sell to an IUJ student**: best for community continuity
 
-Whichever route you take, make sure the ownership-transfer or disposal paperwork is actually filed with the Transport Authority (see Car Tax Deadlines above) — don't just hand over the keys.
+Whichever route you take, make sure the ownership-transfer or disposal paperwork is actually filed with the Transport Authority (see Car Tax Deadlines above); don't just hand over the keys.
 
-**Car tires and car batteries aren't covered by Minami-Uonuma City's regular waste collection** — dispose of them at a gas station instead (not free). See [[Waste Disposal & Recycling]].
+**Car tires and car batteries aren't covered by Minami-Uonuma City's regular waste collection**: dispose of them at a gas station instead (not free). See [[Waste Disposal & Recycling]].
 
 ---
 
@@ -136,6 +136,6 @@ Whichever route you take, make sure the ownership-transfer or disposal paperwork
 - Which car you bought, how much, and whether it was worth it
 - Where you bought it (dealer, student handoff, online)
 - Insurance provider and cost as an international student
-- Winter tyre experience — where to buy/store them near IUJ
+- Winter tyre experience: where to buy/store them near IUJ
 - Any bureaucratic surprises in the ownership process
 - Selling process when you left IUJ

@@ -6,22 +6,22 @@ status: ready
 last_updated: 2026-07-19
 ---
 
-You'll need to print more than you expect — assignment submissions, admin forms, visa documents, academic papers, official letters. Two options cover everything: the campus printers and convenience store (conbini) multifunction machines.
+You'll need to print more than you expect: assignment submissions, admin forms, visa documents, academic papers, official letters. Two options cover everything, the campus printers and convenience store (conbini) multifunction machines.
 
 ---
 
 ## Campus Printing
 
-IUJ has **12 printers** across campus: in the dorms (SD1 2F, SD2 5F, SD3 5F, MSA 1F — all color), the Study Room and Library (color), and PC Rooms 120 and 124 (mix of B&W and color).
+IUJ has **12 printers** across campus: in the dorms (SD1 2F, SD2 5F, SD3 5F, MSA 1F, all color), the Study Room and Library (color), and PC Rooms 120 and 124 (mix of B&W and color).
 
 **Printing fee (current, per MLIC IT):**
-- **¥7/page black & white, ¥50/page color** — same price regardless of paper size
+- **¥7/page black & white, ¥50/page color**, same price regardless of paper size
 - **Double-sided doubles it**: ¥14/page B&W, ¥100/page color
-- The fee is **automatically deducted from your bank account every month** — not a prepaid credit system
-- **Color printers default to B&W mode.** If you print a document in B&W using a color printer, you're charged the ¥7 B&W rate — but check the mode before printing if you actually want color, since it's easy to assume "color printer" means every job comes out in color.
-- **A4 or A3 only — do not print to US Letter size.** The printer may stop if you do.
-- **Paper jam?** No charge — bring the jammed paper as proof to MLIC and they'll refund you.
-- **Banner/large-format printing** is restricted to GSO-EC and the IM/IR councils — personal use isn't allowed.
+- The fee is **automatically deducted from your bank account every month**, not a prepaid credit system
+- **Color printers default to B&W mode.** If you print a document in B&W using a color printer, you're charged the ¥7 B&W rate. Check the mode before printing if you actually want color, since it's easy to assume "color printer" means every job comes out in color.
+- **A4 or A3 only. Do not print to US Letter size.** The printer may stop if you do.
+- **Paper jam?** No charge; bring the jammed paper as proof to MLIC and they'll refund you.
+- **Banner/large-format printing** is restricted to GSO-EC and the IM/IR councils; personal use isn't allowed.
 
 **Setup:**
 - Windows: press Win+R, type `\\iuj-home` (or `\\iuj-home.iuj.ac.jp`), enter your IUJ credentials, then double-click the printer icon to install its driver
@@ -37,7 +37,7 @@ IUJ has **12 printers** across campus: in the dorms (SD1 2F, SD2 5F, SD3 5F, MSA
 
 ## Convenience Store Printing (Conbini)
 
-Japan's convenience stores have multifunction machines (コピー機 / マルチコピー機) that print, scan, copy, and fax. They're excellent for everything the campus printer doesn't cover — especially documents you need printed quickly outside campus hours.
+Japan's convenience stores have multifunction machines (コピー機 / マルチコピー機) that print, scan, copy, and fax. They're excellent for everything the campus printer doesn't cover, especially documents you need printed quickly outside campus hours.
 
 ### Main Chains and Their Systems
 

@@ -14,7 +14,7 @@ Your Residence Card (在留カード, *zairyū kādo*) is your single most impor
 
 - Issued by the Japanese government to all mid-to-long-term foreign residents
 - Confirms your legal status, visa type, and permitted activities in Japan
-- **Required by law to carry at all times** — police can ask to see it
+- **Required by law to carry at all times**: police can ask to see it
 - Serves as ID for: bank account opening, SIM registration, city hall procedures, apartment contracts, and more
 
 ---
@@ -24,12 +24,12 @@ Your Residence Card (在留カード, *zairyū kādo*) is your single most impor
 | Field | Details |
 |---|---|
 | Name | As on passport |
-| Date of birth | — |
-| Nationality | — |
+| Date of birth | Your date of birth |
+| Nationality | Your nationality |
 | Address | Your registered Japanese address |
 | Status of residence | e.g., "College Student" |
 | Period of stay | Expiry date of your current visa |
-| Permission to work | Back of card — 資格外活動許可 stamp if you can work |
+| Permission to work | Back of card; 資格外活動許可 stamp if you can work |
 
 > ⚠️ The address on your card must always be current. If you move rooms within IUJ or move out, update it at the city office within **14 days**.
 
@@ -67,11 +67,11 @@ Must be done within **14 days** of moving.
 Your Residence Card expires when your visa status expires (usually tied to your program length + a buffer).
 
 **When to renew:**
-- Apply for an extension **3 months before expiry** — don't wait until the last minute
+- Apply for an extension **3 months before expiry**; don't wait until the last minute
 - If your program length changes (e.g., thesis extension), renew accordingly
 
 **Where to renew:**
-- **Niigata Immigration Office**, located inside Niigata Airport (3710 Matsuhama-cho, Higashi-ku, Niigata, 950-0001; tel. 025-275-4735) — **not** Nagaoka. Nagaoka Station is only a train-transfer stop on the way there, not the office itself.
+- **Niigata Immigration Office**, located inside Niigata Airport (3710 Matsuhama-cho, Higashi-ku, Niigata, 950-0001; tel. 025-275-4735), **not** Nagaoka. Nagaoka Station is only a train-transfer stop on the way there, not the office itself.
   - By Shinkansen: buy a round-trip "S-kippu" discount ticket at Urasa Station (¥6,040 round-trip), get off at Niigata Station, then bus (Lane 5, ~25 min, ¥400) to the airport.
   - By local train: ¥1,890 one-way, ~2 hours, usually changing trains at Nagaoka Station.
   - See IUJ's own "Map to Niigata" page for the current walking directions from the airport terminal to the Immigration Office entrance (it's a separate building from the main terminal).
@@ -83,7 +83,7 @@ Your Residence Card expires when your visa status expires (usually tied to your 
 - Transcript (apply at OAA)
 - Certificate of enrollment (apply at OAA)
 - Scholarship Certificate (apply at OSS)
-- Fee: **¥6,000 in cash, paid afterward** — not a revenue stamp bought in advance
+- Fee: **¥6,000 in cash, paid afterward**, not a revenue stamp bought in advance
 - Be ready to state: your work history for the past 5 years, your total years of education from elementary school onward, your scheduled graduation date, your supervisor's name, your research theme, credits earned in the past year and cumulatively, and your IUJ attendance rate
 
 **Processing time:** ~2 weeks to 2 months depending on workload. Apply early.
@@ -92,7 +92,7 @@ Your Residence Card expires when your visa status expires (usually tied to your 
 
 ## If Lost or Stolen
 
-1. Report to the nearest police station immediately — get a 紛失届 (loss report)
+1. Report to the nearest police station immediately and get a 紛失届 (loss report)
 2. Go to the Niigata Immigration Office (see directions above) with:
    - Passport
    - Police report

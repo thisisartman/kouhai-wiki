@@ -6,13 +6,13 @@ status: needs-work
 last_updated: 2026-07-16
 ---
 
-Finding Indian ingredients in rural Niigata takes effort but is doable through a combination of local shops, Nagaoka stores, and online delivery. This article maps what exists — **verify and update with current information from recent seniors**.
+Finding Indian ingredients in rural Niigata takes effort but is doable through a combination of local shops, Nagaoka stores, and online delivery. This article maps what exists. **Verify and update with current information from recent seniors.**
 
 ---
 
 ## On Campus / Near Urasa
 
-> ⚠️ Add specifics here — is there any Indian food presence within walking distance of IUJ?
+> ⚠️ Add specifics here. Is there any Indian food presence within walking distance of IUJ?
 
 **Things to clarify:**
 - [ ] Does the campus cafeteria ever serve Indian food or curry?
@@ -25,27 +25,27 @@ Finding Indian ingredients in rural Niigata takes effort but is doable through a
 
 Nagaoka is the nearest city with meaningful shopping options.
 
-> ⚠️ Verify all store names, locations, and current stock — these change. Use this as a starting framework.
+> ⚠️ Verify all store names, locations, and current stock; these change. Use this as a starting framework.
 
 **Indian / South Asian grocery stores:**
-- [ ] **Identify any Indian or Asian grocery stores in Nagaoka** — ask recent seniors for current options
-- International supermarkets or ethnic food sections of large stores (Aeon, MaxValu) sometimes stock basic Indian spices — curry powder, turmeric, cumin
+- [ ] **Identify any Indian or Asian grocery stores in Nagaoka.** Ask recent seniors for current options.
+- International supermarkets or ethnic food sections of large stores (Aeon, MaxValu) sometimes stock basic Indian spices, like curry powder, turmeric, and cumin
 
 **Indian restaurants in Nagaoka:**
-- [ ] **Add names and addresses of Indian restaurants in Nagaoka** — there are likely 1–2; verify with seniors
+- [ ] **Add names and addresses of Indian restaurants in Nagaoka.** There are likely 1–2; verify with seniors.
 - Most serve lunch sets (ランチセット) which are good value
 - Useful for a taste of home when cooking fatigue hits
 
 **What you can likely find in Nagaoka's larger supermarkets:**
-- Basic curry powder (カレー粉) — Japanese S&B brand, not the same as Indian but functional
+- Basic curry powder (カレー粉): Japanese S&B brand, not the same as Indian but functional
 - Turmeric (ターメリック / ウコン)
-- Cumin (クミン) — in larger spice sections
-- Coriander (コリアンダー) — powder form
-- Ginger (生姜) — always available fresh
-- Garlic (にんにく) — always available fresh
-- Basmati rice — less common; check international sections or order online
-- Coconut milk (ココナッツミルク) — usually available in Asian food sections
-- Chickpeas / lentils — canned versions in some stores; dried harder to find locally
+- Cumin (クミン), in larger spice sections
+- Coriander (コリアンダー), powder form
+- Ginger (生姜), always available fresh
+- Garlic (にんにく), always available fresh
+- Basmati rice, less common; check international sections or order online
+- Coconut milk (ココナッツミルク), usually available in Asian food sections
+- Chickpeas / lentils: canned versions in some stores, dried harder to find locally
 
 ---
 
@@ -76,14 +76,14 @@ Online ordering is often the most practical solution for hard-to-find ingredient
 | **Cari.jp** | Indian grocery delivery in Japan | ⚠️ Verify current service availability |
 
 **Amazon Japan search terms:**
-- バスマティライス — basmati rice
-- ギー — ghee
-- チャパティ粉 / アタ粉 — atta flour for chapati
-- ガラムマサラ — garam masala
-- コリアンダーパウダー — coriander powder
-- チャナダル — chana dal
-- マスールダル — masoor dal
-- タマリンド — tamarind
+- バスマティライス: basmati rice
+- ギー: ghee
+- チャパティ粉 / アタ粉: atta flour for chapati
+- ガラムマサラ: garam masala
+- コリアンダーパウダー: coriander powder
+- チャナダル: chana dal
+- マスールダル: masoor dal
+- タマリンド: tamarind
 
 ---
 
@@ -97,9 +97,9 @@ With spices sourced online + fresh vegetables from local supermarkets + rice fro
 - Rajma (canned kidney beans work fine)
 - Egg curry
 - Simple biryani (basmati rice + spices + vegetables/eggs)
-- Chai — bring tea masala from home or order online
+- Chai: bring tea masala from home or order online
 
-> 💡 Bring a small supply of key spices from India when you first arrive — it's far easier than sourcing locally and the quality will be better. Essentials: garam masala, cumin seeds, mustard seeds, turmeric, coriander powder, red chili powder, hing (asafoetida).
+> 💡 Bring a small supply of key spices from India when you first arrive. It's far easier than sourcing locally and the quality will be better. Essentials: garam masala, cumin seeds, mustard seeds, turmeric, coriander powder, red chili powder, hing (asafoetida).
 
 ---
 

@@ -6,9 +6,9 @@ status: needs-work
 last_updated: 2026-07-19
 ---
 
-This page is for tracking the Kyrgyz student community at IUJ — is there a group chat, regular meetups, or events other Kyrgyz students should know about?
+This page tracks the Kyrgyz student community at IUJ. Is there a group chat, regular meetups, or events other Kyrgyz students should know about?
 
-> 🔶 This is a stub — fill in with real, current community info as it exists.
+> 🔶 This is a stub. Fill in with real, current community info as it exists.
 
 ---
 

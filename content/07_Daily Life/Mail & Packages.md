@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-Japan's postal and courier systems are excellent — reliable, on-time, and damage-free. Understanding how they work at IUJ makes receiving packages and sending mail abroad straightforward.
+Japan's postal and courier systems are excellent: reliable, on-time, and damage-free. Understanding how they work at IUJ makes receiving packages and sending mail abroad straightforward.
 
 ---
 
@@ -38,8 +38,8 @@ A redelivery slip (不在票, *fuzai-hyō*) is left at your door or mailbox. It 
 - A phone number and website for rescheduling
 
 **Rescheduling options:**
-- **Yamato:** [kuronekoyamato.co.jp](https://www.kuronekoyamato.co.jp) or the QR code on the slip — English interface available
-- **Sagawa:** [sagawa-exp.co.jp](https://www.sagawa-exp.co.jp) — Japanese, but manageable with Google Translate
+- **Yamato:** [kuronekoyamato.co.jp](https://www.kuronekoyamato.co.jp) or the QR code on the slip; English interface available
+- **Sagawa:** [sagawa-exp.co.jp](https://www.sagawa-exp.co.jp): Japanese, but manageable with Google Translate
 - **Japan Post:** Call the number on the slip or visit the post office
 
 **Alternative: Convenience store pickup**
@@ -63,7 +63,7 @@ Go to the **Post Office (郵便局)**, or drop in a red mailbox (ポスト) on t
 ## Sending Packages Internationally
 
 ### Japan Post (EMS / International Parcel)
-Available at any post office. Reliable and tracked. The counter staff have weight limits and size charts — bring the package and they'll handle the rest.
+Available at any post office. Reliable and tracked. The counter staff have weight limits and size charts: bring the package and they'll handle the rest.
 
 | Service | Speed | Cost (approx. 1 kg to India) |
 |---|---|---|
@@ -76,13 +76,13 @@ Available at any post office. Reliable and tracked. The counter staff have weigh
 
 ### Luggage Forwarding via Takkyubin
 
-**Yamato's Takkyubin** service is widely used by IUJ students for airport travel — you can send heavy bags directly from IUJ to the airport (or vice versa) for ~¥2,000–3,000 per large bag, next-day delivery. See [[Airport to IUJ Routes]] for details on using this when you arrive.
+**Yamato's Takkyubin** service is widely used by IUJ students for airport travel: you can send heavy bags directly from IUJ to the airport (or vice versa) for ~¥2,000–3,000 per large bag, next-day delivery. See [[Airport to IUJ Routes]] for details on using this when you arrive.
 
 ---
 
 ## The IUJ Campus Post Area
 
-IUJ campus has a designated area for receiving and storing packages — confirm the exact process with student affairs as it may vary by dorm building.
+IUJ campus has a designated area for receiving and storing packages; confirm the exact process with student affairs as it may vary by dorm building.
 
 **What to know:**
 - Large packages may be held at a reception point rather than delivered to your room

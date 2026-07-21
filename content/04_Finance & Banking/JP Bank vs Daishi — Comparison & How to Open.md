@@ -17,37 +17,37 @@ You'll need **both** accounts. They serve different purposes. Open them in the r
 | **Purpose** | General savings, daily spending | Receiving scholarship stipends from IUJ |
 | **Card type** | Real debit card (Visa/Mastercard) | Cash card only (no debit function) |
 | **ATM access** | Nationwide (all Japan Post + 7-Eleven + more) | Primarily Niigata-only |
-| **Usability** | High — works across Japan | Low — mainly for IUJ stipend withdrawals |
-| **Recommended as primary?** | ✅ Yes | ❌ No — secondary only |
-| **Where to open** | Any Japan Post office | On campus — Daishi staff visit IUJ for new scholarship students |
+| **Usability** | High (works across Japan) | Low (mainly for IUJ stipend withdrawals) |
+| **Recommended as primary?** | ✅ Yes | ❌ No, secondary only |
+| **Where to open** | Any Japan Post office | On campus. Daishi staff visit IUJ for new scholarship students |
 
 ---
 
 ## Why You Need Both
 
-- **IUJ deposits scholarship stipends into Daishi** — this is non-negotiable if you're on scholarship. IUJ will give you the form to open a Daishi account; it's part of the onboarding process.
-- **Daishi gives you a cash card, not a debit card** — it works at Daishi ATMs and some convenience store ATMs (7-Eleven, etc.) but you cannot pay at shops or online with it.
-- **JP Bank gives you an actual Visa/Mastercard debit card** — usable everywhere in Japan, at convenience stores, online shopping, and internationally.
+- **IUJ deposits scholarship stipends into Daishi**: this is non-negotiable if you're on scholarship. IUJ will give you the form to open a Daishi account; it's part of the onboarding process.
+- **Daishi gives you a cash card, not a debit card.** It works at Daishi ATMs and some convenience store ATMs (7-Eleven, etc.) but you cannot pay at shops or online with it.
+- **JP Bank gives you an actual Visa/Mastercard debit card**, usable everywhere in Japan, at convenience stores, online shopping, and internationally.
 - **Strategy**: Withdraw stipend from Daishi → transfer to JP Bank → spend from JP Bank.
 
 ---
 
 ## Opening a JP Bank Account
 
-**Where:** Any Japan Post Office (郵便局) — the one nearest to IUJ is in Urasa/Minami-Uonuma area.
+**Where:** Any Japan Post Office (郵便局). The one nearest to IUJ is in Urasa/Minami-Uonuma area.
 
 **What to bring:**
 - Passport
 - Residence Card (在留カード)
 - Japanese address (dorm address)
-- Personal seal (印鑑 / inkan) — *or* a signature; some branches accept signatures from foreigners
+- Personal seal (印鑑 / inkan), *or* a signature; some branches accept signatures from foreigners
 
 **Process:**
-1. Walk into any post office and ask for 口座開設 (kōza kaibetsu) — account opening
+1. Walk into any post office and ask for 口座開設 (kōza kaibetsu), account opening
 2. Fill in the application form (staff will assist; bring Google Translate)
 3. Submit documents
 4. Cash card arrives by mail within 1–2 weeks
-5. Request a **debit card** (キャッシュカード兼デビットカード) separately — specify you want the debit function. It may come as a second card or combined card depending on the branch.
+5. Request a **debit card** (キャッシュカード兼デビットカード) separately, specifying you want the debit function. It may come as a second card or combined card depending on the branch.
 
 > 💡 The JP Bank app (ゆうちょPay) lets you manage your account, check balance, and transfer money from your phone. Set it up once you have your account details.
 
@@ -59,13 +59,13 @@ You'll need **both** accounts. They serve different purposes. Open them in the r
 
 **Where:** On campus, not a branch. Daishi Hokuetsu staff come to IUJ on a scheduled day early in the term specifically to set up accounts for new scholarship students.
 
-> ⚠️ **Get this done on that day.** If your account isn't open in time for your first stipend, IUJ can't deposit it — you'll instead need to collect that month's stipend in cash from the Accounting Office in person, which is more hassle than just showing up for the on-campus session.
+> ⚠️ **Get this done on that day.** If your account isn't open in time for your first stipend, IUJ can't deposit it, and you'll instead need to collect that month's stipend in cash from the Accounting Office in person, which is more hassle than just showing up for the on-campus session.
 
 **What to bring:**
 - Passport
 - Residence Card
 - Japanese address
-- Personal seal (印鑑) — more strictly required here than at JP Bank
+- Personal seal (印鑑), more strictly required here than at JP Bank
 
 **Process:**
 1. Attend the on-campus session IUJ schedules for new scholarship students
@@ -74,13 +74,13 @@ You'll need **both** accounts. They serve different purposes. Open them in the r
 
 > ⚠️ Daishi is a regional Niigata bank. Its ATM network outside Niigata is limited. Do not rely on it for travel or daily spending outside the prefecture.
 
-**Branch details:** Daishi Hokuetsu Bank, Yamato Branch, 996 Urasa, Minami-Uonuma-shi, Niigata 949-7302 (tel. 025-777-3145 — from IUJ you don't need to dial the "025"). SWIFT code DAISJPJT for wire transfers from abroad.
+**Branch details:** Daishi Hokuetsu Bank, Yamato Branch, 996 Urasa, Minami-Uonuma-shi, Niigata 949-7302 (tel. 025-777-3145; from IUJ you don't need to dial the "025"). SWIFT code DAISJPJT for wire transfers from abroad.
 
 **Working hours:** 9:00–11:30 and 12:30–15:00. Closed Saturdays, Sundays, and national holidays.
 
 **Campus ATM:** open 24/7, 365 days a year for withdrawals/balance/deposits. Using a Daishi card is free; other banks' cards can withdraw too but incur a handling charge.
 
-**Losing your cash card:** the first card is free, but a lost card costs **¥1,000 + consumption tax** to reissue — bring cash to the Yamato Branch in person (you can't do this remotely). The same fee applies if you enter your 4-digit PIN wrong 6 times (the card gets returned to you but stops working) or if you simply forget your PIN — there's no way to look up the "correct" code, you have to go to the bank and apply for a new card either way.
+**Losing your cash card:** the first card is free, but a lost card costs **¥1,000 + consumption tax** to reissue, and you'll need to bring cash to the Yamato Branch in person (you can't do this remotely). The same fee applies if you enter your 4-digit PIN wrong 6 times (the card gets returned to you but stops working) or if you simply forget your PIN. There's no way to look up the "correct" code, so you have to go to the bank and apply for a new card either way.
 
 ---
 

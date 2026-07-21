@@ -20,14 +20,14 @@ Much of Japanese social behaviour stems from a few deep values:
 - **Consideration for others (気遣い, *kizukai*):** Anticipate what others need and address it without being asked.
 - **Indirect communication:** Saying "no" directly is considered rude; requests are declined obliquely. "It might be difficult" often means no.
 
-Understanding these values makes individual norms make sense — you don't need to memorise rules, just understand what's behind them.
+Understanding these values makes individual norms make sense: you don't need to memorise rules, just understand what's behind them.
 
 ---
 
 ## The Basics
 
 ### Shoes
-Remove shoes when entering someone's home, many traditional spaces (ryokan, some restaurants, some IUJ rooms), and anywhere you see a step at the entrance with indoor slippers provided. The step and slippers are the signal — if you see them, you take off your shoes.
+Remove shoes when entering someone's home, many traditional spaces (ryokan, some restaurants, some IUJ rooms), and anywhere you see a step at the entrance with indoor slippers provided. The step and slippers are the signal: if you see them, you take off your shoes.
 
 ### Volume
 Japan is quieter than most international students expect, especially on public transport. On Shinkansen and trains, phone calls are not made. Speaking loudly in public spaces draws attention. Not wrong, just noticeable.
@@ -36,19 +36,19 @@ Japan is quieter than most international students expect, especially on public t
 Queues are sacrosanct. Don't jump them, don't crowd the front, and don't hover over people who haven't moved yet.
 
 ### Trash
-Japan has almost no public rubbish bins. You carry your trash with you and dispose of it at home or in a convenience store bin (when buying something there). Don't drop litter — it's genuinely unusual behaviour here.
+Japan has almost no public rubbish bins. You carry your trash with you and dispose of it at home or in a convenience store bin (when buying something there). Don't drop litter; it's genuinely unusual behaviour here.
 
 ---
 
 ## At Restaurants and Shops
 
-**Calling staff:** The standard way is to say *sumimasen* (すみません — "excuse me"). Waving or snapping is rude; calling out *ne!* or clapping is not standard.
+**Calling staff:** The standard way is to say *sumimasen* (すみません, "excuse me"). Waving or snapping is rude; calling out *ne!* or clapping is not standard.
 
-**Paying:** Many restaurants still use cash. The bill is settled at the register (not the table in most places). Split bills are less common than in some countries — one person often pays and is reimbursed. Clarify in advance for group outings.
+**Paying:** Many restaurants still use cash. The bill is settled at the register (not the table in most places). Split bills are less common than in some countries; one person often pays and is reimbursed. Clarify in advance for group outings.
 
 **Tipping:** Do not tip in Japan. It can be perceived as rude or confusing. Service is already included in the cultural contract.
 
-**Oshibori (おしぼり):** A warm (or cold) wet towel given at the start of a meal — use it to clean your hands, then fold it and set it aside. Don't wipe your face or the table with it.
+**Oshibori (おしぼり):** A warm (or cold) wet towel given at the start of a meal. Use it to clean your hands, then fold it and set it aside. Don't wipe your face or the table with it.
 
 ---
 
@@ -58,7 +58,7 @@ Japan has almost no public rubbish bins. You carry your trash with you and dispo
 
 **Handshakes:** Less instinctive than in Western contexts, though not uncommon in international/academic settings. Follow the other person's lead.
 
-**Business cards (名刺, *meishi*):** In academic and professional contexts, business cards are received with both hands and looked at before being set down respectfully — not stuffed in a pocket immediately.
+**Business cards (名刺, *meishi*):** In academic and professional contexts, business cards are received with both hands and looked at before being set down respectfully, not stuffed in a pocket immediately.
 
 **Physical contact:** Less casual touching than in many cultures. Hugging a new acquaintance as a greeting reads as unusual.
 
@@ -66,12 +66,12 @@ Japan has almost no public rubbish bins. You carry your trash with you and dispo
 
 ## With Japanese Students at IUJ
 
-Japanese students at IUJ are typically there specifically because they want international exposure — they're self-selected for openness. They are often quieter in group settings than international students and may take longer to initiate, but this isn't disinterest.
+Japanese students at IUJ are typically there specifically because they want international exposure; they're self-selected for openness. They are often quieter in group settings than international students and may take longer to initiate, but this isn't disinterest.
 
 **Practical approach:**
 - Initiate; most will respond warmly
-- Don't expect the same directness you might get from, say, an American or Australian student — it will come, just more slowly
-- Language difference is real — be patient with gaps; they're making the same effort in English as you might make in Japanese
+- Don't expect the same directness you might get from, say, an American or Australian student. It will come, just more slowly.
+- Language difference is real, so be patient with gaps; they're making the same effort in English as you might make in Japanese
 
 ---
 
@@ -82,7 +82,7 @@ Japanese students at IUJ are typically there specifically because they want inte
 | "That might be difficult" | No |
 | Silence after a question | Processing, not disagreement |
 | No eye contact | Not rudeness; varies by generation and context |
-| Extreme attentiveness in service | Standard — not a personal connection requiring a response |
+| Extreme attentiveness in service | Standard, not a personal connection requiring a response |
 | Giggling at something uncomfortable | Embarrassment or discomfort, not amusement |
 
 ---

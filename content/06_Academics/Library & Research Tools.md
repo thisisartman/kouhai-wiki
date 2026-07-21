@@ -10,19 +10,19 @@ last_updated: 2026-07-13
 
 ---
 
-## IUJ Library — Overview
+## IUJ Library: Overview
 
-The IUJ Library (国際大学図書館) is a research-grade academic library serving a small graduate school. It punches above its weight for its size — access to major international academic databases, strong IR and business collections, and relatively fast interlibrary loan.
+The IUJ Library (国際大学図書館) is a research-grade academic library serving a small graduate school. It punches above its weight for its size: access to major international academic databases, strong IR and business collections, and relatively fast interlibrary loan.
 
 **Location:** Main academic building on campus
-**Hours:** ⚠️ Confirm current hours on the IUJ website — hours differ during term vs. holidays
+**Hours:** ⚠️ Confirm current hours on the IUJ website, since hours differ during term vs. holidays
 
 ---
 
 ## Library Card & Access
 
 - Your IUJ student ID doubles as your library card
-- Register at the library counter during the first week — get your borrowing privileges activated
+- Register at the library counter during the first week to get your borrowing privileges activated
 - Remote access to electronic resources uses your IUJ portal login
 
 ---
@@ -45,16 +45,16 @@ The IUJ Library (国際大学図書館) is a research-grade academic library ser
 
 | Resource | What It's For |
 |---|---|
-| **JSTOR** | Academic journals — social sciences, humanities |
-| **EBSCOhost** | Multi-database platform — business, IR, social sciences |
+| **JSTOR** | Academic journals: social sciences, humanities |
+| **EBSCOhost** | Multi-database platform: business, IR, social sciences |
 | **ProQuest** | Dissertations, newspapers, business databases |
 | **Bloomberg / Nikkei** | Financial and business data |
-| **UN Digital Library** | UN documents, resolutions, reports — essential for IR |
+| **UN Digital Library** | UN documents, resolutions, reports (essential for IR) |
 | **World Bank Open Data** | Development economics data |
 | **IMF eLibrary** | Economic data and working papers |
-| **Factiva** | News archive — global press |
+| **Factiva** | News archive: global press |
 
-> 💡 Access most databases off-campus via VPN or the library's remote access portal — ask the librarian for setup instructions.
+> 💡 Access most databases off-campus via VPN or the library's remote access portal: ask the librarian for setup instructions.
 
 ---
 
@@ -64,7 +64,7 @@ If IUJ doesn't own a book or article you need:
 - Submit an ILL request through the library portal
 - Books typically arrive within 1–2 weeks from partner libraries
 - Article PDFs often arrive faster (days)
-- Free for students — use it liberally for thesis research
+- Free for students, so use it liberally for thesis research
 
 ---
 
@@ -76,7 +76,7 @@ IUJ's library staff are underutilized by most students. They can:
 - Advise on citation management tools
 - Track down obscure government or policy documents
 
-> 💡 Book a reference consultation early in your thesis process — not after you've spent three weeks spinning your wheels.
+> 💡 Book a reference consultation early in your thesis process, not after you've spent three weeks spinning your wheels.
 
 ---
 
@@ -90,14 +90,14 @@ Managing sources manually is a waste of time. Use one of these from Day 1:
 | **Mendeley** | PDF management + citations | Free |
 | **EndNote** | Powerful; preferred by some supervisors | Paid (check if IUJ provides access) |
 
-> 💡 Zotero is the standard recommendation — open source, browser plugin grabs citations automatically, syncs across devices.
+> 💡 Zotero is the standard recommendation: open source, browser plugin grabs citations automatically, syncs across devices.
 
 ---
 
 ## Study Spaces
 
 - Individual carrels and group study rooms available in the library
-- Quiet zones vs. collaborative zones — follow the signage
+- Quiet zones vs. collaborative zones: follow the signage
 - ⚠️ Booking system for group rooms: confirm at the library counter
 
 ---
@@ -115,5 +115,5 @@ Managing sources manually is a waste of time. Use one of these from Day 1:
 
 - Which databases were most useful for MBA vs IR thesis work
 - Tips on navigating interlibrary loan for hard-to-find sources
-- Librarian recommendations — who to talk to for what
+- Librarian recommendations: who to talk to for what
 - Any access tricks or shortcuts for remote database use

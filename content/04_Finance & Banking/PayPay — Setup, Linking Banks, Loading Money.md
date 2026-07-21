@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-07-13
 ---
 
-PayPay is Japan's dominant QR payment app. Accepted at convenience stores, supermarkets, restaurants, vending machines, and most small shops. Getting it working as a foreigner has a few friction points — this guide covers all of them.
+PayPay is Japan's dominant QR payment app. Accepted at convenience stores, supermarkets, restaurants, vending machines, and most small shops. Getting it working as a foreigner has a few friction points: this guide covers all of them.
 
 ---
 
@@ -21,7 +21,7 @@ PayPay is Japan's dominant QR payment app. Accepted at convenience stores, super
 
 ## What You Need Before Setup
 
-- Japanese phone number (your SIM — see [[SIM & Internet Setup]])
+- Japanese phone number (your SIM; see [[SIM & Internet Setup]])
 - A way to fund it: Japanese bank account, Japanese credit/debit card, or convenience store cash load
 
 > ⚠️ You cannot link a foreign bank account or foreign credit card directly to PayPay. You need a Japanese payment source.
@@ -40,13 +40,13 @@ PayPay is Japan's dominant QR payment app. Accepted at convenience stores, super
 2. Enter your Japanese phone number
 3. Enter the OTP sent via SMS
 4. Set a 4-digit passcode
-5. Account created — but balance is ¥0 and daily limit is capped until verified
+5. Account created, but balance is ¥0 and daily limit is capped until verified
 
 ### 3. Identity Verification (本人確認) *(Recommended)*
 Verification increases your daily payment limit and enables bank linking.
 
 1. Go to: Account → Identity Verification
-2. Upload a photo of your **Residence Card (在留カード)** — front and back
+2. Upload a photo of your **Residence Card (在留カード)**, front and back
 3. Take a selfie as prompted
 4. Approval usually takes a few minutes to a few hours
 
@@ -65,7 +65,7 @@ After identity verification:
 ### Option B: Link a Japanese Debit/Credit Card
 1. Go to: Payment → Add Card
 2. Enter your JP Bank Visa/Mastercard debit card details
-3. Payments are charged directly to the card — no need to pre-load balance
+3. Payments are charged directly to the card; no need to pre-load balance
 
 ### Option C: Convenience Store Cash Load
 If your bank isn't linked yet:
@@ -90,21 +90,21 @@ If your bank isn't linked yet:
 
 - **At a store**: Open app → tap the QR icon → scan merchant's QR code → confirm amount → pay
 - **Merchant scans you**: Show your PayPay barcode at the register
-- **Splitting bills**: PayPay has a "Request Money" feature — useful for group meals
+- **Splitting bills**: PayPay has a "Request Money" feature, useful for group meals
 
 ---
 
 ## PayPay Balance vs Card
 
-- **PayPay Balance** — pre-loaded money in the app. Earns cashback on some campaigns.
-- **Linked Card** — charged at time of payment. No pre-loading needed, but fewer cashback opportunities.
+- **PayPay Balance**: pre-loaded money in the app. Earns cashback on some campaigns.
+- **Linked Card**: charged at time of payment. No pre-loading needed, but fewer cashback opportunities.
 - Most students use a linked JP Bank debit card for simplicity.
 
 ---
 
 ## Cashback & Campaigns
 
-PayPay runs frequent campaigns — up to 20% cashback at participating stores. Check the app's "Campaign" tab regularly. Local Niigata businesses often participate.
+PayPay runs frequent campaigns, up to 20% cashback at participating stores. Check the app's "Campaign" tab regularly. Local Niigata businesses often participate.
 
 ---
 

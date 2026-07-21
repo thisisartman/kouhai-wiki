@@ -19,7 +19,7 @@ IUJ dorms have shared coin-operated washing machines and dryers in a laundry roo
 | Washer | ¥100–200/cycle | ~30–40 min |
 | Dryer | ¥100/cycle (per time increment) | ~30–60 min total |
 
-> ⚠️ Confirm current coin prices at the dorm laundry room — these can change.
+> ⚠️ Confirm current coin prices at the dorm laundry room, since these can change.
 
 **Payment:** Coins only. Keep a stock of ¥100 coins. The nearest coin exchange is the on-campus vending machine or convenience store.
 
@@ -27,10 +27,10 @@ IUJ dorms have shared coin-operated washing machines and dryers in a laundry roo
 
 ## Washing Basics
 
-- **Cold water wash (30°C)** is fine for most clothes and uses less electricity — select the lower temperature setting
+- **Cold water wash (30°C)** is fine for most clothes and uses less electricity; select the lower temperature setting
 - **Net bags (洗濯ネット, *sentaku netto*):** Use for delicates, underwear, and anything that could snag. Available at 100 yen shops.
 - **Detergent:** Liquid detergent is easier to use in Japanese machines than powder. Available at Beisia and convenience stores. Travel-size sachets sold at conbini work for small loads.
-- **Machine etiquette:** Don't leave your clothes in the machine after the cycle ends — others are waiting. Set a timer on your phone.
+- **Machine etiquette:** Don't leave your clothes in the machine after the cycle ends, since others are waiting. Set a timer on your phone.
 
 ---
 
@@ -38,7 +38,7 @@ IUJ dorms have shared coin-operated washing machines and dryers in a laundry roo
 
 ### Summer / Non-Winter (April–October)
 
-**Line drying (外干し, *sotohoshi*)** is the norm in Japan. Most dorms have outdoor drying areas — hang your clothes outside and they dry quickly in the warm months.
+**Line drying (外干し, *sotohoshi*)** is the norm in Japan. Most dorms have outdoor drying areas: hang your clothes outside and they dry quickly in the warm months.
 
 - Line drying is gentler on clothes and costs nothing
 - UV exposure from sunlight kills bacteria
@@ -50,9 +50,9 @@ This is where laundry gets difficult. **You cannot reliably dry clothes outside 
 
 **Options:**
 
-1. **Coin dryer** — most reliable; costs add up over time (budget ¥1,000–2,000/month)
+1. **Coin dryer**: most reliable; costs add up over time (budget ¥1,000–2,000/month)
 2. **Indoor drying rack (部屋干し, *heya boshi*):** Hang clothes inside your room. The dorm heaters dry them overnight. Downside: can add humidity to your room and takes longer than outdoor drying.
-3. **Dehumidifier:** Some students buy a small dehumidifier — helps clothes dry indoors faster and keeps the room healthier. Available at Hard Off recycle shops.
+3. **Dehumidifier:** Some students buy a small dehumidifier, which helps clothes dry indoors faster and keeps the room healthier. Available at Hard Off recycle shops.
 
 > 💡 The most common winter laundry setup: wash in the evening, tumble dry for one cycle to remove most moisture (~70%), then hang indoors overnight to finish. Saves coins and reduces indoor humidity vs full drying.
 
@@ -64,7 +64,7 @@ This is where laundry gets difficult. **You cannot reliably dry clothes outside 
 
 **Machine occupied at busy times:** Sunday evenings and Monday mornings are typically peak laundry times. Mid-week evenings or weekend mornings are quieter.
 
-**Colours running:** Sort clothes properly — dark colours separately. Japanese detergents are good but won't prevent bleeding from cheap dyed fabrics.
+**Colours running:** Sort clothes properly: dark colours separately. Japanese detergents are good but won't prevent bleeding from cheap dyed fabrics.
 
 **Mould on wet clothes left too long:** Japan's humidity is high. Don't leave damp clothes in a bag or basket. Wash and dry promptly.
 
@@ -72,7 +72,7 @@ This is where laundry gets difficult. **You cannot reliably dry clothes outside 
 
 ## Laundromat (コインランドリー)
 
-For large items — duvets, winter coats, sleeping bags — that won't fit in dorm machines, a laundromat (coin laundry) in Urasa or Nagaoka has large-capacity machines and industrial dryers.
+For large items (duvets, winter coats, sleeping bags) that won't fit in dorm machines, a laundromat (coin laundry) in Urasa or Nagaoka has large-capacity machines and industrial dryers.
 
 - Large washer cycle: ¥500–800
 - Industrial dryer (30 min): ¥100

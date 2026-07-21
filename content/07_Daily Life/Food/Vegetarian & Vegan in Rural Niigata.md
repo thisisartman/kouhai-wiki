@@ -6,19 +6,19 @@ status: ready
 last_updated: 2026-07-13
 ---
 
-Being vegetarian or vegan in Japan is manageable — but rural Niigata is harder than Tokyo. The challenge isn't that Japanese food is inherently meat-heavy; it's that **dashi (fish stock) is invisible and everywhere**. With some knowledge and a few strategies, you can eat well here.
+Being vegetarian or vegan in Japan is manageable, but rural Niigata is harder than Tokyo. The challenge isn't that Japanese food is inherently meat-heavy; it's that **dashi (fish stock) is invisible and everywhere**. With some knowledge and a few strategies, you can eat well here.
 
 ---
 
 ## The Core Problem: Hidden Dashi
 
-Japanese cooking relies heavily on **dashi** — a stock made from kombu (seaweed) and **katsuobushi (dried bonito/fish flakes)**. It's in:
+Japanese cooking relies heavily on **dashi**: a stock made from kombu (seaweed) and **katsuobushi (dried bonito/fish flakes)**. It's in:
 - Most miso soups
 - Many rice seasonings
 - Sauces, broths, and soups at restaurants
 - Some instant noodles and packaged foods
 
-This makes "vegetarian" dishes deceptive — a plate of sautéed vegetables may have been cooked with fish-based stock.
+This makes "vegetarian" dishes deceptive: a plate of sautéed vegetables may have been cooked with fish-based stock.
 
 **For lacto-ovo vegetarians:** this is something to be aware of and navigate situationally.
 **For vegans and strict vegetarians:** assume dashi is present unless you can confirm otherwise.
@@ -41,11 +41,11 @@ This makes "vegetarian" dishes deceptive — a plate of sautéed vegetables may 
 Rural Niigata has limited vegetarian-aware restaurants. Strategies:
 
 **Safest bets:**
-- **Ramen shops** — ask for vegetable broth (野菜スープ, *yasai sūpu*) or salt ramen without meat; some shops accommodate
-- **Soba and udon shops** — order zaru soba (cold soba) or vegetable tempura udon; ask about the broth
-- **Indian and Chinese restaurants** — if you can find them in Nagaoka, usually reliable for vegetarian options
-- **Italian/Western restaurants** — generally more vegetarian-aware
-- **Conveyor belt sushi (回転寿司)** — egg (たまご), cucumber (かっぱ), avocado, pickled plum options are usually available
+- **Ramen shops**: ask for vegetable broth (野菜スープ, *yasai sūpu*) or salt ramen without meat; some shops accommodate
+- **Soba and udon shops**: order zaru soba (cold soba) or vegetable tempura udon; ask about the broth
+- **Indian and Chinese restaurants**: if you can find them in Nagaoka, usually reliable for vegetarian options
+- **Italian/Western restaurants**: generally more vegetarian-aware
+- **Conveyor belt sushi (回転寿司)**: egg (たまご), cucumber (かっぱ), avocado, pickled plum options are usually available
 
 **Useful phrases:**
 
@@ -63,24 +63,24 @@ Rural Niigata has limited vegetarian-aware restaurants. Strategies:
 
 ## Supermarket Navigation
 
-Supermarkets give you full ingredient control — the easiest path for vegetarians and vegans.
+Supermarkets give you full ingredient control: the easiest path for vegetarians and vegans.
 
 **Reliably vegetarian/vegan at Japanese supermarkets:**
-- Tofu (豆腐) — multiple varieties; cheap; versatile
-- Natto (納豆) — fermented soybeans; acquired taste but extremely nutritious and cheap
-- Edamame (枝豆) — fresh or frozen
-- All vegetables and fruits — obviously
+- Tofu (豆腐): multiple varieties; cheap; versatile
+- Natto (納豆): fermented soybeans; acquired taste but extremely nutritious and cheap
+- Edamame (枝豆): fresh or frozen
+- All vegetables and fruits, obviously
 - Rice, noodles, bread
-- Konnyaku (こんにゃく) — gelatinous yam-based food; vegan; common in stews
-- Kombu dashi — seaweed-based stock; the vegan alternative to katsuobushi dashi
+- Konnyaku (こんにゃく): gelatinous yam-based food; vegan; common in stews
+- Kombu dashi: seaweed-based stock; the vegan alternative to katsuobushi dashi
 
 **Watch out for:**
-- Instant miso soup packets — most contain fish dashi; look for 昆布だし (kombu dashi) versions
-- Instant noodle seasoning — often contains animal products
-- Pre-seasoned frozen vegetables — check labels
+- Instant miso soup packets: most contain fish dashi; look for 昆布だし (kombu dashi) versions
+- Instant noodle seasoning: often contains animal products
+- Pre-seasoned frozen vegetables: check labels
 
 **Vegan-friendly brands to look for:**
-- Marukome's 料亭の味 (Ryōtei no Aji) miso — some variants are kombu dashi only
+- Marukome's 料亭の味 (Ryōtei no Aji) miso: some variants are kombu dashi only
 - Clearspring (imported, sometimes available online)
 
 ---
@@ -90,8 +90,8 @@ Supermarkets give you full ingredient control — the easiest path for vegetaria
 The most reliable path. See [[Cooking Basics & Cheap Meal Prep]] for full guidance.
 
 **Vegetarian/vegan Japanese dishes that are easy to cook:**
-- Agedashi tofu (揚げ出し豆腐) — fried tofu in broth (make broth with kombu)
-- Hiyayakko (冷奴) — cold tofu with soy sauce and ginger
+- Agedashi tofu (揚げ出し豆腐): fried tofu in broth (make broth with kombu)
+- Hiyayakko (冷奴): cold tofu with soy sauce and ginger
 - Stir-fried vegetables with tofu
 - Onigiri with ume or kombu filling
 - Miso soup with kombu dashi, tofu, and wakame
@@ -101,9 +101,9 @@ The most reliable path. See [[Cooking Basics & Cheap Meal Prep]] for full guidan
 ## Online Ordering for Specialty Items
 
 For harder-to-find vegan/vegetarian specialty items:
-- **iHerb** — ships to Japan; good for protein powders, nutritional yeast, specialty items
-- **Amazon Japan** — carries most vegan staples including kombu dashi, vegan miso, etc.
-- **Alishan Organic Centre** — Japanese organic/vegan food online retailer
+- **iHerb**: ships to Japan; good for protein powders, nutritional yeast, specialty items
+- **Amazon Japan**: carries most vegan staples including kombu dashi, vegan miso, etc.
+- **Alishan Organic Centre**: Japanese organic/vegan food online retailer
 
 ---
 
@@ -118,6 +118,6 @@ For harder-to-find vegan/vegetarian specialty items:
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
 - Specific restaurants near Urasa/Nagaoka that accommodate vegetarians/vegans
-- Campus cafeteria vegetarian options — what's actually available
+- Campus cafeteria vegetarian options: what's actually available
 - Best supermarket finds for vegan cooking
 - How you navigated social eating situations as a vegetarian at IUJ

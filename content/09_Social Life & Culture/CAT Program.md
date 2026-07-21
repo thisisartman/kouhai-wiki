@@ -6,13 +6,13 @@ status: ready
 last_updated: 2026-05-29
 ---
 
-CAT stands for **Community Action Team** — a volunteer programme where IUJ students visit local elementary schools to share their home countries and cultures with Japanese children. It's one of the most genuinely feel-good things you can do at IUJ, and one of the few ways to connect with the local Minamiuonuma community outside campus.
+CAT stands for **Community Action Team**, a volunteer programme where IUJ students visit local elementary schools to share their home countries and cultures with Japanese children. It's one of the most genuinely feel-good things you can do at IUJ, and one of the few ways to connect with the local Minamiuonuma community outside campus.
 
 ---
 
 ## What It Involves
 
-You visit a local elementary school for a morning. You talk about your country — its food, culture, geography, language, customs — to a class of young kids. Most visits are a few hours; you return to IUJ around 12:00–13:00.
+You visit a local elementary school for a morning. You talk about your country (its food, culture, geography, language, customs) to a class of young kids. Most visits are a few hours; you return to IUJ around 12:00–13:00.
 
 No formal preparation is required, but students usually bring photos, objects, or simple cultural props. The kids are enthusiastic and endlessly curious.
 
@@ -32,24 +32,24 @@ Sign-up sheets are posted on the wall **outside the Counselor's Office**. Add yo
 
 Local elementary schools in the Minamiuonuma area, rotating by round:
 
-Miyo, Yabukami, Ishiuchi, Muikamachi, Ueda, Ikazawa, Akashi, Ushiroyama, Jonai, Osaki, Shiozawa, Omaki, Nakanoshima, Hokushin Elementary Schools — check the sign-up sheet for which are included in each round. Some are a short drive (Miyo/Yabukami ~5km), others further out (Ishiuchi, a ski-resort-area school, ~27km).
+Miyo, Yabukami, Ishiuchi, Muikamachi, Ueda, Ikazawa, Akashi, Ushiroyama, Jonai, Osaki, Shiozawa, Omaki, Nakanoshima, Hokushin Elementary Schools: check the sign-up sheet for which are included in each round. Some are a short drive (Miyo/Yabukami ~5km), others further out (Ishiuchi, a ski-resort-area school, ~27km).
 
 ---
 
 ## Why It's Worth Doing
 
 - One of the few chances to interact with the local Japanese community (not just other internationals)
-- Low pressure — kids' curiosity is the brief, not your Japanese ability
+- Low pressure: kids' curiosity is the brief, not your Japanese ability
 - Good experience to have; looks genuine on any application where community engagement matters
-- Logistics are handled for you — just show up
+- Logistics are handled for you, so just show up
 
 ---
 
 ## Tips
 
-- Get to the sign-up sheet early — popular rounds fill fast
+- Get to the sign-up sheet early, since popular rounds fill fast
 - Bring visual materials (photos on your phone work fine; small objects from home are even better)
-- Simple English is fine — the schools know the students are international
+- Simple English is fine; the schools know the students are international
 - Coordinate with friends to visit the same school together
 
 ---

@@ -8,7 +8,7 @@ last_updated: 2026-07-14
 
 Japan requires all residents aged 20–59 to enroll in the national pension system (国民年金, *kokumin nenkin*). Students qualify for a **full exemption** from monthly payments.
 
-> ⚠️ **IUJ submits your exemption application for you automatically** — you don't self-apply at the city office. See below for what actually happens and what you need to do.
+> ⚠️ **IUJ submits your exemption application for you automatically.** You don't self-apply at the city office. See below for what actually happens and what you need to do.
 
 ---
 
@@ -16,7 +16,7 @@ Japan requires all residents aged 20–59 to enroll in the national pension syst
 
 - Monthly pension premium: **¥16,980/month** (2024 rate)
 - As a student, this is reduced to **¥0** via the student exemption
-- The exemption period still counts toward your pension record — you're not losing entitlement, just deferring payment
+- The exemption period still counts toward your pension record: you're not losing entitlement, just deferring payment
 
 ---
 
@@ -24,23 +24,23 @@ Japan requires all residents aged 20–59 to enroll in the national pension syst
 
 **IUJ handles this for you.** You do not go to the city office and apply yourself.
 
-Each year, IUJ holds a mandatory on-campus event called **Tax & Pension Day** (held Feb 6, 2026 this year — expect a similar date in future years). It combines two required procedures in one visit:
+Each year, IUJ holds a mandatory on-campus event called **Tax & Pension Day** (held Feb 6, 2026 this year; expect a similar date in future years). It combines two required procedures in one visit:
 
-1. **City Tax Declaration** — used to calculate your Residence Tax and National Health Insurance (NHI) premium
-2. **National Pension Exemption Application** — this is what gets you the student exemption
+1. **City Tax Declaration**: used to calculate your Residence Tax and National Health Insurance (NHI) premium
+2. **National Pension Exemption Application**: this is what gets you the student exemption
 
-**Everyone must attend — even if you had zero income last year.** Skipping it means:
+**Everyone must attend, even if you had zero income last year.** Skipping it means:
 - No student tax reduction (a 70% discount) on Residence Tax
 - Your NHI bill gets calculated at the maximum rate instead
 - Your pension exemption doesn't get filed
 
 **How it's run:**
-- Held on campus (OSS Lobby, MLIC Building) — city office staff come to IUJ
-- Appointment-only, booked in advance via a Google Form IUJ sends out (first come, first served — book as soon as the announcement lands)
+- Held on campus (OSS Lobby, MLIC Building); city office staff come to IUJ
+- Appointment-only, booked in advance via a Google Form IUJ sends out (first come, first served, so book as soon as the announcement lands)
 - About 5 minutes per person once you're there
 
 **What to bring:**
-- Residence Card (*zairyū kādo*) — required
+- Residence Card (*zairyū kādo*), required
 - My Number Card, if you have one
 - If you worked part-time: your Withholding Tax Slip (源泉徴収票, *gensen chōshū-hyō*) and any year-end adjustment documents from your employer
 
@@ -48,14 +48,14 @@ Each year, IUJ holds a mandatory on-campus event called **Tax & Pension Day** (h
 
 ## Two Things You'll See That Are Fine to Ignore
 
-- **A phone call asking you to pay your pension.** After your pension number is issued, an outsourced collection agency working for the Japan Pension Service automatically calls new registrants — this happens *before* IUJ's exemption submission catches up, so there's a window where the calls go out even though you're already exempt. IUJ students are exempt; ignore these calls. If you're unsure, contact the Counselor's Office.
-- **An envelope from the Japan Pension Service around April.** This contains next fiscal year's exemption paperwork and payment info, sent automatically to all registered pension members regardless of exemption status. IUJ has already submitted your exemption — you can disregard it.
+- **A phone call asking you to pay your pension.** After your pension number is issued, an outsourced collection agency working for the Japan Pension Service automatically calls new registrants. This happens *before* IUJ's exemption submission catches up, so there's a window where the calls go out even though you're already exempt. IUJ students are exempt; ignore these calls. If you're unsure, contact the Counselor's Office.
+- **An envelope from the Japan Pension Service around April.** This contains next fiscal year's exemption paperwork and payment info, sent automatically to all registered pension members regardless of exemption status. IUJ has already submitted your exemption, so you can disregard it.
 
 ---
 
 ## Renewal
 
-The exemption covers April of one year through March of the next (Japan's fiscal year), and needs renewing annually. Since IUJ files it for you via Tax & Pension Day, attending each year's event is what keeps your exemption current — you don't need to separately track or re-file it yourself.
+The exemption covers April of one year through March of the next (Japan's fiscal year), and needs renewing annually. Since IUJ files it for you via Tax & Pension Day, attending each year's event is what keeps your exemption current; you don't need to separately track or re-file it yourself.
 
 ---
 

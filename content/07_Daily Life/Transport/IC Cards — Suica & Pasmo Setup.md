@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-An IC card is a rechargeable contactless card used for trains, buses, and many shops across Japan. Get one as soon as you arrive — it's the single most useful piece of infrastructure for daily life in Japan.
+An IC card is a rechargeable contactless card used for trains, buses, and many shops across Japan. Get one as soon as you arrive: it's the single most useful piece of infrastructure for daily life in Japan.
 
 ---
 
@@ -25,16 +25,16 @@ If your iPhone or Android supports NFC (most modern phones do), you can add a Su
 **iPhone:**
 1. Open Wallet app → tap + → search "Suica"
 2. Select card type and load amount with a credit/debit card (Visa/Mastercard international cards work)
-3. Done — tap your phone to any Suica reader
+3. Done: tap your phone to any Suica reader
 
 **Android:**
 1. Download the Suica app or add via Google Wallet
-2. Same process — load with an international Visa/Mastercard
+2. Same process: load with an international Visa/Mastercard
 
 **Pros:** No physical card to lose, always on your phone, easy to top up
 **Cons:** Requires NFC-capable phone; battery dependency (keep phone charged)
 
-> 💡 Mobile Suica works even when your phone is off — there's a small reserve charge that allows exit from a station after battery dies.
+> 💡 Mobile Suica works even when your phone is off: there's a small reserve charge that allows exit from a station after battery dies.
 
 ---
 
@@ -45,7 +45,7 @@ Obtain at any JR station ticket machine, including Urasa Station.
 **At the machine:**
 1. Select "Suica" or "IC Card"
 2. Choose a load amount (¥1,000–10,000)
-3. Pay — ¥500 is held as a deposit (refundable when you return the card)
+3. Pay: ¥500 is held as a deposit (refundable when you return the card)
 4. Card is issued on the spot
 
 **Loading more money:** Any ticket machine with a Suica/IC mark, or at convenience stores (ask for チャージ, *chāji* = top-up).
@@ -55,13 +55,13 @@ Obtain at any JR station ticket machine, including Urasa Station.
 ## Where IC Cards Work
 
 - All local buses in the Nagaoka/Urasa area
-- Shinkansen non-reserved local services (limited — Shinkansen usually requires separate tickets)
+- Shinkansen non-reserved local services (limited; Shinkansen usually requires separate tickets)
 - Convenience stores (7-Eleven, Lawson, FamilyMart)
 - Vending machines (most of them)
 - Supermarkets and many shops
 - Coin lockers at stations
 
-> ⚠️ IC cards do **not** cover reserved Shinkansen seats — you need a separate ticket for those. See [[Shinkansen Strategy]].
+> ⚠️ IC cards do **not** cover reserved Shinkansen seats; you need a separate ticket for those. See [[Shinkansen Strategy]].
 
 ---
 

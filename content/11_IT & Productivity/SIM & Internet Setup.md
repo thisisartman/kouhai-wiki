@@ -25,12 +25,12 @@ Getting online is your first real task after landing. Without it, you can't navi
 - Good for the journey to IUJ; upgrade to a proper plan after settling in
 
 ### eSIM (Pre-Arrival Option)
-- Purchase and install before you land — apps like **Trip.com** sell Japan
+- Purchase and install before you land: apps like **Trip.com** sell Japan
   data eSIMs, no physical SIM swap needed
 - Typical pricing: ~¥1,000/month flat, or ¥14/day/GB on pay-as-you-go plans
-- Data-only, no calls/SMS — same trade-off as airport SIM cards
-- Doesn't require a Japanese bank account, credit card, or Residence Card —
-  useful if you want connectivity active the moment you land, before any
+- Data-only, no calls/SMS, same trade-off as airport SIM cards
+- Doesn't require a Japanese bank account, credit card, or Residence Card,
+  which is useful if you want connectivity active the moment you land, before any
   Japan-side paperwork is possible
 
 ---
@@ -56,7 +56,7 @@ Japan's MVNO (virtual carrier) market is large. These are the most student-relev
 ## What You Need to Sign Up
 
 - Passport (at time of purchase)
-- Residence Card (在留カード) — required for most monthly contracts
+- Residence Card (在留カード), required for most monthly contracts
 - Japanese address (your IUJ dorm address works)
 - Payment method: credit card, debit card, or JP Bank direct debit
 
@@ -64,10 +64,10 @@ Japan's MVNO (virtual carrier) market is large. These are the most student-relev
 
 ## Campus WiFi
 
-- The network name is **iuj-air1** — available campus-wide and in the dorms, log in with your IUJ credentials
+- The network name is **iuj-air1**, available campus-wide and in the dorms; log in with your IUJ credentials
 - Coverage is reasonable in academic buildings and dorms
 - **Free wired LAN is also available in dorm rooms** (SD1/SD2/SD3/MSA) if you bring or borrow a LAN cable (available for loan at the MLIC office, or purchase at the school shop). Outlet locations: SD1 near the bathroom door, SD2 near the bathroom door, SD3 near the desk, MSA via the LAN2 port on the WiFi router.
-- ⚠️ Dorm WiFi can be congested during peak hours — a personal SIM is still worth having, and wired LAN is a more stable alternative if your setup allows it
+- ⚠️ Dorm WiFi can be congested during peak hours. A personal SIM is still worth having, and wired LAN is a more stable alternative if your setup allows it.
 
 ---
 
@@ -75,10 +75,10 @@ Japan's MVNO (virtual carrier) market is large. These are the most student-relev
 
 Physical SIM plans in Japan often charge per-minute for domestic calls. Avoid bill shock by using apps:
 
-- **LINE** — dominant messaging app in Japan. Get it immediately. Most IUJ students and clubs communicate here.
-- **WhatsApp** — for international contacts
-- **Rakuten Link** — free domestic calls if on Rakuten Mobile
-- **Google Voice / Skype** — for international calls home
+- **LINE**: dominant messaging app in Japan. Get it immediately. Most IUJ students and clubs communicate here.
+- **WhatsApp**, for international contacts
+- **Rakuten Link**, free domestic calls if on Rakuten Mobile
+- **Google Voice / Skype**, for international calls home
 
 ---
 

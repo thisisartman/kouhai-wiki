@@ -6,19 +6,19 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-A short list of apps that actually get used. Japan has its own app ecosystem — some of these are Japan-specific and make daily life significantly easier.
+A short list of apps that actually get used. Japan has its own app ecosystem, and some of these are Japan-specific and make daily life significantly easier.
 
 ---
 
-## Essential — Download Before Arrival
+## Essential (Download Before Arrival)
 
 ### Google Maps
-Works well in Japan — better than in some countries. Transit directions including trains and buses are accurate. Useful for walking navigation and finding businesses.
+Works well in Japan, better than in some countries. Transit directions including trains and buses are accurate. Useful for walking navigation and finding businesses.
 
-> 💡 Download the Niigata region offline map before arrival — useful when your SIM isn't set up yet.
+> 💡 Download the Niigata region offline map before arrival; useful when your SIM isn't set up yet.
 
 ### Google Translate
-The camera translation mode (point camera at text) is used constantly in Japan. Japanese menus, signs, forms, product labels — all translatable instantly.
+The camera translation mode (point camera at text) is used constantly in Japan. Japanese menus, signs, forms, product labels: all translatable instantly.
 
 **Download Japanese offline language pack** before leaving home.
 
@@ -27,23 +27,23 @@ The camera translation mode (point camera at text) is used constantly in Japan. 
 
 Use: planning Shinkansen routes, finding the right train, calculating fare.
 
-**Note:** Google Maps handles most transit adequately now — use HyperDia/Navitime for complex routes or when you need exact fare breakdown.
+**Note:** Google Maps handles most transit adequately now; use HyperDia/Navitime for complex routes or when you need exact fare breakdown.
 
 ---
 
-## Recommended — Set Up in First Week
+## Recommended (Set Up in First Week)
 
 ### IC Card App (Suica / Mobile Suica)
 Add a Suica to your iPhone Wallet or Google Wallet for seamless train and bus payment. See [[IC Cards — Suica & Pasmo Setup]].
 
 ### PayPay
-Japan's dominant QR payment app. Set up early — you'll use it constantly. See [[PayPay — Setup, Linking Banks, Loading Money]].
+Japan's dominant QR payment app. Set up early; you'll use it constantly. See [[PayPay — Setup, Linking Banks, Loading Money]].
 
 ### LINE
 Japan's primary messaging app. Most Japanese people, student groups, and local services (clinics, shops) use LINE rather than WhatsApp or other platforms. If you want to stay in contact with Japanese students and local services, get LINE.
 
 ### Yahoo! Japan Weather (ヤフー天気)
-More accurate for Japan than Google Weather. Particularly useful in Niigata winter — shows snowfall forecasts and accumulation.
+More accurate for Japan than Google Weather. Particularly useful in Niigata winter, since it shows snowfall forecasts and accumulation.
 
 ### NHK World News
 English-language news from Japan's public broadcaster. Also has emergency alert functions.
@@ -65,20 +65,20 @@ Japan's primary restaurant review platform. More reliable than Google Maps for r
 Alternative restaurant finder; sometimes has better local coverage than Tabelog.
 
 ### Jalan / Rakuten Travel
-Accommodation booking — consistently cheaper than international platforms for Japanese hotels. See [[10_Travel & Leisure/Vacation Planning/How to Book — Flights, Stays, JR Pass|Vacation Planning — How to Book — Flights, Stays, JR Pass]].
+Accommodation booking that's consistently cheaper than international platforms for Japanese hotels. See [[10_Travel & Leisure/Vacation Planning/How to Book — Flights, Stays, JR Pass|Vacation Planning — How to Book — Flights, Stays, JR Pass]].
 
 ---
 
 ## Transit & Navigation
 
 ### Japan Official Travel App (JNTO)
-Official Japan tourism app — has transit search, tourist spot information, and emergency contacts in English. Good for travel.
+Official Japan tourism app with transit search, tourist spot information, and emergency contacts in English. Good for travel.
 
 ### Ekinet (えきねっと)
 Shinkansen and JR booking app. Required for advance discount tickets. See [[Shinkansen Strategy]].
 
 ### Times Car (タイムズカー)
-Carshare app — book hourly rentals with your phone. Requires Japanese licence or IDP. See [[Car Rental — Requirements & Services]].
+Carshare app for booking hourly rentals with your phone. Requires Japanese licence or IDP. See [[Car Rental — Requirements & Services]].
 
 ---
 
@@ -91,7 +91,7 @@ Better than Google Translate for nuanced translation. Good for reading dense Jap
 Japanese dictionary apps. More useful than generic translation for learning vocabulary and checking kanji. See [[Japanese Language Courses at IUJ]] for full language learning guidance.
 
 ### Japanese (by Renzo Inc.)
-Highly rated dictionary with handwriting input — draw a kanji you can't type and it identifies it.
+Highly rated dictionary with handwriting input: draw a kanji you can't type and it identifies it.
 
 ---
 

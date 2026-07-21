@@ -85,6 +85,18 @@ For anything beyond a local clinic's scope — specialist care, emergency care, 
 
 ---
 
+## Area Maps (Koide & Muikamachi)
+
+For finding these hospitals/clinics on the ground, IUJ's Hospital Guide 2025 includes hand-drawn area maps:
+
+![Map of hospitals and clinics near Koide Station](images/nearby-clinics-hospitals/koide-map.png)
+*Koide area map (© OSS).*
+
+![Map of hospitals and clinics near Muikamachi Station](images/nearby-clinics-hospitals/muikamachi-map.png)
+*Muikamachi area map (© OSS) — shows Minami Uonuma City Hospital and Hitomi Ladies Clinic.*
+
+---
+
 ## Emergencies
 
 **Ambulance (救急車):** Call **119**. Free service; no charge for the ambulance. Describe your location and situation; some operators have basic English or a translation service.

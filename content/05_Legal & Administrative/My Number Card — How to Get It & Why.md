@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-07-13
 ---
 
-My Number is Japan's national identification number system. Every resident — including foreign nationals — gets a number. The physical card that goes with it is optional but increasingly essential.
+My Number is Japan's national identification number system. Every resident (including foreign nationals) gets a number. The physical card that goes with it is optional but increasingly essential.
 
 ---
 
@@ -26,7 +26,7 @@ My Number is Japan's national identification number system. Every resident — i
 After registering at the city office:
 - A notification letter (通知カード or マイナンバー通知書) is mailed to your dorm address within 1–2 weeks
 - This letter contains your 12-digit My Number
-- **Keep this letter safe** — it's your official number record until you get the physical card
+- **Keep this letter safe**: it's your official number record until you get the physical card
 
 ---
 
@@ -34,12 +34,12 @@ After registering at the city office:
 
 Even though it's technically optional, get the card. Here's why:
 
-- **Tax filing** — required for e-Tax (online tax filing); increasingly mandatory
-- **Banking** — some banks now require My Number for account operations
-- **Health insurance** — My Number Card is replacing the traditional health insurance card (保険証) — Japan is phasing this in
-- **Convenience store printing** — My Number Card + convenience store terminals lets you print official government documents (住民票, etc.) without going to city hall
-- **Digital government services** — needed for the マイナポータル (My Number Portal) app for various administrative tasks
-- **Student scholarships** — some scholarship processes require it
+- **Tax filing**: required for e-Tax (online tax filing); increasingly mandatory
+- **Banking**: some banks now require My Number for account operations
+- **Health insurance**: My Number Card is replacing the traditional health insurance card (保険証) as Japan phases this in
+- **Convenience store printing**: My Number Card + convenience store terminals lets you print official government documents (住民票, etc.) without going to city hall
+- **Digital government services**: needed for the マイナポータル (My Number Portal) app for various administrative tasks
+- **Student scholarships**: some scholarship processes require it
 
 ---
 

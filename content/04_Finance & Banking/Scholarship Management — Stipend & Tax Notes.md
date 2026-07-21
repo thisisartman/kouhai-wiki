@@ -28,7 +28,7 @@ For the first payment cycle (commonly October for new students), students who do
 
 You'll receive a reminder email when your stipend is ready for collection.
 
-> ⚠️ **Monthly expenses are deducted at the time of cash collection** — the amount you receive in hand will be your stipend minus that month's expenses. Check your invoice on MyIUJ before collecting so there are no surprises.
+> ⚠️ **Monthly expenses are deducted at the time of cash collection.** The amount you receive in hand will be your stipend minus that month's expenses. Check your invoice on MyIUJ before collecting so there are no surprises.
 
 ---
 
@@ -39,7 +39,7 @@ IUJ issues monthly expense invoices (dorm fees, meal plan costs, insurance deduc
 - **20th of each month:** your statement is issued and viewable on MyIUJ (via "Statements of your expenses" in the bottom-left corner)
 - **25th of each month:** the amount is automatically deducted from your bank account
 - If either date falls on a weekend or national holiday, it moves to the working day immediately before
-- Deducted charges typically cover: dormitory fees for the *current* month, plus other fees (copy fees, phone charges, etc.) for the *previous* month — so the September 25th deduction covers September's rent + August's other fees
+- Deducted charges typically cover: dormitory fees for the *current* month, plus other fees (copy fees, phone charges, etc.) for the *previous* month. So the September 25th deduction covers September's rent + August's other fees
 
 > ⚠️ **Keep enough money in your account before the 25th.** Missing a payment isn't a soft failure: a late fee of **¥1,000/month** applies, and repeated non-payment can trigger **forced withdrawal from IUJ** under the school's own regulations (Article 27(4)). Check your balance a day or two ahead of the deduction date, every month.
 
@@ -59,13 +59,13 @@ The premium is paid as a **lump sum for your entire enrolment period**, deducted
 
 If you're injured during IUJ curricular or extracurricular activities, report it to the **Health & Wellness Office** immediately. Keep all medical receipts for insurance claims.
 
-**Health & Wellness Coordinator:** Monica — 025-779-1170 (ext. 170) / healness@iuj.ac.jp
+**Health & Wellness Coordinator:** Monica, 025-779-1170 (ext. 170) / healness@iuj.ac.jp
 
 ---
 
 ## Education and Training Benefits (教育訓練給付金)
 
-> This applies only to students who were enrolled in **Japanese Employment Insurance** before entering IUJ — typically students who worked in Japan before the programme.
+> This applies only to students who were enrolled in **Japanese Employment Insurance** before entering IUJ, typically students who worked in Japan before the programme.
 
 If this applies to you, you may be eligible for up to **¥100,000** in education training benefits from the Ministry of Health, Labour and Welfare. Application is made at a Hello Work (ハローワーク) office within one month of graduation.
 

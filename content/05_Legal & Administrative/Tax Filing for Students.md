@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-07-13
 ---
 
-Most IUJ students will deal with Japanese taxes in one form or another — especially if working part-time or on a scholarship. Here's what you actually need to know.
+Most IUJ students will deal with Japanese taxes in one form or another, especially if working part-time or on a scholarship. Here's what you actually need to know.
 
 ---
 
@@ -15,13 +15,13 @@ Most IUJ students will deal with Japanese taxes in one form or another — espec
 | Situation | File a Tax Return? |
 |---|---|
 | Student with no income | ❌ No |
-| Scholarship only (MEXT, JASSO, etc.) | Usually ❌ — most scholarships are tax-exempt |
-| Part-time work, employer withholds tax | ⚠️ Maybe — only if you want a refund of over-withheld tax |
+| Scholarship only (MEXT, JASSO, etc.) | Usually ❌ (most scholarships are tax-exempt) |
+| Part-time work, employer withholds tax | ⚠️ Maybe, only if you want a refund of over-withheld tax |
 | Part-time work, no tax withheld (freelance/cash) | ✅ Yes, if income over ~¥480,000/year |
 | Two or more part-time jobs | ✅ Yes |
 | Any income over ¥2,000,000/year | ✅ Yes |
 
-> 💡 If your only income is a part-time job where the employer handles withholding (源泉徴収), you may not need to file. But filing gets you a **refund** if too much was withheld — worth doing.
+> 💡 If your only income is a part-time job where the employer handles withholding (源泉徴収), you may not need to file. But filing gets you a **refund** if too much was withheld, so it's worth doing.
 
 ---
 
@@ -37,7 +37,7 @@ Most IUJ students will deal with Japanese taxes in one form or another — espec
 
 ## Scholarship Tax Status
 
-Most major scholarships at IUJ (MEXT, JASSO) are **non-taxable** under Japanese law — you don't pay income tax on them and don't need to report them.
+Most major scholarships at IUJ (MEXT, JASSO) are **non-taxable** under Japanese law: you don't pay income tax on them and don't need to report them.
 
 > ⚠️ Confirm this for your specific scholarship type. Some private scholarships or stipends may be treated differently. Ask IUJ's student affairs office if unsure.
 
@@ -51,10 +51,10 @@ Most major scholarships at IUJ (MEXT, JASSO) are **non-taxable** under Japanese 
 
 **Steps:**
 1. Go to [e-tax.nta.go.jp](https://www.e-tax.nta.go.jp)
-2. Select 確定申告 (*kakutei shinkoku* — annual tax return)
-3. Enter income details — you'll need your 源泉徴収票 (withholding tax slip) from your employer(s)
+2. Select 確定申告 (*kakutei shinkoku*, annual tax return)
+3. Enter income details: you'll need your 源泉徴収票 (withholding tax slip) from your employer(s)
 4. Enter deductions (insurance premiums paid, etc.)
-5. Submit — refund is deposited directly to your JP Bank account
+5. Submit: refund is deposited directly to your JP Bank account
 
 ---
 
@@ -80,7 +80,7 @@ These reduce your taxable income:
 | 社会保険料控除 | National Health Insurance premiums you paid |
 | 生命保険料控除 | Life insurance premiums (if any) |
 | 寄附金控除 | Donations to qualifying organizations |
-| 基礎控除 | Basic personal exemption (~¥480,000) — everyone gets this |
+| 基礎控除 | Basic personal exemption (~¥480,000); everyone gets this |
 
 ---
 
@@ -96,7 +96,7 @@ These reduce your taxable income:
 
 - Your employer issues this by end of January for the previous year
 - It shows total income earned and total tax withheld
-- **Keep it safe** — you need it to file, and it's useful for visa/scholarship renewal documentation
+- **Keep it safe**: you need it to file, and it's useful for visa/scholarship renewal documentation
 
 ---
 

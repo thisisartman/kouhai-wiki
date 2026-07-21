@@ -6,23 +6,23 @@ status: ready
 last_updated: 2026-07-13
 ---
 
-Many students arrive at IUJ having never cooked seriously. Rural Niigata — with limited delivery options and a campus cafeteria that gets old fast — will change that. Cooking is one of the best investments of time you can make here: cheaper, healthier, and genuinely social.
+Many students arrive at IUJ having never cooked seriously. Rural Niigata (with limited delivery options and a campus cafeteria that gets old fast) will change that. Cooking is one of the best investments of time you can make here: cheaper, healthier, and genuinely social.
 
 ---
 
 ## Dorm Kitchen Setup
 
-> ⚠️ Confirm available kitchen equipment with IUJ housing — shared vs. in-room facilities vary by dorm.
+> ⚠️ Confirm available kitchen equipment with IUJ housing: shared vs. in-room facilities vary by dorm.
 
 **Typical shared kitchen equipment:**
-- Gas or IH (induction) stove — know which yours is before buying cookware (IH requires magnetic-base pans)
+- Gas or IH (induction) stove: know which yours is before buying cookware (IH requires magnetic-base pans)
 - Microwave
-- Basic utensils — quality varies; bring or buy your own knives
+- Basic utensils: quality varies; bring or buy your own knives
 
 **What to buy early (all available at Daiso or recycle shops):**
 - 1 medium saucepan
 - 1 frying pan (IH-compatible if needed)
-- Rice cooker — non-negotiable in Japan; ¥2,000–5,000 for a basic one; check recycle shops first
+- Rice cooker: non-negotiable in Japan; ¥2,000–5,000 for a basic one; check recycle shops first
 - Cutting board + knife
 - Basic bowls, plates, chopsticks, a spoon
 
@@ -54,16 +54,16 @@ Stock these and you can make something out of almost anything:
 ## Budget Meal Strategies
 
 ### The ¥500 Meal Formula
-**Rice + egg + miso soup + one vegetable** — achievable for under ¥200 per meal when bulk-bought. This is the baseline.
+**Rice + egg + miso soup + one vegetable**: achievable for under ¥200 per meal when bulk-bought. This is the baseline.
 
 ### Batch Cooking
-- Cook large quantities of rice (rice cooker makes this trivial) — stores 3–4 days refrigerated
-- Make curry, stew, or soup in big batches — lasts 3–4 days, gets better each day
-- Prep vegetables for the week on Sunday — reduces daily friction
+- Cook large quantities of rice (a rice cooker makes this trivial); it stores 3–4 days refrigerated
+- Make curry, stew, or soup in big batches; it lasts 3–4 days and gets better each day
+- Prep vegetables for the week on Sunday to reduce daily friction
 
 ### Discount Timing at Supermarkets
 - Most Japanese supermarkets mark down meat, fish, and prepared foods after **18:00–19:00**
-- Look for orange/yellow 割引 (わりびき) stickers — typically 20–50% off
+- Look for orange/yellow 割引 (わりびき) stickers: typically 20–50% off
 - Timing your shopping around this is a legitimate student budget strategy
 
 ### Frozen Section
@@ -75,16 +75,16 @@ Stock these and you can make something out of almost anything:
 
 ## Simple Recipes for IUJ Students
 
-### Tamago Gohan (卵かけご飯) — 5 min
+### Tamago Gohan (卵かけご飯): 5 min
 Hot rice + raw egg + soy sauce. Mix and eat. Japanese comfort food at its simplest.
 
-### Miso Soup — 10 min
+### Miso Soup: 10 min
 Boil water → dissolve miso paste → add tofu cubes and wakame seaweed. Done.
 
-### Stir-Fry Formula — 15 min
+### Stir-Fry Formula: 15 min
 Oil in pan → garlic/ginger → protein (egg, tofu, chicken) → vegetables → soy sauce + mirin → serve over rice.
 
-### Japanese Curry — 30 min (big batch)
+### Japanese Curry: 30 min (big batch)
 Onion + potato + carrot + protein → add water → simmer → add curry roux block (S&B or Vermont Curry sold at all supermarkets) → serve over rice. One batch = 4–5 meals.
 
 ### Instant Ramen Upgrade
@@ -96,7 +96,7 @@ Cook instant ramen → add an egg, frozen vegetables, and a dash of sesame oil. 
 
 - Group cooking nights are common and genuinely fun at IUJ
 - Potluck-style "bring a dish from your country" events are a great way to share culture
-- Sharing ingredients with dorm neighbors reduces waste and costs — especially useful for things like a whole cabbage or large pack of chicken
+- Sharing ingredients with dorm neighbors reduces waste and costs (especially useful for things like a whole cabbage or large pack of chicken)
 
 ---
 
