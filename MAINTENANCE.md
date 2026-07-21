@@ -809,7 +809,36 @@ get built is 4 credited contributions, not 1.
 | 2026-07-13 | First Week Checklist | Senpai | Adithya | City-office staff visit campus for registration | Actioned | Backfilled — live in file since 2026-07-14, not logged at the time |
 | 2026-07-13 | First Week Checklist | Senpai | Adithya | Bank staff visit campus for scholarship account setup | Actioned | Backfilled — live in file since 2026-07-14 |
 | 2026-07-18 | SIM & Internet Setup | Senpai | Sree (consent: yes; DXP, Class of 2026, India) | Add eSIM/Trip.com option (~¥1000/mo or ¥14/day/GB) | Actioned | New "eSIM (Pre-Arrival Option)" bullet added under Airport (Immediate Options); credited on About page |
+| 2026-07-13 | How to Use This Wiki | Senpai | Appu | "As of right now, nothing. We wait for the storm." | Skipped | Not an actionable suggestion |
+| 2026-07-14 | How to Use This Wiki | Senpai | Adithya | "It's a bit unclear what frontmatter means" | Open | Current article doesn't use the word "frontmatter" at all in reader-facing copy, which may already resolve this, but not confirmed as an intentional fix — worth a deliberate pass |
 | 2026-07-18 | How to Use This Wiki (new-page mode) | Self-test | Terwadkar Apoorv Rajiv | Joke text, not a real suggestion | Skipped | Also the submission that surfaced the passage-field bug below |
+| 2026-07-18 | (new-page mode) | Senpai | Terwadkar Apoorv Rajiv | "Appu Can't Dance साला" — joke text, no article field | Skipped | Not an actionable suggestion |
+| 2026-07-18 | Convenience Store Food Guide | Senpai | Terwadkar Apoorv Rajiv | Google Maps links for 2 conbini near Urasa Station | Open | Real addresses provided, not yet added to article; check against the plain-hyperlink Maps convention (§15) |
+| 2026-07-18 | Convenience Store Food Guide | Senpai | Terwadkar Apoorv Rajiv | Google Maps link for conbini near Kikan Hospital | Open | Same as above |
+| 2026-07-18 | MyKouhai! Wiki (homepage) | Senpai | Terwadkar Apoorv Rajiv | Center the homepage title | Open | UI/layout change, not content |
+| 2026-07-18 | Romance, Consent & Adults Being Adults | Senpai | Terwadkar Apoorv Rajiv | Rewrite using IUJ PEC (Prevention of Sexual Harassment/related Committee?) info; re-contact OSS | Open | Needs real source material from OSS before any rewrite; can't fabricate |
+| 2026-07-20 | Bus & Local Routes | Senpai | Terwadkar Apoorv Rajiv | Add images/maps to the article | Actioned | Niigata lines map (from IUJ Hospital Guide scrape) embedded 2026-07-20 |
+| 2026-07-20 | Humour Across Cultures | Senpai | Terwadkar Apoorv Rajiv | Replace an example with a WiFi/iuj-air1 joke | Open | Specific joke text provided in the submission if picked up later |
+| 2026-07-20 | Humour Across Cultures | Senpai | Terwadkar Apoorv Rajiv | Remove a line, "not necessary as such" | Open | Submission doesn't quote which line; needs the submitter's original passage highlight or a follow-up ask |
+| 2026-07-20 | SIM & Internet Setup | Senpai | Terwadkar Apoorv Rajiv | Daishi cash card vs. debit/credit card distinction; docomo registration via Daishi + My Number; recommend JP Bank for long-term/scholarship students | Open | Substantive, multi-part; worth a dedicated edit pass |
+| 2026-07-20 | SIM & Internet Setup | Senpai | Terwadkar Apoorv Rajiv | Link to campus WiFi setup steps; nudge toward IT helpdesk | Open | |
+| 2026-07-20 | SIM & Internet Setup | Senpai | Terwadkar Apoorv Rajiv | Most students use WhatsApp, not LINE, for messaging; drop Google Voice/Skype; add FaceTime/Google Meet | Open | Contradicts current "LINE is dominant" framing in Calling & Messaging Apps section; needs a real edit, not just an addition |
+| 2026-07-20 | Survival Japanese — Phrases & Apps | Senpai | Terwadkar Apoorv Rajiv | Add a flashcard-making tutorial | Open | |
+| 2026-07-21 | First Week Checklist | Senpai | Terwadkar Apoorv Rajiv | Reflect IUJ's actual registration schedule; note pre-arrival SIM differs from the SIM you should get after arrival | Open | Checklist currently doesn't distinguish "before you land" vs. "after you land" SIM |
+| 2026-07-21 | First Week Checklist | Senpai | Terwadkar Apoorv Rajiv | Reword so JP Bank doesn't read as a strict necessity (checklist should be requirements-only); MEXT students must use JP Bank, not Daishi | Open | The MEXT-specific requirement isn't in the article yet; needs verifying before it goes in as a flat statement |
+| 2026-07-21 | How to Use This Wiki | Senpai | Terwadkar Apoorv Rajiv | Make titles clickable | Open | UI/code change |
+| 2026-07-21 | How to Use This Wiki | Senpai | Terwadkar Apoorv Rajiv | Add reference screenshots | Open | Needs actual screenshot assets |
+| 2026-07-21 | How to Use This Wiki | Senpai | Terwadkar Apoorv Rajiv | Embed the actual Suggest-an-edit button inline (or an image of it) | Open | UI/code change |
+| 2026-07-21 | How to Use This Wiki | Senpai | Terwadkar Apoorv Rajiv | Bold a passage, consider a quote block | Open | Needs the submitter's passage highlight to know exactly which text |
+| 2026-07-21 | How to Use This Wiki | Senpai | Terwadkar Apoorv Rajiv | Update a block to mention the edit button instead | Open | Needs the submitter's passage highlight to know exactly which block |
+| 2026-07-21 | India (country index) | Senpai | Terwadkar Apoorv Rajiv | Remove OCI Card and Pre-Departure Checklist as separate pages; fold into one wiki-wide checklist article | Open | Structural change affecting multiple articles/wikilinks; needs a decision, not a quick edit |
+| 2026-07-21 | India — Cultural Information & Etiquette | Senpai | Terwadkar Apoorv Rajiv | Shorten stub-tag copy to "Needs student input" | Open | Current stub wording is close in meaning but not the exact requested phrase; low-priority microcopy |
+| 2026-07-21 | India — Cultural Information & Etiquette | Senpai | Terwadkar Apoorv Rajiv | Shorten stub-tag copy to "Barely any content yet" | Open | Same as above, alternate phrasing suggested |
+| 2026-07-21 | Mental Health Resources | Senpai | Terwadkar Apoorv Rajiv | "Structure data like this differently" | Open | Too vague to action without knowing which section; needs a follow-up ask |
+| 2026-07-21 | Spring Term: Post-Winter Blues & Sakura | Senpai | Terwadkar Apoorv Rajiv | Keep "Term" in the title, replace the em-dash with a colon | Actioned | Title changed to "Spring Term: Post-Winter Blues & Sakura" 2026-07-21; a previous session had misread the same pattern on Fall/Winter as agent-caused title corruption and reverted it — since corrected to match this request |
+| 2026-07-21 | Spring Term: Post-Winter Blues & Sakura | Senpai | Terwadkar Apoorv Rajiv | "This is not a 'free advice' portal" — reword a passage | Open | Needs the submitter's passage highlight to know exactly which line |
+| 2026-07-21 | Spring Term: Post-Winter Blues & Sakura | Senpai | Terwadkar Apoorv Rajiv | Reword headings that use "What do you mean, right?" phrasing to be less obnoxious | Open | |
+| 2026-07-21 | Thesis Guide (IR) — Supervisor, Timeline, Tips | Senpai | Terwadkar Apoorv Rajiv | Add own tutorials or links to helpful external ones (and "same for all other things") | Open | Broad ask, possibly wiki-wide in intent; scope needs clarifying |
 
 **2026-07-18 — MyKouhai! Wiki (homepage) — Senpai — koshoi_k** (real name
 Koshoi, MBA, Class of 2027, Kyrgyzstan, provided by the maintainer
