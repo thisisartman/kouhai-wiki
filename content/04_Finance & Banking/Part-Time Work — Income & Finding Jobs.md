@@ -30,11 +30,11 @@ Rural Niigata has a limited job market compared to Tokyo. Realistic options:
 
 ## On-Campus Opportunities
 
-- **Teaching Assistant (TA)** positions: assist professors with courses; check with your department
-- **Research Assistant (RA)**: paid research support roles; ask your academic advisor
+- **Teaching Assistant (TA)** positions assist professors with courses; check with your department
+- **Research Assistant (RA)**, paid research support roles; ask your academic advisor
 - **Pay rate:** roughly **¥800–1,000/hour** for on-campus jobs, per IUJ's own materials
 - These are the easiest options for students who prefer not to deal with Japanese-language workplaces
-- **TA/RA positions do not require a Work Permit**: this is an explicit exception per IUJ's official guidance. Library jobs are different: they **do** require a Work Permit like off-campus work does. Don't assume all on-campus jobs are permit-free.
+- **TA/RA positions do not require a Work Permit.** This is an explicit exception per IUJ's official guidance, but library jobs are different: they **do** require a Work Permit like off-campus work does. Don't assume all on-campus jobs are permit-free.
 - **Some scholarships ban part-time work outright.** Many scholarships don't allow part-time employment that requires a Work Permit, and **JICA, ADB, and IMF-sponsored students specifically cannot get a Work Permit at all**. Check your scholarship's terms before assuming you can take any job; this applies beyond just the driving restriction covered elsewhere.
 
 ---
@@ -42,9 +42,9 @@ Rural Niigata has a limited job market compared to Tokyo. Realistic options:
 ## Finding Off-Campus Jobs
 
 - **Indeed Japan** ([jp.indeed.com](https://jp.indeed.com)): search "外国人OK" (foreigners welcome) or "英語OK"
-- **GaijinPot Jobs** ([jobs.gaijinpot.com](https://jobs.gaijinpot.com)): foreigner-focused job board
-- **HelloWork (ハローワーク)**: government job center in Nagaoka; staff may assist with translation
-- **Word of mouth**: ask seniors what jobs they've held; this is the most reliable source near IUJ
+- **GaijinPot Jobs** ([jobs.gaijinpot.com](https://jobs.gaijinpot.com)), a foreigner-focused job board
+- **HelloWork (ハローワーク)**, the government job center in Nagaoka; staff may assist with translation
+- **Word of mouth**: ask seniors what jobs they've held, the most reliable source near IUJ
 
 ---
 
