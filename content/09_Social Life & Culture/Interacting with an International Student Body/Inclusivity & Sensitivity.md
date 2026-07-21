@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-IUJ brings together people from countries that are, in some cases, in active geopolitical conflict. People with deeply different religious practices, dietary restrictions, political histories, and social norms share a 300-person campus for two years. This creates remarkable richness — and occasional friction. Navigating it well is a skill worth developing.
+IUJ brings together people from countries that are, in some cases, in active geopolitical conflict. People with deeply different religious practices, dietary restrictions, political histories, and social norms share a 300-person campus for two years. This creates remarkable richness, and occasional friction. Navigating it well is a skill worth developing.
 
 ---
 
@@ -29,11 +29,11 @@ Students from countries with contested borders, historical conflicts, or ongoing
 - Engage with curiosity rather than defensiveness where possible
 
 ### Religious Practice
-IUJ has students with a wide range of religious observances — including daily prayer schedules, dietary restrictions, dress practices, and restrictions on certain social activities (alcohol, mixed-gender spaces, etc.).
+IUJ has students with a wide range of religious observances, including daily prayer schedules, dietary restrictions, dress practices, and restrictions on certain social activities (alcohol, mixed-gender spaces, etc.).
 
 - Don't pressure people to participate in things their religion restricts
 - Don't treat religious practice as an curiosity or inconvenience
-- Ask, don't assume — "Do you drink?" is a better opener than offering someone alcohol and reading their decline as awkward
+- Ask, don't assume. "Do you drink?" is a better opener than offering someone alcohol and reading their decline as awkward.
 
 ### Gender and Sexuality
 LGBTQ+ students are part of the IUJ community. Japan's social environment around sexuality is complex — not hostile in the same way as some other countries, but not openly affirming either.
@@ -48,7 +48,7 @@ These are present at IUJ even when they go undiscussed. Students from societies 
 
 ## Being Called Out
 
-At some point you will say something that lands badly — a casual comment, a misplaced joke, an assumption that seemed reasonable to you and wasn't to someone else. This is normal.
+At some point you will say something that lands badly: a casual comment, a misplaced joke, an assumption that seemed reasonable to you and wasn't to someone else. This is normal.
 
 **When it happens:**
 - Listen first, defend second (or not at all)
@@ -61,9 +61,9 @@ At some point you will say something that lands badly — a casual comment, a mi
 
 ## Calling Others Out
 
-If something bothers you, naming it is better than absorbing it silently. IUJ is small — unaddressed friction tends to fester.
+If something bothers you, naming it is better than absorbing it silently. IUJ is small, and unaddressed friction tends to fester.
 
-Short, direct, and non-dramatic works best: "That framing was a bit reductive — can I push back on it?"
+Short, direct, and non-dramatic works best: "That framing was a bit reductive, can I push back on it?"
 
 ---
 
@@ -86,5 +86,5 @@ Short, direct, and non-dramatic works best: "That framing was a bit reductive �
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
-- A cross-cultural friction at IUJ that was resolved well — how it happened
+- A cross-cultural friction at IUJ that was resolved well: how it happened
 - Anything you wish you'd understood earlier about navigating this environment

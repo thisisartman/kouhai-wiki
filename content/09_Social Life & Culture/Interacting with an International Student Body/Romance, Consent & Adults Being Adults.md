@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-People fall for each other at IUJ. Sometimes dramatically. The campus is small, the social intensity is high, and two years is a long time. This article isn't a warning — it's practical information for adults navigating relationships in a cross-cultural, small-community environment.
+People fall for each other at IUJ. Sometimes dramatically. The campus is small, the social intensity is high, and two years is a long time. This article isn't a warning; it's practical information for adults navigating relationships in a cross-cultural, small-community environment.
 
 ---
 
@@ -18,7 +18,7 @@ A few things shape romantic life here:
 
 **Small campus.** Everyone knows, or will know, about most relationships. There's no such thing as complete privacy. Breaking up with someone at IUJ means you'll see them in class on Monday.
 
-**Cultural variation in norms.** Expectations around dating, exclusivity, physical contact, and expression of interest vary significantly across IUJ's student population. What reads as flirting in one culture reads as friendliness in another — and vice versa.
+**Cultural variation in norms.** Expectations around dating, exclusivity, physical contact, and expression of interest vary significantly across IUJ's student population. What reads as flirting in one culture reads as friendliness in another, and vice versa.
 
 ---
 
@@ -40,7 +40,7 @@ IUJ's international student population includes people from countries with diffe
 
 Misreading signals cross-culturally is genuinely common at IUJ and usually isn't malicious. But "I misread the signals" doesn't resolve the discomfort it creates.
 
-**When in doubt, ask.** "Are you interested in this being something more?" is not awkward — it's respectful.
+**When in doubt, ask.** "Are you interested in this being something more?" is not awkward; it's respectful.
 
 **For the person being misread:** You're allowed to correct the record clearly and without softening. "I'm not interested in you that way" is a complete sentence.
 
@@ -50,7 +50,7 @@ Misreading signals cross-culturally is genuinely common at IUJ and usually isn't
 
 If things get serious: enjoy it. IUJ couples are common and IUJ has produced lasting partnerships across nationalities.
 
-If things end: be adults. You live in the same building, take the same classes, share the same common spaces. The way you handle a breakup will define how comfortable the next 12 months are for both of you — and it will be visible to the entire community.
+If things end: be adults. You live in the same building, take the same classes, share the same common spaces. The way you handle a breakup will define how comfortable the next 12 months are for both of you, and it will be visible to the entire community.
 
 **Basic norms that help:**
 - Be direct; don't ghost someone you live 50 metres from
@@ -69,7 +69,7 @@ IUJ dorm rules govern overnight visitors. Know them — violations can have cons
 
 ## If Something Goes Wrong
 
-If you experience unwanted sexual contact or harassment — from a classmate, senior, or anyone on campus:
+If you experience unwanted sexual contact or harassment, from a classmate, senior, or anyone on campus:
 
 - You can report to IUJ student affairs or the academic office
 - You are not required to manage this alone
@@ -91,4 +91,4 @@ If you witness something concerning, checking in with the person privately is ap
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
 - Anything about the IUJ social dynamic around relationships that Kouhais should know going in
-- How the small-campus breakup situation actually plays out — and how people handle it well
+- How the small-campus breakup situation actually plays out, and how people handle it well
