@@ -119,6 +119,8 @@ Before reaching for the JR Pass above, check whether Gakuwari is the better deal
 
 Gakuwari and the JR Pass solve different problems: the JR Pass is a short-term unlimited pass for visitors doing a lot of travel in a short window; Gakuwari is IUJ's standing student discount, better suited to regular trips to Niigata City, Tokyo, etc. across the year.
 
+> 💡 OSS suspends normal Gakuwari sign-up/pick-up on the day of the Graduation Ceremony (an all-hands OSS day). If you're a graduating student who still needs coupons, collect them before that date — OSS has confirmed this via campus-wide notice, so don't assume you can just walk in that day.
+
 ---
 
 ## Useful Japan-Specific Booking Tips

@@ -3,7 +3,7 @@ title: Making Friends
 section: 09_Social Life & Culture/Interacting with an International Student Body
 tags: [social, community, friends, culture]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-24
 ---
 
 IUJ has ~300 students from 40+ countries in a small campus in rural Japan. The conditions for building meaningful connections are unusually good, if you engage with them early.
@@ -49,7 +49,7 @@ Not everyone finds socialising easy, and IUJ's intensity can make it harder, not
 
 - Lower the bar. A brief, genuine conversation counts. You don't need to be charming or interesting — just present.
 - Find one person first. One real connection makes everything else easier.
-- If social anxiety or introversion is a factor, the IUJ environment actually helps: structured events give you a reason to be somewhere without requiring you to initiate.
+- If social anxiety or introversion is a factor, the IUJ environment actually helps: structured events give you a reason to be somewhere without requiring you to initiate. Your school council typically runs one of these in the first weeks (the IM Council's GSIM welcome/ice-breaking event is a confirmed recurring example) — go, even if it's not your instinct.
 
 ---
 
