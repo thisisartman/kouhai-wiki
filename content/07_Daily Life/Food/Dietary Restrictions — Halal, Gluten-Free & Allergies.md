@@ -3,7 +3,7 @@ title: Dietary Restrictions — Halal, Gluten-Free & Allergies
 section: 07_Daily Life/Food
 tags: [food, halal, gluten-free, allergies, dietary-restrictions]
 status: ready
-last_updated: 2026-07-13
+last_updated: 2026-07-25
 ---
 
 Japan is not a country that naturally accommodates dietary restrictions. Awareness is growing (especially in cities), but rural Niigata lags behind. This article is for anyone who needs to navigate halal requirements, gluten intolerance, or food allergies at IUJ.
@@ -14,6 +14,8 @@ Japan is not a country that naturally accommodates dietary restrictions. Awarene
 
 ### The Situation in Rural Niigata
 Certified halal restaurants near Urasa are extremely rare. The Muslim student community at IUJ has generally developed workarounds: self-cooking is the primary one.
+
+**The IUJ cafeteria is actually a strong option**: per IUJ's own materials, roughly **90% of cafeteria dishes are Halal**, reviewed and approved by the Muslim Student Association, with dedicated sourcing and prep practices. Worth checking out before assuming you need to cook everything yourself — see [[Campus Dining]].
 
 ### What to Avoid
 - **Pork (豚肉, butaniku)**: widespread; in ramen broth, bento fillings, gyoza, many sauces
@@ -34,7 +36,6 @@ Certified halal restaurants near Urasa are extremely rare. The Muslim student co
 - [ ] Is there a halal butcher or halal meat supplier accessible from IUJ?
 - [ ] Does any Nagaoka supermarket stock halal-certified meat?
 - [ ] Online halal meat delivery services that ship to Niigata (e.g., Halal Food Japan, Japan Halal Association certified suppliers)
-- [ ] Has IUJ's cafeteria ever offered halal options?
 
 **Online options worth checking:**
 - [Japan Halal Association](https://www.jhalal.com): directory of halal-certified businesses
