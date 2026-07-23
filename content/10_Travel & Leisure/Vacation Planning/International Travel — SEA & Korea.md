@@ -1,7 +1,7 @@
 ---
 title: International Travel — SEA & Korea
 section: 10_Travel & Leisure/Vacation Planning
-tags: [travel, international, sea, korea, visa]
+tags: [travel, international, sea, korea, visa, unverified]
 status: ready
 last_updated: 2026-05-28
 ---

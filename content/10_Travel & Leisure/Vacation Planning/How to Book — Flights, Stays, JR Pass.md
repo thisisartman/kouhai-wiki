@@ -1,7 +1,7 @@
 ---
 title: How to Book — Flights, Stays, JR Pass
 section: 10_Travel & Leisure/Vacation Planning
-tags: [travel, booking, flights, accommodation, jr-pass]
+tags: [travel, booking, flights, accommodation, jr-pass, unverified]
 status: ready
 last_updated: 2026-05-28
 ---
@@ -25,6 +25,8 @@ For domestic travel, **Shinkansen beats flights** for most routes from Niigata (
 > 💡 LCC fares from Tokyo Narita to Hokkaido or Okinawa can be ¥5,000-10,000 if booked 4-8 weeks in advance. Watch for flash sales.
 
 **Booking:** Direct airline website is usually cheapest. Google Flights or Skyscanner for comparison.
+
+**Highway bus (cheapest, slowest option):** Per IUJ's own Express Bus page, a highway bus runs roughly hourly (10am-3am) between Niigata City and Tokyo (Ikebukuro/Shibuya), taking about 5h20m. Fares are typically under ¥3,000, but reservations are required and must be made and paid for at a 7-Eleven, and are non-refundable. The nearest stop to campus is on the highway itself near the Muikamachi AEON complex; you have to get yourself there. Gakuwari coupons (see below) do not apply to bus fares.
 
 ### International
 **From Tokyo (Narita or Haneda):**
@@ -104,6 +106,18 @@ The JR Pass allows unlimited travel on most JR trains (including Shinkansen, exc
 **The maths:** Tokyo → Kyoto one-way is ~¥13,000. Round trip = ~¥26,000. Add Kyoto → Osaka → Hiroshima → Tokyo and you comfortably exceed ¥50,000. The pass pays off.
 
 **Where to buy:** Online before or after arrival in Japan; available at major airports and station JR offices. Must be purchased as a foreign visitor; you'll use your passport.
+
+---
+
+## Gakuwari: IUJ's Own JR Student Discount
+
+Before reaching for the JR Pass above, check whether Gakuwari is the better deal for you: per IUJ's own Gakuwari: JR Travel Discounts page, full-time students (exchange and special students don't qualify) get a 20% discount off the base JR fare for one-way trips over 100km. Urasa to Niigata Station already clears that threshold, so this isn't just for long-haul trips.
+
+- **Allowance:** 10 coupons per academic year (September 1 - August 31); each coupon is valid for 3 months from issue.
+- **Important limit:** the 20% only applies to the regular ("non-express") fare portion of the ticket, not the Shinkansen/Limited Express surcharge. On a Shinkansen ticket, that means your real savings are noticeably less than 20% of the total price you pay.
+- **Process:** coupons must be filled in and stamped by the school before use, and you must show your student ID when redeeming. IUJ's site describes a self-service ticket machine at Urasa Station with a walkthrough video, and recommends going a day early or very early to avoid missing your train, since only one person can buy a Gakuwari ticket at a time with call-centre assistance. (An older version of the same IUJ page instead describes signing up in a logbook at the OSS counter — the exact sign-up process may have changed, so confirm current steps with OSS.)
+
+Gakuwari and the JR Pass solve different problems: the JR Pass is a short-term unlimited pass for visitors doing a lot of travel in a short window; Gakuwari is IUJ's standing student discount, better suited to regular trips to Niigata City, Tokyo, etc. across the year.
 
 ---
 

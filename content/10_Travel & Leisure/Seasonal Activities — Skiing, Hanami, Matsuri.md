@@ -1,7 +1,7 @@
 ---
 title: Seasonal Activities — Skiing, Hanami, Matsuri
 section: 10_Travel & Leisure
-tags: [travel, leisure, skiing, hanami, matsuri, seasons]
+tags: [travel, leisure, skiing, hanami, matsuri, seasons, unverified]
 status: ready
 last_updated: 2026-05-28
 ---
@@ -102,6 +102,12 @@ Urasa's own major matsuri, held annually at Bishamon-do Temple (see [[Local Attr
 
 **Niigata Beaches**
 The Sea of Japan coast near Niigata City has beaches accessible in July and August. Not tropical, but a pleasant summer day trip.
+
+**Firefly Watching & Stargazing (Minamiuonuma)**
+Per an OSS email from June 2026, Minamiuonuma hosts local firefly-watching and stargazing evenings in the Miyo/Akaishi areas and at the Hakkaisanroku Biotope, on select dates from late June into early July, 7:30-9:00pm. No advance registration; pay at the gate (¥100 at Miyo/Akaishi, ¥500 at Hakkaisanroku); cancelled in rain. This was shared as a one-off 2026 announcement, so treat it as "OSS occasionally forwards this kind of small local nature event in early summer" rather than a guaranteed annual fixture; check OSS emails in June for the current year's dates and meeting points.
+
+**Outside Opportunities via Career Support**
+Not everything Career Support shares is Niigata-based. As one example, in June 2026 they forwarded details on the ISPA Young Mariners Program, a one-week sail training course (this run: Aug 2-8, Nanao Bay, Ishikawa Prefecture) open to students up to age 25 with no sailing experience required. It's a useful reminder to skim Career Support emails during breaks for outside programs like this, not just the Niigata-local events covered above.
 
 ---
 
