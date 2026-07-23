@@ -3,7 +3,7 @@ title: Festivals — Campus & Local
 section: 09_Social Life & Culture
 tags: [social, festivals, events, culture, japan]
 status: ready
-last_updated: 2026-07-24
+last_updated: 2026-07-25
 ---
 
 IUJ has its own event culture, and the Niigata region hosts some of Japan's best festivals. Both are worth knowing about and planning for.
@@ -79,6 +79,10 @@ The formal degree-conferment ceremony, held **off-campus** at the Minami Uonuma 
 - Graduates line up backstage in program order for the actual degree conferment, with marked positions on stage
 - Back on campus afterward: a celebration party in the Gymnasium (for graduates, faculty, and VIP guests) and a **Tree Ceremony** at the Alumni Forest, where each graduating class places a class plaque — a small, low-key tradition worth knowing exists if you want to see it or participate as a class rep
 
+### Other Recurring Campus Events
+
+Per IUJ's own events calendar, a number of other recurring events happen alongside the bigger ones above: **Halloween Party**, **Valentine's Day Party** (GSO-EC), **Chinese New Year celebration**, an **International Snowball Fight** in Koide, a **Flea Market**, and **IUJ Olympics** (an inter-dorm/off-campus spring sports competition). Details on format/timing for each aren't confirmed here yet — treat this as a "these exist, watch for announcements" list rather than a full writeup.
+
 ### Sports Events and Tournaments
 IUJ organises intra-campus sports events. Cricket, football (soccer), basketball, and badminton are common. These are often mixed-nationality, which makes them unusually good social opportunities.
 
@@ -100,6 +104,11 @@ The most locally-specific festival on this list: it happens right in Urasa, and 
 **Uniform (loincloth/sarashi):** If IUJ lends you the participation uniform (white pants and sarashi, the cloth wrap worn on the stomach), GSO-EC collects it back a few days after the festival — wash it first. Watch for the return-logistics email; it's a small detail but easy to miss once the festival excitement is over.
 
 > 💡 Given the buses are run by IUJ itself and it's a few minutes from campus, this is one of the easiest local festivals to attend, arguably easier than the Nagaoka Fireworks below.
+
+### Hakkaisan Fire Walking Festival
+
+**When:** October 20.
+**What:** A fire-walking ceremony at the Hakkaisan Shrine complex, roughly 3km from campus — IUJ's own guide presents this as a paired recommendation alongside the Naked Man Festival above, since both happen at the same shrine complex.
 
 ### Ojiya Events (near Urasa, per IUJ's own sightseeing guide)
 
@@ -125,7 +134,10 @@ Look for local Tanabata events in Nagaoka and nearby towns.
 ### Yuki Matsuri (Snow Festival)
 Niigata's winter festivals celebrate the snow rather than surviving it. Various events happen around the region in February: snow sculpting, illuminations, outdoor activities.
 
-> 🔶 Senior input needed: Specific local snow festival events near IUJ/Nagaoka that students have attended.
+- **IUJ Snow Sculpting Festival**: a campus event (not held every year), with snow sculptures and bonfires organised to promote intercultural exchange — distinct from the regional festivals below.
+- **Muika-machi Snow Festival** (dates vary by year) and **Toka-machi Snow Festival**, which features the largest stage built entirely of snow in the world — both real, named regional events per IUJ's own event listings.
+
+> 🔶 Senior input needed: Confirm current-year dates for the regional festivals above, and firsthand accounts of any of them.
 
 ### Hanami (花見, Cherry Blossom Viewing)
 **When:** Early to mid-April in Minami-Uonuma
