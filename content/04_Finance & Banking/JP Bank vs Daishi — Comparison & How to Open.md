@@ -3,7 +3,7 @@ title: JP Bank vs Daishi — Comparison & How to Open
 section: 04_Finance & Banking
 tags: [banking, JP-bank, Daishi, money, finance]
 status: ready
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 ---
 
 You'll need **both** accounts. They serve different purposes. Open them in the right order.
@@ -74,11 +74,11 @@ You'll need **both** accounts. They serve different purposes. Open them in the r
 
 > ⚠️ Daishi is a regional Niigata bank. Its ATM network outside Niigata is limited. Do not rely on it for travel or daily spending outside the prefecture.
 
-**Branch details:** Daishi Hokuetsu Bank, Yamato Branch, 996 Urasa, Minami-Uonuma-shi, Niigata 949-7302 (tel. 025-777-3145; from IUJ you don't need to dial the "025"). SWIFT code DAISJPJT for wire transfers from abroad.
+**Branch details:** Daishi Hokuetsu Bank, Yamato Branch, 996 Urasa, Minami-Uonuma-shi, Niigata 949-7302 (tel. 025-777-3145; from IUJ you don't need to dial the "025"). SWIFT code DAISJPJT for wire transfers from abroad. (IUJ's own documents aren't fully consistent on the street number — most give 996 Urasa, one gives 1188-2 Urasa, same postal code and phone number; either should get you to the right building.)
 
 **Working hours:** 9:00–11:30 and 12:30–15:00. Closed Saturdays, Sundays, and national holidays.
 
-**Campus ATM:** open 24/7, 365 days a year for withdrawals/balance/deposits. Using a Daishi card is free; other banks' cards can withdraw too but incur a handling charge.
+**Campus ATM:** the machine itself is accessible 24/7, 365 days a year, but the Daishi card's own transaction service window is **7:00–23:00** (including weekends/holidays) — using it outside that window won't work even though the machine is physically reachable. Using a Daishi card within service hours is free; other banks' cards can withdraw too but incur a handling charge.
 
 **Losing your cash card:** the first card is free, but a lost card costs **¥1,000 + consumption tax** to reissue, and you'll need to bring cash to the Yamato Branch in person (you can't do this remotely). The same fee applies if you enter your 4-digit PIN wrong 6 times (the card gets returned to you but stops working) or if you simply forget your PIN. There's no way to look up the "correct" code, so you have to go to the bank and apply for a new card either way.
 
