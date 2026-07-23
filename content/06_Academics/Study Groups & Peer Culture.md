@@ -3,7 +3,7 @@ title: Study Groups & Peer Culture
 section: 06_Academics
 tags: [academics, study, collaboration, peer-learning, culture, needs-input]
 status: needs-work
-last_updated: 2026-07-13
+last_updated: 2026-07-23
 ---
 
 IUJ's small cohort size is one of its biggest academic advantages, if you use it right. The peer learning environment here is genuinely stronger than larger universities, but it requires you to actively participate.
@@ -73,6 +73,8 @@ Underused by most students. IUJ professors are accessible in ways that wouldn't 
 - Use office hours to discuss paper topics before committing to them
 - Follow up on class discussions you found interesting
 - Build relationships early: especially important for IR students who need thesis supervisors. See [[Thesis Guide (IR) — Supervisor, Timeline, Tips]]
+
+> 💡 **Beyond office hours:** IUJ has a genuinely active public lecture and research culture worth tapping into. GSIM/GSIR Special Lectures (often tied to a specific course, but open to all students and faculty) and the IUJ Research Institute's Lunch Seminars (free food, informal, faculty presenting current work) run fairly regularly during term. Faculty working papers are also published openly on the Research Institute's site. None of this is mandatory, but showing up is an easy, low-effort way to get face time with faculty outside your own program and build the relationships that matter for thesis supervision or references later.
 
 ---
 

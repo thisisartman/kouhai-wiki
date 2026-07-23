@@ -3,7 +3,7 @@ title: "Spring Term: Post-Winter Blues & Sakura"
 section: 06_Academics/Term-wise Advice
 tags: [academics, spring, term, advice, sakura, mental-health, needs-input]
 status: needs-work
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 Spring is IUJ at its most beautiful and its most bittersweet. The snow melts, the campus turns green, the sakura bloom, and it's all over in days. Graduation approaches. People leave. The year compresses into something you're not ready to finish.
@@ -71,6 +71,8 @@ Niigata's cherry blossom season typically falls in **early-to-mid April**, sligh
 ## Graduation & Goodbyes
 
 Per the 2026-27 academic calendar: **IUJ Foundation Day** is May 14, the **International Festival** is May 29, and **Graduation Ceremony** is June 26 (One-Year Program students graduate separately, Aug 27). Confirm the current year's exact dates rather than assuming these hold every year.
+
+Just before the Graduation Ceremony, IUJ has also held an **Honors Day** ceremony (2026: the day before graduation, at MLIC Hall) recognizing students for academic excellence and community contribution — Dean's Citation, Beta Gamma Sigma, GSO/dorm leadership roles, and similar awards. Worth attending even if you're not receiving anything: it's a genuine chance to see who your cohort's quieter high-achievers were.
 
 For second-years and those finishing their program:
 - **Start job/career logistics early**: visa status changes after graduation, job searches take time

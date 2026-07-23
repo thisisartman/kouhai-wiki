@@ -3,7 +3,7 @@ title: Research Databases & Academic Tools
 section: 06_Academics
 tags: [academics, research, databases, tools, thesis, unverified]
 status: needs-work
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 A practical toolkit for graduate-level research at IUJ: databases, writing tools, and productivity software worth knowing before you start your thesis or first major paper.
@@ -32,7 +32,7 @@ A practical toolkit for graduate-level research at IUJ: databases, writing tools
 | Resource | What It's For | Access |
 |---|---|---|
 | **LSEG Workspace** (Refinitiv/Eikon) | Financial data, market analysis | Computer Room 121, 1 terminal only (not IUJ's "Bloomberg Terminal," which doesn't appear on IUJ's current campus software list) |
-| **Nikkei BP / Nikkei Data** | Japanese business data | Via IUJ library |
+| **Nikkei Asia** | Japanese/Asian business news and data | Via IUJ library, but requires a one-time account registration (with your `@iuj.ac.jp` address) done while physically on campus, on IUJ's network — see [[Library & Research Tools]] |
 | **EBSCO Business Source** | Management and business journals | Via IUJ library |
 | **Statista** | Market data and industry statistics | Via IUJ library |
 | **Harvard Business Review** | Case studies and management articles | Partial free; full via IUJ |
@@ -74,6 +74,8 @@ Google Scholar alone won't give you full-text access to paywalled articles. Link
 - **R + RStudio**: free, standard for academic statistical analysis
 - **Python (pandas, statsmodels)**: flexible; good if you're already comfortable with it
 - **STATA**: IUJ provides **StataNow 19.5**, usable in Computer Room 120/121 and dorm lounges, and installable on your own PC
+
+> 💡 **Non-credit STATA/Python workshops**: GSIM has, at least in recent summers, run short non-credit STATA and Python courses over the summer break — no grades, no transcript entry, just a certificate of completion if you meet the instructor's requirements. Registration is via a Google Form circulated by OAA/GSIM, with a real deadline (2026's window was about a week). Framed as illustrative of a recurring offering rather than a guaranteed annual fixture — confirm with OAA each year whether it's running and what the deadline is. In 2026, GSIR students could also join the Python course (and could attend the STATA workshop without earning a certificate).
 - **E-Views** (v12) and **Stat Transfer** (v16, trial install): also available in Computer Room 120/121, not installable on your own PC (Stat Transfer's trial is)
 - **Excel**: sufficient for basic data work; don't underestimate it
 
