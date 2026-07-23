@@ -3,7 +3,7 @@ title: Visa & Documentation
 section: 01_Pre-Arrival
 tags: [visa, documentation, pre-arrival, coe, student-visa]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-23
 ---
 
 Getting to Japan legally is a multi-step process that starts months before you arrive. The core bottleneck is the Certificate of Eligibility (CoE). Everything else depends on it. Start early.
@@ -17,9 +17,22 @@ The CoE is issued by Japanese Immigration and is the document that proves you're
 **What you need to do:**
 - Submit all required documents to IUJ's admissions/international office promptly after accepting
 - Do NOT make flight bookings until you have the CoE in hand. Processing takes 4–8 weeks and delays are common
-- Once IUJ sends you the CoE (by post or courier), take it to your nearest Japanese Embassy or Consulate
+- IUJ forwards your CoE **by email** once Immigration issues it (a forwarded copy of the Immigration Bureau's own notice, with your CoE number) — nothing is physically mailed. Print it or have it ready on your phone; embassies accept either
 
 > ⚠️ The CoE has a validity period. Apply for your visa and book travel promptly after receiving it, typically within 3 months.
+
+### What IUJ Needs From You to Apply
+
+IUJ submits the CoE application to Immigration on your behalf, but only after you send them the paperwork below (by courier — DHL/FedEx/UPS — plus PDF scans by email first so they can check everything before you ship originals):
+
+- **CoE Application Form** — printed single-sided on A4, filled out completely
+- **Clear copy of your passport** photo page (plus any pages with extensions/notes)
+- **2 ID photos** meeting the Immigration Bureau's official specifications — don't attach them to the form itself
+- **Proof of funds**, unless your scholarship already covers your estimated monthly living expenses in full (check with IUJ if you're unsure):
+  - Bank statement in English showing your current balance, issued within 3 months of submission, **plus** either a 12-month transaction history or a copy of your passbook
+  - If a parent/relative is your financial sponsor instead: their bank statement, an official birth certificate proving the relationship, and a signed guarantee letter (IUJ provides the template)
+
+> 💡 IUJ is recognized by Immigration as a "proper school," which simplifies some of the above — but Immigration can still ask for more documents in individual cases. Don't assume you're exempt from something just because a senior didn't need it.
 
 ---
 
@@ -37,6 +50,18 @@ The CoE is issued by Japanese Immigration and is the document that proves you're
 **Visa type:** You'll receive a **College Student (留学)** visa, typically valid for multiple entries with 1–2 year duration. Renew it through IUJ before it expires.
 
 > 💡 Keep the original CoE even after getting your visa. You may need it at the port of entry.
+
+> ⚠️ **Visit Japan Web is not your visa.** It's a separate government tool for pre-registering your immigration/customs info to speed up the airport process. You still need the actual student visa from the embassy — Visit Japan Web doesn't replace it. For the "address in Japan" field, use wherever you're staying your first night (a hotel is fine); you don't need to list IUJ.
+
+Once you land on your student visa, immigration at the airport issues your **Residence Card** on the spot — see [[Residence Card — What It Is & Renewal]] for what to do with it next.
+
+---
+
+## Work Permit on Entry
+
+Your student visa doesn't automatically let you take a part-time job — you need the **資格外活動許可** (permission to engage in activity other than that permitted). The easiest route is applying for it **at the airport immigration counter on arrival**, alongside your Residence Card processing.
+
+> ⚠️ **Check your scholarship's terms first.** JICA, ADB, and IMF-sponsored students are barred from getting this permit at all, regardless of hours. See [[Part-Time Work — Permits & Visa Rules]] for the full rules (28-hour cap, exemptions, what to do if you missed the airport stamp).
 
 ---
 

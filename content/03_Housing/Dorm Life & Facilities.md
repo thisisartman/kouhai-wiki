@@ -3,7 +3,7 @@ title: Dorm Life & Facilities
 section: 03_Housing
 tags: [housing, dorm, facilities, campus-life, daily-life, unverified, needs-input]
 status: needs-work
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 IUJ's dormitories are on-campus and within walking distance of everything. For most students, dorm life is the default for at least Year 1. This article covers what to expect, what's available, and how second-year housing works.
@@ -19,6 +19,15 @@ The primary student dormitories. Around 70 rooms across the three buildings hous
 - **Dorm Staff Office** is in SD1 (1st floor)
 - Air conditioning/heating is centrally controlled by campus, switching to heating in mid-October and back to cooling around mid-May
 - Each room has a window with an AC unit on the outside; SD2 and SD3 rooms on higher floors can get significant snow accumulation around the window in winter. Do not force the window open if it's blocked; contact Dorm Staff instead.
+- **No washlets/bidets**, and no electric sockets in the bathroom either, so you can't easily add your own — plan accordingly if you're used to one
+- Dorms typically run at **full capacity**, so a room change/swap request usually isn't possible once you're assigned — don't count on being able to move later
+
+### Check-In Process
+
+IUJ emails your room assignment (dorm + room number, dorm phone extension) roughly **3–4 weeks before your arrival window**, along with the shipping address to use if you're sending luggage ahead. On arrival, go straight to the **Dorm Staff Office (SD1, 1st floor)** to collect your keys — don't wait for a separate appointment.
+
+- **Shipping luggage ahead**: arrange for it to arrive **no more than 2–3 days before** your check-in date (IUJ can't hold packages that show up earlier); address it with your assigned room number once you have it
+- Your assigned check-in window is a specific multi-day range (a Friday–Sunday in past cohorts) — arrive within it if you can; contact OSS if your travel plans fall outside it
 
 ### SD4
 

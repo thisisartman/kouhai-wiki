@@ -3,7 +3,7 @@ title: Municipal Registration — Minami-Uonuma City Office
 section: 05_Legal & Administrative
 tags: [city-office, registration, legal, admin, health-insurance]
 status: ready
-last_updated: 2026-07-14
+last_updated: 2026-07-23
 ---
 
 Registering with the city is legally required within 14 days of arrival. IUJ organizes this as an on-campus session: city office staff come to IUJ to process it, so you don't need to travel to the city office yourself. Don't skip it.
@@ -23,7 +23,9 @@ Registering with the city is legally required within 14 days of arrival. IUJ org
 
 **On campus, not the city office.** Minami-Uonuma City Office (南魚沼市役所) staff visit IUJ for a dedicated new-student registration session. IUJ will announce the date and location on campus. You register, enroll in health insurance, and get your My Number notification there, without a trip into town.
 
-> 🔶 Senior input needed: exact on-campus location/building for this session, and whether a city-office trip is ever still required for anyone (e.g. those who arrive outside the main intake window).
+IUJ runs this as a two-part sequence: a mandatory **prep session a few days beforehand** (in a past cohort, held in the **MLIC building**) where you fill in the actual forms and get instructions, followed by the **registration day itself**, when city, pension, and bank officials all come to campus together. Missing the prep session means you won't have your forms ready and can't complete the actual registration — treat both as mandatory, not just the main day. Bring your **Residence Card** and a **ballpoint pen** (not an erasable/frixion one — those don't hold up on official forms) to both.
+
+> 🔶 Senior input needed: confirm the exact building/room for the prep session each year (it can move), and whether a city-office trip is ever still required for anyone (e.g. those who arrive outside the main intake window).
 
 ---
 

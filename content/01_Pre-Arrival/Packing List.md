@@ -3,7 +3,7 @@ title: Packing List
 section: 01_Pre-Arrival
 tags: [pre-arrival, packing, luggage, essentials]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-23
 ---
 
 IUJ is in rural Niigata, not Tokyo. Shopping options near campus are limited, winters are severe, and the nearest major city (Nagaoka) is 30 minutes away. Pack accordingly.
@@ -34,6 +34,21 @@ Japan has excellent, cheap versions of these, so buy locally:
 - Insurance documents / Yakkan Shomei if applicable
 - Emergency contacts printed on paper
 - Copies of all documents (store separately from originals)
+
+---
+
+## Customs Allowances (Duty-Free)
+
+Japan customs sets duty-free limits on what you bring in. Personal effects and items clearly for your own use (laptop, camera, clothes, one phone) don't count against this — it's aimed at commercial-quantity goods and alcohol/tobacco. For travelers 20 and over:
+
+| Category | Duty-Free Limit |
+|---|---|
+| Alcohol | 3 bottles (760ml each) |
+| Tobacco | 200 cigarettes (or equivalent) |
+| Perfume | 2 oz (57ml) |
+| Other goods (gifts, souvenirs) | Combined overseas market value up to ¥200,000 |
+
+> 💡 Declare anything over these limits on the customs form handed out on the flight. Personal medications should also be declared if in doubt — see [[Visa & Documentation]] for prescription rules.
 
 ---
 

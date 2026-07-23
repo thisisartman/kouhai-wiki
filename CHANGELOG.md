@@ -1,5 +1,24 @@
 # Changelog
 
+## [2026-07-23] — Arrival & First Week / Dorm / Registration: personal-mail fact-check continued
+
+Continuation of the same-day personal-mail sweep (`Mail/IUJ/Personal Pre-Admission/`), extended past Pre-Arrival into the articles covering what those emails actually described (dorm check-in, city registration day, course registration prerequisites):
+
+- `content/06_Academics/Course Registration.md` — added a "Before You Can Register: Get Your Computer Account" section: the student portal is gated behind a separate IUJ computer-account application (own deadline, ~2–3 weeks before registration), processed by MLIC; documented the birthdate-format initial password and the IUJ-account-only Google Drive gate for course materials.
+- `content/03_Housing/Dorm Life & Facilities.md` — added a "Check-In Process" section (room assignment timing, luggage-shipping window of 2–3 days before check-in, go straight to the SD1 Dorm Staff Office); added two real facts to the SD1–3 section: no washlets/bathroom sockets, and dorms run at full capacity so room changes usually aren't possible.
+- `content/05_Legal & Administrative/Municipal Registration — Minami-Uonuma City Office.md` — clarified the on-campus session is actually two parts (a mandatory prep session, then the registration day itself with city/pension/bank officials together); partially answered the article's own "senior input needed" note with a real prep-session location (MLIC building, one past cohort); added the bring-a-non-erasable-pen detail.
+- `content/02_Arrival & First Week/First Week Checklist.md` — added the prep-session step, corrected the WiFi/portal-credentials item (the account is created *before* arrival, not on-site), added HOUSE-system and incoming-student-Facebook-group items, cross-linked the bank-account-same-day-as-registration fact already in this file to the new Municipal Registration detail.
+- Noted but not actioned: a family/elementary-school-children pre-arrival email (school enrollment survey, language-readiness expectations) has no home in the wiki yet — no existing article covers bringing school-aged children. Flagged as a possible future stub, not created unprompted.
+
+## [2026-07-23] — Pre-Arrival section pass: suggestion fixes + personal-mail fact-check
+
+- `content/01_Pre-Arrival/Visa & Documentation.md`:
+  - Suggestion-form fixes: added a "Work Permit on Entry" section (資格外活動許可 at the airport counter, scholarship exclusions), cross-linked to `Part-Time Work — Permits & Visa Rules.md`.
+  - Personal-mail fact-check (maintainer's own 2024–2025 pre-admission emails, scrubbed of PII, `Mail/IUJ/Personal Pre-Admission/`): corrected CoE delivery — it's forwarded **by email** (a copy of the Immigration Bureau's own notice), not by mail/post/courier as both the original article and the suggestion-form correction claimed. Added a "What IUJ Needs From You to Apply" subsection (CoE application document checklist: form, passport copy, ID photos, proof-of-funds rules) and a note distinguishing Visit Japan Web (pre-registration tool) from the actual visa, plus the Residence-Card-at-the-airport fact.
+- `content/01_Pre-Arrival/Packing List.md` — suggestion-form fix: added a "Customs Allowances (Duty-Free)" section (alcohol/tobacco/perfume/gift-value limits).
+- Suggestion-form items are from maintainer self-submissions; logged in `MAINTENANCE.md` §16 for tracking, not added to the About page Contributors list.
+- `Remittances & Forex Setup.md` and the Pre-Arrival index checked against the personal-mail sweep — no factual issues found, no changes needed.
+
 ## [2026-07-19] — Official-site fact-check pass: all ~54 findings fixed
 
 Scraped IUJ's public OSS/current-student site (121 pages + 95 PDFs,
