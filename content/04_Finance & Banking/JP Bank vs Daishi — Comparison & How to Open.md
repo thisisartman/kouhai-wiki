@@ -3,7 +3,7 @@ title: JP Bank vs Daishi — Comparison & How to Open
 section: 04_Finance & Banking
 tags: [banking, JP-bank, Daishi, money, finance]
 status: ready
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 You'll need **both** accounts. They serve different purposes. Open them in the right order.
@@ -70,7 +70,7 @@ You'll need **both** accounts. They serve different purposes. Open them in the r
 **Process:**
 1. Attend the on-campus session IUJ schedules for new scholarship students
 2. Fill in the application form (staff on-site will assist)
-3. Cash card arrives within 1–2 weeks
+3. Your **cash card and bankbook arrive together, but not to you directly** — per IUJ Accounting's own notice to a recent cohort, both arrive at the **IUJ Accounting office**, and you have to drop by and pick them up yourself once notified (they don't get mailed to your dorm). This took about 3 weeks for the batch that opened accounts on September 19, so budget cash accordingly in the meantime.
 
 > ⚠️ Daishi is a regional Niigata bank. Its ATM network outside Niigata is limited. Do not rely on it for travel or daily spending outside the prefecture.
 

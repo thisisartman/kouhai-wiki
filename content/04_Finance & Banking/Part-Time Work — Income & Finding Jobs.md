@@ -3,7 +3,7 @@ title: Part-Time Work — Income & Finding Jobs
 section: 04_Finance & Banking
 tags: [part-time, work, income, jobs, finance, needs-input]
 status: needs-work
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 Before anything else: make sure you're legally cleared to work. See [[Part-Time Work — Permits & Visa Rules]] for the 28-hour rule and residence card requirements.
@@ -36,6 +36,21 @@ Rural Niigata has a limited job market compared to Tokyo. Realistic options:
 - These are the easiest options for students who prefer not to deal with Japanese-language workplaces
 - **TA/RA positions do not require a Work Permit.** This is an explicit exception per IUJ's official guidance, but library jobs are different: they **do** require a Work Permit like off-campus work does. Don't assume all on-campus jobs are permit-free.
 - **Some scholarships ban part-time work outright.** Many scholarships don't allow part-time employment that requires a Work Permit, and **JICA, ADB, and IMF-sponsored students specifically cannot get a Work Permit at all**. Check your scholarship's terms before assuming you can take any job; this applies beyond just the driving restriction covered elsewhere.
+
+---
+
+## IUJ Career Support Emails (Internships & Job Postings)
+
+Beyond word of mouth and job boards, **IUJ's own Career Support office (career@iuj.ac.jp)** regularly forwards internship postings, employer info sessions, and job fairs to students by email — this is a real, active, ongoing channel, not a one-off. Based on a batch of these emails from spring–summer 2026:
+
+- **Frequency:** several a month during internship-hunting season (spring/summer), addressed as "Dear internship hunters" / "Dear job hunters"
+- **Employers:** a mix of real, mostly regional/Niigata-based companies plus some national ones — e.g. **Hard Off Corporation** (Niigata reuse/secondhand retailer), **Bourbon** (Niigata confectionery maker), **Japan Laser Corporation**, **Yokogawa Rental & Lease** — plus online fairs run by third-party organizers (e.g. Global Career Connect Japan) and municipal outreach (Nagaoka City has reached out directly about internships)
+- **Paid vs. unpaid:** mixed, but a good number of the postings are explicitly **unpaid** internships — read the posting carefully before assuming compensation
+- **Language:** postings and info sessions are often Japanese-language-heavy, even when Career Support's email is in English
+- **Application process:** usually a Google Form link with a short deadline, or an on-campus info session (sometimes announced same-day) followed by a direct-application route
+- **Career Support also runs adjacent programs:** e.g. JLPT exam-prep-linked career support sessions and one-on-one follow-ups for students who attended an event or expressed interest
+
+> 💡 If you're job/internship hunting, it's worth keeping an eye on your IUJ inbox specifically for these — they don't always get cross-posted elsewhere.
 
 ---
 
