@@ -3,7 +3,7 @@ title: Clubs & Student Organizations
 section: 09_Social Life & Culture
 tags: [academics, clubs, social, extracurricular, community, needs-input]
 status: needs-work
-last_updated: 2026-07-19
+last_updated: 2026-07-24
 ---
 
 IUJ's student body is small and international. Clubs are the fastest way to build a real social network and find people outside your immediate program cohort.
@@ -53,18 +53,20 @@ Current, officially-listed clubs (2025-26 academic year). This list is naturally
 
 ### Cultural & Social
 - **CAT Program participants**, see [[CAT Program|What is CAT?]]
-- **Music Club**: sponsors IUJ Unplugged/Winter Blues each winter term; ask for music-room access
+- **Music Club**: sponsors a concert most terms (Winter Blues/IUJ Unplugged in Winter, a graduation-season concert in Spring — e.g. "Rock and Love" in 2026); ask for music-room access
+- **IUJ×KJ Students Choir**: a President's Office-run collaboration with a local high school (Kokusai Joho High School, "KJ"); IUJ students learn a couple of Japanese songs with a KJ music teacher over several joint lessons and perform together at the International Festival stage each year
 - **Movie Night Club**
 - **Board Game Club**, Friday nights, SD3 lounge
 - **Chess Club**, Saturdays
 - **Gaming Club**
 - **Fashion Club**, established 2024, celebrates the community's cultural diversity through traditional/contemporary dress
 - **Belly Dance Club**
+- **International Brewing Club**, established 2026; students share their countries' brewed beverages (coffee, tea, and similar) with each other
 - **Rainbow Peers**: awareness, inclusivity, and visibility for LGBTQIA+ students, allies, and friends at IUJ
 - **Lean In Club**: table talks and events on women in business, entrepreneurship, and leadership; linked to the alumni Global Women's Mentoring Network
 - **Omotenashi Club**, activities connecting IUJ students and local residents
 - **Religious Affiliations**: Muslim Student Association, Catholic Student Association, and Christian Fellowship all have organized groups; IUJ explicitly protects religious freedom on campus and prohibits religious pressuring/propaganda
-- **UMEX**, not an IUJ club, but a local Minamiuonuma volunteer/exchange group that regularly invites IUJ students to potluck-style events (e.g. a New Year's party at Cafe No Problem in Urasa) featuring Japanese traditional dance, tea ceremony, and games; a good low-key way to meet locals outside CAT
+- **UMEX**, not an IUJ club, but a local Minamiuonuma volunteer/exchange group based in a salon in SD3 that regularly hosts casual events at Cafe No Problem (CNP) — a New Year's party with traditional dance and games, a low-key kids' party, a graduation-season farewell party — open to all students, no sign-up needed; a good low-key way to meet locals outside CAT (see [[CAT Program|What is CAT?]] for more on that and similar community programs)
 
 ### Interest-Based
 - **Photography Club**: campus events, yearbook/graduation photos, photo contests
@@ -81,6 +83,41 @@ Note: no hiking/mountaineering club currently appears on the official club list 
 - Most clubs have LINE groups. Get added during the fair or ask a senior.
 - Some clubs have small annual dues; most are free
 - You can join multiple clubs, since there's no formal limit
+
+---
+
+## Student Government: GSO-EC
+
+The **GSO Executive Committee (GSO-EC)** is IUJ's elected student government — the "Starting a New Club" section below already has you notifying them, but they run a real annual electoral process too, overseen by a separate **Election Committee** the EC appoints each term. Confirmed from IUJ's own election announcements (Fall 2025 and Spring 2026 cycles):
+
+- Elected positions include Vice President, Secretary, External/Internal/Social/Sports/Club Affairs Officer (Vice President-equivalent runs separately from President in some cycles)
+- A defined **campaign period** (roughly a few days) with a code of conduct: posters limited to one A4 sheet per designated board (dorm boards, library stairs, notice boards — not covering MLIC's own postings), no email campaigning, no campaigning on unofficial group chats/SNS after the period closes
+- A mandatory **"Meet the Candidates"** session (MLIC Hall) where each candidate gets ~90 seconds to pitch, followed by open Q&A
+- A published withdrawal deadline before that session
+- The Election Committee explicitly states it "will not tolerate unethical approaches" and asks students to flag anything that undermines a free, fair process
+
+Once elected, GSO-EC runs much of the social calendar covered elsewhere on this page and in [[Festivals — Campus & Local]]: Culti-Fiesta, the International Festival, community celebrations like Africa Day and Eid al-Fitr, Grad Ball, and this section's club administration.
+
+GSO-EC also puts out a **termly student magazine** (PDF, shared by email/Google Drive) with reflections, event highlights, and contributor call-outs — a decent way to see a term's worth of campus life summarized, and an easy way to contribute writing/photography if you want a byline.
+
+---
+
+## Structured Competitions Worth Knowing About
+
+Beyond the club list, IUJ runs a couple of real, structured competitions most students could plausibly enter:
+
+**Hult Prize at IUJ**: a chapter of the global Hult Prize social entrepreneurship competition. Confirmed structure from IUJ's own Hult Prize committee emails: teams pick an SDG-linked problem, attend a series of compulsory training lectures and workshops (business model canvas, problem identification, pitch mechanics) from IUJ faculty and guest professors, go through a mock pitch day with judge feedback, then a campus final (4-minute pitch + 4-minute Q&A, judged, top 2–3 teams advance). Campus winners go on to the **Hult Prize Japan Nationals**, competing against other Japanese universities (Tohoku, Hokkaido, APU, and others have fielded teams). In 2026, three IUJ teams (Senbamboo, Afriplastrec, Padbridge) represented IUJ at Nationals, with GSO-EC and the IUJ Alumni EC helping sponsor participation.
+
+**Research Pitch Competition**: a GSO-EC/GSIM Council/GSIR Council/Research Institute joint event for students who've submitted a thesis or research paper — a "3 minutes, 1 slide" pitch format in front of a panel, open to all one-year program students plus 2nd-year GSIM/GSIR and PhD students, with a prep workshop beforehand. Useful if you want to practice academic storytelling outside your thesis defence.
+
+---
+
+## Annual Traditions Run by Student Committees
+
+A few more recurring institutions, distinct from clubs proper, worth knowing exist:
+
+- **Yearbook Committee**: a self-contained, GSO-subsidized-but-editorially-independent student volunteer committee that produces an annual IUJ Yearbook, ordered in advance and distributed near graduation. The tradition dates back to 1985 (IUJ's own committee cites the 2026 edition as the "41st anniversary" of the first yearbook), though it hasn't run every single year — treat "annual" as "usually happens," not guaranteed.
+- **Grad Ball & Hall of Fame Awards**: see [[Festivals — Campus & Local]] for the graduation-season formal dance and its associated superlative-award voting.
 
 ---
 

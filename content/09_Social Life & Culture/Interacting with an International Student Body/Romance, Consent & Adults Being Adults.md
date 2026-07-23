@@ -3,7 +3,7 @@ title: Romance, Consent & Adults Being Adults
 section: 09_Social Life & Culture/Interacting with an International Student Body
 tags: [social, relationships, consent, culture, adults]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-24
 ---
 
 People fall for each other at IUJ. Sometimes dramatically. The campus is small, the social intensity is high, and two years is a long time. This article isn't a warning; it's practical information for adults navigating relationships in a cross-cultural, small-community environment.
@@ -72,6 +72,7 @@ IUJ dorm rules govern overnight visitors. Know them — violations can have cons
 If you experience unwanted sexual contact or harassment, from a classmate, senior, or anyone on campus:
 
 - You can report to IUJ student affairs or the academic office
+- For a formal complaint (harassment, targeted rumors/defamation, and similar conduct issues), IUJ has a **Professional Ethics Committee (PEC)** — a real, official body for exactly this, reachable at **pec@iuj.ac.jp**. If you don't have that address handy or want to raise something in person first, you can go through a **PEC ICA member based in OSS**, who can escalate to the full committee. PEC documents complaints confidentially and can open an investigation.
 - You are not required to manage this alone
 - Support resources including TELL are available: 03-5774-0992
 
