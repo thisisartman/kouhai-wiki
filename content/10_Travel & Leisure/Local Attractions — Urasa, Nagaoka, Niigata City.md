@@ -3,7 +3,7 @@ title: Local Attractions — Urasa, Nagaoka, Niigata City
 section: 10_Travel & Leisure
 tags: [travel, leisure, local, niigata, attractions, unverified]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-25
 ---
 
 IUJ's rural location is a feature, not just a constraint. The Niigata region has mountains, rivers, onsen, historic sites, and access to some of Japan's best seasonal activities. This article covers what's accessible from campus.
@@ -23,6 +23,19 @@ The immediate area around IUJ is quiet, but not without interest.
 - Muikamachi (六日町): the main town of Minami-Uonuma; slightly larger than Urasa; has more restaurants and shops
 - Hot springs (温泉, *onsen*): several ryokan and day-use onsen facilities in the area. This is one of the most underused local pleasures available to IUJ students.
 - Hiking trails in the surrounding mountains, accessible in spring and autumn; Kintoki Yama and the Echigo mountain trails offer good day hikes
+
+### More Nearby Attractions (per IUJ's own sightseeing guide)
+
+- **Osaki Dam** (~3km from campus): koi feeding, Koi-Nobori carp kites during Golden Week, sakura viewing.
+- **Botan-yama**: a small mountain right behind campus that IUJ itself recommends climbing — an easy, close-by hike.
+- **Hakkaisan Shrine** (~9km, many students bike it): entry point to the Hakkaisan hiking trail, with a soba restaurant on-site.
+- **Hakkaisan Sake Brewery / Uonuma no Sato**: a flagship local attraction — snow-refrigeration system tour, sake and non-alcohol tasting, plus a bakery and on-site restaurants.
+
+### Urasa-Area Restaurants & Lodging
+
+Despite being IUJ's own doorstep, Urasa's dining/lodging options rarely get mentioned — per IUJ's own sightseeing guide, worth knowing about:
+- **Restaurants**: Kodamaya, Matsuyoshi, La Grassa, Bistro Rire, Seirin, Ezumiya, Buffalo, Azumaken, Kita no Yado, Maruta, Ako Cafe.
+- **Lodging** (useful if you have visiting family/friends): Hotel Okabe, Paramount in Urasa, Tejimaya, Ryugon, Satoyama Juju.
 
 ---
 
@@ -73,12 +86,20 @@ The practical urban hub for IUJ students. For daily life needs (bigger shops, be
 
 Nagaoka trips aren't only for shopping and food. Per IUJ Career Support's June 2026 emails, the office occasionally shares networking events with companies in Nagaoka and nearby Sanjo aimed at internship/job hunters, sometimes with a free shuttle bus from the IUJ main entrance. These are conducted mostly or entirely in Japanese (N3-level or above recommended); the Sanjo event, for instance, was flagged by Career Support as unlikely to lead directly to internships but useful for understanding the local business/hiring culture. As of this 2026 round it's a recurring pattern rather than a fixed schedule, so watch Career Support emails for announcements rather than expecting one every term.
 
+There's also a more durable option: Nagaoka City runs an **unpaid internship program with Adecco**, open until March 2027 (applications due Feb 5, 2027), that covers transport and lunch and offers partial accommodation support, with a dedicated coordinator — a materially bigger commitment than the one-off meetups above.
+
 ### Half-Day vs Full-Day
 
 **Half-day:** Aeon Mall grocery run + Donki; 2-3 hours total.
 **Full day:** Aeon Mall + lunch at a proper restaurant + riverside walk or cinema. Worth doing once a month to decompress from campus.
 
 **Nagaoka is also known for its role in World War II.** It was heavily bombed, and the fireworks festival carries a historical peace dimension beyond spectacle.
+
+---
+
+## Ojiya (小千谷市): A Nearby Destination Worth Knowing About
+
+Ojiya has essentially zero presence in most students' plans, despite being close and having a real event/attraction lineup of its own — see [[Festivals — Campus & Local]] for the Ojiya Balloon Festival, bull-fighting, Fireworks Display, and the active Ojiya International Society (which runs open community events like a BBQ at Hakusan Sports Park). Worth treating as a real day-trip option, not just an events destination.
 
 ---
 
