@@ -3,7 +3,7 @@ title: Scholarship Management — Stipend & Tax Notes
 section: 04_Finance & Banking
 tags: [finance, scholarship, stipend, tax, banking, unverified, needs-input]
 status: needs-work
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 If you're on a scholarship that includes a monthly stipend, here's how the payment system works and what to watch for.
@@ -41,6 +41,8 @@ IUJ issues monthly expense invoices (dorm fees, meal plan costs, insurance deduc
 - If either date falls on a weekend or national holiday, it moves to the working day immediately before
 - Deducted charges typically cover: dormitory fees for the *current* month, plus other fees (copy fees, phone charges, etc.) for the *previous* month. So the September 25th deduction covers September's rent + August's other fees
 
+> 💡 **These dates aren't fixed.** IUJ Accounting occasionally shifts the deduction/deposit date for a given month and notifies all students by email in advance. Example: for June 2026, Accounting moved both the expense deduction and stipend deposit to June 19th (instead of the usual 25th) to avoid students' bank accounts closing before departure — this applied to graduating *and* first-year students. If you're closing your account early for any reason, IUJ asks you to tell Accounting in advance so they can adjust. Watch your IUJ email around each month's usual date rather than assuming it's carved in stone.
+
 > ⚠️ **Keep enough money in your account before the 25th.** Missing a payment isn't a soft failure: a late fee of **¥1,000/month** applies, and repeated non-payment can trigger **forced withdrawal from IUJ** under the school's own regulations (Article 27(4)). Check your balance a day or two ahead of the deduction date, every month.
 
 ---
@@ -60,6 +62,24 @@ The premium is paid as a **lump sum for your entire enrolment period**, deducted
 If you're injured during IUJ curricular or extracurricular activities, report it to the **Health & Wellness Office** immediately. Keep all medical receipts for insurance claims.
 
 **Health & Wellness Coordinator:** Monica, 025-779-1170 (ext. 170) / healness@iuj.ac.jp
+
+---
+
+## Other Scholarship Opportunities
+
+### Nakayama-Alumni Scholarship
+
+A separate, recurring scholarship funded by IUJ alumni, run by the **Office of Student Services (oss@iuj.ac.jp)** — distinct from your JASSO/incoming stipend above. Per OSS's own announcement:
+
+- **Who's eligible:** second-year students (the announcement was addressed to students entering their second year that Fall) "who have contributed to campus life by promoting community relations, cooperation, and an inclusive campus environment—and who plan to continue doing so"
+- **When:** OSS opens applications with a roughly month-long window and sends reminder emails as the deadline nears; exact dates vary by year, so watch your IUJ email
+- **How to apply:** submit the application form by email to oss@iuj.ac.jp with subject line `[Nakayama-Alumni] Your Name`
+
+> ⚠️ **Detailed eligibility criteria and the application form itself are in a poster attached to OSS's email**, not in the email body — this wiki doesn't have that PDF, so check your own inbox or ask OSS directly for the full requirements and amount.
+
+### JLPT Study Support Grant (N1/N2 only)
+
+Career Support (career@iuj.ac.jp) has offered a narrow grant reimbursing the **JLPT N1 or N2 exam fee**, open to anyone who sat that exam regardless of pass/fail — apply in person at the Career Support office after results are announced (or by around the following April if you'll be off-campus for a while). Details beyond this weren't in the email; treat exact amounts/deadlines as unconfirmed until you check with Career Support. *(This may fit better under [[Japanese Language Courses]] in Academics — flagging as a possible cross-reference/new-content candidate rather than duplicating here.)*
 
 ---
 
