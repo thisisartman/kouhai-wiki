@@ -1,9 +1,9 @@
 ---
 title: Bus & Local Routes
 section: 07_Daily Life/Transport
-tags: [transport, bus, local, daily-life, unverified]
+tags: [transport, bus, local, daily-life, needs-input]
 status: needs-work
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 ---
 
 The IUJ campus bus is the primary way to get between campus and the outside world without a car. The network is limited but well-organised: knowing the routes and schedules is important because buses don't run all day.
@@ -32,13 +32,13 @@ The system runs on **named stops**, not route numbers. Key stops include:
 
 **Bus capacity is 32 passengers, including babies**: if a bus is full, wait for the next one. Large items (baby strollers, shelves, etc.) aren't allowed on board, except luggage when you're arriving at or departing IUJ for good. Arrive at your stop **5 minutes before** the posted time; times are approximate.
 
-> ⚠️ **Timetables change — often, and with real notice-period changes, not just corrections.** Per FT-OGA's own emails, the whole weekday/weekend timetable was revised on June 1, 2026 (extending hours, adding shopping-bus runs, rerouting the Sunday Gyomu Super bus through campus), then corrected and clarified on June 8. On July 9, FT-OGA announced that **night bus service was suspended starting July 13, 2026**, reverting to a shortened "summer schedule" (per an attached PDF not reproduced in the email body — contents unconfirmed here) expected to stay in effect until new students arrive in September, to cut labor/fuel costs during low summer demand; the shopping bus keeps running as usual. So the "15 runs a day, last bus 10:10 PM" schedule below is very likely **not current as of this pass (2026-07-23)**. `unverified`: don't treat any specific time on this page as authoritative — always confirm at OSS or the campus notice board.
+> ⚠️ **Timetables change — often, and with real notice-period changes, not just corrections.** Per FT-OGA's own emails, the whole weekday/weekend timetable was revised on June 1, 2026 (extending hours, adding shopping-bus runs, rerouting the Sunday Gyomu Super bus through campus), then corrected and clarified on June 8. IUJ's July 13, 2026 announcement itself is internally inconsistent: the email text claims night bus service was being **suspended** "to optimize labor and fuel costs," but the actual attached timetable for that same date shows **no reduction at all** — identical run counts and times to the June 8 schedule. Until FT-OGA clarifies which is right, treat the "suspension" claim as unconfirmed and the times below as current.
 
 ---
 
 ## Weekday Buses
 
-⚠️ `unverified` — **These specific times are stale; see the warning above.** Effective June 8, 2026 (before the July 13 summer night-bus suspension): **15 runs a day**, Monday–Friday, from the first (7:50 AM) to the last (10:10 PM departing IUJ, arriving back 10:44 PM). This already covers late returns; there's no separate "night bus" to wait for. Every run stops at Toda Store, Hospital, Tenno-machi, and Urasa Station; the Supermarket and City Office are only served by some runs (mid-day through evening), so check the current timetable for which. Kodomo-en is request-only.
+Effective as of the June 8, 2026 timetable (still current as of the July 13 attachment — see the note above): **15 runs a day**, Monday–Friday, from the first (7:50 AM) to the last (10:10 PM departing IUJ, arriving back 10:44 PM). This already covers late returns; there's no separate "night bus" to wait for. Every run stops at Toda Store, Hospital, Tenno-machi, and Urasa Station; the Supermarket and City Office are only served by some runs (mid-day through evening), so check the current timetable for which. Kodomo-en is request-only.
 
 ---
 
@@ -61,7 +61,7 @@ Available from Urasa Station. No Uber or rideshare in this area.
 - Approximate fare: Urasa Station → IUJ ~¥1,000–1,500
 - Essential for late-night returns when the bus isn't running
 - No standing taxi service: arrange in advance for late returns or use whatever is at the station rank
-- **The former 10 PM weekday night taxi service was discontinued as of June 1, 2026** (per FT-OGA), when the campus bus's operating hours were extended to cover late returns instead. If night bus service is itself suspended (as it was from July 13, 2026 for summer — see the warning above), late-night options may be thinner than either the bus or taxi info here suggests. `unverified`
+- **The former 10 PM weekday night taxi service was discontinued as of June 1, 2026** (per FT-OGA), when the campus bus's operating hours were extended to cover late returns instead. FT-OGA's July 13 email claims that extended coverage was then suspended for summer, but the actual timetable for that date doesn't back that up — see the note above. Confirm with OSS if you're planning a very late return.
 
 ---
 
@@ -113,6 +113,6 @@ Late-night driving imposes extra fatigue on drivers; the rules matter.
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
-- Confirm whether the June 8, 2026 timetable is still current, since these schedules change
+- Clarify with FT-OGA whether night bus service was actually reduced for summer 2026 or not — the announcement email and its own attached timetable disagree
 - Local taxi company names and numbers for late-night situations
 - Tips for getting around in winter when cycling isn't viable
