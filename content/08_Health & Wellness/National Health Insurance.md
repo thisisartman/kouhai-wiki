@@ -3,7 +3,7 @@ title: National Health Insurance
 section: 08_Health & Wellness
 tags: [health, insurance, NHI, admin, legal]
 status: ready
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 ---
 
 All residents of Japan, including international students, are required to enroll in the National Health Insurance (NHI / 国民健康保険, *kokumin kenkō hoken*) scheme. This is one of the first things you do after arrival, done for you as part of an on-campus session, not a trip to the city hall (see below).
@@ -22,6 +22,8 @@ NHI covers **70% of most medical costs**; you pay the remaining 30% out of pocke
 - Mental health consultations at covered clinics
 
 > 💡 A visit to a local clinic in Japan with NHI typically costs ¥500–2,000 out of pocket. Without insurance, the same visit could be ¥5,000–15,000+.
+
+**High-cost medical expense benefit:** if your medical costs are very high (e.g. surgery or a long hospital stay), NHI can also cover costs above a certain limit, beyond the standard 30% split. Ask for help at OSS if you're facing a large bill.
 
 ---
 
