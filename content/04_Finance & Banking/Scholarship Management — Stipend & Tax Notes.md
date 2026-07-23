@@ -23,7 +23,7 @@ Stipends are typically deposited directly into your **Daishi Hokuetsu Bank** acc
 For the first payment cycle (commonly October for new students), students who don't yet have a bank account collect their stipend **in cash** from the IUJ Accounting Office.
 
 **Accounting Office hours:**
-- Weekdays only: **9:00–12:00 and 13:00–16:00**
+- Weekdays only: **8:30–12:00 and 13:00–17:00**
 - Location: IUJ Accounting counter (main building)
 
 You'll receive a reminder email when your stipend is ready for collection.
