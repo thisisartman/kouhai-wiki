@@ -100,7 +100,7 @@ A separate, recurring scholarship funded by IUJ alumni, run by the **Office of S
 
 ### JLPT Study Support Grant (N1/N2 only)
 
-Career Support (career@iuj.ac.jp) has offered a narrow grant reimbursing the **JLPT N1 or N2 exam fee**, open to anyone who sat that exam regardless of pass/fail — apply in person at the Career Support office after results are announced (or by around the following April if you'll be off-campus for a while). Details beyond this weren't in the email; treat exact amounts/deadlines as unconfirmed until you check with Career Support. *(This may fit better under [[Japanese Language Courses]] in Academics — flagging as a possible cross-reference/new-content candidate rather than duplicating here.)*
+Career Support (career@iuj.ac.jp) has offered a narrow grant reimbursing the **JLPT N1 or N2 exam fee**, open to anyone who sat that exam regardless of pass/fail — apply in person at the Career Support office after results are announced (or by around the following April if you'll be off-campus for a while). Details beyond this weren't in the email; treat exact amounts/deadlines as unconfirmed until you check with Career Support. *(This may fit better under [[Japanese Language Courses at IUJ]] in Academics — flagging as a possible cross-reference/new-content candidate rather than duplicating here.)*
 
 ---
 
