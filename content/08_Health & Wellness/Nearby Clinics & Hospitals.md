@@ -3,7 +3,7 @@ title: Nearby Clinics & Hospitals
 section: 08_Health & Wellness
 tags: [health, clinics, hospitals, medical, daily-life]
 status: ready
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 ---
 
 Knowing where to go before you're sick is important. Healthcare in rural Niigata is functional but limited. English support exists at a couple of specific places, and IUJ's own Hospital Guide centers everything around Uonuma Kikan Hospital, 10 minutes from campus (not Nagaoka).
@@ -17,7 +17,7 @@ Officially the **Health and Wellness Office** (not "Health Centre"), staffed by 
 - **Hours:** Mon–Fri 9:00–12:30, 13:30–17:00, walk-in, no appointment needed
 - **Location:** A-Wing Building, 1st Floor (behind the ATM)
 - **Contact:** 025-779-1170 (ext. 170) / healness@iuj.ac.jp
-- A school doctor also holds a monthly consultation for physical *and* mental health needs; watch for announcements about a week ahead of the visit, then book by the stated deadline (H&W has run this on the third Tuesday of the month, but the date and even weekday vary — check the actual announcement). It's guidance only: **no diagnoses, physical exams, or prescriptions**; the doctor helps you understand your symptoms and decide where to seek actual treatment. When booking, describe your symptoms clearly and in detail (not just one word)
+- A school doctor (Dr. Abe) also holds a monthly consultation for physical *and* mental health needs, with **only 7 slots offered per month, not guaranteed**; watch for announcements about a week ahead of the visit, then book by the stated deadline (H&W has run this on the third Tuesday of the month, but the date and even weekday vary — check the actual announcement). It's guidance only: **no diagnoses, physical exams, or prescriptions**; the doctor helps you understand your symptoms and decide where to seek actual treatment. When booking, describe your symptoms clearly and in detail (not just one word). If you need to cancel or reschedule, call ext. 170 in advance rather than just not showing up.
 - IUJ does **not** provide hospital escort services as a general policy (exceptions possible), and is not responsible for your family members' healthcare needs while visiting
 
 **Use it for:**
@@ -25,7 +25,7 @@ Officially the **Health and Wellness Office** (not "Health Centre"), staffed by 
 - Referrals to local clinics or hospitals
 - Mental health first contact (see [[Mental Health Resources]])
 - Medical certificates for absences
-- Annual health checkup (April and October, required under the School Health and Safety Act; one per year, fall term of your first year recommended)
+- Annual health checkup (April and October, required under the School Health and Safety Act; one per year, fall term of your first year recommended). **If you miss both scheduled dates, you'll need to arrange your own private checkup at your own expense — roughly ¥15,000.**
 
 ---
 
@@ -48,9 +48,10 @@ For standard illness (cold, flu, gastrointestinal issues, minor injuries), go to
 **General process at any Japanese clinic:**
 1. Walk in or call for an appointment (walk-in is usually fine for minor illness)
 2. Fill in a registration form (katakana name; bring Residence Card)
-3. Present your NHI card (健康保険証), which reduces your cost to 30%
-4. See the doctor; diagnosis is usually in Japanese, so use Google Translate or bring a translation app
-5. Get a prescription (処方箋, *shohōsen*) if needed; fill it at a pharmacy nearby
+3. Bring your **Student ID Card**, your **Medicine Record Book** (お薬手帳, if you have one), and — if arranged in advance — a pre-filled **Language Facilitation Sheet from OSS**, in addition to your NHI card
+4. Present your NHI card (健康保険証), which reduces your cost to 30%
+5. See the doctor; diagnosis is usually in Japanese, so use Google Translate or bring a translation app
+6. Get a prescription (処方箋, *shohōsen*) if needed; fill it at a pharmacy nearby **within 4 days of the visit** — pharmacies can refuse to fill it after that
 
 **Useful vocab for the clinic:**
 
@@ -74,7 +75,8 @@ For anything beyond a local clinic's scope (specialist care, emergency care, ref
 - ~10 minutes by car from IUJ
 - Registration 8:30–11:30 (walk-in) or 13:00–15:00 (by appointment); consultation 9:00–12:00 (walk-in) or 13:30–17:15 (by appointment)
 - Some doctors speak English
-- **Go with a referral if possible**, from Yamato Hospital, Moegi Clinic, or the IUJ school doctor. Without one, you pay an extra **¥7,700 for medical** or **¥5,500 for dental**, and face a long wait either way.
+- **You can't book an appointment directly with Uonuma Kikan** — it has to come through a referring clinic or doctor (Yamato Hospital, Moegi Clinic, or the IUJ school doctor). Going without a referral costs an extra **¥7,700 for medical** or **¥5,500 for dental**, and you'll face a long wait either way.
+- **Going to the ER on your own** (not by ambulance)? Call **025-777-3200 before you arrive**. The ER treats by urgency, not convenience — it's explicitly not a substitute for regular outpatient care, so don't use it as a shortcut around booking a normal appointment.
 - Also handles pregnancy: Koide Hospital or Uonuma Kikan for checkups; **deliveries only happen at Uonuma Kikan**.
 
 **Other hospitals in the area, for reference:**
@@ -157,6 +159,5 @@ For mental health support specifically, see [[Mental Health Resources]], which c
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
-- Current IUJ Health Centre hours and whether a doctor visits regularly
 - Firsthand experience at Uonuma Kikan, Yamato Hospital, or Moegi Clinic: what actually happened
 - Any tips for navigating Japanese medical appointments without Japanese fluency

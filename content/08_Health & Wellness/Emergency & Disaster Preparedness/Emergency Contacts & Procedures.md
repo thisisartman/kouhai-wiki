@@ -1,12 +1,12 @@
 ---
 title: Emergency Contacts & Procedures
 section: 08_Health & Wellness/Emergency & Disaster Preparedness
-tags: [health, emergency, safety, contacts, unverified]
-status: needs-work
-last_updated: 2026-07-19
+tags: [health, emergency, safety, contacts]
+status: ready
+last_updated: 2026-07-25
 ---
 
-> ⚠️ Verify IUJ-specific emergency contacts against current student handbook or IUJ student affairs. Numbers and procedures change. Save the key contacts in your phone on arrival day, before you need them.
+> ⚠️ Save the key contacts below in your phone on arrival day, before you need them. IUJ issues a Green Emergency Card with these numbers — keep it on you too.
 
 ---
 
@@ -16,8 +16,9 @@ last_updated: 2026-07-19
 |---|---|---|
 | **Ambulance** | **119** | Also for fire. Free to call. Some operators have English/translation support. |
 | **Police** | **110** | Crime, accidents, lost/stolen items. |
-| **IUJ Emergency** | *(verify with IUJ)* | Campus emergency contact: get this from student affairs on arrival |
-| **IUJ Student Affairs** | *(verify with IUJ)* | For non-emergency issues during office hours |
+| **OSS (business hours, first call)** | ext. 103 | IUJ issues a Green Emergency Card listing this and the numbers below — carry it |
+| **Dorm Leader / Floor Representative (after hours)** | ext. 555 | Backup contact outside business hours |
+| **Guard / Energy Center (backup)** | ext. 444 / ext. 455 | Further backup if the above aren't reachable |
 | **Dorm Staff (SD1 Dorm Staff Office)** | 025-779-1555 (ext. 555) / dorm@iuj.ac.jp | Building issues: outages, snow, maintenance. 8:30–17:00, closed 12:00–13:00. |
 | **Health & Wellness Coordinator** | 025-779-1170 (ext. 170) / healness@iuj.ac.jp | Non-emergency health/wellness contact: see [[Scholarship Management — Stipend & Tax Notes]] for context. |
 
@@ -72,10 +73,22 @@ last_updated: 2026-07-19
 If you or someone else is in a mental health crisis:
 - **TELL Lifeline (English):** 03-5774-0992
 - **Inochi no Denwa (24/7, Japanese):** 0120-783-556
-- **IUJ Health Centre:** During office hours
+- **IUJ Health and Wellness Office:** During office hours
 - Do not leave someone alone if you are seriously concerned about their safety: stay with them and call for help
 
 See [[Mental Health Resources]] for broader context.
+
+---
+
+## Feeling Sick?
+
+If you're unwell with an unknown cause, or suspect an infectious illness (flu, TB, COVID, etc.): **return to your dorm room and call OSS or Dorm Staff** rather than going about your day as normal. If you must leave your room while symptomatic, **wear a mask**.
+
+---
+
+## Lightning Storms
+
+Lightning is common in the area, especially in **September**. Campus has lightning rods installed. If caught outdoors: stay away from trees and tall objects and lie flat rather than standing. If you're on a laptop/desktop during a storm, **save your work and shut down your computer** — electronics are vulnerable to strikes.
 
 ---
 
@@ -91,8 +104,7 @@ For earthquake and heavy snow emergencies specifically, see the dedicated articl
 
 - [ ] 119 (Ambulance/Fire)
 - [ ] 110 (Police)
-- [ ] IUJ Emergency number *(get from student affairs)*
-- [ ] IUJ Student Affairs office number *(get from welcome packet)*
+- [ ] OSS ext. 103 (business hours) / Dorm Leader ext. 555 (after hours) — your Green Emergency Card
 - [ ] TELL Lifeline: 03-5774-0992
 - [ ] Your home country's embassy in Japan *(look up before you arrive)*
 - [ ] One trusted IUJ contact (senior, RA, or fellow student)

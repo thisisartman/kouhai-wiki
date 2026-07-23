@@ -1,9 +1,9 @@
 ---
 title: Earthquake Preparedness
 section: 08_Health & Wellness/Emergency & Disaster Preparedness
-tags: [health, emergency, earthquake, safety, disaster, unverified]
+tags: [health, emergency, earthquake, safety, disaster]
 status: ready
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 ---
 
 Japan is one of the most seismically active countries in the world. Niigata has a notable earthquake history: the 2004 Chūetsu earthquake (magnitude 6.8) caused significant damage in Minami-Uonuma district. Earthquakes here are not theoretical.
@@ -50,7 +50,17 @@ Your phone will receive this automatically if it has a Japanese SIM or is regist
 
 ## The IUJ Evacuation Point
 
-IUJ has a designated outdoor evacuation assembly point for emergencies. **Find out where it is on your first day**: ask the dorm manager or student affairs. Don't wait for a drill to learn this.
+**The IUJ Gym is the designated evacuation assembly point.** As soon as you're able to move safely, make your way there.
+
+---
+
+## Wildlife: Bear Safety
+
+Bear activity has been reported repeatedly near and on campus, including around Botan-yama/the campus's south end and along the path toward Urasa Station on the west side. Precautions:
+- Walk outdoors in groups, especially at dawn and dusk
+- Don't approach a bear if you see one — back away slowly instead
+- Keep food and garbage secured, not left outside
+- Follow any IUJ safety-alert email closely if a sighting is reported near campus
 
 ---
 
@@ -109,6 +119,5 @@ A basic earthquake kit matters. You don't need much:
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Contact [your name/handle].*
 
-- IUJ's specific evacuation assembly point location
 - Experience of earthquakes at IUJ: what actually happened
 - Any campus-specific earthquake procedures seniors know about
