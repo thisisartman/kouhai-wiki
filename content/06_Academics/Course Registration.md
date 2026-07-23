@@ -103,6 +103,7 @@ Each term runs 10 weeks total: the first 8 weeks are the 1st Module, the remaini
 - [[Thesis Guide (IR) — Supervisor, Timeline, Tips]]
 - [[Library & Research Tools]]
 - [[Study Groups & Peer Culture]]
+- [[GSIM Exchange Program — Study Abroad]]
 
 ---
 
