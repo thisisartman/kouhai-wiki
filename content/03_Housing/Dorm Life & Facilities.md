@@ -16,6 +16,8 @@ IUJ's dormitories are on-campus and within walking distance of everything. For m
 
 The primary student dormitories. Around 70 rooms across the three buildings house most of the student body. These are the default placement for first-year students.
 
+- **Rent** (+ utilities, billed separately): SD1 1st floor ¥32,000/month, SD1 2nd/3rd floor ¥35,000/month, SD2 and SD3 ¥39,000/month. A ¥10,000 maintenance fee is charged at every check-in.
+- **Room size**: SD1 rooms are 14.3m²; SD2/SD3 rooms are 15m².
 - **Dorm Staff Office** is in SD1 (1st floor)
 - Air conditioning/heating is centrally controlled by campus, switching to heating in mid-October and back to cooling around mid-May
 - Each room has a window with an AC unit on the outside; SD2 and SD3 rooms on higher floors can get significant snow accumulation around the window in winter. Do not force the window open if it's blocked; contact Dorm Staff instead.
@@ -28,6 +30,7 @@ IUJ emails your room assignment (dorm + room number, dorm phone extension) rough
 
 - **Shipping luggage ahead**: arrange for it to arrive **no more than 2–3 days before** your check-in date (IUJ can't hold packages that show up earlier); address it with your assigned room number once you have it
 - Your assigned check-in window is a specific multi-day range (a Friday–Sunday in past cohorts) — arrive within it if you can; contact OSS if your travel plans fall outside it
+- **Lost keys**: a lost room key costs **¥5,000** to replace; any other lost key (mailbox, storage, etc.) is **¥1,500**.
 
 ### SD4
 
@@ -38,6 +41,8 @@ An additional dormitory building, about 1.5–2km from campus. **This is a capac
 - No specific layout details confirmed; ask returning students
 
 ### MSA (Married Student Apartments)
+
+**Rent**: ¥53,000/month + utilities, plus the same ¥10,000 check-in maintenance fee as SD1–3. It's a 2-room unit, unfurnished (see below).
 
 MSA is explicitly **for officially married couples only**. IUJ does allow 1-2 non-school-age children to live with parents there, but it's not recommended given the apartment size and evacuation requirements; no other family or friends may stay (IUJ can ask you to vacate immediately if they do).
 
@@ -112,7 +117,11 @@ Used for regular coursework, but also bookable for club meetings, study groups, 
 
 ### Dorm Kitchens
 
-Shared common kitchens exist in the dormitory buildings. In addition to day-to-day shared use, there's a recurring **Monthly Thorough Kitchen Cleaning**, per a Dorm Staff notice: on the announced date/time, residents must clear all personal items (rice cookers, utensils, etc.) out of the common kitchen and back to their rooms — only food actually inside the fridge can stay. Items left behind get confiscated, with a **¥500-per-item penalty**. Treat the specific date in any given notice as illustrative of a recurring monthly practice, not a one-time event.
+Shared common kitchens exist in the dormitory buildings. They close daily **10:30–11:30 AM and 2:30–3:00 PM** for routine cleaning, plus an additional weekly fridge cleaning on **Friday 10:30–11:30 AM**. In addition, there's a recurring **Monthly Thorough Kitchen Cleaning**, per a Dorm Staff notice: on the announced date/time, residents must clear all personal items (rice cookers, utensils, etc.) out of the common kitchen and back to their rooms — only food actually inside the fridge can stay. Items left behind get confiscated, with a **¥500-per-item penalty**. Treat the specific date in any given notice as illustrative of a recurring monthly practice, not a one-time event.
+
+### Storage Space
+
+Paid storage is available for SD1–3/MSA residents through Dorm Staff, in four sizes: S (¥300/term), M (¥500/term), L (¥800/term), and XL (¥1,500/term). It's applied for per-term (4 terms/year), not a one-time signup.
 
 ### MLIC Hall
 
@@ -124,9 +133,19 @@ A larger campus venue used for bigger events (this article doesn't yet have spec
 
 ## Quiet Policy
 
-Lounge quiet hours are **11:00 PM Sunday–Thursday, and midnight Friday–Saturday**. Enforcement runs through a few informal channels before anything formal: your **Floor Representative** (an appointed student per floor who liaises with Dorm Staff/OSS and helps resolve quiet-policy issues) and the **Lounge Busters** (a volunteer group covering communal lounges, kitchens, outdoor areas, rooftops, and the Snack Lounge. If you're disturbed at night, you can call on them to ask noise-makers to quiet down or move to the Snack Lounge). Repeated violations feed into the dorm's yellow-card enforcement system (see SD3 Lounge rules above).
+Lounge quiet hours are **11:00 PM Sunday–Thursday, and midnight Friday–Saturday**. Enforcement runs through a few informal channels before anything formal: your **Floor Representative** (an appointed student per floor who liaises with Dorm Staff/OSS and helps resolve quiet-policy issues) and the **Lounge Busters** (a volunteer group covering communal lounges, kitchens, outdoor areas, rooftops, and the Snack Lounge. If you're disturbed at night, you can call on them to ask noise-makers to quiet down or move to the Snack Lounge). Repeated violations feed into the dorm's yellow-card enforcement system.
 
 This is actively enforced, not just a policy on paper — Dorm Staff sends a campus-wide reminder notice when they receive a late-night noise complaint (no names or room numbers disclosed), reiterating the expectation that residents stay considerate of neighbors overnight.
+
+**The Yellow/Red Card system has real financial stakes, not just warnings:** 1st offense gets a Yellow Card (logged), a 2nd is flagged, a 3rd escalates to a Red Card plus a **¥5,000 fine**. A 2nd Red Card is **¥20,000**, and a 3rd Red Card can get you **removed from the dorms entirely**.
+
+## House Rules
+
+- **No visitors or overnight guests.** Off-campus visitors aren't allowed in the dormitories, including the lounges. Short-term visitors or family members can't stay overnight in your room, and you may not sublet your room or let anyone else — including other IUJ students, children, or alumni — stay overnight in it, with or without you present.
+- **No smoking anywhere inside the dorms** — rooms, hallways, kitchens, and lounges included. Designated outdoor smoking booths exist outside each dorm building.
+- **No parties in dorm rooms, lounges, or kitchens.** Use the Snack Lounge (CNP) instead.
+
+All three are enforced through the same Yellow/Red Card system above.
 
 ---
 
@@ -159,7 +178,7 @@ Second-year students must submit a housing preference survey in April (typically
 1. **SD1–3**: apply early; first-year students get priority but ~70 rooms are available for continuing students
 2. **SD4** has room for ~50 students. It's a capacity-contingent fallback if SD1-3 can't fit everyone, not a guaranteed or "standard" placement, and you can return to SD1–3 later if rooms open (Nov–Jan)
 3. **MSA**, for married couples only, offers ~16-18 units/year across two lotteries (see MSA section above), more than the "extremely limited" reputation suggests, though still competitive
-4. **Off-campus** means arranging your own housing along the bus route. You'll need to submit "Application to Permanently Move Out of Dorms" at least 4 weeks before moving; IUJ recommends living on campus for at least your first 2 terms even if you have family arrival plans.
+4. **Off-campus** means arranging your own housing either along the IUJ bus route, or within roughly **13km of campus if you can provide your own transportation** (you'll need to show this is realistic and doesn't conflict with your scholarship's terms). You'll need to submit "Application to Permanently Move Out of Dorms" at least 4 weeks before moving; IUJ recommends living on campus for at least your first 2 terms even if you have family arrival plans.
 
 > ⚠️ **If you don't submit the survey, you are automatically assigned off-campus.** Do not miss this.
 
@@ -174,7 +193,8 @@ Estimated costs for SD4 and off-campus options are distributed with the survey. 
 - **NHI Card delivery**: Your new National Health Insurance card arrives in a pink envelope placed in your dorm mailbox by Counselor SEKI. Check it for correct address; go to the City Office if the address is wrong.
 - **Windows in winter**: SD2 and SD3 higher floors can get snow-packed around the AC unit. Don't force windows; contact Dorm Staff.
 - **Roof snow**: Serious hazard in heavy snow periods. See [[Heavy Snow Emergency]] for full guidance.
-- **Bears**: Bear tracks have been found approximately 200m north of the IUJ main gate. Walk outdoors in groups, avoid early morning and after sunset, don't leave food outside. See [[Earthquake Preparedness]] for the general safety context.
+- **Bears**: Bear activity has been reported repeatedly near and on campus (Botan-yama/campus south end, and on the path toward Urasa Station on the west side). Walk outdoors in groups, avoid dawn and dusk, don't approach, and keep food/garbage secured. See [[Earthquake Preparedness]] for the general safety context.
+- **Hot water**: Hot water is generated for in-room use **6:30–9:00 AM and 6:00–11:00 PM**; it may be available outside those windows too, but only as long as the supply lasts. Plan showers accordingly.
 - **Heating/cooling switchover**: Central HVAC switches from cooling to heating around mid-October, back to cooling around mid-May. You don't control this.
 - **Utility interruptions**: Occasionally, planned maintenance work (e.g. pipe/plumbing work) causes short hot-water or other utility interruptions in a specific dorm building — IUJ notifies affected residents by email in advance, generally with an alternative suggested (e.g. using gym showers, which are unavailable **midnight–6:00 AM**; see [[Gym Rules]]). These are occasional maintenance events, not a regular occurrence.
 - **Covered walkways**: The dorm buildings are linked by covered walkways; IUJ has been retrofitting them with accessibility ramps (2026), so expect occasional short-term construction noise/paint smell or minor rerouting near SD1–SD2 while that work is ongoing.
