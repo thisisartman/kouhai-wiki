@@ -3,7 +3,7 @@ title: Seasonal Activities — Skiing, Hanami, Matsuri
 section: 10_Travel & Leisure
 tags: [travel, leisure, skiing, hanami, matsuri, seasons, unverified]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-25
 ---
 
 IUJ's location in snow country is a genuine asset for seasonal activities. These are some of the best experiences available during your time here. Plan for them.
@@ -25,7 +25,7 @@ Niigata is one of Japan's best ski regions. Multiple world-class resorts are wit
 **Naeba (苗場スキー場)**
 - ~40 min by car from IUJ
 - One of Japan's largest resorts; long runs, multiple peaks
-- Famous for the Fuji Rock Festival site in summer
+- Famous for the Fuji Rock Festival site in summer, and also home of a **2020 Alpine Ski World Championship** event
 - Good for intermediate and advanced skiers
 
 **Yuzawa Kogen (湯沢高原)**
@@ -98,7 +98,7 @@ See [[Festivals — Campus & Local]] for full details. Early August; one of Japa
 Almost every town in Japan holds a summer festival with food stalls, yukata (light cotton kimono), and traditional events. Minami-Uonuma, Nagaoka, and Niigata City all have summer matsuri worth attending.
 
 **Naked Man Festival (裸押合大祭, Hadaka Oshiai Taisai): Early March**
-Urasa's own major matsuri, held annually at Bishamon-do Temple (see [[Local Attractions — Urasa, Nagaoka, Niigata City]]), a 1,200-year-old event where participants march to the temple in loincloths. IUJ runs dedicated shuttle buses from campus for it; watch for the GSO announcement in late February/early March with the bus schedule and map. Don't miss this one: it happens right on IUJ's doorstep.
+Urasa's own major matsuri, held annually at Bishamon-do Temple (see [[Local Attractions — Urasa, Nagaoka, Niigata City]]), a 1,200-year-old event where participants march to the temple in loincloths. IUJ runs dedicated shuttle buses from campus for it; watch for the GSO announcement in late February/early March with the bus schedule and map. Don't miss this one: it happens right on IUJ's doorstep. If GSO lends you the participation uniform (white pants and sarashi), they collect it back a few days after the festival — wash it first.
 
 **Niigata Beaches**
 The Sea of Japan coast near Niigata City has beaches accessible in July and August. Not tropical, but a pleasant summer day trip.
