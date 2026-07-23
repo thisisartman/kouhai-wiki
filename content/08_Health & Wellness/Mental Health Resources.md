@@ -3,7 +3,7 @@ title: Mental Health Resources
 section: 08_Health & Wellness
 tags: [health, mental-health, wellbeing, support]
 status: ready
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 IUJ is a high-pressure environment in a rural, isolated setting with limited familiar comforts. Mental health challenges (loneliness, academic stress, culture shock, anxiety, seasonal depression) are common and nothing to be ashamed of. This article is about knowing what's available before you need it.
@@ -37,7 +37,7 @@ IUJ has a dedicated on-campus counselor (currently **Kiyoshi Sekihara, "SEKI"**,
 - **Location:** MLIC Building, 2nd Floor, near the Language Faculty Offices
 - Book by email, phone, or just walking in: no referral needed, you can go directly
 
-A monthly school-doctor consultation is also available for both physical and mental health needs; watch for announcements about a week before each visit.
+A monthly school-doctor consultation is also available for both physical and mental health needs; watch for announcements about a week before each visit, then book by the stated deadline. It's guidance only, not treatment: **no diagnoses, physical exams, or prescriptions**; the doctor helps you figure out your symptoms and where to actually seek care. Describe your symptoms clearly and in detail when booking.
 
 ### Academic Advisors and Student Affairs
 If academic stress is the primary driver, your academic advisor or the student affairs office can help with extensions, accommodations, or referrals.

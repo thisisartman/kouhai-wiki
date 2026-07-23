@@ -3,7 +3,7 @@ title: National Health Insurance
 section: 08_Health & Wellness
 tags: [health, insurance, NHI, admin, legal]
 status: ready
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 All residents of Japan, including international students, are required to enroll in the National Health Insurance (NHI / 国民健康保険, *kokumin kenkō hoken*) scheme. This is one of the first things you do after arrival, done for you as part of an on-campus session, not a trip to the city hall (see below).
@@ -91,6 +91,8 @@ NHI isn't the only insurance IUJ requires. **All students must also enroll in Li
 - PhD: ¥3,620
 
 Charged once during your enrolled period, alongside your other program fees.
+
+> ⚠️ IUJ's own sources disagree slightly on the 1-year figure: the Info Pack (used above) says ¥1,340, but IUJ's Health Insurance page on the OSS site says ¥1,540. Confirm the exact amount with the Health & Wellness coordinator or OSS when you enroll.
 
 ---
 

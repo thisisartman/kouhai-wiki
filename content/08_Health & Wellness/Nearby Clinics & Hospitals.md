@@ -3,7 +3,7 @@ title: Nearby Clinics & Hospitals
 section: 08_Health & Wellness
 tags: [health, clinics, hospitals, medical, daily-life]
 status: ready
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 Knowing where to go before you're sick is important. Healthcare in rural Niigata is functional but limited. English support exists at a couple of specific places, and IUJ's own Hospital Guide centers everything around Uonuma Kikan Hospital, 10 minutes from campus (not Nagaoka).
@@ -17,7 +17,7 @@ Officially the **Health and Wellness Office** (not "Health Centre"), staffed by 
 - **Hours:** Mon–Fri 9:00–12:30, 13:30–17:00, walk-in, no appointment needed
 - **Location:** A-Wing Building, 1st Floor (behind the ATM)
 - **Contact:** 025-779-1170 (ext. 170) / healness@iuj.ac.jp
-- A school doctor also holds a monthly consultation for physical *and* mental health needs; watch for announcements about a week ahead of the visit
+- A school doctor also holds a monthly consultation for physical *and* mental health needs; watch for announcements about a week ahead of the visit, then book by the stated deadline (H&W has run this on the third Tuesday of the month, but the date and even weekday vary — check the actual announcement). It's guidance only: **no diagnoses, physical exams, or prescriptions**; the doctor helps you understand your symptoms and decide where to seek actual treatment. When booking, describe your symptoms clearly and in detail (not just one word)
 - IUJ does **not** provide hospital escort services as a general policy (exceptions possible), and is not responsible for your family members' healthcare needs while visiting
 
 **Use it for:**
