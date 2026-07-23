@@ -3,7 +3,7 @@ title: Residence Card — What It Is & Renewal
 section: 05_Legal & Administrative
 tags: [residence-card, visa, legal, zairyu, admin]
 status: ready
-last_updated: 2026-07-19
+last_updated: 2026-07-25
 ---
 
 Your Residence Card (在留カード, *zairyū kādo*) is your single most important document in Japan. More immediately useful than your passport for day-to-day legal identity.
@@ -100,6 +100,14 @@ Your Residence Card expires when your visa status expires (usually tied to your 
 3. Reissuance fee: ¥1,600
 
 > ⚠️ Do not delay reporting a lost card. Operating without one is an offence, even if you've just lost it.
+
+---
+
+## Leaving Japan and Coming Back (Re-entry)
+
+If you're returning to Japan within **1 year** of leaving, with a valid passport and Residence Card, you generally **don't need a separate re-entry permit**.
+
+But there's a real trap: if you leave the country **without declaring special re-entry permission at the airport**, immigration can **confiscate your Residence Card on departure**, and your National Health Insurance gets **automatically cancelled**. Make sure the "special re-entry" box gets handled at the airport departure counter every time you leave, even for a short trip — don't assume a quick trip home doesn't count.
 
 ---
 
