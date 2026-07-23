@@ -22,6 +22,8 @@ Japan has an early warning system that sends alerts to all phones seconds before
 
 Your phone will receive this automatically if it has a Japanese SIM or is registered with a Japanese carrier. International SIMs vary, so test that your phone receives Japanese emergency alerts (緊急地震速報, *kinkyū jishin sokuho*).
 
+> 💡 **Minamiuonuma City periodically runs real disaster-preparedness drills** that trigger this exact system — a genuine test of the simultaneous cell-phone alert, city sirens, and radio broadcast, confirmed by an IUJ Facilities email ahead of one such drill (July 2026). If you get an alert and see "disaster drill" context (usually announced by IUJ beforehand), it's a drill, not a real event — but the mechanism is identical to what fires during an actual disaster, so it's a good live test of whether your phone is receiving Japanese alerts at all.
+
 ---
 
 ## During an Earthquake

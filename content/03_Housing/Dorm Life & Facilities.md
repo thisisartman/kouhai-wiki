@@ -55,6 +55,8 @@ That's roughly **16–18 units/year total**, not the tiny handful sometimes assu
 
 If you're offered a unit, go in eyes open, but don't assume the odds are as bad as "2-3 rooms" makes it sound.
 
+**Occasional full closures**: MSA has been closed building-wide (entry prohibited entirely) for extended facility repairs and pest control — e.g. a 2026 closure ran from early July through end of month. This isn't a standing schedule, just something to be aware of if you live there: Facilities notifies residents by email in advance.
+
 ---
 
 ## Campus Common Spaces
@@ -71,6 +73,14 @@ What's there now:
 - Water server and microwave planned (sink area was under repair as of May 2026)
 
 CNP is used for casual hangouts, group screenings, events, and payment/registration for GSO activities.
+
+**Usage rules (updated June 2026 per Facilities/FT-OGA):**
+- The old time limit on the sound system has been **removed** — but after 12:30 AM the indoor noise meter must stay under **80 dB**; a security patrol that catches it over that limit will issue a warning.
+- All windows and doors must stay **closed** while using the facility, to keep noise from leaking outside.
+- Clean up spills/mess on tables or floor with the paper towels provided.
+- Repeated non-compliance may lead to future usage restrictions on the space.
+
+> 📎 The Facilities announcement referenced a fuller attached document for CNP rule details not included in the email body — not verified here.
 
 ### SD3 Lounge
 
@@ -100,6 +110,10 @@ Used for regular coursework, but also bookable for club meetings, study groups, 
 
 > 🔶 Senior input needed: which office actually handles classroom booking requests, and how far in advance?
 
+### Dorm Kitchens
+
+Shared common kitchens exist in the dormitory buildings. In addition to day-to-day shared use, there's a recurring **Monthly Thorough Kitchen Cleaning**, per a Dorm Staff notice: on the announced date/time, residents must clear all personal items (rice cookers, utensils, etc.) out of the common kitchen and back to their rooms — only food actually inside the fridge can stay. Items left behind get confiscated, with a **¥500-per-item penalty**. Treat the specific date in any given notice as illustrative of a recurring monthly practice, not a one-time event.
+
 ### MLIC Hall
 
 A larger campus venue used for bigger events (this article doesn't yet have specifics on capacity, typical use, or how to book it).
@@ -111,6 +125,8 @@ A larger campus venue used for bigger events (this article doesn't yet have spec
 ## Quiet Policy
 
 Lounge quiet hours are **11:00 PM Sunday–Thursday, and midnight Friday–Saturday**. Enforcement runs through a few informal channels before anything formal: your **Floor Representative** (an appointed student per floor who liaises with Dorm Staff/OSS and helps resolve quiet-policy issues) and the **Lounge Busters** (a volunteer group covering communal lounges, kitchens, outdoor areas, rooftops, and the Snack Lounge. If you're disturbed at night, you can call on them to ask noise-makers to quiet down or move to the Snack Lounge). Repeated violations feed into the dorm's yellow-card enforcement system (see SD3 Lounge rules above).
+
+This is actively enforced, not just a policy on paper — Dorm Staff sends a campus-wide reminder notice when they receive a late-night noise complaint (no names or room numbers disclosed), reiterating the expectation that residents stay considerate of neighbors overnight.
 
 ---
 
@@ -127,6 +143,10 @@ The Dorm Staff team manages day-to-day dorm operations, room issues, and emergen
 | **Staff** | Megumi Mitera, Mihoko Sakurai, Takae Hasegawa |
 
 For urgent maintenance issues (heating failure, window problems, drainage), contact Dorm Staff first. Outside office hours, use the emergency contact provided at orientation.
+
+**Temporary Dorm Leaders (summer role)**: each summer, OSS recruits a small group of student **Temporary Dorm Leaders** (roughly late June–end of September) to help respond to overnight emergencies and coordinate with the Emergency Response Staff Team. Duties are shared/rotated, so it doesn't require staying on campus the whole period; Japanese proficiency is required since it involves coordinating with staff/emergency responders. This is aimed at first-years staying in Japan over summer — worth knowing about even if you don't apply, since these are the people (beyond regular Dorm Staff) handling night issues in summer.
+
+**AED (defibrillator) locations**: per Facilities, IUJ keeps two AEDs on campus — one in **SD1** and one in the **Security Office**. These can be temporarily relocated during large campus events (e.g. moved to an event information tent during the International Festival) and returned afterward — worth knowing the normal locations can shift short-term around big events.
 
 **Bedding and linens**: fresh sheets are provided as part of the dorm package (not extended to off-campus residents). Put used sheets in the provided bag and hang it on your doorknob **every Tuesday morning by 10:00 AM** for exchange. Miss the window and you wait until the following week. Badly damaged or stained sheets may be charged to you.
 
@@ -156,6 +176,8 @@ Estimated costs for SD4 and off-campus options are distributed with the survey. 
 - **Roof snow**: Serious hazard in heavy snow periods. See [[Heavy Snow Emergency]] for full guidance.
 - **Bears**: Bear tracks have been found approximately 200m north of the IUJ main gate. Walk outdoors in groups, avoid early morning and after sunset, don't leave food outside. See [[Earthquake Preparedness]] for the general safety context.
 - **Heating/cooling switchover**: Central HVAC switches from cooling to heating around mid-October, back to cooling around mid-May. You don't control this.
+- **Utility interruptions**: Occasionally, planned maintenance work (e.g. pipe/plumbing work) causes short hot-water or other utility interruptions in a specific dorm building — IUJ notifies affected residents by email in advance, generally with an alternative suggested (e.g. using gym showers, which are unavailable **midnight–6:00 AM**; see [[Gym Rules]]). These are occasional maintenance events, not a regular occurrence.
+- **Covered walkways**: The dorm buildings are linked by covered walkways; IUJ has been retrofitting them with accessibility ramps (2026), so expect occasional short-term construction noise/paint smell or minor rerouting near SD1–SD2 while that work is ongoing.
 
 ---
 
