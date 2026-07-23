@@ -12,7 +12,7 @@ You'll need to print more than you expect: assignment submissions, admin forms, 
 
 ## Campus Printing
 
-IUJ has **12 printers** across campus: in the dorms (SD1 2F, SD2 5F, SD3 5F, MSA 1F, all color), the Study Room and Library (color), and PC Rooms 120 and 121 (mix of B&W and color). Per IUJ's own Network Printers manual and PC Rooms page, PC120 has 2 B&W printers (`stprt5`/`stprt6`) plus a color printer, and PC121 has 1 B&W printer (`stprt7`); MLIC IT's July 2026 mail on reinstalling these printers confirms the same PC120/PC121 numbering.
+IUJ has **12 printers** across campus: in the dorms (SD1 2F, SD2 5F, SD3 5F, MSA 1F, all color), the Study Room and Library (color), and **PC Rooms 120 and 121 — the only two PC rooms on campus** (mix of B&W and color). PC120 has 2 B&W printers (`stprt5`/`stprt6`) plus a color printer, and PC121 has 1 B&W printer (`stprt7`); MLIC IT's July 2026 mail on reinstalling these printers and IUJ's own PC Rooms page both confirm this PC120/PC121 numbering. (IUJ's older Network Printers manual page labels the PC121 printer as "PC Room 124" — that's a stale reference from before a room renumbering/relabeling, likely referring to classroom 124, not a third PC room; don't go looking for a "PC Room 124.")
 
 **Printing fee (current, per MLIC IT):**
 - **¥7/page black & white, ¥50/page color**, same price regardless of paper size
