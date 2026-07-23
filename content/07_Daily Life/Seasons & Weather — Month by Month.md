@@ -3,7 +3,7 @@ title: Seasons & Weather — Month by Month
 section: 07_Daily Life
 tags: [daily-life, weather, seasons, winter, niigata]
 status: ready
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 Niigata is one of Japan's snowiest regions. Minami-Uonuma specifically sits between mountains that funnel in heavy snowfall every winter. If you're arriving from a tropical or mild climate, this will be the biggest environmental adjustment you make.
@@ -91,14 +91,14 @@ Warm and green: the best surprise of the year for most students. Temperatures: 1
 ### June
 **Rainy season (梅雨, *tsuyu*)** begins: frequent rain, high humidity. Temperatures: 18–26°C. Less dramatic than typhoon season but persistently grey and damp.
 
-*Prepare for:* Good umbrella; mould risk in rooms; keep ventilation up.
+*Prepare for:* Good umbrella; mould risk in rooms; keep ventilation up. Also **bear activity picks up**: FT-OGA sent multiple bear-sighting alerts around campus (Yamamoto Fish Farm, Botanyama-mountain at the campus's southern end) in late June 2026, attributing it partly to young bears becoming independent from their mothers at this time of year and behaving unpredictably. See [[Dorm Life & Facilities]] for full safety guidance; avoid walking/jogging alone early morning or after sunset during this period.
 
 ---
 
 ### July
 Rainy season ends; hot and humid summer begins. Temperatures: 24–32°C. Can feel oppressive. IUJ's air conditioning becomes important.
 
-*Prepare for:* Sunscreen; hydration; lighter clothing. Local summer festivals.
+*Prepare for:* Sunscreen; hydration; lighter clothing. Local summer festivals. **Bear caution continues**: another campus-area bear sighting (near the path toward Urasa Station, west side of campus) was reported by FT-OGA in early July 2026. Treat this as an ongoing seasonal risk through summer, not a one-off.
 
 ---
 

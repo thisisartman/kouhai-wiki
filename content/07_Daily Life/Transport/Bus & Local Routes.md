@@ -1,9 +1,9 @@
 ---
 title: Bus & Local Routes
 section: 07_Daily Life/Transport
-tags: [transport, bus, local, daily-life]
-status: ready
-last_updated: 2026-07-19
+tags: [transport, bus, local, daily-life, unverified]
+status: needs-work
+last_updated: 2026-07-23
 ---
 
 The IUJ campus bus is the primary way to get between campus and the outside world without a car. The network is limited but well-organised: knowing the routes and schedules is important because buses don't run all day.
@@ -32,13 +32,13 @@ The system runs on **named stops**, not route numbers. Key stops include:
 
 **Bus capacity is 32 passengers, including babies**: if a bus is full, wait for the next one. Large items (baby strollers, shelves, etc.) aren't allowed on board, except luggage when you're arriving at or departing IUJ for good. Arrive at your stop **5 minutes before** the posted time; times are approximate.
 
-> ⚠️ **Timetables change.** The schedule below is effective from **June 8, 2026**; always check the current timetable at OSS or the campus notice board before relying on specific times.
+> ⚠️ **Timetables change — often, and with real notice-period changes, not just corrections.** Per FT-OGA's own emails, the whole weekday/weekend timetable was revised on June 1, 2026 (extending hours, adding shopping-bus runs, rerouting the Sunday Gyomu Super bus through campus), then corrected and clarified on June 8. On July 9, FT-OGA announced that **night bus service was suspended starting July 13, 2026**, reverting to a shortened "summer schedule" (per an attached PDF not reproduced in the email body — contents unconfirmed here) expected to stay in effect until new students arrive in September, to cut labor/fuel costs during low summer demand; the shopping bus keeps running as usual. So the "15 runs a day, last bus 10:10 PM" schedule below is very likely **not current as of this pass (2026-07-23)**. `unverified`: don't treat any specific time on this page as authoritative — always confirm at OSS or the campus notice board.
 
 ---
 
 ## Weekday Buses
 
-Effective June 8, 2026: **15 runs a day**, Monday–Friday, from the first (7:50 AM) to the last (10:10 PM departing IUJ, arriving back 10:44 PM). This already covers late returns; there's no separate "night bus" to wait for. Every run stops at Toda Store, Hospital, Tenno-machi, and Urasa Station; the Supermarket and City Office are only served by some runs (mid-day through evening), so check the current timetable for which. Kodomo-en is request-only.
+⚠️ `unverified` — **These specific times are stale; see the warning above.** Effective June 8, 2026 (before the July 13 summer night-bus suspension): **15 runs a day**, Monday–Friday, from the first (7:50 AM) to the last (10:10 PM departing IUJ, arriving back 10:44 PM). This already covers late returns; there's no separate "night bus" to wait for. Every run stops at Toda Store, Hospital, Tenno-machi, and Urasa Station; the Supermarket and City Office are only served by some runs (mid-day through evening), so check the current timetable for which. Kodomo-en is request-only.
 
 ---
 
@@ -50,6 +50,7 @@ Separate weekend service to AEON (Saturdays) and Gyomu Super, near Koide (Sunday
 - **Sunday Gyomu Super bus:** 6 fixed runs, with seating priority assigned by residency, not by which run you catch: **1st run**: off-campus families; **3rd, 5th**: off-campus & SD4 residents; **2nd, 4th, 6th**: on-campus residents. Earlier runs aren't simply "more capacity": they're reserved for specific resident groups.
 - **To board a weekend bus:** get a ticket, distributed about **10 minutes before departure**. Your ticket shows your assigned priority seating for the return trip; board a different time than your ticket at your own risk, first-come-first-served ("Gentlemen's rules"), and if there's no seat, you're on your own to get back.
 - Bus capacity is capped at 32 passengers (including babies) by law, same as weekday buses.
+- **Regular service is suspended on graduation day.** FT-OGA ran a one-off replacement timetable on June 27, 2026 (graduation ceremony), with runs marked for graduating-student/faculty priority vs. general use. This is a one-time event pattern, not a fixed date — expect an announcement before each graduation, not a recurring "late June" rule.
 
 ---
 
@@ -60,6 +61,7 @@ Available from Urasa Station. No Uber or rideshare in this area.
 - Approximate fare: Urasa Station → IUJ ~¥1,000–1,500
 - Essential for late-night returns when the bus isn't running
 - No standing taxi service: arrange in advance for late returns or use whatever is at the station rank
+- **The former 10 PM weekday night taxi service was discontinued as of June 1, 2026** (per FT-OGA), when the campus bus's operating hours were extended to cover late returns instead. If night bus service is itself suspended (as it was from July 13, 2026 for summer — see the warning above), late-night options may be thinner than either the bus or taxi info here suggests. `unverified`
 
 ---
 
