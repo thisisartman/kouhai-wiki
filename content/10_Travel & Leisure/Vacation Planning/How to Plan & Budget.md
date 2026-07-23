@@ -1,7 +1,7 @@
 ---
 title: How to Plan & Budget
 section: 10_Travel & Leisure/Vacation Planning
-tags: [travel, vacation, planning, budget]
+tags: [travel, vacation, planning, budget, unverified]
 status: ready
 last_updated: 2026-05-28
 ---

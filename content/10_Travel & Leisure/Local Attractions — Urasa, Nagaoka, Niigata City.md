@@ -1,7 +1,7 @@
 ---
 title: Local Attractions — Urasa, Nagaoka, Niigata City
 section: 10_Travel & Leisure
-tags: [travel, leisure, local, niigata, attractions]
+tags: [travel, leisure, local, niigata, attractions, unverified]
 status: ready
 last_updated: 2026-05-28
 ---
@@ -68,6 +68,10 @@ The practical urban hub for IUJ students. For daily life needs (bigger shops, be
 | Banks with foreign exchange | More options than Urasa |
 | Larger electronics stores | Yamada Denki and similar chains |
 | Bookshops | Tsutaya and others; some English titles |
+
+### Beyond Leisure: Career Meetups in Nagaoka & Sanjo
+
+Nagaoka trips aren't only for shopping and food. Per IUJ Career Support's June 2026 emails, the office occasionally shares networking events with companies in Nagaoka and nearby Sanjo aimed at internship/job hunters, sometimes with a free shuttle bus from the IUJ main entrance. These are conducted mostly or entirely in Japanese (N3-level or above recommended); the Sanjo event, for instance, was flagged by Career Support as unlikely to lead directly to internships but useful for understanding the local business/hiring culture. As of this 2026 round it's a recurring pattern rather than a fixed schedule, so watch Career Support emails for announcements rather than expecting one every term.
 
 ### Half-Day vs Full-Day
 
