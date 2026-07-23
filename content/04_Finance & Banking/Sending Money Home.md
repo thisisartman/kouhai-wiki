@@ -3,7 +3,7 @@ title: Sending Money Home
 section: 04_Finance & Banking
 tags: [remittance, wire-transfer, Wise, money, finance]
 status: ready
-last_updated: 2026-07-19
+last_updated: 2026-07-25
 ---
 
 Japan has reliable remittance options, but the best one depends on your destination country, how fast you need the transfer, and whether you have a Japanese bank account yet.
@@ -106,10 +106,17 @@ If family sends you money:
 
 ---
 
+## Paying IUJ Directly From Abroad (Before You Have Your Own Account)
+
+If you need to wire tuition or fees to IUJ directly — e.g. before you've arrived and have your own Japanese bank account — IUJ has its own Daishi Hokuetsu Bank account for incoming payments, separate from your personal Daishi account: account holder "International University of Japan," Daishi Hokuetsu Bank, SWIFT code DAISJPJT. Get the specific account number from Accounting before sending — don't guess it from the SWIFT code alone.
+
+---
+
 ## Related Articles
 - [[JP Bank vs Daishi — Comparison & How to Open]]
 - [[PayPay — Setup, Linking Banks, Loading Money]]
 - [[Scholarship Management — Stipend & Tax Notes]]
+- [[Cost of Attending IUJ — Budgeting for Year One]]
 
 ---
 

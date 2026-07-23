@@ -3,7 +3,7 @@ title: Scholarship Management — Stipend & Tax Notes
 section: 04_Finance & Banking
 tags: [finance, scholarship, stipend, tax, banking, unverified, needs-input]
 status: needs-work
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 ---
 
 If you're on a scholarship that includes a monthly stipend, here's how the payment system works and what to watch for.
@@ -45,6 +45,25 @@ IUJ issues monthly expense invoices (dorm fees, meal plan costs, insurance deduc
 
 > ⚠️ **Keep enough money in your account before the 25th.** Missing a payment isn't a soft failure: a late fee of **¥1,000/month** applies, and repeated non-payment can trigger **forced withdrawal from IUJ** under the school's own regulations (Article 27(4)). Check your balance a day or two ahead of the deduction date, every month.
 
+A few billing nuances worth knowing:
+- **Checking out of the dorm after the 11th of a month** still gets you charged the full month's dorm fee — any refund for the unused days is applied on the *following* month's statement, not the current one.
+- **Electricity/hot-water charges lag by a month after move-out** — expect one more charge on your final statement (or the one after) even once you've left.
+- **Need a utility bill as proof of address** (for a phone contract or bank account)? Accounting can issue a receipt on request — worth knowing before you go hunting for one elsewhere.
+
+---
+
+## Tuition
+
+Tuition is billed per term with fixed deadlines: **Fall — Sept 30, Winter — Jan 31, Spring — Apr 30** (a lump-sum-per-year option also exists, ask Accounting). Missing these deadlines falls under the same Article 27(4) non-payment provision as the monthly late fee above — this is a real dismissal risk, not just an administrative annoyance.
+
+Per-term tuition (2022-enrollment figures, confirm current amounts with Accounting):
+| Programmes | Per term |
+|---|---|
+| IRP, IDP, PMPP, JGDB, MBA | ¥1,100,000 |
+| IPPP, IMBA, DXP | ¥1,300,000 |
+| ISEP | ¥900,000 |
+| PhD | ¥550,000 |
+
 ---
 
 ## Accident & Liability Insurance
@@ -66,6 +85,8 @@ If you're injured during IUJ curricular or extracurricular activities, report it
 ---
 
 ## Other Scholarship Opportunities
+
+**Result-notification timing** (when to expect to hear back, per IUJ's own published windows): ADB — late July; KMMF — June–July; Mitsubishi UFJ — June; AEON — July; JERA — May–June; Mitsui & Co. — May–June; MEXT — late June. Treat these as approximate — IUJ's own guidance frames them the same way.
 
 ### Nakayama-Alumni Scholarship
 
@@ -112,6 +133,7 @@ For the full tax filing process, see [[Tax Filing for Students]].
 - [[Pension Exemption — How to Apply]]
 - [[Tax Filing for Students]]
 - [[Sending Money Home]]
+- [[Cost of Attending IUJ — Budgeting for Year One]]
 
 ---
 
