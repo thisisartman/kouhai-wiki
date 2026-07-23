@@ -60,9 +60,21 @@ Tell the first counter you need to do all of them.
 - Enrollment is **mandatory** for all foreign residents staying over 3 months
 - Premium is income-based: as a student with low/no income, your premium will be minimal (~¥1,000–3,000/month)
 - Covers 70% of medical costs at enrolled clinics and hospitals
-- Your insurance card (保険証) arrives by mail within 1–2 weeks
+- Your insurance card (保険証) is issued by the City Office and reaches you via IUJ, not the postal service directly
 
 > ⚠️ Don't go to a clinic before you have your insurance card unless it's an emergency. Without it, you pay 100% upfront (though reimbursement is possible afterward).
+
+### How the Card Actually Reaches You
+
+Per an actual OSS Counselor email observed for a card renewal (same delivery mechanism should apply to your first card, though this is unconfirmed for the very first issuance):
+
+- IUJ's Counselor's Office places your card in a **pink envelope in your dormitory mailbox (1st floor)** — it isn't mailed to you individually by post
+- The envelope contains the physical NHI card; the Counselor's email included a photo of what to expect (not reproduced here — check your own envelope against the description below)
+- **Cards are color-coded and dated**: check the validity dates printed on the card, and make sure you're using the currently-valid one — don't assume a new card replaces an old one immediately, they can overlap by design during a transition period
+- **Not everyone gets the same document.** If your My Number Card is linked to your NHI enrollment, you may receive an A4-sized "Notice of Eligibility Information" (資格情報のお知らせ) instead of a physical card — this is normal, not an error
+- If your envelope seems missing, wrong, or you're unsure which card is currently valid, contact the Counselor's Office (counselor@iuj.ac.jp) rather than guessing
+
+> 🔶 The above describes an annual card renewal, not necessarily the very first card issued after your Municipal Registration session — unconfirmed whether first-time issuance uses the same pink-envelope/dorm-mailbox method. Treat as likely, not certain.
 
 ---
 
