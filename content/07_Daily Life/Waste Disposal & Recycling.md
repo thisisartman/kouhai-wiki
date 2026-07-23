@@ -3,7 +3,7 @@ title: Waste Disposal & Recycling
 section: 07_Daily Life
 tags: [daily-life, waste, recycling, rules, unverified]
 status: needs-work
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 Japan's waste disposal system is strict, detailed, and non-negotiable. Putting the wrong rubbish in the wrong bin causes real problems: Minami-Uonuma City will refuse to collect a wrongly-sorted bag, and it becomes IUJ's problem to fix. Learn the system in the first week.
@@ -40,7 +40,10 @@ Paper with metal or plastic parts attached can't be recycled this way.
 
 Attach the ticket to the item and hand it to Dorm Staff (small) or leave it at their designated spot/time (middle/large).
 
-- **Free "Special Service Period for Big Items"**: the week before and after graduation each June, IUJ takes big items (except the 4 specified appliances below) for free during this window.
+- **Free "Special Service Period for Big Items"**: the week before and after graduation each June, IUJ takes big items (except the 4 specified appliances below) for free during this window. Per OSS emails from June 2026, this runs as: a large shared container placed on campus (in 2026: Thursday, June 18 afternoon through Monday, June 29 morning) that **both on-campus and off-campus students may use**, plus separate staff-run collection days for off-campus students who can't transport items themselves (2026 dates: June 23 and 29, booked via an application form, deadline a few days ahead). Treat these as recurring events with dates that shift year to year, not a fixed calendar window — confirm current dates with OSS/Dorm Staff each graduation season. `unverified` for exact recurrence, confirmed for the pattern.
+  - **Food waste is explicitly NOT allowed** in the big-item container: leftover food, kitchen waste, conbini lunch boxes, cup noodle containers, snack wrappers all still go through the regular Dust Room process. OSS's stated reason: improperly discarded food waste attracts insects, crows, and **bears** — a real concern given the bear sightings covered under [[Seasons & Weather — Month by Month]] and, for full safety guidance, [[Dorm Life & Facilities]] in Housing.
+  - Items left in hallways/common areas after the container period ends are treated as abandoned and disposed of by Dorm Staff; storing belongings in common areas is against IUJ rules at any time, not just during move-out.
+  - Illegally dumping large appliances (rather than paying the disposal fee) can be punished under local municipal ordinance, per Dorm Staff.
 - **Car tires and car batteries** aren't covered by Minami-Uonuma City's waste system at all: take them to a gas station (not free).
 - **4 specified home appliances** (air conditioner, TV, fridge/freezer, washing machine/dryer) are never treated as "big item" waste, even during the free period. Disposing of one costs a flat **¥4,000 IUJ disposal charge** (ask Dorm Staff), or return it to the shop you bought it from if that's an option.
 
@@ -105,6 +108,8 @@ Collection happens on specific days for specific categories.
 ## Related Articles
 - [[First Week Checklist]]
 - [[Mail & Packages]]
+- [[Seasons & Weather — Month by Month]]
+- [[Dorm Life & Facilities]]
 
 ---
 
