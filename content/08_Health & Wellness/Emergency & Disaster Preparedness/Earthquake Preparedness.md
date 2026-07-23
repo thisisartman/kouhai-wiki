@@ -1,9 +1,9 @@
 ---
 title: Earthquake Preparedness
 section: 08_Health & Wellness/Emergency & Disaster Preparedness
-tags: [health, emergency, earthquake, safety, disaster]
+tags: [health, emergency, earthquake, safety, disaster, unverified]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-23
 ---
 
 Japan is one of the most seismically active countries in the world. Niigata has a notable earthquake history: the 2004 Chūetsu earthquake (magnitude 6.8) caused significant damage in Minami-Uonuma district. Earthquakes here are not theoretical.
