@@ -3,7 +3,7 @@ title: CAT Program
 section: 09_Social Life & Culture
 tags: [social-life, cat, volunteering, community, campus-life]
 status: ready
-last_updated: 2026-07-24
+last_updated: 2026-07-25
 ---
 
 CAT stands for **Community Action Team**, a volunteer programme where IUJ students visit local elementary schools to share their home countries and cultures with Japanese children. It's one of the most genuinely feel-good things you can do at IUJ, and one of the few ways to connect with the local Minamiuonuma community outside campus.
@@ -22,7 +22,7 @@ No formal preparation is required, but students usually bring photos, objects, o
 
 CAT is coordinated by **Counselor SEKI** from the IUJ Counselor's Office.
 
-Sign-up sheets are posted on the wall **outside the Counselor's Office**. Add your name to the sheet for the visit you want. Rounds run roughly every two to three weeks, starting in October and running through the academic-year CAT program's close in February. **The next academic year's CAT program is planned to start again in June.** Occasional visits include eating school lunch with the students (a small fee, ~¥282, applies for those).
+Sign-up sheets are posted on the wall **outside the Counselor's Office**. Add your name to the sheet for the visit you want. Rounds run roughly every two to three weeks, starting **around June/July** and running through **the following February** — so a cycle spans most of the academic year, not just an October–February window. Occasional visits include eating school lunch with the students (a small fee, ~¥282, applies for those).
 
 > ⚠️ Signing up does not guarantee a spot. Selected participants are contacted individually after review. Slots are limited per school.
 
@@ -34,7 +34,7 @@ Sign-up sheets are posted on the wall **outside the Counselor's Office**. Add yo
 
 Local elementary schools in the Minamiuonuma area, rotating by round:
 
-Miyo, Yabukami, Ishiuchi, Muikamachi, Ueda, Ikazawa, Akashi, Ushiroyama, Jonai, Osaki, Shiozawa, Omaki, Nakanoshima, Hokushin Elementary Schools: check the sign-up sheet for which are included in each round. Some are a short drive (Miyo/Yabukami ~5km), others further out (Ishiuchi, a ski-resort-area school, ~27km).
+Miyo, Yabukami, Ishiuchi, Muikamachi, Ueda, Ikazawa, Akashi, Ushiroyama, Jonai, Osaki, Shiozawa, Omaki, Nakanoshima, Hokushin, Tochikubo, and Urasa Elementary Schools: check the sign-up sheet for which are included in each round. Some are a short drive (Miyo/Yabukami ~5km), others further out (Ishiuchi, a ski-resort-area school, ~27km).
 
 ---
 
@@ -63,6 +63,8 @@ CAT isn't the only way IUJ students get pulled into (mostly paid or small-stipen
 - **Japanese Calligraphy & Pottery Workshops**: run out of the same office as CAT (organised by Counselor SEKI, with coordination handed to OSS's Fumiko Hirasawa partway through 2026), open to students and family members, taught by a local calligraphy artist / an IUJ MBA alum potter, small fee (roughly ¥200–500 per session). Not community outreach exactly, more "local culture brought to you," but worth knowing they happen if the sign-up sheet outside the Counselor's Office catches your eye.
 - **Kokusai Joho High School (KJ) collaboration**: the President's Office periodically recruits IUJ students (paid, ~¥1,050/hour) to help teach English classes or discussion sessions at the local high school, introducing your home region to Japanese teenagers.
 - **English Village / community English events**: similar in spirit to CAT but for junior-high-age local students, on-campus, also with a small thank-you gift (a gift coupon rather than cash).
+- **Ojiya International Society events**: a separate local cultural-exchange group (distinct from UMEX) running open events like a BBQ at Hakusan Sports Park — small fee, pickup arranged from Ojiya Station.
+- **Home Cooking Exchange**: OSS-brokered sessions with local elementary school teachers, same low-key community-exchange genre as the rest of this list.
 
 If a specific opportunity like this crosses your inbox, it's genuinely typical of how IUJ integrates with Minamiuonuma — not a scam or an outlier.
 
@@ -88,4 +90,3 @@ The `13_Country-Specific/` section of this wiki includes country profiles that w
 - What you brought or presented, and how the kids responded
 - Whether Japanese language ability matters in practice
 - Any particular schools or visits that stood out
-- Confirm whether the June restart is Spring-term timing or an early-Summer-term start at your cohort
