@@ -3,7 +3,7 @@ title: Packing List
 section: 01_Pre-Arrival
 tags: [pre-arrival, packing, luggage, essentials]
 status: ready
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 ---
 
 IUJ is in rural Niigata, not Tokyo. Shopping options near campus are limited, winters are severe, and the nearest major city (Nagaoka) is 30 minutes away. Pack accordingly.
@@ -106,6 +106,12 @@ Japan customs sets duty-free limits on what you bring in. Personal effects and i
 | Glasses/contacts + spares | Getting prescriptions filled in Japan can be complex without Japanese proficiency |
 | First aid basics | Plasters, antiseptic, a small kit for the first week before you can shop |
 | Sunscreen with high SPF | Japan's selections are generally good, but preference-specific |
+
+### Before You Leave: Pre-Departure Health Checklist
+
+- **Get a check-up and dental visit before leaving home** — sorting out anything you're already aware of is much easier there than navigating a Japanese clinic in your first weeks.
+- **Bring enough medication for the gap, plus written prescriptions** — not just the pills. See [[Visa & Documentation]] for Japan's import rules on medication (some common drugs elsewhere are restricted or banned in Japan — check before you pack, including anything related to emergency contraception).
+- **Pack a basic OTC health kit** for the first week or two before you're set up to shop or see a doctor locally.
 
 ---
 
