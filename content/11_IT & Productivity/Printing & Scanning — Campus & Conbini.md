@@ -1,9 +1,9 @@
 ---
 title: Printing & Scanning — Campus & Conbini
 section: 11_IT & Productivity
-tags: [daily-life, printing, scanning, campus, convenience-store]
+tags: [daily-life, printing, scanning, campus, convenience-store, unverified]
 status: ready
-last_updated: 2026-07-19
+last_updated: 2026-07-23
 ---
 
 You'll need to print more than you expect: assignment submissions, admin forms, visa documents, academic papers, official letters. Two options cover everything, the campus printers and convenience store (conbini) multifunction machines.
@@ -12,7 +12,7 @@ You'll need to print more than you expect: assignment submissions, admin forms, 
 
 ## Campus Printing
 
-IUJ has **12 printers** across campus: in the dorms (SD1 2F, SD2 5F, SD3 5F, MSA 1F, all color), the Study Room and Library (color), and PC Rooms 120 and 124 (mix of B&W and color).
+IUJ has **12 printers** across campus: in the dorms (SD1 2F, SD2 5F, SD3 5F, MSA 1F, all color), the Study Room and Library (color), and PC Rooms 120 and 121 (mix of B&W and color). Per IUJ's own Network Printers manual and PC Rooms page, PC120 has 2 B&W printers (`stprt5`/`stprt6`) plus a color printer, and PC121 has 1 B&W printer (`stprt7`); MLIC IT's July 2026 mail on reinstalling these printers confirms the same PC120/PC121 numbering.
 
 **Printing fee (current, per MLIC IT):**
 - **¥7/page black & white, ¥50/page color**, same price regardless of paper size
@@ -27,6 +27,10 @@ IUJ has **12 printers** across campus: in the dorms (SD1 2F, SD2 5F, SD3 5F, MSA
 - Windows: press Win+R, type `\\iuj-home` (or `\\iuj-home.iuj.ac.jp`), enter your IUJ credentials, then double-click the printer icon to install its driver
 - Mac: connect via `smb://iuj-home.iuj.ac.jp/<printername>` under System Settings → Printers & Scanners → Advanced
 - **MLIC Office hours:** Mon–Fri 8:30–17:00, closed weekends/holidays. **Student Helpdesk:** Mon–Fri 15:00–17:00 & 20:00–22:00, Sun 15:00–17:00.
+
+> ⚠️ **PC-room printers get swapped/reconfigured occasionally.** MLIC IT replaced the B&W printers in PC120/PC121 in July 2026 and asked students to re-install the driver — Windows and Mac users got separate instructions, and Mac users had to wait a few days longer for an updated manual. If a printer you used before stops connecting, check for an MLIC announcement about a reinstall before assuming your own setup broke.
+
+> 🔶 **ARM-based Windows laptops and Linux users**: as of mid-2026, IUJ's Student Helpdesk had informally identified official Fujifilm Business Innovation drivers (the manufacturer of IUJ's printers) covering Windows ARM and Linux (Ubuntu/RHEL) for the printers in Study Room 1, PC Room 120, and PC Room 121 specifically — via `support-fb.fujifilm.com`. This wasn't yet confirmed by MLIC IT as official guidance at time of writing, and coverage for dorm printers (SD1/SD2/SD3/MSA) was explicitly unconfirmed. If you're on ARM Windows or Linux and the standard `\\iuj-home` driver install fails, this is worth trying, but treat it as unofficial until MLIC posts it in their manuals.
 
 **What campus printing is good for:**
 - Lecture notes and readings

@@ -1,9 +1,9 @@
 ---
 title: AI for Task Scheduling & Academic Productivity
 section: 11_IT & Productivity
-tags: [productivity, ai, academic, tools]
+tags: [productivity, ai, academic, tools, unverified]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-23
 ---
 
 AI tools have meaningfully changed what a graduate student can do with limited time. Used well, they compress the mechanical parts of academic work so you can spend more time thinking. Used poorly, they produce plausible-sounding nonsense that undermines your credibility.

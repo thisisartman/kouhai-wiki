@@ -1,9 +1,9 @@
 ---
 title: Useful Apps in Japan — Maps, Transit, Translation
 section: 11_IT & Productivity
-tags: [apps, productivity, japan, maps, translation, daily-life]
+tags: [apps, productivity, japan, maps, translation, daily-life, unverified]
 status: ready
-last_updated: 2026-05-28
+last_updated: 2026-07-23
 ---
 
 A short list of apps that actually get used. Japan has its own app ecosystem, and some of these are Japan-specific and make daily life significantly easier.
