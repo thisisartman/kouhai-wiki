@@ -1,6 +1,7 @@
 ---
 title: Laundry — Facilities & Winter Challenges
-section: 07_Daily Life
+section: 02_On-Campus/05_Daily Life
+aliases: ["07_daily-life/laundry-—-facilities--and--winter-challenges"]
 tags: [daily-life, laundry, facilities, winter]
 status: ready
 last_updated: 2026-05-28

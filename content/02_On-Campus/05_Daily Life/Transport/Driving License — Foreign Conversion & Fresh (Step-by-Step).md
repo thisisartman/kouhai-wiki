@@ -1,6 +1,7 @@
 ---
 title: Driving License — Foreign Conversion & Fresh (Step-by-Step)
-section: 07_Daily Life/Transport
+section: 02_On-Campus/05_Daily Life
+aliases: ["07_daily-life/transport/driving-license-—-foreign-conversion--and--fresh-(step-by-step)"]
 tags: [transport, driving-license, legal, daily-life]
 status: ready
 last_updated: 2026-07-19
