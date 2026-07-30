@@ -1,6 +1,7 @@
 ---
 title: Airport to IUJ Routes
-section: 02_Arrival & First Week
+section: 01_Pre-IUJ/02_Arrival & First Week
+aliases: ["02_arrival--and--first-week/airport-to-iuj-routes"]
 tags: [arrival, transport, airport, shinkansen]
 status: ready
 last_updated: 2026-07-13

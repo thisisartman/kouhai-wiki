@@ -1,6 +1,7 @@
 ---
 title: Packing List
-section: 01_Pre-Arrival
+section: 01_Pre-IUJ/01_Pre-Arrival
+aliases: ["01_pre-arrival/packing-list"]
 tags: [pre-arrival, packing, luggage, essentials]
 status: ready
 last_updated: 2026-07-25
