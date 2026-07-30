@@ -1,6 +1,7 @@
 ---
 title: Festivals — Campus & Local
-section: 09_Social Life & Culture
+section: 02_On-Campus/07_Social Life & Culture
+aliases: ["09_social-life--and--culture/festivals-—-campus--and--local"]
 tags: [social, festivals, events, culture, japan]
 status: ready
 last_updated: 2026-07-25

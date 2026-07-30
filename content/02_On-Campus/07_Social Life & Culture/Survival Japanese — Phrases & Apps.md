@@ -1,6 +1,7 @@
 ---
 title: Survival Japanese — Phrases & Apps
-section: 09_Social Life & Culture
+section: 02_On-Campus/07_Social Life & Culture
+aliases: ["09_social-life--and--culture/survival-japanese-—-phrases--and--apps"]
 tags: [japanese, language, phrases, apps, daily-life, survival]
 status: ready
 last_updated: 2026-05-29
