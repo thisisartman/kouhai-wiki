@@ -1,6 +1,7 @@
 ---
 title: "Winter Term: Credits & Survival"
-section: 06_Academics/Term-wise Advice
+section: 02_On-Campus/04_Academics/Term-wise Advice
+aliases: ["06_academics/term-wise-advice/winter-—-credits--and--survival"]
 tags: [academics, winter, term, advice, snow, mental-health, needs-input]
 status: needs-work
 last_updated: 2026-07-13

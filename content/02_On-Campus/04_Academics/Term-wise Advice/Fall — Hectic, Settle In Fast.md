@@ -1,6 +1,7 @@
 ---
 title: "Fall Term: Hectic, Settle In Fast"
-section: 06_Academics/Term-wise Advice
+section: 02_On-Campus/04_Academics/Term-wise Advice
+aliases: ["06_academics/term-wise-advice/fall-—-hectic,-settle-in-fast"]
 tags: [academics, fall, term, advice, first-term, needs-input]
 status: needs-work
 last_updated: 2026-07-13
