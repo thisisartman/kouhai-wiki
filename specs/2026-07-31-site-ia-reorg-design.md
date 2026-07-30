@@ -40,12 +40,15 @@ Local` into two articles, and pulls `Japanese Social Norms & Etiquette` /
 ```
 content/
 ├── 01_Pre-IUJ/
-│   ├── 01_Pre-Arrival/                  (Packing List, Remittances & Forex Setup, Visa & Documentation)
+│   ├── 01_Pre-Arrival/                  (Packing List, Remittances & Forex Setup, Visa & Documentation,
+│   │                                     Cost of Attending IUJ — Budgeting for Year One)
 │   └── 02_Arrival & First Week/         (Airport to IUJ Routes, First Week Checklist, Room Setup Tips, Urasa Station Guide)
 │
 ├── 02_On-Campus/
 │   ├── 01_Housing/                      (Dorm Life & Facilities, Gym Rules)
-│   ├── 02_Finance & Banking/            (6 articles, unchanged)
+│   ├── 02_Finance & Banking/            (5 articles: JP Bank vs Daishi, Part-Time Work — Income & Finding
+│   │                                     Jobs, PayPay Setup, Scholarship Management, Sending Money Home —
+│   │                                     Cost of Attending IUJ moved to Pre-IUJ/Pre-Arrival, see above)
 │   ├── 03_Legal & Administrative/       (6 articles, unchanged)
 │   ├── 04_Academics/                    (10 articles incl. Term-wise Advice/, unchanged)
 │   ├── 05_Daily Life/
@@ -67,6 +70,13 @@ content/
 │
 └── 04_Country-Specific/                 (India/, Kyrgyzstan/ — unchanged internally, just renumbered from 13_)
 ```
+
+## Exception: Cost of Attending IUJ
+
+`Cost of Attending IUJ — Budgeting for Year One.md` moves to
+`01_Pre-IUJ/01_Pre-Arrival/` rather than staying with the rest of Finance &
+Banking in On-Campus — it's budgeting/planning you do before arrival, not an
+ongoing on-campus task like the other 5 Finance & Banking articles.
 
 ## Article Split: Festivals — Campus & Local
 
