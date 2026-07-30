@@ -96,7 +96,7 @@ Only **Toki** services stop here, per IUJ's own current timetable.
 - **Platform confusion**: Shinkansen platforms are upstairs; local JR platforms are ground level. They are separate fare zones.
 - **Snow season**: Urasa gets heavy snow (Nov–Mar). Platforms and exits are heated/covered, but the walk to taxis or buses can be icy. Wear appropriate footwear.
 - **Taxis disappear at night.** Late arrivals should arrange pickup in advance or accept that a taxi won't be waiting.
-- **Bishamon-do Temple** is reached via the **West Exit** (take Route 265, follow it as it curves right, temple's on your left). This is the site of the Hadaka Oshiai Matsuri ("naked pushing festival," 裸押合大祭) in early March, when men in loincloths push their way into the temple in the dead of winter. See [[Festivals — Campus & Local]] for the current date.
+- **Bishamon-do Temple** is reached via the **West Exit** (take Route 265, follow it as it curves right, temple's on your left). This is the site of the Hadaka Oshiai Matsuri ("naked pushing festival," 裸押合大祭) in early March, when men in loincloths push their way into the temple in the dead of winter. See [[Local Niigata Festivals]] for the current date.
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Domestic Itineraries — Tokyo, Kyoto, Osaka, Hokkaido
-section: 10_Travel & Leisure/Vacation Planning
+section: 03_Off-Campus/01_Travel & Leisure/Vacation Planning
+aliases: ["10_travel--and--leisure/vacation-planning/domestic-itineraries-—-tokyo,-kyoto,-osaka,-hokkaido"]
 tags: [travel, itinerary, domestic, tokyo, kyoto, osaka, hokkaido, unverified]
 status: ready
 last_updated: 2026-05-28
@@ -114,8 +115,8 @@ Japan's northernmost main island. Best in summer (lavender fields, cooler temper
 ---
 
 ## Related Articles
-- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
-- [[10_Travel & Leisure/Vacation Planning/How to Book — Flights, Stays, JR Pass|Vacation Planning: How to Book: Flights, Stays, JR Pass]]
+- [[03_Off-Campus/01_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
+- [[03_Off-Campus/01_Travel & Leisure/Vacation Planning/How to Book — Flights, Stays, JR Pass|Vacation Planning: How to Book: Flights, Stays, JR Pass]]
 - [[International Travel — SEA & Korea]]
 - [[Shinkansen Strategy]]
 

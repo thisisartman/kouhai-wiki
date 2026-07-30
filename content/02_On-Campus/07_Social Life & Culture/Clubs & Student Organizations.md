@@ -25,7 +25,7 @@ Before individual clubs: this is the bigger structure most social life at IUJ ru
 - Cross-program mixing: MBA and IR students tend to cluster separately in class; clubs break this
 - Resume value: leadership roles in student orgs are legitimate for early-career profiles
 - Vacation planning: sports and travel clubs often organize group trips, cheaper and more fun than going alone
-- Many clubs are involved in the wiki expansion process (see [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]])
+- Many clubs are involved in the wiki expansion process (see [[03_Off-Campus/01_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]])
 
 ---
 
@@ -97,7 +97,7 @@ The **GSO Executive Committee (GSO-EC)** is IUJ's elected student government —
 - A published withdrawal deadline before that session
 - The Election Committee explicitly states it "will not tolerate unethical approaches" and asks students to flag anything that undermines a free, fair process
 
-Once elected, GSO-EC runs much of the social calendar covered elsewhere on this page and in [[Festivals — Campus & Local]]: Culti-Fiesta, the International Festival, community celebrations like Africa Day and Eid al-Fitr, Grad Ball, and this section's club administration.
+Once elected, GSO-EC runs much of the social calendar covered elsewhere on this page and in [[IUJ Campus Events]]: Culti-Fiesta, the International Festival, community celebrations like Africa Day and Eid al-Fitr, Grad Ball, and this section's club administration.
 
 GSO-EC also puts out a **termly student magazine** (PDF, shared by email/Google Drive) with reflections, event highlights, and contributor call-outs — a decent way to see a term's worth of campus life summarized, and an easy way to contribute writing/photography if you want a byline.
 
@@ -118,7 +118,7 @@ Beyond the club list, IUJ runs a couple of real, structured competitions most st
 A few more recurring institutions, distinct from clubs proper, worth knowing exist:
 
 - **Yearbook Committee**: a self-contained, GSO-subsidized-but-editorially-independent student volunteer committee that produces an annual IUJ Yearbook, ordered in advance and distributed near graduation. The tradition dates back to 1985 (IUJ's own committee cites the 2026 edition as the "41st anniversary" of the first yearbook), though it hasn't run every single year — treat "annual" as "usually happens," not guaranteed.
-- **Grad Ball & Hall of Fame Awards**: see [[Festivals — Campus & Local]] for the graduation-season formal dance and its associated superlative-award voting.
+- **Grad Ball & Hall of Fame Awards**: see [[IUJ Campus Events]] for the graduation-season formal dance and its associated superlative-award voting.
 
 ---
 
@@ -147,7 +147,7 @@ Several sections of this wiki are designed to be expanded by specific clubs:
 - [[Study Groups & Peer Culture]]
 - [[Campus Life & Vibe]]
 - [[CAT Program|What is CAT?]]
-- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
+- [[03_Off-Campus/01_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning — How to Plan & Budget]]
 
 ---
 

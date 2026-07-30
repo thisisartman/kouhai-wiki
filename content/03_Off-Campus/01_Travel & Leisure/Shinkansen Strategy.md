@@ -1,7 +1,7 @@
 ---
 title: Shinkansen Strategy
-section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/transport/shinkansen-strategy"]
+section: 03_Off-Campus/01_Travel & Leisure
+aliases: ["02_on-campus/05_daily-life/transport/shinkansen-strategy"]
 tags: [transport, shinkansen, travel, daily-life, unverified]
 status: needs-work
 last_updated: 2026-07-19
