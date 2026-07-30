@@ -1,6 +1,7 @@
 ---
 title: India — Cultural Information & Etiquette
-section: 13_Country-Specific/India
+section: 04_Country-Specific/India
+aliases: ["13_country-specific/india/india-—-cultural-information--and--etiquette"]
 tags: [india, culture, etiquette, country-specific, needs-input, empty]
 status: needs-work
 last_updated: 2026-07-19

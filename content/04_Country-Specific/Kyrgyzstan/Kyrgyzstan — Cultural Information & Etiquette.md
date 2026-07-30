@@ -1,6 +1,7 @@
 ---
 title: Kyrgyzstan — Cultural Information & Etiquette
-section: 13_Country-Specific/Kyrgyzstan
+section: 04_Country-Specific/Kyrgyzstan
+aliases: ["13_country-specific/kyrgyzstan/kyrgyzstan-—-cultural-information--and--etiquette"]
 tags: [kyrgyzstan, culture, etiquette, country-specific, needs-input, empty]
 status: needs-work
 last_updated: 2026-07-19

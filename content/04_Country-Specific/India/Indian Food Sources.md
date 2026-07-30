@@ -1,6 +1,7 @@
 ---
 title: Indian Food Sources
-section: 07_Daily Life/Food
+section: 04_Country-Specific/India
+aliases: ["13_country-specific/india/indian-food-sources"]
 tags: [food, indian, spices, groceries, nagaoka, unverified, empty]
 status: needs-work
 last_updated: 2026-07-16

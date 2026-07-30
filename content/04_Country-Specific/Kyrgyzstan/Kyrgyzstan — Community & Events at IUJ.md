@@ -1,6 +1,7 @@
 ---
 title: Kyrgyzstan — Community & Events at IUJ
-section: 13_Country-Specific/Kyrgyzstan
+section: 04_Country-Specific/Kyrgyzstan
+aliases: ["13_country-specific/kyrgyzstan/kyrgyzstan-—-community--and--events-at-iuj"]
 tags: [kyrgyzstan, community, events, country-specific, needs-input, empty]
 status: needs-work
 last_updated: 2026-07-19
