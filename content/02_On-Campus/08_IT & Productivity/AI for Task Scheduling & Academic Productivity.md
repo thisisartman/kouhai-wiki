@@ -1,6 +1,7 @@
 ---
 title: AI for Task Scheduling & Academic Productivity
-section: 11_IT & Productivity
+section: 02_On-Campus/08_IT & Productivity
+aliases: ["11_it--and--productivity/ai-for-task-scheduling--and--academic-productivity"]
 tags: [productivity, ai, academic, tools, unverified]
 status: ready
 last_updated: 2026-07-23
