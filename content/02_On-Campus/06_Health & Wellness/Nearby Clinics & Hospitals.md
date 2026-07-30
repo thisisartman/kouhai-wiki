@@ -1,6 +1,7 @@
 ---
 title: Nearby Clinics & Hospitals
-section: 08_Health & Wellness
+section: 02_On-Campus/06_Health & Wellness
+aliases: ["08_health--and--wellness/nearby-clinics--and--hospitals"]
 tags: [health, clinics, hospitals, medical, daily-life]
 status: ready
 last_updated: 2026-07-25

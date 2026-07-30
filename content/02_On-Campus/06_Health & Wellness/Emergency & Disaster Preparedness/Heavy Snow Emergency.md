@@ -1,6 +1,7 @@
 ---
 title: Heavy Snow Emergency
-section: 08_Health & Wellness/Emergency & Disaster Preparedness
+section: 02_On-Campus/06_Health & Wellness
+aliases: ["08_health--and--wellness/emergency--and--disaster-preparedness/heavy-snow-emergency"]
 tags: [health, emergency, snow, winter, safety, disaster, unverified]
 status: ready
 last_updated: 2026-07-23
