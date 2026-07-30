@@ -1,6 +1,7 @@
 ---
 title: Cost of Attending IUJ — Budgeting for Year One
-section: 04_Finance & Banking
+section: 01_Pre-IUJ/01_Pre-Arrival
+aliases: ["04_finance--and--banking/cost-of-attending-iuj-—-budgeting-for-year-one"]
 tags: [finance, budgeting, tuition, cost-of-living]
 status: needs-work
 last_updated: 2026-07-25

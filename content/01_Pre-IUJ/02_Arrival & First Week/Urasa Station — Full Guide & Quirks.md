@@ -1,6 +1,7 @@
 ---
 title: Urasa Station — Full Guide & Quirks
-section: 02_Arrival & First Week
+section: 01_Pre-IUJ/02_Arrival & First Week
+aliases: ["02_arrival--and--first-week/urasa-station-—-full-guide--and--quirks"]
 tags: [arrival, transport, urasa, station, shinkansen]
 status: ready
 last_updated: 2026-07-19

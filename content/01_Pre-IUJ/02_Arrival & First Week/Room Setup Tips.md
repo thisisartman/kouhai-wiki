@@ -1,6 +1,7 @@
 ---
 title: Room Setup Tips
-section: 02_Arrival & First Week
+section: 01_Pre-IUJ/02_Arrival & First Week
+aliases: ["02_arrival--and--first-week/room-setup-tips"]
 tags: [housing, dorm, first-week, needs-input]
 status: needs-work
 last_updated: 2026-07-19

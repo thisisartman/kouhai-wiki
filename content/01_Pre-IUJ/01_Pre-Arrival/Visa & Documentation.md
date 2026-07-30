@@ -1,6 +1,7 @@
 ---
 title: Visa & Documentation
-section: 01_Pre-Arrival
+section: 01_Pre-IUJ/01_Pre-Arrival
+aliases: ["01_pre-arrival/visa--and--documentation"]
 tags: [visa, documentation, pre-arrival, coe, student-visa]
 status: ready
 last_updated: 2026-07-23
