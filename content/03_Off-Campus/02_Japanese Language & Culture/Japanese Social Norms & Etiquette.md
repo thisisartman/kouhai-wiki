@@ -1,7 +1,7 @@
 ---
 title: Japanese Social Norms & Etiquette
-section: 02_On-Campus/07_Social Life & Culture
-aliases: ["09_social-life--and--culture/japanese-social-norms--and--etiquette"]
+section: 03_Off-Campus/02_Japanese Language & Culture
+aliases: ["02_on-campus/07_social-life--and--culture/japanese-social-norms--and--etiquette"]
 tags: [social, japan, culture, etiquette, norms]
 status: ready
 last_updated: 2026-05-28
