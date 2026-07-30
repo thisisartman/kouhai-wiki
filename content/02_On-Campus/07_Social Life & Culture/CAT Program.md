@@ -1,6 +1,7 @@
 ---
 title: CAT Program
-section: 09_Social Life & Culture
+section: 02_On-Campus/07_Social Life & Culture
+aliases: ["09_social-life--and--culture/cat-program"]
 tags: [social-life, cat, volunteering, community, campus-life]
 status: ready
 last_updated: 2026-07-25
