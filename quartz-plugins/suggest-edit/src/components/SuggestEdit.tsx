@@ -227,8 +227,8 @@ const suggestEditScript = `
           '</div>' +
           '<p class="se-article" id="se-article"></p>' +
           '<form id="se-form">' +
-            '<div class="se-field" id="se-passage-field"><label>Selected passage (optional)</label>' +
-              '<textarea name="passage" id="se-passage" rows="3" placeholder="Highlight text on the page before clicking, or paste it here."></textarea></div>' +
+            '<div class="se-field" id="se-passage-field"><label>Selected passage or photo (optional)</label>' +
+              '<textarea name="passage" id="se-passage" rows="3" placeholder="Highlight text, or click a photo, before clicking Suggest an edit — or paste something here."></textarea></div>' +
             '<div class="se-field"><label id="se-suggestion-label">What should change, and why? *</label>' +
               '<textarea name="suggestion" id="se-suggestion" rows="4" required></textarea></div>' +
             '<div class="se-field-row">' +
@@ -410,12 +410,33 @@ const suggestEditScript = `
       // a focused button never fires mousedown, so pendingSelection stays
       // empty — but nothing has cleared the selection in that path either).
       var sel = pendingSelection || (window.getSelection && window.getSelection().toString()) || "";
-      overlay.querySelector("#se-passage").value = sel.trim();
+      // Clicking an image doesn't produce a text selection, so a photo-only
+      // report would otherwise land with an empty passage field and no way
+      // to tell which image the sender meant. lastClickedImage (set below)
+      // carries the filename through instead.
+      var prefill = sel.trim();
+      if (!prefill && lastClickedImage) {
+        prefill = "Photo: " + lastClickedImage;
+      }
+      overlay.querySelector("#se-passage").value = prefill;
       pendingSelection = "";
       overlay.classList.add("se-open");
       overlay.querySelector("#se-suggestion").focus();
     });
   }
+
+  // Tracks the most recently clicked in-article image so "Suggest an edit"
+  // can identify it by filename even though selecting an image (unlike text)
+  // leaves window.getSelection() empty. Delegated on document since article
+  // images are re-rendered on every SPA navigation.
+  var lastClickedImage = "";
+  document.addEventListener("click", function (e) {
+    var img = e.target && e.target.closest && e.target.closest("img");
+    if (!img || !img.closest("article")) return;
+    var src = img.currentSrc || img.src || "";
+    var parts = src.split("/").filter(Boolean);
+    lastClickedImage = parts.slice(-2).join("/");
+  });
 
   document.addEventListener("nav", wire);
   if (document.readyState !== "loading") wire();

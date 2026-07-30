@@ -2,4 +2,4 @@
 title: IT & Productivity
 ---
 
-Apps, connectivity, printing, and using AI for coursework and scheduling.
+Apps, WiFi/LAN, printing, campus PCs and software, network/email accounts, and using AI for coursework and scheduling.

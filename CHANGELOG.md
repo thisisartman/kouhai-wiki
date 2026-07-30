@@ -1,5 +1,18 @@
 # Changelog
 
+## [2026-07-30] — IT & Productivity: IT Helpdesk manuals fact-check + 4 new articles
+
+Fact-checked against 22 IUJ IT Helpdesk manual PDFs (`Resources/IT Helpdesk Manuals/`; `guide.pdf`/`MLIC IT guide.pdf` confirmed byte-identical — MLIC's official IT Guide, Sept 2025, primary source).
+
+- `content/11_IT & Productivity/Printing & Scanning — Campus & Conbini.md` — corrected printer count from "12" to **10** (sd1color/sd2color/sd3color/MSAcolor/StdRmColor/LibColor/stcolor/stprt5/stprt6/stprt7), confirmed against 3 independent sources; removed stale `unverified` tag.
+- `content/11_IT & Productivity/SIM & Internet Setup.md` — condensed Campus WiFi section, moved full detail to new article below.
+- `content/11_IT & Productivity/Campus WiFi & LAN Connection.md` (new) — SSIDs/passwords per area, wired LAN outlet locations, per-OS (Win10/11, macOS, iOS, Android) setup steps.
+- `content/11_IT & Productivity/Windows 11 Setup Guide.md` (new) — first-time OS setup decision points, English display-language switch.
+- `content/11_IT & Productivity/Available Software & Computer Rooms.md` (new) — PC120/PC121 specs (corrected scanner counts: PC120 has 0, PC121 has 2 — source table column order was easy to misread), free licensed-software install process, paid recovery services.
+- `content/11_IT & Productivity/IUJ Network & Email Accounts.md` (new) — account registration, email/network account distinction, post-graduation retention rules, password-change steps.
+- `content/11_IT & Productivity/index.md` — blurb updated to reflect fuller section scope.
+- Out of scope, flagged only (not touched): Course Registration Guide, Submission Portal Guide (Academics topic), GSO Elections, GSO-EC Constitution (student government) — 4 of the 22 PDFs aren't IT content.
+
 ## [2026-07-23] — Arrival & First Week / Dorm / Registration: personal-mail fact-check continued
 
 Continuation of the same-day personal-mail sweep (`Mail/IUJ/Personal Pre-Admission/`), extended past Pre-Arrival into the articles covering what those emails actually described (dorm check-in, city registration day, course registration prerequisites):
