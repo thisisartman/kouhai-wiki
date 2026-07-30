@@ -1,6 +1,7 @@
 ---
 title: IUJ Network & Email Accounts
-section: 11_IT & Productivity
+section: 02_On-Campus/08_IT & Productivity
+aliases: ["11_it--and--productivity/iuj-network--and--email-accounts"]
 tags: [email, account, IT, network, password]
 status: ready
 last_updated: 2026-07-30

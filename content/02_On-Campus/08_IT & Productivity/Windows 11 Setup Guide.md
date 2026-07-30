@@ -1,6 +1,7 @@
 ---
 title: Windows 11 Setup Guide
-section: 11_IT & Productivity
+section: 02_On-Campus/08_IT & Productivity
+aliases: ["11_it--and--productivity/windows-11-setup-guide"]
 tags: [windows, setup, IT, computer]
 status: ready
 last_updated: 2026-07-30

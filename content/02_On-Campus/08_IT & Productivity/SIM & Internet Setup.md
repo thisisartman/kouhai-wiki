@@ -1,6 +1,7 @@
 ---
 title: SIM & Internet Setup
-section: 11_IT & Productivity
+section: 02_On-Campus/08_IT & Productivity
+aliases: ["11_it--and--productivity/sim--and--internet-setup"]
 tags: [SIM, internet, phone, connectivity, IT, unverified]
 status: needs-work
 last_updated: 2026-07-30

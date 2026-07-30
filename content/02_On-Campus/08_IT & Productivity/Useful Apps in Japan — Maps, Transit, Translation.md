@@ -1,6 +1,7 @@
 ---
 title: Useful Apps in Japan — Maps, Transit, Translation
-section: 11_IT & Productivity
+section: 02_On-Campus/08_IT & Productivity
+aliases: ["11_it--and--productivity/useful-apps-in-japan-—-maps,-transit,-translation"]
 tags: [apps, productivity, japan, maps, translation, daily-life, unverified]
 status: ready
 last_updated: 2026-07-23
