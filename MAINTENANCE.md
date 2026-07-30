@@ -284,7 +284,15 @@ containing:
   even in "new page" mode, as a "what were they reading when this occurred to them"
   signal — not dropped just because it's not about that specific page)
 - **page_url** / **slug** — direct link to that page
-- **passage** — the text the reader selected (edit mode only; blank in new-page mode)
+- **passage** — the text the reader selected (edit mode only; blank in new-page mode).
+  **Since 2026-07-31**, if nothing was selected but the reader's last click before
+  opening the form landed on an in-article `<img>`, this field auto-fills with
+  `Photo: <folder>/<filename>` instead (e.g. `Photo: campus-wifi/win11-credentials.png`)
+  — selecting an image doesn't produce a text selection, so without this a
+  photo-specific report would arrive with no way to tell which image was meant.
+  Implemented in `quartz-plugins/suggest-edit/src/components/SuggestEdit.tsx`
+  (`lastClickedImage`, delegated document click listener); rebuild via `npm run
+  build` in that package after editing (dist/ is committed, not gitignored).
 - **suggestion** — what they think should change/be added, and why
 - **reply_email** — their `@iuj.ac.jp` address (required, validated client-side)
 - **name** — optional, paired with **country** (optional) in the same form row (2026-07-17)
@@ -775,6 +783,45 @@ anyone's memory of a past conversation:
 `CODEOWNERS` still had an unfilled `@YOUR_GITHUB_USERNAME` placeholder). This repo's
 copies (`CHANGELOG.md`, `CONTRIBUTING.md`, `.github/CODEOWNERS`) are the only ones
 that exist now — don't recreate copies elsewhere.
+
+- **Photo/screenshot backlog — IT & Productivity section.** Naming convention:
+  `content/11_IT & Productivity/images/<article-slug>/<descriptive-name>.png`,
+  same pattern as §15's general images entry above. Use these exact filenames
+  when adding — they're also what a reader's browser will show if they right-
+  click → "copy image address," and what the auto-fill in §7 reports back if
+  someone clicks the photo and hits Suggest an edit, so keeping the planned
+  name and the shipped name identical matters.
+
+  **Done (2026-07-31)**, extracted from the 22 IT Helpdesk manual PDFs via
+  `pdfimages`, folder `images/campus-wifi/` and `images/windows11-setup/`:
+  - `Campus WiFi & LAN Connection.md` — one screenshot per OS section:
+    `win11-credentials.png`, `win10-network-list.png` + `win10-credentials.png`,
+    `mac-network-list.png` + `mac-connected-confirm.png`,
+    `iphone-settings-nav.png` + `iphone-select-network.png`,
+    `android-settings-nav.png` + `android-eap-config.png`
+  - `Windows 11 Setup Guide.md` — `region-select.png`, `network-connect.png`,
+    `microsoft-account-password.png`, `pin-setup.png`,
+    `onedrive-backup-choice.png`, plus 4 for the language-change section:
+    `lang-rightclick-start.png`, `lang-time-and-language.png`,
+    `lang-add-english.png`, `lang-install-features.png`
+
+  **Not started** — same source PDFs have usable screenshots for these, just
+  not extracted yet:
+  - `Printing & Scanning — Campus & Conbini.md`, Windows driver install
+    section → propose `images/printing-scanning/win-driver-install.png`
+    (source: `Installing a network printer on Windows.pdf`)
+  - `Printing & Scanning — Campus & Conbini.md`, Mac driver install section →
+    propose `images/printing-scanning/mac-driver-install.png` (source:
+    `MacUsersGuide.pdf` or `printer_mac.pdf`)
+  - `IUJ Network & Email Accounts.md`, network password change → propose
+    `images/network-email-accounts/network-password-change.png` (source:
+    `guide.pdf`)
+  - `IUJ Network & Email Accounts.md`, Gmail password change → propose
+    `images/network-email-accounts/gmail-password-change.png` (source:
+    `guide.pdf`)
+  - `Available Software & Computer Rooms.md` — **low priority.** Source PDFs
+    have no room photos, only a software-availability table already
+    transcribed into the article as text.
 
 ---
 

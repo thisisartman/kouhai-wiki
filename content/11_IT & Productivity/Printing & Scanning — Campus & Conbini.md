@@ -1,9 +1,9 @@
 ---
 title: Printing & Scanning — Campus & Conbini
 section: 11_IT & Productivity
-tags: [daily-life, printing, scanning, campus, convenience-store, unverified]
+tags: [daily-life, printing, scanning, campus, convenience-store]
 status: ready
-last_updated: 2026-07-23
+last_updated: 2026-07-30
 ---
 
 You'll need to print more than you expect: assignment submissions, admin forms, visa documents, academic papers, official letters. Two options cover everything, the campus printers and convenience store (conbini) multifunction machines.
@@ -12,7 +12,7 @@ You'll need to print more than you expect: assignment submissions, admin forms, 
 
 ## Campus Printing
 
-IUJ has **12 printers** across campus: in the dorms (SD1 2F, SD2 5F, SD3 5F, MSA 1F, all color), the Study Room and Library (color), and PC Rooms 120 and 121 (mix of B&W and color). PC120 has 2 B&W printers (`stprt5`/`stprt6`) plus a color printer, and PC121 has 1 B&W printer (`stprt7`); MLIC IT's July 2026 mail on reinstalling these printers and IUJ's own PC Rooms page both confirm this PC120/PC121 numbering.
+IUJ has **10 printers** across campus: in the dorms (`sd1color` SD1 2F, `sd2color` SD2 5F, `sd3color` SD3 5F, `MSAcolor` MSA 1F, all color), the Study Room (`StdRmColor`) and Library (`LibColor`), and PC Rooms 120 and 121 (mix of B&W and color). PC120 has 2 B&W printers (`stprt5`/`stprt6`) plus 1 color printer (`stcolor`), and PC121 has 1 B&W printer (`stprt7`); MLIC's official IT Guide (Sept 2025), the Network Printers manual page, and MLIC IT's July 2026 mail on reinstalling these printers all confirm this naming/numbering.
 
 **Printing fee (current, per MLIC IT):**
 - **¥7/page black & white, ¥50/page color**, same price regardless of paper size
