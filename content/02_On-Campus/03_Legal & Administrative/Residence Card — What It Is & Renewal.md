@@ -1,6 +1,7 @@
 ---
 title: Residence Card — What It Is & Renewal
-section: 05_Legal & Administrative
+section: 02_On-Campus/03_Legal & Administrative
+aliases: ["05_legal--and--administrative/residence-card-—-what-it-is--and--renewal"]
 tags: [residence-card, visa, legal, zairyu, admin]
 status: ready
 last_updated: 2026-07-25
