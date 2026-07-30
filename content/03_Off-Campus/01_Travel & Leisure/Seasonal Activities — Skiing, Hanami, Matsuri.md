@@ -1,6 +1,7 @@
 ---
 title: Seasonal Activities — Skiing, Hanami, Matsuri
-section: 10_Travel & Leisure
+section: 03_Off-Campus/01_Travel & Leisure
+aliases: ["10_travel--and--leisure/seasonal-activities-—-skiing,-hanami,-matsuri"]
 tags: [travel, leisure, skiing, hanami, matsuri, seasons, unverified]
 status: ready
 last_updated: 2026-07-25
@@ -92,7 +93,7 @@ Hanami is the Japanese tradition of gathering under cherry trees as they bloom. 
 ## Summer: Festivals & Fireworks
 
 **Nagaoka Fireworks (長岡大花火大会)**
-See [[Festivals — Campus & Local]] for full details. Early August; one of Japan's three great fireworks festivals. Do not miss this.
+See [[Local Niigata Festivals]] for full details. Early August; one of Japan's three great fireworks festivals. Do not miss this.
 
 **Local Summer Festivals (夏祭り, *natsumatsuri*)**
 Almost every town in Japan holds a summer festival with food stalls, yukata (light cotton kimono), and traditional events. Minami-Uonuma, Nagaoka, and Niigata City all have summer matsuri worth attending.
@@ -135,7 +136,7 @@ See [[Local Attractions — Urasa, Nagaoka, Niigata City]] for specific recommen
 ## Related Articles
 - [[Seasons & Weather — Month by Month]]
 - [[Local Attractions — Urasa, Nagaoka, Niigata City]]
-- [[Festivals — Campus & Local]]
+- [[Local Niigata Festivals]]
 - [[Car Rental — Requirements & Services]]
 - [[Carpooling — Student Networks]]
 

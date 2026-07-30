@@ -66,7 +66,7 @@ Japan's primary restaurant review platform. More reliable than Google Maps for r
 Alternative restaurant finder; sometimes has better local coverage than Tabelog.
 
 ### Jalan / Rakuten Travel
-Accommodation booking that's consistently cheaper than international platforms for Japanese hotels. See [[10_Travel & Leisure/Vacation Planning/How to Book — Flights, Stays, JR Pass|Vacation Planning — How to Book — Flights, Stays, JR Pass]].
+Accommodation booking that's consistently cheaper than international platforms for Japanese hotels. See [[03_Off-Campus/01_Travel & Leisure/Vacation Planning/How to Book — Flights, Stays, JR Pass|Vacation Planning — How to Book — Flights, Stays, JR Pass]].
 
 ---
 

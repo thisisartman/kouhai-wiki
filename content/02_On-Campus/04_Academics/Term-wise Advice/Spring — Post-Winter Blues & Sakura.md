@@ -88,8 +88,8 @@ For second-years and those finishing their program:
 - Outdoor everything: hiking, cycling, picnics all become viable again
 - Campus looks genuinely stunning in spring
 - Social energy is high: make the most of it
-- Japanese spring festivals (matsuri) begin: see [[Festivals — Campus & Local]]
-- Golden Week (late April – early May) falls right in the middle of Spring 1st Module: **IUJ holds classes as scheduled through it**, per the academic calendar's own note ("Classes will be held as scheduled; Office will be closed" on the IUJ Foundation Day national holiday). Don't assume it's automatically free time; check the actual calendar before planning a trip. See [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
+- Japanese spring festivals (matsuri) begin: see [[Local Niigata Festivals]]
+- Golden Week (late April – early May) falls right in the middle of Spring 1st Module: **IUJ holds classes as scheduled through it**, per the academic calendar's own note ("Classes will be held as scheduled; Office will be closed" on the IUJ Foundation Day national holiday). Don't assume it's automatically free time; check the actual calendar before planning a trip. See [[03_Off-Campus/01_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
 
 ---
 
@@ -107,8 +107,8 @@ Whether continuing for another year or graduating:
 - [[Thesis Guide (IR) — Supervisor, Timeline, Tips]]
 - [[Mental Health Resources]]
 - [[Seasonal Activities — Skiing, Hanami, Matsuri]]
-- [[Festivals — Campus & Local]]
-- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
+- [[Local Niigata Festivals]]
+- [[03_Off-Campus/01_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
 
 ---
 

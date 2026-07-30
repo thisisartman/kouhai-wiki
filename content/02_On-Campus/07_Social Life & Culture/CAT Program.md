@@ -79,7 +79,7 @@ The `13_Country-Specific/` section of this wiki includes country profiles that w
 
 ## Related Articles
 - [[Campus Life & Vibe]]
-- [[Festivals — Campus & Local]]
+- [[IUJ Campus Events]]
 - [[Japanese Social Norms & Etiquette]]
 - [[Survival Japanese — Phrases & Apps]]
 

@@ -66,7 +66,7 @@ This sounds grand. In practice it develops through hundreds of small interaction
 - [[Making Friends]]
 - [[Fall — Hectic, Settle In Fast]]
 - [[Clubs & Student Organizations]]
-- [[Festivals — Campus & Local]]
+- [[IUJ Campus Events]]
 - [[Mental Health Resources]]
 
 ---

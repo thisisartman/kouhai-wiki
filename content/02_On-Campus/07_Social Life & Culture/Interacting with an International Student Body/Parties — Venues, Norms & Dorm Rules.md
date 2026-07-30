@@ -77,7 +77,7 @@ If you're hosting a gathering:
 ## Related Articles
 - [[Romance, Consent & Adults Being Adults]]
 - [[Making Friends]]
-- [[Festivals — Campus & Local]]
+- [[IUJ Campus Events]]
 - [[Japanese Social Norms & Etiquette]]
 
 ---

@@ -26,7 +26,8 @@ This page is for Indian students to fill in: which festivals and celebrations fr
 ---
 
 ## Related Articles
-- [[Festivals — Campus & Local]]
+- [[IUJ Campus Events]]
+- [[Local Niigata Festivals]]
 - [[Making Friends]]
 
 ---

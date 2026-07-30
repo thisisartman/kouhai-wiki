@@ -1,6 +1,7 @@
 ---
 title: How to Book — Flights, Stays, JR Pass
-section: 10_Travel & Leisure/Vacation Planning
+section: 03_Off-Campus/01_Travel & Leisure/Vacation Planning
+aliases: ["10_travel--and--leisure/vacation-planning/how-to-book-—-flights,-stays,-jr-pass"]
 tags: [travel, booking, flights, accommodation, jr-pass, unverified]
 status: ready
 last_updated: 2026-07-25
@@ -133,7 +134,7 @@ Gakuwari and the JR Pass solve different problems: the JR Pass is a short-term u
 ---
 
 ## Related Articles
-- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
+- [[03_Off-Campus/01_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
 - [[Domestic Itineraries — Tokyo, Kyoto, Osaka, Hokkaido]]
 - [[International Travel — SEA & Korea]]
 - [[Shinkansen Strategy]]

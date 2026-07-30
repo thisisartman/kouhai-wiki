@@ -1,6 +1,7 @@
 ---
 title: Local Attractions — Urasa, Nagaoka, Niigata City
-section: 10_Travel & Leisure
+section: 03_Off-Campus/01_Travel & Leisure
+aliases: ["10_travel--and--leisure/local-attractions-—-urasa,-nagaoka,-niigata-city"]
 tags: [travel, leisure, local, niigata, attractions, unverified]
 status: ready
 last_updated: 2026-07-25
@@ -99,7 +100,7 @@ There's also a more durable option: Nagaoka City runs an **unpaid internship pro
 
 ## Ojiya (小千谷市): A Nearby Destination Worth Knowing About
 
-Ojiya has essentially zero presence in most students' plans, despite being close and having a real event/attraction lineup of its own — see [[Festivals — Campus & Local]] for the Ojiya Balloon Festival, bull-fighting, Fireworks Display, and the active Ojiya International Society (which runs open community events like a BBQ at Hakusan Sports Park). Worth treating as a real day-trip option, not just an events destination.
+Ojiya has essentially zero presence in most students' plans, despite being close and having a real event/attraction lineup of its own — see [[Local Niigata Festivals]] for the Ojiya Balloon Festival, bull-fighting, Fireworks Display, and the active Ojiya International Society (which runs open community events like a BBQ at Hakusan Sports Park). Worth treating as a real day-trip option, not just an events destination.
 
 ---
 
@@ -132,8 +133,8 @@ The Niigata mountains are onsen country. Several facilities are within 30-60 min
 
 ## Related Articles
 - [[Seasonal Activities — Skiing, Hanami, Matsuri]]
-- [[Festivals — Campus & Local]]
-- [[10_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
+- [[Local Niigata Festivals]]
+- [[03_Off-Campus/01_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
 
 ---
 

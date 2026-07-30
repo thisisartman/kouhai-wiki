@@ -109,7 +109,7 @@ Indian students at IUJ have historically organized community cooking sessions ar
 
 - Diwali, Holi, and other festivals often have associated community meals
 - Coordinate via the Indian student group chat
-- See also [[Festivals — Campus & Local]]
+- See also [[IUJ Campus Events]] and [[Local Niigata Festivals]]
 
 ---
 
@@ -118,7 +118,8 @@ Indian students at IUJ have historically organized community cooking sessions ar
 - [[Vegetarian & Vegan in Rural Niigata]]
 - [[Dietary Restrictions — Halal, Gluten-Free & Allergies]]
 - [[Local Grocery Options]]
-- [[Festivals — Campus & Local]]
+- [[IUJ Campus Events]]
+- [[Local Niigata Festivals]]
 
 ---
 
