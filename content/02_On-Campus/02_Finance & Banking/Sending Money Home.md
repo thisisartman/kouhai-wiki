@@ -1,6 +1,7 @@
 ---
 title: Sending Money Home
-section: 04_Finance & Banking
+section: 02_On-Campus/02_Finance & Banking
+aliases: ["04_finance--and--banking/sending-money-home"]
 tags: [remittance, wire-transfer, Wise, money, finance]
 status: ready
 last_updated: 2026-07-25
