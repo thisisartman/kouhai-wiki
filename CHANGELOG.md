@@ -1,5 +1,28 @@
 # Changelog
 
+## [2026-07-31] — Site-wide IA reorg: 11 flat sections -> 4 journey-phase buckets
+
+Restructured `content/` from 11 topic-based top-level sections into
+Pre-IUJ / On-Campus / Off-Campus / Country-Specific, per
+`specs/2026-07-31-site-ia-reorg-design.md` (implementation plan:
+`specs/2026-07-31-site-ia-reorg-plan.md`). All old URLs redirect via the
+existing `alias-redirects` plugin — spot-checked across all 4 phases, all
+working. One content split: `Festivals — Campus & Local` became two
+articles, `IUJ Campus Events` (On-Campus, keeps the old slug as alias) and
+`Local Niigata Festivals` (Off-Campus), since the source content was
+genuinely two distinct halves; all 14 inbound links fixed (contextual
+references point at the specific matching article, generic ones point at
+both). `Cost of Attending IUJ` moved to Pre-IUJ (pre-arrival budgeting)
+rather than staying with the rest of Finance & Banking. `Shinkansen
+Strategy` and `Car Rental` moved from Daily Life/Transport to Off-Campus/
+Travel & Leisure (both involve leaving Minami-Uonuma). New shared helper
+`scripts/reorg-set-frontmatter.py` handled the `section:`/`aliases:`
+frontmatter updates across all ~91 moved articles. `MAINTENANCE.md`
+updated (§5, §6, and the photo backlog in §15) to reflect the new nested
+folder structure. 12 commits, one per phase/section, full build verified
+clean (zero warnings beyond expected pre-commit "not tracked" notices) at
+every step.
+
 ## [2026-07-30] — IT & Productivity: IT Helpdesk manuals fact-check + 4 new articles
 
 Fact-checked against 22 IUJ IT Helpdesk manual PDFs (`Resources/IT Helpdesk Manuals/`; `guide.pdf`/`MLIC IT guide.pdf` confirmed byte-identical — MLIC's official IT Guide, Sept 2025, primary source).

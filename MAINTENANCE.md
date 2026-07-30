@@ -127,7 +127,7 @@ This is more likely with a one-off `quartz build` than with `quartz build --serv
 
 ```bash
 cd ~/Documents/Claude/Projects/Kouhai\ Wiki/Quartz/content
-# edit the .md file directly — e.g. content/07_Daily Life/Waste Disposal & Recycling.md
+# edit the .md file directly — e.g. content/02_On-Campus/05_Daily Life/Waste Disposal & Recycling.md
 ```
 
 **Option B — draft in Obsidian, then sync:**
@@ -138,7 +138,8 @@ cd ~/Documents/Claude/Projects/Kouhai\ Wiki/Quartz/content
    cp "/home/artman/Documents/Obsidian Vaults/ARTman's Vault/IUJ/Indojins/Wiki/<path>/<file>.md" \
       "/home/artman/Documents/Claude/Projects/Kouhai Wiki/Quartz/content/<path>/<file>.md"
    ```
-   Match the folder path exactly — sections are numbered folders like `07_Daily Life/`.
+   Match the folder path exactly — since the 2026-07-31 IA reorg, sections nest two
+   levels deep under one of 4 top-level buckets, e.g. `02_On-Campus/05_Daily Life/`.
 
 Either way, after editing:
 
@@ -183,15 +184,22 @@ Deploy takes roughly 30–60 seconds once the run starts. Live in ~1 minute afte
    no extra step needed for that). To hand-link from another article, use a wikilink
    (double-bracket syntax borrowed from Obsidian — Quartz turns `[[Page Name]]` into
    a real `<a>` link at build time, resolving it to whichever file has that title):
-   `[[Article Title]]` or `[[07_Daily Life/Article Title|Display Text]]`.
+   `[[Article Title]]` or `[[02_On-Campus/05_Daily Life/Article Title|Display Text]]`.
 4. Commit, push — same as above.
 
 ## 5. Adding a New Section
 
-1. Create a new numbered folder in `content/`, e.g. `14_New Section/`.
+Since the 2026-07-31 IA reorg, `content/` has 4 top-level buckets
+(`01_Pre-IUJ/`, `02_On-Campus/`, `03_Off-Campus/`, `04_Country-Specific/`) —
+a new section almost always nests inside one of these, not at `content/`
+root. Decide which bucket it belongs in first (see
+`specs/2026-07-31-site-ia-reorg-design.md` for the boundary rule), then:
+
+1. Create a new numbered folder inside the right bucket, e.g.
+   `02_On-Campus/09_New Section/`.
 2. Add a folder note so the section gets a clean title instead of the raw folder name:
    ```
-   content/14_New Section/index.md
+   content/02_On-Campus/09_New Section/index.md
    ```
    ```yaml
    ---
@@ -202,10 +210,11 @@ Deploy takes roughly 30–60 seconds once the run starts. Live in ~1 minute afte
    ```
    (This pattern — clean title + short intro — matches all existing sections.)
 3. Add it to the homepage list in `content/index.md`.
-4. Numeric prefix (`14_`) controls sidebar order — the "explorer" (the sidebar's
-   collapsible folder/article tree) sorts by the raw **slug** (the URL-safe version
-   of a file/folder's path — e.g. `content/07_Daily Life/` becomes the slug
-   `07_daily-life`, all lowercase with spaces turned into hyphens), not the
+4. Numeric prefix (`09_`) controls sidebar order **within its bucket** — the
+   "explorer" (the sidebar's collapsible folder/article tree) sorts by the raw
+   **slug** (the URL-safe version of a file/folder's path — e.g.
+   `content/02_On-Campus/05_Daily Life/` becomes the slug
+   `02_on-campus/05_daily-life`, all lowercase with spaces turned into hyphens), not the
    human-readable display name, so sections stay in reading order. The sorting rule
    itself is a small function (`sortFn`) under the `explorer` plugin's settings in
    `quartz.config.yaml`, if this ever needs revisiting.
@@ -221,23 +230,25 @@ so in practice it's alphabetical. If you want manual ordering later, the `folder
 plugin in `quartz.config.yaml` accepts a custom `sort` option — not currently set.
 
 **Reordering sections:** controlled by each section folder's numeric prefix
-(`07_Daily Life/`) — the sidebar sorts by that prefix, not by name (the `sortFn` under
+(`05_Daily Life/`) — the sidebar sorts by that prefix, not by name (the `sortFn` under
 the `explorer` plugin in `quartz.config.yaml`). To move a section, renumber its folder:
 
 ```bash
 cd ~/Documents/Claude/Projects/Kouhai\ Wiki/Quartz/content
-git mv "07_Daily Life" "07b_Daily Life"   # or fully renumber the affected folders
+git mv "02_On-Campus/05_Daily Life" "02_On-Campus/05b_Daily Life"   # or fully renumber the affected folders
 ```
 
 If you're renumbering several sections to make room, do all the folder moves in one
 commit so the sidebar order and the homepage list (`content/index.md`) don't drift out
-of sync with each other.
+of sync with each other. To move a section to a **different top-level bucket**
+entirely (Pre-IUJ/On-Campus/Off-Campus/Country-Specific), see the process this repo
+used for exactly that: `specs/2026-07-31-site-ia-reorg-plan.md`.
 
 **Moving an article to a different section:**
 
 ```bash
 cd ~/Documents/Claude/Projects/Kouhai\ Wiki/Quartz/content
-git mv "07_Daily Life/Some Article.md" "09_Social Life & Culture/Some Article.md"
+git mv "02_On-Campus/05_Daily Life/Some Article.md" "02_On-Campus/07_Social Life & Culture/Some Article.md"
 ```
 
 This changes the article's URL (the slug is derived from its file path). Two things to
@@ -785,7 +796,8 @@ copies (`CHANGELOG.md`, `CONTRIBUTING.md`, `.github/CODEOWNERS`) are the only on
 that exist now — don't recreate copies elsewhere.
 
 - **Photo/screenshot backlog — IT & Productivity section.** Naming convention:
-  `content/11_IT & Productivity/images/<article-slug>/<descriptive-name>.png`,
+  `content/02_On-Campus/08_IT & Productivity/images/<article-slug>/<descriptive-name>.png`
+  (path updated for the 2026-07-31 IA reorg — was `content/11_IT & Productivity/...`),
   same pattern as §15's general images entry above. Use these exact filenames
   when adding — they're also what a reader's browser will show if they right-
   click → "copy image address," and what the auto-fill in §7 reports back if
