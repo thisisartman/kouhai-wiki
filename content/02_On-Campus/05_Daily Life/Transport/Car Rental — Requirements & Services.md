@@ -1,6 +1,7 @@
 ---
 title: Car Rental — Requirements & Services
-section: 07_Daily Life/Transport
+section: 02_On-Campus/05_Daily Life
+aliases: ["07_daily-life/transport/car-rental-—-requirements--and--services"]
 tags: [transport, car, rental, daily-life]
 status: ready
 last_updated: 2026-07-19

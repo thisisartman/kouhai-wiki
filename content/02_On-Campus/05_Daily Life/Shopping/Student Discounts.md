@@ -1,6 +1,7 @@
 ---
 title: Student Discounts
-section: 07_Daily Life/Shopping
+section: 02_On-Campus/05_Daily Life
+aliases: ["07_daily-life/shopping/student-discounts"]
 tags: [discounts, student, savings, transport, software]
 status: ready
 last_updated: 2026-07-13

@@ -1,6 +1,7 @@
 ---
 title: Mail & Packages
-section: 07_Daily Life
+section: 02_On-Campus/05_Daily Life
+aliases: ["07_daily-life/mail--and--packages"]
 tags: [daily-life, mail, packages, post]
 status: ready
 last_updated: 2026-05-28
