@@ -1,6 +1,7 @@
 ---
 title: Gym Rules
-section: 03_Housing
+section: 02_On-Campus/01_Housing
+aliases: ["03_housing/gym-rules"]
 tags: [housing, campus-facilities, gym, health]
 status: ready
 last_updated: 2026-07-23
