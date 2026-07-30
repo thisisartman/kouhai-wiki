@@ -1,6 +1,7 @@
 ---
 title: National Health Insurance
-section: 08_Health & Wellness
+section: 02_On-Campus/06_Health & Wellness
+aliases: ["08_health--and--wellness/national-health-insurance"]
 tags: [health, insurance, NHI, admin, legal]
 status: ready
 last_updated: 2026-07-25

@@ -1,6 +1,7 @@
 ---
 title: Earthquake Preparedness
-section: 08_Health & Wellness/Emergency & Disaster Preparedness
+section: 02_On-Campus/06_Health & Wellness
+aliases: ["08_health--and--wellness/emergency--and--disaster-preparedness/earthquake-preparedness"]
 tags: [health, emergency, earthquake, safety, disaster]
 status: ready
 last_updated: 2026-07-25
