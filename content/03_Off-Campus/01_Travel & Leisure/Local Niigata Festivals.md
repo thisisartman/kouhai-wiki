@@ -65,6 +65,19 @@ IUJ's campus and the surrounding area have sakura trees. The timing in Niigata i
 
 See [[Seasonal Activities — Skiing, Hanami, Matsuri]] for more detail.
 
+### Community Events (Volunteer / Participation)
+
+A handful of smaller local events aren't sightseeing so much as IUJ actively organising students to join in — via OSS emails, not the official events calendar. Exact dates shift every year (these are the actual 2025–2026 dates seen so far, given only as a sense of season), but the format tends to repeat:
+
+- **New Rice Festival**, approx. **late October**. Higashi Regional Development Center, late morning to early afternoon. Small attendance fee (~¥300 adults/¥100 kids in 2025). Freshly harvested Minamiuonuma Koshihikari rice cooked in a traditional *nuka-gama* (rice bran stove) + soup — **not halal**. IUJ runs a special bus.
+- **Satoyama Bunkasai** (Local Cultural Festival), same day as the Rice Festival, early-to-mid afternoon. Gymnasium at the Hakkaisanroku Ski Area, free. Local art/calligraphy/photography exhibits, plus hands-on shodo (calligraphy) and tea ceremony booths. Same IUJ bus as the Rice Festival.
+- **Shiozawa Summer Festival Mikoshi Parade**, approx. **mid-July**. A portable-shrine (mikoshi) parade with local residents. IUJ recruits a handful of student participants (male and female; selected for nationality/gender balance) — arranges transport for students without cars, provides festival clothing, and feeds you (onigiri, tonjiru) after. Runs into the evening.
+- **Urasa Summer Festival Bon Dance (Minyo Nagashi)**, approx. **mid-to-late July**, usually a few days after Shiozawa's. Traditional bon-dance parade with ~20–30 student participants; yukata provided if you want one (optional). Requires attending a practice session beforehand — apply only if your schedule allows it.
+- **Yairo no Mori Children's Snow Festival**, approx. **mid-March** (the last snow event of the season). Family-friendly: play areas, food booths, game corners. IUJ runs a dedicated bus (via Toda Store) for anyone attending, not just performers.
+- **Yairo no Mori Halloween Event**, approx. **late October**. Volunteer-based — a small number of students (costume or national dress encouraged) help staff activity booths alongside park staff. Popular; slots fill fast and are selected for country balance.
+
+Watch OSS emails for these rather than the official events calendar — none of them showed up there.
+
 ---
 
 ## Planning Around Festivals
@@ -87,3 +100,4 @@ See [[Seasonal Activities — Skiing, Hanami, Matsuri]] for more detail.
 
 - Nagaoka Fireworks practical tips: best spots, logistics
 - Local festivals near Urasa/Minami-Uonuma worth attending
+- Current-year dates and application links for the Community Events section above
