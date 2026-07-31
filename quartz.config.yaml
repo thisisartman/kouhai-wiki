@@ -136,7 +136,11 @@ plugins:
       priority: 50
       display: all
   - source: github:quartz-community/alias-redirects
-    enabled: true
+    # Disabled 2026-07-31 -- do not re-enable / do not use `aliases:`
+    # frontmatter. See MAINTENANCE.md ("Moving an article to a different
+    # section") for why: it broke site-wide internal navigation. Old-URL
+    # redirects are now handled by scripts/generate-redirects.py instead.
+    enabled: false
   - source: github:quartz-community/content-index
     enabled: true
     options:

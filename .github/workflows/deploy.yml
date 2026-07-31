@@ -47,6 +47,12 @@ jobs:
       - name: Build site
         run: npx quartz build
 
+      - name: Generate redirects for old URLs
+        # Runs strictly after the Quartz build, writing directly into
+        # public/ -- see scripts/generate-redirects.py for why this can't
+        # be done via Quartz's own aliases: frontmatter mechanism.
+        run: python3 scripts/generate-redirects.py public
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
