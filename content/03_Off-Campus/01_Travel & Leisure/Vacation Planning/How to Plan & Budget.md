@@ -16,7 +16,7 @@ IUJ runs on a trimester system with breaks between terms. Approximate windows:
 
 | Break | Approximate Timing | Duration |
 |---|---|---|
-| Fall → Winter break | Mid-December to early January | ~2-3 weeks |
+| Fall → Winter break | Mid-December to early January (2025–2026: **Dec 29 – Jan 11**, confirmed via OSS's Temporary Dorm Leader call for that period) | ~2 weeks |
 | Winter → Spring break | Mid-March | ~1 week |
 | Spring → Summer (end of year) | Late May / June | Varies by programme |
 
