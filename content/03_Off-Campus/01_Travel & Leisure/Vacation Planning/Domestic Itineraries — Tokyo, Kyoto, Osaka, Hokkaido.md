@@ -1,7 +1,6 @@
 ---
 title: Domestic Itineraries — Tokyo, Kyoto, Osaka, Hokkaido
 section: 03_Off-Campus/01_Travel & Leisure/Vacation Planning
-aliases: ["10_travel--and--leisure/vacation-planning/domestic-itineraries-—-tokyo,-kyoto,-osaka,-hokkaido"]
 tags: [travel, itinerary, domestic, tokyo, kyoto, osaka, hokkaido, unverified]
 status: ready
 last_updated: 2026-05-28

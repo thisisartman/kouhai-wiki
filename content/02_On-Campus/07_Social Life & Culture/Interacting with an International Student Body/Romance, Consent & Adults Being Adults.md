@@ -1,7 +1,6 @@
 ---
 title: Romance, Consent & Adults Being Adults
 section: 02_On-Campus/07_Social Life & Culture/Interacting with an International Student Body
-aliases: ["09_social-life--and--culture/interacting-with-an-international-student-body/romance,-consent--and--adults-being-adults"]
 tags: [social, relationships, consent, culture, adults]
 status: ready
 last_updated: 2026-07-24

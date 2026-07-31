@@ -1,7 +1,6 @@
 ---
 title: Local Grocery Options
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/shopping/local-grocery-options"]
 tags: [shopping, food, groceries, daily-life]
 status: ready
 last_updated: 2026-05-28

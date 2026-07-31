@@ -1,7 +1,6 @@
 ---
 title: "🇮🇳 India: Pre-Departure Checklist"
 section: 04_Country-Specific/India
-aliases: ["13_country-specific/india/india-—-pre-departure-checklist"]
 tags: [india, pre-arrival, checklist, country-specific]
 status: ready
 last_updated: 2026-05-28

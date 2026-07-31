@@ -1,7 +1,6 @@
 ---
 title: International Travel — SEA & Korea
 section: 03_Off-Campus/01_Travel & Leisure/Vacation Planning
-aliases: ["10_travel--and--leisure/vacation-planning/international-travel-—-sea--and--korea"]
 tags: [travel, international, sea, korea, visa, unverified]
 status: ready
 last_updated: 2026-05-28

@@ -1,7 +1,6 @@
 ---
 title: Municipal Registration — Minami-Uonuma City Office
 section: 02_On-Campus/03_Legal & Administrative
-aliases: ["05_legal--and--administrative/municipal-registration-—-minami-uonuma-city-office"]
 tags: [city-office, registration, legal, admin, health-insurance]
 status: ready
 last_updated: 2026-07-23

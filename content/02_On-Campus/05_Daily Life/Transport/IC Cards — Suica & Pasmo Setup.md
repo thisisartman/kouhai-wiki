@@ -1,7 +1,6 @@
 ---
 title: IC Cards — Suica & Pasmo Setup
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/transport/ic-cards-—-suica--and--pasmo-setup"]
 tags: [transport, ic-card, suica, pasmo, daily-life]
 status: ready
 last_updated: 2026-05-28

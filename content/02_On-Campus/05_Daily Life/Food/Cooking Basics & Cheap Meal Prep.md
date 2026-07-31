@@ -1,7 +1,6 @@
 ---
 title: Cooking Basics & Cheap Meal Prep
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/food/cooking-basics--and--cheap-meal-prep"]
 tags: [food, cooking, budget, meal-prep, dorm]
 status: ready
 last_updated: 2026-07-13

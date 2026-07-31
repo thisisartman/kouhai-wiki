@@ -1,7 +1,6 @@
 ---
 title: Online Shopping — Amazon JP, Shein, Temu
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/shopping/online-shopping-—-amazon-jp,-shein,-temu"]
 tags: [shopping, online, amazon, daily-life]
 status: ready
 last_updated: 2026-05-28

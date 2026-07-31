@@ -1,7 +1,6 @@
 ---
 title: Dietary Restrictions — Halal, Gluten-Free & Allergies
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/food/dietary-restrictions-—-halal,-gluten-free--and--allergies"]
 tags: [food, halal, gluten-free, allergies, dietary-restrictions]
 status: ready
 last_updated: 2026-07-25

@@ -1,7 +1,6 @@
 ---
 title: How to Book — Flights, Stays, JR Pass
 section: 03_Off-Campus/01_Travel & Leisure/Vacation Planning
-aliases: ["10_travel--and--leisure/vacation-planning/how-to-book-—-flights,-stays,-jr-pass"]
 tags: [travel, booking, flights, accommodation, jr-pass, unverified]
 status: ready
 last_updated: 2026-07-25

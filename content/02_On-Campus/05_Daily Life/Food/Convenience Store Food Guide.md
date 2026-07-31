@@ -1,7 +1,6 @@
 ---
 title: Convenience Store Food Guide
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/food/convenience-store-food-guide"]
 tags: [food, conbini, convenience-store, budget, quick-meals]
 status: ready
 last_updated: 2026-07-13

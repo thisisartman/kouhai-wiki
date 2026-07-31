@@ -1,7 +1,6 @@
 ---
 title: Seasons & Weather — Month by Month
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/seasons--and--weather-—-month-by-month"]
 tags: [daily-life, weather, seasons, winter, niigata]
 status: ready
 last_updated: 2026-07-23

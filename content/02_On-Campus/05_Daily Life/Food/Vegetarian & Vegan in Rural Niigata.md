@@ -1,7 +1,6 @@
 ---
 title: Vegetarian & Vegan in Rural Niigata
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/food/vegetarian--and--vegan-in-rural-niigata"]
 tags: [food, vegetarian, vegan, dietary, japan]
 status: ready
 last_updated: 2026-07-13

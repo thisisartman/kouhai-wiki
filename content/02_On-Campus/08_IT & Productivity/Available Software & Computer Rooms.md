@@ -1,7 +1,6 @@
 ---
 title: Available Software & Computer Rooms
 section: 02_On-Campus/08_IT & Productivity
-aliases: ["11_it--and--productivity/available-software--and--computer-rooms"]
 tags: [software, computer-rooms, IT, campus, licensing]
 status: ready
 last_updated: 2026-07-30

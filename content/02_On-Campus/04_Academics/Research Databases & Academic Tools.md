@@ -1,7 +1,6 @@
 ---
 title: Research Databases & Academic Tools
 section: 02_On-Campus/04_Academics
-aliases: ["06_academics/research-databases--and--academic-tools"]
 tags: [academics, research, databases, tools, thesis, unverified]
 status: needs-work
 last_updated: 2026-07-23

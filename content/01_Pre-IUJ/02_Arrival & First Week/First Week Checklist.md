@@ -1,7 +1,6 @@
 ---
 title: First Week Checklist
 section: 01_Pre-IUJ/02_Arrival & First Week
-aliases: ["02_arrival--and--first-week/first-week-checklist"]
 tags: [arrival, checklist, admin, first-week]
 status: ready
 last_updated: 2026-07-23

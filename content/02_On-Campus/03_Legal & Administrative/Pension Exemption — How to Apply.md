@@ -1,7 +1,6 @@
 ---
 title: Pension Exemption — How to Apply
 section: 02_On-Campus/03_Legal & Administrative
-aliases: ["05_legal--and--administrative/pension-exemption-—-how-to-apply"]
 tags: [pension, nenkin, exemption, legal, admin, money]
 status: ready
 last_updated: 2026-07-14

@@ -1,7 +1,6 @@
 ---
 title: Tax Filing for Students
 section: 02_On-Campus/03_Legal & Administrative
-aliases: ["05_legal--and--administrative/tax-filing-for-students"]
 tags: [tax, kakutei-shinkoku, legal, admin, finance]
 status: ready
 last_updated: 2026-07-13

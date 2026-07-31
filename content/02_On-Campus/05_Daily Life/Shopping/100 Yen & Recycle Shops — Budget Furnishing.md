@@ -1,7 +1,6 @@
 ---
 title: 100 Yen & Recycle Shops — Budget Furnishing
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/shopping/100-yen--and--recycle-shops-—-budget-furnishing"]
 tags: [shopping, budget, 100-yen, recycle, furnishing, daily-life]
 status: ready
 last_updated: 2026-05-28

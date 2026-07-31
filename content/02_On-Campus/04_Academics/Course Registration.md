@@ -1,7 +1,6 @@
 ---
 title: Course Registration
 section: 02_On-Campus/04_Academics
-aliases: ["06_academics/course-registration"]
 tags: [academics, registration, courses, portal, unverified]
 status: needs-work
 last_updated: 2026-07-23

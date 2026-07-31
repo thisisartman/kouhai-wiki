@@ -1,7 +1,6 @@
 ---
 title: Campus Dining
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/food/campus-dining"]
 tags: [food, campus, cafeteria, dining, unverified, empty]
 status: needs-work
 last_updated: 2026-07-23

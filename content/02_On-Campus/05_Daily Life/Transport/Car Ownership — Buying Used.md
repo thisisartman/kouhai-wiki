@@ -1,7 +1,6 @@
 ---
 title: Car Ownership — Buying Used
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/transport/car-ownership-—-buying-used"]
 tags: [transport, car, ownership, daily-life, needs-input, unverified]
 status: needs-work
 last_updated: 2026-07-19

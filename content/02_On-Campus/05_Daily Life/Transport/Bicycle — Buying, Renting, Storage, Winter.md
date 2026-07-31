@@ -1,7 +1,6 @@
 ---
 title: Bicycle — Buying, Renting, Storage, Winter
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/transport/bicycle-—-buying,-renting,-storage,-winter"]
 tags: [transport, bicycle, daily-life, winter]
 status: ready
 last_updated: 2026-07-19
