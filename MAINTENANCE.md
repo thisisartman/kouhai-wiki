@@ -256,21 +256,39 @@ check afterward:
 1. **Wikilinks** (`[[Some Article]]`) elsewhere in the wiki keep resolving automatically
    at build time — Quartz's link crawler (`markdownLinkResolution: shortest`) finds the
    file wherever it currently lives. No manual link-fixing needed.
-2. **Old bookmarks or external links** to the old URL will 404 once moved. To keep them
-   working, add the old path as an alias in the moved file's frontmatter:
-   ```yaml
-   ---
-   title: Some Article
-   aliases:
-     - 07_daily-life/some-article
-   ---
-   ```
-   This generates a redirect page at the old URL. (To get the exact old slug, check the
-   article's current live URL before moving it — lowercase, spaces become hyphens, `&`
-   becomes `--and--`.)
+2. **Old bookmarks or external links** to the old URL will 404 once moved, unless you
+   add a redirect — see below.
+
+> ⚠️ **Do NOT use `aliases:` frontmatter for this**, even though that's what Quartz's
+> own `alias-redirects` plugin is built around, and what earlier versions of this file
+> recommended. **Discovered 2026-07-31, live-site outage**: the `note-properties`
+> plugin pushes every file's `aliases:` values into Quartz's global slug list, which
+> `markdownLinkResolution: shortest` uses to resolve bare `[[Title]]` wikilinks (the
+> way nearly every link in this wiki is written). A folder-only move keeps the same
+> filename, so the alias and the real new slug share a basename — Quartz then sees
+> *two* candidate matches for that title instead of one, resolution's "exactly one
+> match" fast path fails, and it silently falls back to a broken guessed URL. This
+> happened for every one of the ~91 articles moved in the 2026-07-31 IA reorg
+> simultaneously, breaking navigation site-wide (including the homepage's own pinned
+> links) — see commit "Fix broken internal navigation: remove aliases: frontmatter
+> (live-site bug)" for the full root-cause writeup. There is no config option to keep
+> `aliases:` without this side effect.
+
+**To add a redirect from an old URL instead:** add an entry to
+`scripts/redirect-manifest.json` (a flat `{"old-slug": "new-slug"}` map, both without
+a leading slash or `.html`), then run `python3 scripts/generate-redirects.py public`
+locally to verify (or just push — it's already wired into `.github/workflows/
+deploy.yml` as a step after `npx quartz build`). This generates the same style of
+meta-refresh redirect page Quartz's own plugin used to make, but as a plain
+post-build step that writes straight into `public/` — it never touches Quartz's
+content pipeline or its slug list, so it can't cause the collision above. There's no
+automatic way to capture "the old slug" once a file's already moved without this
+mechanism, so check the article's current live URL *before* moving it (lowercase,
+spaces become hyphens, `&` becomes `--and--`) and add the manifest entry in the same
+commit as the `git mv`.
 
 **Renaming an article or section:** same mechanics as moving — the slug is just the
-current file/folder path. Use `git mv`, and add an `aliases:` entry (articles only) if
+current file/folder path. Use `git mv`, and add a `redirect-manifest.json` entry if
 you want the old URL to redirect instead of 404.
 
 Always finish with the usual commit + push (§3).
