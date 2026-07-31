@@ -1,7 +1,6 @@
 ---
 title: India — Community & Events at IUJ
 section: 04_Country-Specific/India
-aliases: ["13_country-specific/india/india-—-community--and--events-at-iuj"]
 tags: [india, community, events, country-specific, needs-input, empty]
 status: needs-work
 last_updated: 2026-07-19

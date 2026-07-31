@@ -1,7 +1,6 @@
 ---
 title: Mental Health Resources
 section: 02_On-Campus/06_Health & Wellness
-aliases: ["08_health--and--wellness/mental-health-resources"]
 tags: [health, mental-health, wellbeing, support]
 status: ready
 last_updated: 2026-07-23

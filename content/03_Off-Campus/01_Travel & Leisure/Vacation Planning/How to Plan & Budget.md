@@ -1,7 +1,6 @@
 ---
 title: How to Plan & Budget
 section: 03_Off-Campus/01_Travel & Leisure/Vacation Planning
-aliases: ["10_travel--and--leisure/vacation-planning/how-to-plan--and--budget"]
 tags: [travel, vacation, planning, budget, unverified]
 status: ready
 last_updated: 2026-05-28

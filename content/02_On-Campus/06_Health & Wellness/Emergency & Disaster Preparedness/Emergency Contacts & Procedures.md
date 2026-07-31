@@ -1,7 +1,6 @@
 ---
 title: Emergency Contacts & Procedures
 section: 02_On-Campus/06_Health & Wellness
-aliases: ["08_health--and--wellness/emergency--and--disaster-preparedness/emergency-contacts--and--procedures"]
 tags: [health, emergency, safety, contacts]
 status: ready
 last_updated: 2026-07-25

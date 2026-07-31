@@ -1,7 +1,6 @@
 ---
 title: GSIM Exchange Program — Study Abroad
 section: 02_On-Campus/04_Academics
-aliases: ["06_academics/gsim-exchange-program-—-study-abroad"]
 tags: [academics, exchange, study-abroad, unverified, needs-input]
 status: needs-work
 last_updated: 2026-07-25

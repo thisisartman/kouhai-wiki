@@ -1,7 +1,6 @@
 ---
 title: Waste Disposal & Recycling
 section: 02_On-Campus/05_Daily Life
-aliases: ["07_daily-life/waste-disposal--and--recycling"]
 tags: [daily-life, waste, recycling, rules, unverified]
 status: needs-work
 last_updated: 2026-07-23

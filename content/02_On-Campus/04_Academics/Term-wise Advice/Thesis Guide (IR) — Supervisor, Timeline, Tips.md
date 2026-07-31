@@ -1,7 +1,6 @@
 ---
 title: Thesis Guide (IR) — Supervisor, Timeline, Tips
 section: 02_On-Campus/04_Academics/Term-wise Advice
-aliases: ["06_academics/term-wise-advice/thesis-guide-(ir)-—-supervisor,-timeline,-tips"]
 tags: [academics, thesis, IR, research, supervisor, needs-input, unverified]
 status: needs-work
 last_updated: 2026-07-13

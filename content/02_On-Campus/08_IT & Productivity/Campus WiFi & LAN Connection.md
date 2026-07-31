@@ -1,7 +1,6 @@
 ---
 title: Campus WiFi & LAN Connection
 section: 02_On-Campus/08_IT & Productivity
-aliases: ["11_it--and--productivity/campus-wifi--and--lan-connection"]
 tags: [wifi, LAN, internet, connectivity, IT, campus]
 status: ready
 last_updated: 2026-07-30

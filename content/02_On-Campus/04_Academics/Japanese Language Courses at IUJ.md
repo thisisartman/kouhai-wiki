@@ -1,7 +1,6 @@
 ---
 title: Japanese Language Courses at IUJ
 section: 02_On-Campus/04_Academics
-aliases: ["06_academics/japanese-language-courses-at-iuj"]
 tags: [japanese, language, academics, courses, iuj]
 status: ready
 last_updated: 2026-07-23

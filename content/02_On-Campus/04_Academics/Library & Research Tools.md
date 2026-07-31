@@ -1,7 +1,6 @@
 ---
 title: Library & Research Tools
 section: 02_On-Campus/04_Academics
-aliases: ["06_academics/library--and--research-tools"]
 tags: [academics, library, research, resources, unverified]
 status: needs-work
 last_updated: 2026-07-23

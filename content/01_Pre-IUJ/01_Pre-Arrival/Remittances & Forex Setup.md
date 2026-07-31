@@ -1,7 +1,6 @@
 ---
 title: Remittances & Forex Setup
 section: 01_Pre-IUJ/01_Pre-Arrival
-aliases: ["01_pre-arrival/remittances--and--forex-setup"]
 tags: [pre-arrival, finance, remittance, forex, wise, money]
 status: ready
 last_updated: 2026-07-19
