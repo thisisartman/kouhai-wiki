@@ -20,6 +20,8 @@ Japan's position in East Asia makes it an excellent base for international trave
 
 **Visa rules change frequently.** Before booking any international trip, verify current entry requirements at the destination country's official immigration website; don't rely solely on this article's visa notes below.
 
+**Bringing things back into Japan:** Japan's Ministry of Agriculture, Forestry and Fisheries strictly enforces animal/plant quarantine on meat products, fruit, vegetables, plants, and seeds — even small amounts intended as personal souvenirs are generally prohibited or require quarantine inspection, and bringing them in without declaring can mean penalties. If you're unsure whether something you're bringing back counts, declare it at the quarantine counter at the airport rather than guessing. (OSS sends a reminder about this every winter break, when international travel spikes — see [MAFF's own guidance](https://www.maff.go.jp/pps/j/introduction/english_exp.html) for the current list.)
+
 ---
 
 ## South Korea (韓国)
