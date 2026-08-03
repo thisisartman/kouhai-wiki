@@ -462,6 +462,7 @@ To point it at a new address:
 | `quartz-plugins/home-search/` | The big inline search box on the homepage (separate from the small header search icon) |
 | `quartz-plugins/close-nav-on-outside-tap/` | Mobile nav behavior — tap-outside-to-close, swipe-to-open, the hamburger-to-X icon morph, and a few small navigation-transition fixes |
 | `CHANGELOG.md` | Session-by-session history of what changed and why — read this first when picking work back up |
+| `suggestions-log.csv` | Every Suggest-an-edit/new-page submission ever received — single source of truth, see §16 |
 | `MAINTENANCE.md` | This file |
 
 ---
@@ -857,13 +858,15 @@ that exist now — don't recreate copies elsewhere.
 
 ## 16. Suggestion Log — Every Submission Received
 
-Every "Suggest an edit"/"Suggest a new page" email that's ever landed, tracked here
-so nothing gets actioned twice or silently dropped. **This table is the single
-source of truth** — a short-lived `suggestions-log.md` was drafted outside the repo
-on 2026-07-18 and folded in here same-day; don't recreate a separate copy (same
-stale-duplicate mistake as the old `CHANGELOG`/`CONTRIBUTING` copies above).
+Every "Suggest an edit"/"Suggest a new page" email that's ever landed, tracked in
+**`suggestions-log.csv`** (repo root) — columns: `date, article, source, submitter,
+credit_consent, summary, status, notes`. **The CSV is the single source of
+truth** — migrated from a table in this file on 2026-08-03 (which itself replaced
+a short-lived `suggestions-log.md` outside the repo, folded in 2026-07-18); don't
+recreate a separate copy of either kind, same stale-duplicate mistake as the old
+`CHANGELOG`/`CONTRIBUTING` copies above.
 
-**"Senpai" vs "Self-test"** in the Source column just distinguishes real student
+**"Senpai" vs "Self-test"** in the `source` column just distinguishes real student
 submissions from the maintainer's own test/debug traffic through the same form —
 it is *not* the same thing as the About page's "Senpai Contributors" credit list
 (§7 step 4), though a Senpai-sourced suggestion with `credit_consent: yes` often
@@ -871,80 +874,17 @@ ends up on both.
 
 **Multi-item submissions get split.** If one email's `suggestion` text bundles
 several distinct asks (e.g. "add a map, mention bus stops, warn about bears..."),
-don't track it as one lump row — list the feedback entry once (date, article,
-source, submitter, original text), then break it into individually-numbered
-action items underneath, each with its own status. If `credit_consent` is
-`"yes"`, each *actioned* item counts as a separate entry toward that person's
-tally on the About page's Contributors list — a 6-item submission where 4 items
-get built is 4 credited contributions, not 1.
+don't track it as one lump row — one CSV row per distinct ask, same date/article/
+submitter repeated across rows, each with its own status. If `credit_consent` is
+`yes`, each *actioned* item counts as a separate entry toward that person's tally
+on the About page's Contributors list — a 6-item submission where 4 items get
+built is 4 credited contributions, not 1.
 
-| Date | Article | Source | Submitter | Summary | Status | Notes |
-|---|---|---|---|---|---|---|
-| 2026-07-13 | First Week Checklist | Senpai | Adithya | City-office staff visit campus for registration | Actioned | Backfilled — live in file since 2026-07-14, not logged at the time |
-| 2026-07-13 | First Week Checklist | Senpai | Adithya | Bank staff visit campus for scholarship account setup | Actioned | Backfilled — live in file since 2026-07-14 |
-| 2026-07-18 | SIM & Internet Setup | Senpai | Sree (consent: yes; DXP, Class of 2026, India) | Add eSIM/Trip.com option (~¥1000/mo or ¥14/day/GB) | Actioned | New "eSIM (Pre-Arrival Option)" bullet added under Airport (Immediate Options); credited on About page |
-| 2026-07-13 | How to Use This Wiki | Senpai | Appu | "As of right now, nothing. We wait for the storm." | Skipped | Not an actionable suggestion |
-| 2026-07-14 | How to Use This Wiki | Senpai | Adithya | "It's a bit unclear what frontmatter means" | Open | Current article doesn't use the word "frontmatter" at all in reader-facing copy, which may already resolve this, but not confirmed as an intentional fix — worth a deliberate pass |
-| 2026-07-18 | How to Use This Wiki (new-page mode) | Self-test | Terwadkar Apoorv Rajiv | Joke text, not a real suggestion | Skipped | Also the submission that surfaced the passage-field bug below |
-| 2026-07-18 | (new-page mode) | Senpai | Terwadkar Apoorv Rajiv | "Appu Can't Dance साला" — joke text, no article field | Skipped | Not an actionable suggestion |
-| 2026-07-18 | Convenience Store Food Guide | Senpai | Terwadkar Apoorv Rajiv | Google Maps links for 2 conbini near Urasa Station | Open | Real addresses provided, not yet added to article; check against the plain-hyperlink Maps convention (§15) |
-| 2026-07-18 | Convenience Store Food Guide | Senpai | Terwadkar Apoorv Rajiv | Google Maps link for conbini near Kikan Hospital | Open | Same as above |
-| 2026-07-18 | MyKouhai! Wiki (homepage) | Senpai | Terwadkar Apoorv Rajiv | Center the homepage title | Open | UI/layout change, not content |
-| 2026-07-18 | Romance, Consent & Adults Being Adults | Senpai | Terwadkar Apoorv Rajiv | Rewrite using IUJ PEC (Prevention of Sexual Harassment/related Committee?) info; re-contact OSS | Open | Needs real source material from OSS before any rewrite; can't fabricate |
-| 2026-07-20 | Bus & Local Routes | Senpai | Terwadkar Apoorv Rajiv | Add images/maps to the article | Actioned | Niigata lines map (from IUJ Hospital Guide scrape) embedded 2026-07-20 |
-| 2026-07-20 | Humour Across Cultures | Senpai | Terwadkar Apoorv Rajiv | Replace an example with a WiFi/iuj-air1 joke | Open | Specific joke text provided in the submission if picked up later |
-| 2026-07-20 | Humour Across Cultures | Senpai | Terwadkar Apoorv Rajiv | Remove a line, "not necessary as such" | Open | Submission doesn't quote which line; needs the submitter's original passage highlight or a follow-up ask |
-| 2026-07-20 | SIM & Internet Setup | Senpai | Terwadkar Apoorv Rajiv | Daishi cash card vs. debit/credit card distinction; docomo registration via Daishi + My Number; recommend JP Bank for long-term/scholarship students | Open | Substantive, multi-part; worth a dedicated edit pass |
-| 2026-07-23 | Packing List | Senpai | Terwadkar Apoorv Rajiv (consent: yes; India) | Add customs allowances info | Actioned | New "Customs Allowances (Duty-Free)" section added; `credit_consent: yes` but submitter is the maintainer — tracked here, not added to About page Contributors list |
-| 2026-07-23 | Visa & Documentation | Senpai | Terwadkar Apoorv Rajiv (consent: yes; Japan) | Mention work permit on entry, conditional on scholarship | Actioned | New "Work Permit on Entry" section added, cross-linked to [[Part-Time Work — Permits & Visa Rules]]; maintainer submission, not credited publicly |
-| 2026-07-23 | Visa & Documentation | Senpai | Terwadkar Apoorv Rajiv (consent: yes; India, MBA, 2027) | Correction: CoE sent by mail, not post/courier | Actioned | Suggestion's own wording ("by mail") was also imprecise — cross-checked against the submitter's real 2025-07-07 CoE-issuance email (Personal Pre-Admission mail sweep) and corrected further: IUJ actually forwards the CoE **by email** (Immigration Bureau's own notice, no physical delivery at all). Maintainer submission, not credited publicly |
-| 2026-07-20 | SIM & Internet Setup | Senpai | Terwadkar Apoorv Rajiv | Link to campus WiFi setup steps; nudge toward IT helpdesk | Open | |
-| 2026-07-20 | SIM & Internet Setup | Senpai | Terwadkar Apoorv Rajiv | Most students use WhatsApp, not LINE, for messaging; drop Google Voice/Skype; add FaceTime/Google Meet | Open | Contradicts current "LINE is dominant" framing in Calling & Messaging Apps section; needs a real edit, not just an addition |
-| 2026-07-20 | Survival Japanese — Phrases & Apps | Senpai | Terwadkar Apoorv Rajiv | Add a flashcard-making tutorial | Open | |
-| 2026-07-21 | First Week Checklist | Senpai | Terwadkar Apoorv Rajiv | Reflect IUJ's actual registration schedule; note pre-arrival SIM differs from the SIM you should get after arrival | Open | Checklist currently doesn't distinguish "before you land" vs. "after you land" SIM |
-| 2026-07-21 | First Week Checklist | Senpai | Terwadkar Apoorv Rajiv | Reword so JP Bank doesn't read as a strict necessity (checklist should be requirements-only); MEXT students must use JP Bank, not Daishi | Open | The MEXT-specific requirement isn't in the article yet; needs verifying before it goes in as a flat statement |
-| 2026-07-21 | How to Use This Wiki | Senpai | Terwadkar Apoorv Rajiv | Make titles clickable | Open | UI/code change |
-| 2026-07-21 | How to Use This Wiki | Senpai | Terwadkar Apoorv Rajiv | Add reference screenshots | Open | Needs actual screenshot assets |
-| 2026-07-21 | How to Use This Wiki | Senpai | Terwadkar Apoorv Rajiv | Embed the actual Suggest-an-edit button inline (or an image of it) | Open | UI/code change |
-| 2026-07-21 | How to Use This Wiki | Senpai | Terwadkar Apoorv Rajiv | Bold a passage, consider a quote block | Open | Needs the submitter's passage highlight to know exactly which text |
-| 2026-07-21 | How to Use This Wiki | Senpai | Terwadkar Apoorv Rajiv | Update a block to mention the edit button instead | Open | Needs the submitter's passage highlight to know exactly which block |
-| 2026-07-21 | India (country index) | Senpai | Terwadkar Apoorv Rajiv | Remove OCI Card and Pre-Departure Checklist as separate pages; fold into one wiki-wide checklist article | Actioned (partial) | Clarified 2026-07-21: the fold-into-wiki-wide-checklist part is about Pre-Departure Checklist only, not OCI — Pre-Departure Checklist stays as its own page for now. **OCI Card & Passport Renewal in Japan.md deleted outright**: confirmed via grep against the full scraped IUJ site (`Resources/IUJ-site/`) that OCI is never mentioned in any official IUJ documentation, so the page had no IUJ-sourced basis. Removed its wikilinks from International Travel — SEA & Korea, How to Plan & Budget, and the OCI checklist bullet from India — Pre-Departure Checklist. Re-add only if/when an actual need or source surfaces. |
-| 2026-07-21 | India — Cultural Information & Etiquette | Senpai | Terwadkar Apoorv Rajiv | Shorten stub-tag copy to "Needs student input" | Open | Current stub wording is close in meaning but not the exact requested phrase; low-priority microcopy |
-| 2026-07-21 | India — Cultural Information & Etiquette | Senpai | Terwadkar Apoorv Rajiv | Shorten stub-tag copy to "Barely any content yet" | Open | Same as above, alternate phrasing suggested |
-| 2026-07-21 | Mental Health Resources | Senpai | Terwadkar Apoorv Rajiv | "Structure data like this differently" | Open | Too vague to action without knowing which section; needs a follow-up ask |
-| 2026-07-21 | Spring Term: Post-Winter Blues & Sakura | Senpai | Terwadkar Apoorv Rajiv | Keep "Term" in the title, replace the em-dash with a colon | Actioned | Title changed to "Spring Term: Post-Winter Blues & Sakura" 2026-07-21; a previous session had misread the same pattern on Fall/Winter as agent-caused title corruption and reverted it — since corrected to match this request |
-| 2026-07-21 | Spring Term: Post-Winter Blues & Sakura | Senpai | Terwadkar Apoorv Rajiv | "This is not a 'free advice' portal" — reword a passage | Open | Needs the submitter's passage highlight to know exactly which line |
-| 2026-07-21 | Spring Term: Post-Winter Blues & Sakura | Senpai | Terwadkar Apoorv Rajiv | Reword headings that use "What do you mean, right?" phrasing to be less obnoxious | Open | |
-| 2026-07-21 | Thesis Guide (IR) — Supervisor, Timeline, Tips | Senpai | Terwadkar Apoorv Rajiv | Add own tutorials or links to helpful external ones (and "same for all other things") | Open | Broad ask, possibly wiki-wide in intent; scope needs clarifying |
-
-**2026-07-18 — MyKouhai! Wiki (homepage) — Senpai — koshoi_k** (real name
-Koshoi, MBA, Class of 2027, Kyrgyzstan, provided by the maintainer
-2026-07-19; credited on
-the About page for the 2 actioned items below)
-Original text: map of IUJ and the city, bus stops and schedule, mention it's okay
-to ask senpais for help/advice, don't forget the bear warning, mention winter is
-hard and summer is hot, add photos in general.
-Action items — resolved 2026-07-19, checked each against existing content first:
-1. IUJ + city map — **Skipped.** Google Maps app coverage (with an offline-map
-   tip) already exists in `Useful Apps in Japan — Maps, Transit,
-   Translation.md`; no custom map graphic exists or is needed.
-2. Bus stops/schedule — **Skipped.** `Bus & Local Routes.md` already exists,
-   fact-checked, `ready`. Homepage now links to it directly (see item 3).
-3. "It's okay to ask senpais for help" encouragement blurb — **Actioned.**
-   Added as a welcoming line on the homepage (`content/index.md`), above the
-   Pinned list, linking to `Bus & Local Routes` and `Useful Apps`.
-4. Bear warning — **Actioned.** Was a genuine gap (zero coverage anywhere).
-   Added as a new bullet in `Seasons & Weather — Month by Month.md`'s
-   "Niigata-Specific Notes" section, alongside the existing avalanche/
-   earthquake risk bullets — spring/autumn bear activity, not a daily
-   campus concern.
-5. Winter/summer hardship note — **Skipped.** Already thoroughly covered in
-   `Seasons & Weather — Month by Month.md` (Month by Month + Key Weather
-   Survival Points) and in the Winter/Spring term-wise advice articles.
-6. More photos in general — **Stays Backlog.** No image-asset pipeline
-   exists; needs actual senior-submitted photos, not something to generate.
-Needs a decision (still open): homepage blurb vs. verify-and-link existing
-articles, before any of these six get built.
+**2026-07-18 — MyKouhai! Wiki (homepage) — Senpai — koshoi_k**: real name Koshoi,
+MBA, Class of 2027, Kyrgyzstan (provided by the maintainer 2026-07-19; credited on
+the About page for the 2 actioned items). Split into 6 rows in the CSV. Needs a
+decision (still open): homepage blurb vs. verify-and-link existing articles, was
+the framing used for the two Actioned items in that batch.
 
 **Bug found via the Self-test row above, fixed 2026-07-18:** the "new page"
 mode's payload used to include a `passage` field carrying whatever text was
@@ -959,12 +899,22 @@ new-page ask. Rebuilt via `npm run build` in that package (dist/ is committed,
 not gitignored — always rebuild after editing src/).
 
 **Process for handling new submissions** (see also §7 for the decision rules):
+
+> As of 2026-08-03: **log new actionable suggestions to `suggestions-log.csv`
+> automatically** when checking mail — no need to wait for the maintainer to
+> ask each time. "Actionable" means an identifiable article + a concrete ask,
+> even if vague or needing follow-up (still logged as `Open` with a note on
+> what's missing). Skip logging genuine noise (blank/joke submissions, pure
+> UI-layout asks unrelated to content, etc. — use judgment same as §7).
+> **Logging is not the same as actioning** — don't edit the actual article
+> content until the maintainer explicitly says to action a given item.
+
 1. Scan `~/Downloads/Mail/IUJ/MyKouhai! Wiki/` for new `.eml` files, skipping
    known test/setup noise (subjects containing "Activate FormSubmit",
    "rate-limit test", "diagnostic", "hashed endpoint test", "PROD origin test",
    "TEST —").
 2. Parse with Python's `email` module (handles base64 MIME bodies correctly).
-3. Check the table above by article/date/submitter; skip anything already
+3. Check `suggestions-log.csv` by article/date/submitter; skip anything already
    logged.
-4. Decide per §7, act if it's a clear edit, then add a row here — don't leave
-   it untracked even if the decision is "skip."
+4. Decide per §7, act if it's a clear edit, then append a row to the CSV —
+   don't leave it untracked even if the decision is "skip."

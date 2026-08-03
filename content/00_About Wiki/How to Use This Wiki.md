@@ -93,6 +93,16 @@ Articles link to each other. Click any highlighted link to jump straight to that
 
 ---
 
+## Reading in a Different Language
+
+This wiki is only written in English. IUJ's programs are taught entirely in English and the student body spans 60+ countries, so English is the one language the whole community actually shares.
+
+If English isn't your first language, most browsers (Chrome, Edge, Safari) can auto-translate the page — look for a translate prompt or icon in the address bar, or check your browser's settings.
+
+> ⚠️ Browser translation can occasionally make the sidebar, search, or other interactive parts of the page glitchy or unresponsive, since it rewrites the page's content in a way that can conflict with how the site works under the hood. If something stops responding after translating, try viewing the original English version instead.
+
+---
+
 ## A Note on Accuracy
 
 This wiki reflects the experiences and knowledge of students at the time of writing. Japan changes, IUJ changes, prices change. For anything legally or financially significant, especially visa rules, tax obligations, and scholarship terms, verify against current official sources before acting.
