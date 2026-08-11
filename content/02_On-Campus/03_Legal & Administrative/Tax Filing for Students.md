@@ -33,6 +33,8 @@ Most IUJ students will deal with Japanese taxes in one form or another, especial
 | Filing period | Mid-February – March 15 |
 | Refunds issued | Usually within 1–2 months of filing |
 
+Official source: [確定申告 (National Tax Agency)](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2020.htm) — filing-period dates shift slightly year to year, confirm the exact window each season.
+
 ---
 
 ## Scholarship Tax Status

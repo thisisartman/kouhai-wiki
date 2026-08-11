@@ -17,6 +17,7 @@ Working part-time is allowed on a student visa in Japan, but within strict legal
 - Student visa holders can work a maximum of **28 hours per week**
 - During official university vacation periods (spring/summer break), the limit increases to **40 hours per week**
 - "Work" includes all jobs combined: if you have two part-time jobs, 28 hours is the total, not per job
+- Official rule: [「留学」の在留資格に係る資格外活動許可について](https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html), Immigration Services Agency of Japan
 
 **How to stay legal:**
 - Keep a personal record of your hours

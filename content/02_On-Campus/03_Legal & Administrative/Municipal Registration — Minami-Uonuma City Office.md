@@ -59,6 +59,7 @@ Tell the first counter you need to do all of them.
 
 - Enrollment is **mandatory** for all foreign residents staying over 3 months
 - Premium is income-based: as a student with low/no income, your premium will be minimal (~¥1,000–3,000/month)
+- Official procedure page: [国民健康保険 加入・脱退などの手続き](https://www.city.minamiuonuma.niigata.jp/docs/5905.html), Minami-Uonuma City
 - Covers 70% of medical costs at enrolled clinics and hospitals
 - Your insurance card (保険証) is issued by the City Office and reaches you via IUJ, not the postal service directly
 

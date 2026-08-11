@@ -51,7 +51,7 @@ After city registration, wait for the letter at your dorm address (~1–2 weeks)
 ### Step 2: Apply
 
 **Option A: Online (easiest)**
-1. Go to [mynumbercard.point.soumu.go.jp](https://mynumbercard.point.soumu.go.jp)
+1. Go to the official [My Number Card online application](https://www.kojinbango-card.go.jp/apprec/apply/online_apply/) portal (マイナンバーカード総合サイト)
 2. Use the QR code on your notification letter to access the application
 3. Upload a smartphone photo of your face (plain background, no glasses)
 4. Submit
