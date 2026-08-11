@@ -25,7 +25,7 @@ Campus-wide WiFi plus wired LAN in every dorm — both free with your IUJ networ
 
 ## Wired LAN (Dorms)
 
-Free for SD1/SD2/SD3 and MSA residents — you just need a LAN cable (borrow one from the MLIC office, or buy one at the school shop; MSA also has a LAN2 port available on the in-room WiFi router).
+Free for SD1/SD2/SD3 and MSA residents — you just need a LAN cable (borrow one from the MLIC office, or buy one at the school shop; MSA also has a LAN2 port available on the in-room WiFi router). Official rules: [Dorm LAN Connection Rules & Guidelines](https://www2.iuj.ac.jp/cs/manuals/dormlan_guideline/).
 
 | Dorm | Outlet location |
 |---|---|
@@ -40,7 +40,12 @@ Plug the cable between your PC and the wall outlet (or router LAN2 port for MSA)
 
 ## Setup by Device
 
+Steps below are condensed from MLIC's official per-device guides — linked
+under each OS if you want the original with more screenshots.
+
 ### Windows 11
+Official guide: [WLAN setup for Windows 11 (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/WLAN_for_Win11.pdf)
+
 1. Click the network icon (bottom-right taskbar) → the `>` arrow next to it
 2. Select **iuj-air1** from the list → Connect (optionally tick "Connect automatically")
 3. Enter your IUJ username and password → OK → Connect
@@ -52,6 +57,8 @@ Plug the cable between your PC and the wall outlet (or router LAN2 port for MSA)
 </div>
 
 ### Windows 10
+Official guide: [WLAN setup for Windows 10](https://www2.iuj.ac.jp/cs/manuals/setting-up-the-wireless-lan-connection-for-windows10/)
+
 1. Click the network icon (bottom-right taskbar)
 2. Select **iuj-air1** → Connect
 3. Enter your IUJ username and password → OK → Connect
@@ -65,6 +72,8 @@ Plug the cable between your PC and the wall outlet (or router LAN2 port for MSA)
 </div>
 
 ### macOS
+Official guide: [MLIC Mac Users Guide (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/MacUsersGuide.pdf)
+
 1. Click the WiFi icon in the menu bar
 2. Select **iuj-air1**
 3. Enter your IUJ username and password → Join
@@ -79,6 +88,8 @@ Plug the cable between your PC and the wall outlet (or router LAN2 port for MSA)
 </div>
 
 ### iPhone / iPad / iPod
+Official guide: [WLAN setup for iPhone/iPad/iPod](https://www2.iuj.ac.jp/cs/manuals/iphone/)
+
 1. Settings → Wi-Fi
 2. Tap **iuj-air1**
 3. Enter username and password → Join → Accept (certificate prompt)
@@ -92,6 +103,8 @@ Plug the cable between your PC and the wall outlet (or router LAN2 port for MSA)
 </div>
 
 ### Android
+Official guide: [WLAN setup for Android](https://www2.iuj.ac.jp/cs/manuals/android/)
+
 > ⚠️ Some newer Android versions may fail to connect — this is a known limitation MLIC IT hasn't fully resolved.
 
 1. Settings → Wi-Fi → turn on → tap **iuj-air1(5G)** or **iuj-air1g(2.4G)**
@@ -110,7 +123,7 @@ Plug the cable between your PC and the wall outlet (or router LAN2 port for MSA)
 
 ## Wifi Coverage Map
 
-MLIC publishes a building-level coverage map showing which areas have WiFi (all PC rooms, classrooms, library, study rooms, snack lounge, school shop, gym, and all dorms). If you hit a dead zone somewhere on campus, it's worth checking the official map at the IT Helpdesk (MLIC 1F) before assuming your device is at fault.
+MLIC publishes a building-level coverage map showing which areas have WiFi (all PC rooms, classrooms, library, study rooms, snack lounge, school shop, gym, and all dorms): [official WiFi coverage map (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/wifi_map.pdf). If you hit a dead zone somewhere on campus, it's worth checking that before assuming your device is at fault.
 
 ---
 

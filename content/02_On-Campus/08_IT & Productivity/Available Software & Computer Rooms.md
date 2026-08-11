@@ -12,7 +12,7 @@ What's on the public PCs, what you can install on your own laptop for free, and 
 
 ## Computer Rooms
 
-Two rooms on MLIC 1F, open to all students/faculty/staff with an IUJ network account. When a room is reserved for a course, use the other one.
+Two rooms on MLIC 1F, open to all students/faculty/staff with an IUJ network account. When a room is reserved for a course, use the other one. Official info: [PC Rooms](https://www2.iuj.ac.jp/cs/pc-rooms/).
 
 | | PC120 | PC121 |
 |---|---|---|
@@ -30,7 +30,7 @@ Smaller dorm PC lounges also exist (SD2 5F, SD3 5F: 4 computers each, 1 color pr
 
 > ⚠️ **All public computers reset on restart** — your personal files will be gone. Don't save work locally; use your IUJ Google Drive or a USB drive.
 
-**Reserving a room**: courses and TA sessions get priority and are scheduled in advance; IUJ offices reserve rooms via an online form. If a room shows as reserved, use the other one — check the posted schedule at the room or ask IT Helpdesk.
+**Reserving a room**: courses and TA sessions get priority and are scheduled in advance; IUJ offices reserve rooms via an online form. If a room shows as reserved, use the other one — check the [live room-reservation status](https://www2.iuj.ac.jp/cs/room-resv/) or ask IT Helpdesk.
 
 ---
 
@@ -39,6 +39,8 @@ Smaller dorm PC lounges also exist (SD2 5F, SD3 5F: 4 computers each, 1 color pr
 **Regular** (both rooms): Microsoft Office 2024, STATA
 
 **Special** (PC120/PC121, varies by room — see table above): E-Views, Stat Transfer, EIKON / LSEG Workspace, SPSS, NVivo, Adobe Creative Cloud (Acrobat, Photoshop, Premiere Pro, Illustrator, etc.)
+
+Full official list: [Available Software on Campus](https://www2.iuj.ac.jp/cs/programs/).
 
 Some special software (EIKON/LSEG, SPSS, NVivo in PC121) is limited to a **single terminal** — expect to queue during busy periods (thesis season, econometrics coursework).
 
@@ -50,8 +52,8 @@ Regular students (not non-regular/exchange) can install the following free of ch
 
 | Software | Notes |
 |---|---|
-| Microsoft Office Suite | Full 2024 Professional Plus (Word, Excel, PowerPoint, Access, InfoPath, OneNote) — **Publisher is not included** |
-| STATA | Activation required at MLIC office |
+| Microsoft Office Suite | Full 2024 Professional Plus (Word, Excel, PowerPoint, Access, InfoPath, OneNote) — **Publisher is not included**. See the [MS Office FAQ](https://www2.iuj.ac.jp/cs/computing-faq/microsoft-office/) |
+| STATA | Activation required at MLIC office. See the [STATA FAQ](https://www2.iuj.ac.jp/cs/computing-faq/stata/) |
 | Stat Transfer | Trial only on personal PCs |
 
 Apply through MLIC — see [MLIC IT Services](https://www2.iuj.ac.jp/cs/) for the current application process. E-Views, EIKON/LSEG, SPSS, and NVivo are **not** installable on personal computers — PC room use only.

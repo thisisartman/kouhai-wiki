@@ -12,6 +12,8 @@ First-time setup for a new Windows 11 PC (relevant if you buy a laptop locally, 
 
 ## Key Decisions During Setup
 
+Official guide: [Windows 11 Initial Setup (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/Win11_Initial%20setup.pdf).
+
 The wizard is mostly "click through," but a few screens are easy to get wrong:
 
 - **Region/keyboard**: confirm Japan (日本) and Microsoft IME are selected if you bought the PC in Japan
@@ -42,6 +44,8 @@ Once the final automated setup finishes and the desktop loads, you're done. Don'
 ---
 
 ## Changing Display Language to English
+
+Official guide: [Change language from Japanese to English (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/Win11_Language_Change.pdf).
 
 If the PC ships in Japanese and you want an English interface:
 

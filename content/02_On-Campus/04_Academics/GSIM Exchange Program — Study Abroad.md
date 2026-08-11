@@ -6,7 +6,7 @@ status: needs-work
 last_updated: 2026-07-25
 ---
 
-A study-abroad option for GSIM students, run through official campus announcements. Real, complete process — but this article is new, so treat every step below as a starting point to confirm with OAA/OSS rather than a final source.
+A study-abroad option for GSIM students, run through official campus announcements. Real, complete process — but this article is new, so treat every step below as a starting point to confirm with OAA/OSS rather than a final source. Official page: [Exchange Program Opportunities](https://www.iuj.ac.jp/academics/gsim/exchange/) (partner school list, program details).
 
 ---
 
