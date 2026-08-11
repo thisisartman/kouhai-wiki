@@ -16,7 +16,7 @@ Campus-wide WiFi plus wired LAN in every dorm — both free with your IUJ networ
 |---|---|---|
 | **iuj-air1** (5GHz) / **iuj-air1g** (2.4GHz) | Campus-wide: PC rooms, classrooms, library, study rooms, snack lounge, school shop, gym, SD1/SD2/SD3, MSA, entrance lobby | Your IUJ username + network password |
 | Classroom hotspots (e.g. `C101-Hotspot`) | Individual classrooms | Password posted on the room wall |
-| Dorm hotspots (e.g. `SD1-1F-1`) | SD1/SD2/SD3, alongside iuj-air1 | Common password: `welcomeiuj` |
+| Dorm hotspots (e.g. `SD1-1F-1`) | SD1/SD2/SD3, alongside iuj-air1 | Ask Dorm Staff or a floor-mate for the current password |
 | `MSA-[room no.]` (e.g. `MSA-202`) | Married Students' Apartment, per-room | Password on the router in your room |
 
 > 💡 iuj-air1 tops out around 11–100 Mbps depending on location; wired LAN in the dorms runs 1Gbps. If your WiFi feels slow, plugging in is a real upgrade, not a placebo.
@@ -116,7 +116,7 @@ MLIC publishes a building-level coverage map showing which areas have WiFi (all 
 
 ## Trouble Connecting?
 
-Contact IT Helpdesk (MLIC 1F): Phone ext. **527**, email **support-com@iuj.ac.jp**.
+Contact IT Helpdesk (MLIC 1F) — see [MLIC IT Services](https://www2.iuj.ac.jp/cs/) for current contact details and hours.
 
 ---
 

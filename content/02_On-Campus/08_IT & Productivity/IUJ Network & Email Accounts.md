@@ -19,9 +19,7 @@ If you already registered for a network account before arriving (including IEP p
 ## Email Account
 
 - Runs on Google Workspace for Education (Gmail): **gmail.com**, login `xxxxx@iuj.ac.jp`
-- Webmail recommended, but IMAPS/POP3S also work if you enable POP/IMAP access in Gmail settings first
-  - POP: `pop.gmail.com` (TCP995) · IMAP: `imap.gmail.com` (TCP993) · SMTP: `smtp.gmail.com` (TCP465)
-- **Port 25 is blocked** for outgoing mail (anti-spam measure) — use port 587 or 465 instead if configuring a mail client manually
+- Webmail recommended for most students; if you need to configure a desktop/mobile mail client instead, contact [MLIC IT Services](https://www2.iuj.ac.jp/cs/) for current server settings
 
 ## Network Account
 
@@ -59,8 +57,8 @@ Network and email passwords start identical but are **changed separately** — u
 ## User Support
 
 - **IT Helpdesk**, MLIC 1F — student support team, check posted consulting hours
-- **MLIC Office**, MLIC 3F — weekdays 8:30–17:00
-- Phone: 025-779-1527 (internal: ext. 527) · Email: **support-com@iuj.ac.jp**
+- **MLIC Office**, MLIC 3F — weekdays 8:30–16:30
+- Contact details and current hours: [MLIC IT Services](https://www2.iuj.ac.jp/cs/)
 - MLIC doesn't repair physically broken hardware — contact the manufacturer for that; Japanese-language support available if needed
 
 ---
