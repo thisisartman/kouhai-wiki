@@ -68,7 +68,7 @@ Google Scholar alone won't give you full-text access to paywalled articles. Link
 
 ### Writing
 - **Overleaf**: browser-based LaTeX editor; useful if your thesis has heavy quantitative/mathematical content. Free tier available.
-- **Microsoft Word**: standard for most IUJ submissions. IUJ's actual license is **Office 2021 Professional Plus (64-bit)** (a perpetual license, not an Office 365 subscription), including Word, Excel, PowerPoint, Access, Publisher, InfoPath, and OneNote. Usable in Computer Room 120/121 and dorm lounges, and **installable on your own PC**.
+- **Microsoft Word**: standard for most IUJ submissions. IUJ's actual license is **Office 2024 Professional Plus** (a perpetual license, not an Office 365 subscription), including Word, Excel, PowerPoint, Access, InfoPath, and OneNote — **Publisher is not included**. Usable in Computer Room 120/121 and dorm lounges, and **installable on your own PC**. See [[Available Software & Computer Rooms]] and the official [Available Software on Campus](https://www2.iuj.ac.jp/cs/programs/) list.
 
 ### Data & Quantitative Analysis
 - **R + RStudio**: free, standard for academic statistical analysis

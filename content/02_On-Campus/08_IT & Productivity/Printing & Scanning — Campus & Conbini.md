@@ -12,7 +12,7 @@ You'll need to print more than you expect: assignment submissions, admin forms, 
 
 ## Campus Printing
 
-IUJ has **10 printers** across campus: in the dorms (`sd1color` SD1 2F, `sd2color` SD2 5F, `sd3color` SD3 5F, `MSAcolor` MSA 1F, all color), the Study Room (`StdRmColor`) and Library (`LibColor`), and PC Rooms 120 and 121 (mix of B&W and color). PC120 has 2 B&W printers (`stprt5`/`stprt6`) plus 1 color printer (`stcolor`), and PC121 has 1 B&W printer (`stprt7`); MLIC's official IT Guide (Sept 2025), the Network Printers manual page, and MLIC IT's July 2026 mail on reinstalling these printers all confirm this naming/numbering.
+IUJ has **10 printers** across campus: in the dorms (`sd1color` SD1 2F, `sd2color` SD2 5F, `sd3color` SD3 5F, `MSAcolor` MSA 1F, all color), the Study Room (`StdRmColor`) and Library (`LibColor`), and PC Rooms 120 and 121 (mix of B&W and color). PC120 has 2 B&W printers (`stprt5`/`stprt6`) plus 1 color printer (`stcolor`), and PC121 has 1 B&W printer (`stprt7`); MLIC's official IT Guide (Sept 2025), the [Network Printers manual page](https://www2.iuj.ac.jp/cs/manuals/printer_info/), and MLIC IT's July 2026 mail on reinstalling these printers all confirm this naming/numbering.
 
 **Printing fee (current, per MLIC IT):**
 - **¥7/page black & white, ¥50/page color**, same price regardless of paper size
@@ -24,8 +24,8 @@ IUJ has **10 printers** across campus: in the dorms (`sd1color` SD1 2F, `sd2colo
 - **Banner/large-format printing** is restricted to GSO-EC and the IM/IR councils; personal use isn't allowed.
 
 **Setup:**
-- Windows: press Win+R, type `\\iuj-home` (or `\\iuj-home.iuj.ac.jp`), enter your IUJ credentials, then double-click the printer icon to install its driver
-- Mac: connect via `smb://iuj-home.iuj.ac.jp/<printername>` under System Settings → Printers & Scanners → Advanced
+- Windows: press Win+R, type `\\iuj-home` (or `\\iuj-home.iuj.ac.jp`), enter your IUJ credentials, then double-click the printer icon to install its driver — official guide: [Installing a network printer on Windows](https://www2.iuj.ac.jp/cs/manuals/win_printer_drv/)
+- Mac: connect via `smb://iuj-home.iuj.ac.jp/<printername>` under System Settings → Printers & Scanners → Advanced — official guide: [Mac printer setup (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/printer_mac.pdf)
 - **MLIC Office hours:** Mon–Fri 8:30–16:30, closed weekends/holidays. **Student Helpdesk:** Mon–Fri 15:00–17:00 & 20:00–22:00, Sun 15:00–17:00. See [MLIC IT Services](https://www2.iuj.ac.jp/cs/) for the current schedule.
 
 > ⚠️ **PC-room printers get swapped/reconfigured occasionally.** MLIC IT replaced the B&W printers in PC120/PC121 in July 2026 and asked students to re-install the driver — Windows and Mac users got separate instructions, and Mac users had to wait a few days longer for an updated manual. If a printer you used before stops connecting, check for an MLIC announcement about a reinstall before assuming your own setup broke.

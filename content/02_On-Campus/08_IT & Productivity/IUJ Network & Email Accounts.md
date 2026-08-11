@@ -20,6 +20,7 @@ If you already registered for a network account before arriving (including IEP p
 
 - Runs on Google Workspace for Education (Gmail): **gmail.com**, login `xxxxx@iuj.ac.jp`
 - Webmail recommended for most students; if you need to configure a desktop/mobile mail client instead, contact [MLIC IT Services](https://www2.iuj.ac.jp/cs/) for current server settings
+- MLIC also has an official guide for [enabling two-step verification](https://www2.iuj.ac.jp/cs/manuals/two-step-verification/) on your IUJ Gmail — worth doing, this account holds your entire academic life
 
 ## Network Account
 

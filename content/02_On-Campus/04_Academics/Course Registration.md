@@ -18,7 +18,7 @@ IUJ runs on a trimester system: Fall, Winter, and Spring terms. Course registrat
 
 ## Before You Can Register: Get Your Computer Account
 
-The student portal is gated behind a separate **IUJ computer login account** — you don't have one automatically just by being admitted. IUJ emails incoming students an account-application form (`iuj.ac.jp/account_registration/`) with its own deadline, roughly **2–3 weeks before registration opens** — miss it and you can't register on time. MLIC (the library/IT office, `mlic-com@iuj.ac.jp`) processes these and emails back your login ID and `@iuj.ac.jp` address, usually within about a week.
+The student portal is gated behind a separate **IUJ computer login account** — you don't have one automatically just by being admitted. IUJ emails incoming students a link to the [account-application form](https://www2.iuj.ac.jp/account_registration/) with its own deadline, roughly **2–3 weeks before registration opens** — miss it and you can't register on time. MLIC (the library/IT office, `mlic-com@iuj.ac.jp`) processes these and emails back your login ID and `@iuj.ac.jp` address, usually within about a week.
 
 - Your **initial password** for both the computer login and the separate Gmail account is your birthdate in `YYYYMMDD#` format (e.g. born Jan 2, 1998 → `19980102#`) — change both (they're independent) as soon as you can actually log in
 - Course materials (syllabi, timetables, textbook lists) get shared via a Google Drive folder that **only your IUJ account can open** — your personal Gmail won't work, even if you're already added as a viewer
@@ -26,6 +26,8 @@ The student portal is gated behind a separate **IUJ computer login account** —
 ---
 
 ## Registration Timeline (General)
+
+Source: [official Academic Calendar 2026/27 (PDF)](https://www.iuj.ac.jp/assets/img/Calendar_2026-27.pdf), verified against the table below.
 
 | Event | 2026-27 Academic Year Dates |
 |---|---|
