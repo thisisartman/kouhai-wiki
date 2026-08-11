@@ -32,7 +32,7 @@ Rural Niigata has a limited job market compared to Tokyo. Realistic options:
 
 - **Teaching Assistant (TA)** positions assist professors with courses; check with your department
 - **Research Assistant (RA)**, paid research support roles; ask your academic advisor
-- **Pay rate:** roughly **¥800–1,000/hour** for on-campus jobs, per IUJ's own materials
+- **Pay rate:** at least Niigata Prefecture's minimum wage, currently **¥1,050/hour** (effective since Oct 2025; a rise to ¥1,108/hour is proposed for Oct 2026) — see the [official prefecture minimum wage page](https://www.pref.niigata.lg.jp/sec/shigototeijyu/1317606873248.html). Don't sign an offer below this. Remember to actually sign the work agreement, not just verbally agree.
 - These are the easiest options for students who prefer not to deal with Japanese-language workplaces
 - **TA/RA positions do not require a Work Permit.** This is an explicit exception per IUJ's official guidance, but library jobs are different: they **do** require a Work Permit like off-campus work does. Don't assume all on-campus jobs are permit-free.
 - **Some scholarships ban part-time work outright.** Many scholarships don't allow part-time employment that requires a Work Permit, and **JICA, ADB, and IMF-sponsored students specifically cannot get a Work Permit at all**. Check your scholarship's terms before assuming you can take any job; this applies beyond just the driving restriction covered elsewhere.

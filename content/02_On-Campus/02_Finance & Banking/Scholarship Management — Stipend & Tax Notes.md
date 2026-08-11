@@ -6,7 +6,7 @@ status: needs-work
 last_updated: 2026-07-25
 ---
 
-If you're on a scholarship that includes a monthly stipend, here's how the payment system works and what to watch for.
+If you're on a scholarship that includes a monthly stipend, here's how the payment system works and what to watch for. Official overview: [Budgeting: Cost of Attending IUJ and Scholarships](https://www2.iuj.ac.jp/oss/future-students/budgeting/).
 
 **JASSO stipend amount:** ¥48,000/month, paid October through March, with a second application (on a more competitive basis) available for April through March of your second year.
 
@@ -56,7 +56,7 @@ A few billing nuances worth knowing:
 
 Tuition is billed per term, with the deadline generally falling at **the end of the month before each term begins** (a lump-sum-per-year option also exists, ask Accounting). Confirm the exact date for your term with Accounting rather than assuming — missing it falls under the same Article 27(4) non-payment provision as the monthly late fee above, a real dismissal risk, not just an administrative annoyance.
 
-Per-term tuition (2022-enrollment figures, confirm current amounts with Accounting):
+Per-term tuition (2022-enrollment figures — confirm current amounts against the official [Tuition & Scholarships](https://www.iuj.ac.jp/admissions/cost/) page or with Accounting, since these are dated and IUJ has changed tuition before):
 | Programmes | Per term |
 |---|---|
 | IRP, IDP, PMPP, JGDB, MBA | ¥1,100,000 |

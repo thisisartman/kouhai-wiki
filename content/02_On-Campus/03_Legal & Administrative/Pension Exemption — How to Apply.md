@@ -14,8 +14,8 @@ Japan requires all residents aged 20–59 to enroll in the national pension syst
 
 ## Why This Matters
 
-- Monthly pension premium: **¥16,980/month** (2024 rate)
-- As a student, this is reduced to **¥0** via the student exemption
+- Monthly pension premium: **¥17,920/month** (FY2026, Apr 2026–Mar 2027 rate — it rises most years, so treat this as illustrative rather than fixed; see [official rate page](https://www.nenkin.go.jp/section/faq/kokunen/seido/hokenryo/seidosetsumei/20150331.html))
+- As a student, this is reduced to **¥0** via the student exemption ([学生納付特例制度, Japan Pension Service](https://www.nenkin.go.jp/service/kokunen/menjo/20150514.html))
 - The exemption period still counts toward your pension record: you're not losing entitlement, just deferring payment
 
 ---
