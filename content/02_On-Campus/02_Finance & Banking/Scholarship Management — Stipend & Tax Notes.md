@@ -75,8 +75,10 @@ The premium is paid as a **lump sum for your entire enrolment period**, deducted
 | Programme | Premium |
 |---|---|
 | 2-year programme | ¥2,430 |
-| 1-year programme | ¥1,340 |
-| PhD | ¥3,620 |
+| 1-year programme | ¥1,540 |
+| 3-year programme (incl. PhD) | ¥3,620 |
+
+Official source: [Health Insurance](https://www2.iuj.ac.jp/oss/health-insurance/), OSS — page notes prices may change, so treat as current-but-not-permanent.
 
 If you're injured during IUJ curricular or extracurricular activities, report it to the **Health & Wellness Office** immediately. Keep all medical receipts for insurance claims.
 

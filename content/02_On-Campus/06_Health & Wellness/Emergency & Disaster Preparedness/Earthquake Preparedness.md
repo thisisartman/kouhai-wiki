@@ -8,7 +8,7 @@ last_updated: 2026-07-25
 
 Japan is one of the most seismically active countries in the world. Niigata has a notable earthquake history: the 2004 Chūetsu earthquake (magnitude 6.8) caused significant damage in Minami-Uonuma district. Earthquakes here are not theoretical.
 
-Most earthquakes are minor and go unnoticed. But knowing what to do before one happens matters.
+Most earthquakes are minor and go unnoticed. But knowing what to do before one happens matters. Official resources: Minami-Uonuma City's [地震への備え (Earthquake Preparedness)](https://www.city.minamiuonuma.niigata.jp/docs/2456.html) and [web-based hazard map](https://www.city.minamiuonuma.niigata.jp/hazardmap/).
 
 ---
 

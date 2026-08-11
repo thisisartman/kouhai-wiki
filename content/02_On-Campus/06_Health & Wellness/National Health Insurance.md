@@ -88,13 +88,11 @@ Check the Family Guide and Guide to Women's Health (available from OSS) for more
 
 NHI isn't the only insurance IUJ requires. **All students must also enroll in Liability and Injury Insurance** (often called "Gakken Sai"), which covers injury to yourself or damage/injury to others during IUJ-approved activities, separate from NHI's medical-cost coverage.
 
-- 1-year program: ¥1,340
+- 1-year program: ¥1,540
 - 2-year program: ¥2,430
-- PhD: ¥3,620
+- 3-year program (incl. PhD): ¥3,620
 
-Charged once during your enrolled period, alongside your other program fees.
-
-> ⚠️ IUJ's own sources disagree slightly on the 1-year figure: the Info Pack (used above) says ¥1,340, but IUJ's Health Insurance page on the OSS site says ¥1,540. Confirm the exact amount with the Health & Wellness coordinator or OSS when you enroll.
+Charged once during your enrolled period, alongside your other program fees. Official source: [Health Insurance](https://www2.iuj.ac.jp/oss/health-insurance/), OSS — note the page itself says "prices may change," so treat these as current-but-not-permanent. (An older Info Pack PDF listed ¥1,340 for the 1-year figure; the live OSS page above is the more current source and says ¥1,540.)
 
 ---
 
