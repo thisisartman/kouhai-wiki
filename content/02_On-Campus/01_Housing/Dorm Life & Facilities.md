@@ -6,7 +6,7 @@ status: needs-work
 last_updated: 2026-07-24
 ---
 
-IUJ's dormitories are on-campus and within walking distance of everything. For most students, dorm life is the default for at least Year 1. This article covers what to expect, what's available, and how second-year housing works.
+IUJ's dormitories are on-campus and within walking distance of everything. For most students, dorm life is the default for at least Year 1. This article covers what to expect, what's available, and how second-year housing works. Official overview: [Dorm and Facility Information](https://www.iuj.ac.jp/admissions/living-guide/dorm/).
 
 ---
 

@@ -71,7 +71,7 @@ last_updated: 2026-07-25
 ## Mental Health Crisis
 
 If you or someone else is in a mental health crisis:
-- **TELL Lifeline (English):** 03-5774-0992
+- **TELL Lifeline (English):** 03-5774-0992, or toll-free at 0800-300-8355 — see [official hours and chat option](https://telljp.com/lifeline/)
 - **Inochi no Denwa (24/7, Japanese):** 0120-783-556
 - **IUJ Health and Wellness Office:** During office hours
 - Do not leave someone alone if you are seriously concerned about their safety: stay with them and call for help
