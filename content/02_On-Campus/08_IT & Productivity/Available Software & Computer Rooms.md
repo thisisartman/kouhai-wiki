@@ -36,7 +36,7 @@ Smaller dorm PC lounges also exist (SD2 5F, SD3 5F: 4 computers each, 1 color pr
 
 ## Software on Public PCs
 
-**Regular** (both rooms): Microsoft Office 2021, STATA
+**Regular** (both rooms): Microsoft Office 2024, STATA
 
 **Special** (PC120/PC121, varies by room — see table above): E-Views, Stat Transfer, EIKON / LSEG Workspace, SPSS, NVivo, Adobe Creative Cloud (Acrobat, Photoshop, Premiere Pro, Illustrator, etc.)
 
@@ -50,12 +50,11 @@ Regular students (not non-regular/exchange) can install the following free of ch
 
 | Software | Notes |
 |---|---|
-| Microsoft Office Suite | Full 2021 Professional Plus (Word, Excel, PowerPoint, Access, Publisher, InfoPath, OneNote) |
+| Microsoft Office Suite | Full 2024 Professional Plus (Word, Excel, PowerPoint, Access, InfoPath, OneNote) — **Publisher is not included** |
 | STATA | Activation required at MLIC office |
 | Stat Transfer | Trial only on personal PCs |
-| Windows 10/11 (Mac only) | ¥3,000 fee; free for Mac — requires Intel Mac; Parallels Desktop recommended to run it |
 
-Apply at **[iuj.ac.jp/cs/application_form](https://www.iuj.ac.jp/cs/application_form/)**. You'll need to register your personal info on that page first. E-Views, EIKON/LSEG, SPSS, and NVivo are **not** installable on personal computers — PC room use only.
+Apply through MLIC — see [MLIC IT Services](https://www2.iuj.ac.jp/cs/) for the current application process. E-Views, EIKON/LSEG, SPSS, and NVivo are **not** installable on personal computers — PC room use only.
 
 ---
 

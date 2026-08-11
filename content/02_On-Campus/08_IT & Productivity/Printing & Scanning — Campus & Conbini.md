@@ -26,11 +26,11 @@ IUJ has **10 printers** across campus: in the dorms (`sd1color` SD1 2F, `sd2colo
 **Setup:**
 - Windows: press Win+R, type `\\iuj-home` (or `\\iuj-home.iuj.ac.jp`), enter your IUJ credentials, then double-click the printer icon to install its driver
 - Mac: connect via `smb://iuj-home.iuj.ac.jp/<printername>` under System Settings → Printers & Scanners → Advanced
-- **MLIC Office hours:** Mon–Fri 8:30–17:00, closed weekends/holidays. **Student Helpdesk:** Mon–Fri 15:00–17:00 & 20:00–22:00, Sun 15:00–17:00.
+- **MLIC Office hours:** Mon–Fri 8:30–16:30, closed weekends/holidays. **Student Helpdesk:** Mon–Fri 15:00–17:00 & 20:00–22:00, Sun 15:00–17:00. See [MLIC IT Services](https://www2.iuj.ac.jp/cs/) for the current schedule.
 
 > ⚠️ **PC-room printers get swapped/reconfigured occasionally.** MLIC IT replaced the B&W printers in PC120/PC121 in July 2026 and asked students to re-install the driver — Windows and Mac users got separate instructions, and Mac users had to wait a few days longer for an updated manual. If a printer you used before stops connecting, check for an MLIC announcement about a reinstall before assuming your own setup broke.
 
-> 🔶 **ARM-based Windows laptops and Linux users**: as of mid-2026, IUJ's Student Helpdesk had informally identified official Fujifilm Business Innovation drivers (the manufacturer of IUJ's printers) covering Windows ARM and Linux (Ubuntu/RHEL) for the printers in Study Room 1, PC Room 120, and PC Room 121 specifically — via `support-fb.fujifilm.com`. This wasn't yet confirmed by MLIC IT as official guidance at time of writing, and coverage for dorm printers (SD1/SD2/SD3/MSA) was explicitly unconfirmed. If you're on ARM Windows or Linux and the standard `\\iuj-home` driver install fails, this is worth trying, but treat it as unofficial until MLIC posts it in their manuals.
+> 🔶 **ARM-based Windows laptops and Linux users**: as of mid-2026, IUJ's Student Helpdesk had informally identified Fujifilm Business Innovation drivers (the manufacturer of IUJ's printers) covering Windows ARM and Linux (Ubuntu/RHEL) for the printers in Study Room 1, PC Room 120, and PC Room 121 specifically — via `support-fb.fujifilm.com`. **This is not officially tested or recommended by MLIC** — coverage for dorm printers (SD1/SD2/SD3/MSA) is unconfirmed, and MLIC has not posted this as guidance in their own manuals. If you're on ARM Windows or Linux and the standard `\\iuj-home` driver install fails, this is worth trying, but it's entirely at your own discretion.
 
 **What campus printing is good for:**
 - Lecture notes and readings

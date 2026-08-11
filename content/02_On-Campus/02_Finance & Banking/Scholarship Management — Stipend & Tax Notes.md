@@ -36,7 +36,7 @@ You'll receive a reminder email when your stipend is ready for collection.
 
 IUJ issues monthly expense invoices (dorm fees, meal plan costs, insurance deductions, etc.) through the **MyIUJ portal**, on a fixed monthly cycle:
 
-- **20th of each month:** your statement is issued and viewable on MyIUJ (via "Statements of your expenses" in the bottom-left corner)
+- **20th of each month:** your statement is issued and viewable on MyIUJ (log in and check your statements section)
 - **25th of each month:** the amount is automatically deducted from your bank account
 - If either date falls on a weekend or national holiday, it moves to the working day immediately before
 - Deducted charges typically cover: dormitory fees for the *current* month, plus other fees (copy fees, phone charges, etc.) for the *previous* month. So the September 25th deduction covers September's rent + August's other fees
@@ -54,7 +54,7 @@ A few billing nuances worth knowing:
 
 ## Tuition
 
-Tuition is billed per term with fixed deadlines: **Fall — Sept 30, Winter — Jan 31, Spring — Apr 30** (a lump-sum-per-year option also exists, ask Accounting). Missing these deadlines falls under the same Article 27(4) non-payment provision as the monthly late fee above — this is a real dismissal risk, not just an administrative annoyance.
+Tuition is billed per term, with the deadline generally falling at **the end of the month before each term begins** (a lump-sum-per-year option also exists, ask Accounting). Confirm the exact date for your term with Accounting rather than assuming — missing it falls under the same Article 27(4) non-payment provision as the monthly late fee above, a real dismissal risk, not just an administrative annoyance.
 
 Per-term tuition (2022-enrollment figures, confirm current amounts with Accounting):
 | Programmes | Per term |

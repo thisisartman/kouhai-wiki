@@ -99,11 +99,7 @@ See [[Japanese Language Courses at IUJ]] for dedicated language learning guidanc
 
 ## Academic Integrity
 
-IUJ's academic integrity policies apply to AI use. The field is evolving, so check current IUJ guidance on what's permitted.
-
-The general principle: if you're using AI to generate ideas, arguments, or text that you then submit as your own, that's an integrity issue. If you're using AI as a research tool, writing aid, or productivity system, that's within normal scholarly practice.
-
-When in doubt, cite it or don't use it.
+IUJ's academic integrity policies apply to AI use, and the field is evolving fast. **Don't rely on a general rule of thumb here** — check IUJ's latest official guidelines on generative AI, and follow your instructor's specific rules for each class/assignment; permitted use can vary course to course.
 
 ---
 

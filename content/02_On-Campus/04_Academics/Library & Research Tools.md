@@ -33,7 +33,7 @@ The IUJ Library (国際大学図書館) is a research-grade academic library ser
 - English-language collection is extensive; Japanese collection also available
 - Borrowing period: ⚠️ confirm current limits at the counter
 
-**Renewing online** (per MLIC library guidance): log into "User Record" (My Library) on the [library website](https://www.iuj.ac.jp/library/) with your IUJ network ID/PW → Status of Borrowing and Reserving → select the item → Renew. Online renewal works **only once, before the actual due date**; on the due date itself the system stops accepting the request. It also does **not** cover course reserve books (one-day loan items) — for those, you have to go to the counter in person.
+**Renewing online** (per MLIC library guidance): log into "My Library" on the [library website](https://www.iuj.ac.jp/library/) with your IUJ network ID/PW to renew a loan. Online renewal works **only once, before the actual due date**; on the due date itself the system stops accepting the request. It also does **not** cover course reserve books (one-day loan items) — for those, you have to go to the counter in person.
 
 **Reserving online**: search the catalog on the library website; if a book's status shows ON LOAN, a Reserve button appears. You get a system notice as soon as the book is returned to the circulation desk.
 

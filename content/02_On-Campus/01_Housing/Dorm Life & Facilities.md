@@ -87,23 +87,9 @@ CNP is used for casual hangouts, group screenings, events, and payment/registrat
 
 > 📎 The Facilities announcement referenced a fuller attached document for CNP rule details not included in the email body — not verified here.
 
-### SD3 Lounge
-
-Available on **Fridays and Saturdays** with prior registration through OSS. Rules:
-- The registered individual/group takes responsibility for the space
-- Usage generally until ~1:30 AM (security guard break begins at 2:00 AM)
-- Groups staying until 6:30 AM must register at least 3 responsible persons in advance
-- Complaints or issues may result in warnings (yellow card system)
-
-To book: contact OSS in advance.
-
 ### BBQ Area
 
 An outdoor BBQ area on campus, usable in warm months (roughly April–October). **Advance reservation is required.** Per IUJ's own Dormitory Info, the BBQ site (like the Snack Lounge and MSA tatami rooms) needs booking ahead through OSS, not a walk-up space. Keep music and noise considerate of students who are studying.
-
-### Rooftop
-
-**Currently closed.** IUJ restricted rooftop access as part of a broader safety policy. This is unlikely to change.
 
 ### Gym
 

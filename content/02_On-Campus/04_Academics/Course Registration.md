@@ -48,12 +48,7 @@ Each term runs 10 weeks total: the first 8 weeks are the 1st Module, the remaini
 
 ## How to Register
 
-1. Log into the **IUJ Student Portal** (confirm URL with IUJ IT/admin)
-2. Navigate to Course Registration
-3. Browse by term, program (MBA / IR), or requirement category
-4. Add desired courses to your schedule
-5. Check for conflicts: the system may not auto-flag all of them
-6. Submit registration before the deadline
+Register through the **IUJ Student Portal**, using your IUJ computer account (see above). The portal walks you through course browsing and submission once you're logged in — the main thing to know going in: double-check for schedule conflicts yourself, since the system may not auto-flag all of them, and submit well before the deadline rather than at the last minute.
 
 ---
 
