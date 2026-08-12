@@ -78,7 +78,7 @@ Many municipalities require waste to be placed in designated official bags (指�
 
 Collection happens on specific days for specific categories.
 
-> ⚠️ The IUJ dorm should have the current schedule posted in the garbage room: this changes and isn't something to guess at. If not posted, the Minami-Uonuma City website (南魚沼市) has the official schedule.
+> ⚠️ The IUJ dorm should have the current schedule posted in the garbage room: this changes and isn't something to guess at. If not posted, Minami-Uonuma City's official pages have the current schedule and sorting rules: [家庭ごみ分別辞典 (searchable sorting dictionary)](https://www.city.minamiuonuma.niigata.jp/docs/1431.html) and [家庭ごみの分け方・出し方（大和地域）](https://www.city.minamiuonuma.niigata.jp/docs/1465.html) (Yamato area, which covers IUJ/Urasa).
 
 ---
 
