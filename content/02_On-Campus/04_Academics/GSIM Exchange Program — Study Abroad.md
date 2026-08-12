@@ -34,6 +34,7 @@ A lighter-weight option exists alongside the full exchange: a **Virtual MBA Exch
 ## Official IUJ Sources
 
 - [Exchange Program Opportunities](https://www.iuj.ac.jp/academics/gsim/exchange/) — partner school list, program details
+- [GSIM Student Handbook 2025-2026 (PDF)](https://www.iuj.ac.jp/assets/img/student-handbook_Handbook2025-26.pdf) — has the current named list of 25 partner institutions plus credit-transfer rules for exchange credits, more detail than summarized here
 
 ---
 

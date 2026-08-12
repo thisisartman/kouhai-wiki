@@ -99,6 +99,7 @@ Register through the **IUJ Student Portal**, using your IUJ computer account (se
 
 - [Account-application form](https://www2.iuj.ac.jp/account_registration/) — required before you can register
 - [Official Academic Calendar 2026/27 (PDF)](https://www.iuj.ac.jp/assets/img/Calendar_2026-27.pdf)
+- [GSIM Student Handbook 2025-2026 (PDF)](https://www.iuj.ac.jp/assets/img/student-handbook_Handbook2025-26.pdf) — authoritative for GSIM (MBA/JGDP/IMBA/DXP/ISEP) students specifically: full registration process, course credit rules, grading system, GPA policy, and more, beyond what's summarized in this article. GSIR (IR) students should check for a separate GSIR-specific handbook instead.
 
 ---
 

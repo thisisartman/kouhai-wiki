@@ -105,7 +105,13 @@ See [[Japanese Language Courses at IUJ]] for dedicated language learning guidanc
 
 ## Academic Integrity
 
-IUJ's academic integrity policies apply to AI use, and the field is evolving fast. **Don't rely on a general rule of thumb here** — check IUJ's latest official guidelines on generative AI, and follow your instructor's specific rules for each class/assignment; permitted use can vary course to course.
+IUJ's academic integrity policies apply to AI use, and the field is evolving fast. **Don't rely on a general rule of thumb here** — check IUJ's latest official guidelines on generative AI (the GSIM Student Handbook has a full "AI Use Guideline for IUJ Students" section, the ACT framework, covering what AI must not be used for and the disclosure process), and follow your instructor's specific rules for each class/assignment; permitted use can vary course to course.
+
+---
+
+## Official IUJ Sources
+
+- [GSIM Student Handbook 2025-2026 (PDF)](https://www.iuj.ac.jp/assets/img/student-handbook_Handbook2025-26.pdf) — "AI Use Guideline for IUJ Students" section. GSIM-specific; GSIR students should check for an equivalent GSIR policy.
 
 ---
 
