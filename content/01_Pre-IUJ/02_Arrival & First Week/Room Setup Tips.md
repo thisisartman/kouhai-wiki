@@ -26,6 +26,47 @@ All single rooms (SD1-3) come with basic living facilities, a private bathroom, 
 
 ---
 
+## What to Buy Locally (First Few Days)
+
+Per a senior submission — this is what to pick up nearby (Daiso, Seria, Can★Do, supermarkets) once you're on the ground, not what to pack from home. See [[Packing List]] for what to actually bring in your luggage; items below are the "buy after you land" counterpart, not a repeat of it.
+
+**Bedroom**
+- Bedsheet and set, if you don't want to use the one the dorm provides
+- Hangers
+- Laundry basket
+
+**Kitchen**
+- Frying pan or small pot
+- Spatula and ladle
+- Plate, bowl, mug
+- Chopsticks, spoon, fork
+- Knife and cutting board
+- Dish soap and sponge
+- Trash bags
+
+**Bathroom**
+- Bath towel, hand towel
+- Toothbrush & toothpaste
+- Shampoo & body wash
+- Toilet paper
+- Laundry detergent
+- Toilet cleaning brush (if needed)
+
+**Cleaning**
+- Broom
+- Antibacterial wipes
+- Multipurpose cleaner
+
+**Electronics**
+- Extension board/power strip
+- USB adapter (optional — see [[Packing List]] for what to bring instead)
+
+**Groceries (first 3–5 days)**
+- Rice, eggs, bread, instant noodles, milk, yogurt, fruits, frozen vegetables
+- Cooking oil, salt & pepper, tea/coffee
+
+---
+
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 

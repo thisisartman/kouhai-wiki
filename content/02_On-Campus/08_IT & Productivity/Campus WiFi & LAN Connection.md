@@ -44,7 +44,7 @@ Steps below are condensed from MLIC's official per-device guides — linked
 under each OS if you want the original with more screenshots.
 
 ### Windows 11
-Official guide: [WLAN setup for Windows 11 (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/WLAN_for_Win11.pdf)
+IUJ's official guide: [WLAN setup for Windows 11 (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/WLAN_for_Win11.pdf)
 
 1. Click the network icon (bottom-right taskbar) → the `>` arrow next to it
 2. Select **iuj-air1** from the list → Connect (optionally tick "Connect automatically")
@@ -57,7 +57,7 @@ Official guide: [WLAN setup for Windows 11 (PDF)](https://www2.iuj.ac.jp/mlic-cs
 </div>
 
 ### Windows 10
-Official guide: [WLAN setup for Windows 10](https://www2.iuj.ac.jp/cs/manuals/setting-up-the-wireless-lan-connection-for-windows10/)
+IUJ's official guide: [WLAN setup for Windows 10](https://www2.iuj.ac.jp/cs/manuals/setting-up-the-wireless-lan-connection-for-windows10/)
 
 1. Click the network icon (bottom-right taskbar)
 2. Select **iuj-air1** → Connect
@@ -72,7 +72,7 @@ Official guide: [WLAN setup for Windows 10](https://www2.iuj.ac.jp/cs/manuals/se
 </div>
 
 ### macOS
-Official guide: [MLIC Mac Users Guide (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/MacUsersGuide.pdf)
+IUJ's official guide: [MLIC Mac Users Guide (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/MacUsersGuide.pdf)
 
 1. Click the WiFi icon in the menu bar
 2. Select **iuj-air1**
@@ -88,7 +88,7 @@ Official guide: [MLIC Mac Users Guide (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/
 </div>
 
 ### iPhone / iPad / iPod
-Official guide: [WLAN setup for iPhone/iPad/iPod](https://www2.iuj.ac.jp/cs/manuals/iphone/)
+IUJ's official guide: [WLAN setup for iPhone/iPad/iPod](https://www2.iuj.ac.jp/cs/manuals/iphone/)
 
 1. Settings → Wi-Fi
 2. Tap **iuj-air1**
@@ -103,7 +103,7 @@ Official guide: [WLAN setup for iPhone/iPad/iPod](https://www2.iuj.ac.jp/cs/manu
 </div>
 
 ### Android
-Official guide: [WLAN setup for Android](https://www2.iuj.ac.jp/cs/manuals/android/)
+IUJ's official guide: [WLAN setup for Android](https://www2.iuj.ac.jp/cs/manuals/android/)
 
 > ⚠️ Some newer Android versions may fail to connect — this is a known limitation MLIC IT hasn't fully resolved.
 
@@ -130,6 +130,21 @@ MLIC publishes a building-level coverage map showing which areas have WiFi (all 
 ## Trouble Connecting?
 
 Contact IT Helpdesk (MLIC 1F) — see [MLIC IT Services](https://www2.iuj.ac.jp/cs/) for current contact details and hours.
+
+---
+
+## Official IUJ Sources
+
+The links below are IUJ/MLIC's own pages and manuals — they're the most accurate and up-to-date version of what's covered in this article, and take priority over anything here if the two ever disagree.
+
+- [MLIC IT Services](https://www2.iuj.ac.jp/cs/) — main contact page, current office hours
+- [Dorm LAN Connection Rules & Guidelines](https://www2.iuj.ac.jp/cs/manuals/dormlan_guideline/)
+- [WLAN setup for Windows 11 (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/WLAN_for_Win11.pdf)
+- [WLAN setup for Windows 10](https://www2.iuj.ac.jp/cs/manuals/setting-up-the-wireless-lan-connection-for-windows10/)
+- [MLIC Mac Users Guide (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/MacUsersGuide.pdf)
+- [WLAN setup for iPhone/iPad/iPod](https://www2.iuj.ac.jp/cs/manuals/iphone/)
+- [WLAN setup for Android](https://www2.iuj.ac.jp/cs/manuals/android/)
+- [Official WiFi coverage map (PDF)](https://www2.iuj.ac.jp/mlic-cs/pdf/wifi_map.pdf)
 
 ---
 

@@ -49,7 +49,7 @@ Japan's MVNO (virtual carrier) market is large. These are the most student-relev
 
 > 💡 **For rural Niigata, coverage matters more than price.** Docomo has the strongest rural network. IIJmio (Docomo line) or Ahamo are safest bets for Minami-Uonuma.
 
-> ⚠️ Most SIM contracts require a Japanese bank account or credit card for ongoing billing. Set up your JP Bank account first, then switch to a monthly plan if you started on a prepaid/tourist SIM.
+> ⚠️ Most SIM contracts require a Japanese bank account or credit card for ongoing billing — but per a senior submission, this doesn't strictly mean a debit/credit card. IUJ students get a **Daishi Hokuetsu cash card** by default (see [[JP Bank vs Daishi — Comparison & How to Open]]), and docomo accepts that cash card for billing registration; you'll also need your My Number. A **cash card is not the same as a debit or credit card** — it only works at ATMs and for direct-debit billing like this, not for purchases — so don't assume you need a full debit/credit card just to sign up. That said, if you're staying long-term or plan to work part-time, get a JP Bank account too: Daishi is a Niigata-local bank with limited ATM coverage elsewhere in Japan, so JP Bank is the better primary account for anything beyond IUJ-specific billing.
 
 ---
 
@@ -75,7 +75,8 @@ Japan's MVNO (virtual carrier) market is large. These are the most student-relev
 - The network name is **iuj-air1**, available campus-wide and in the dorms; log in with your IUJ credentials
 - Free wired LAN is also available in dorm rooms (SD1/SD2/SD3/MSA)
 - ⚠️ Dorm WiFi can be congested during peak hours. A personal SIM is still worth having.
-- Full per-OS setup steps, dorm-specific SSIDs/passwords, wired LAN outlet locations, and the wifi coverage map: see [[Campus WiFi & LAN Connection]]
+- **Full per-OS setup steps** (Windows/Mac/iPhone/Android), dorm-specific SSIDs/passwords, wired LAN outlet locations, and the wifi coverage map: see [[Campus WiFi & LAN Connection]]
+- If connection issues persist after following the setup steps, don't struggle alone — contact IT Helpdesk (MLIC 1F); see [MLIC IT Services](https://www2.iuj.ac.jp/cs/) for current hours
 
 ---
 
@@ -83,10 +84,10 @@ Japan's MVNO (virtual carrier) market is large. These are the most student-relev
 
 Physical SIM plans in Japan often charge per-minute for domestic calls. Avoid bill shock by using apps:
 
-- **LINE**: dominant messaging app in Japan. Get it immediately. Most IUJ students and clubs communicate here.
-- **WhatsApp**, for international contacts
+- **WhatsApp**: per senior submissions, this is what most IUJ students and clubs actually use day-to-day — install it immediately
+- **LINE**: still the dominant messaging app in Japan more broadly (useful for Japanese contacts, shops, some services), just not the primary one within the IUJ student body
 - **Rakuten Link**, free domestic calls if on Rakuten Mobile
-- **Google Voice / Skype**, for international calls home
+- **FaceTime** (iOS) or **Google Meet** (Android) for calling home, instead of Google Voice/Skype
 
 ---
 

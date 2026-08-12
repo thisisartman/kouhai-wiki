@@ -16,7 +16,7 @@ The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelm
 
 - [ ] **Check into dormitory**: go straight to the Dorm Staff Office (SD1, 1st floor) to collect your keys. See [[Dorm Life & Facilities]]
 - [ ] **Get your IUJ Student ID**: from the administrative office
-- [ ] **Buy a SIM or pocket WiFi**: you need internet before anything else. See [[SIM & Internet Setup]]
+- [ ] **Buy a SIM or pocket WiFi**: you need internet before anything else. This is a temporary/prepaid option to get online immediately — it's not the SIM you'll use long-term. See [[SIM & Internet Setup]]
 - [ ] **Install essential apps**: Google Maps, Google Translate, HyperDia or Navitime, LINE
 - [ ] **Notify family you've arrived safely**: obvious, but do it
 - [ ] **Attend the mandatory welcome/prep session**: happens within your first few days on campus, before the city registration day. This is where you fill in your NHI/Pension/My Number forms — miss it and you can't complete registration on the actual day. Bring a **ballpoint pen** (not erasable/frixion)
@@ -35,7 +35,7 @@ The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelm
 
 ## Week 1: Banking
 
-- [ ] **Open JP Bank account**: available at the post office (JP Bank = Japan Post Bank). Recommended as your primary account. See [[JP Bank vs Daishi — Comparison & How to Open]]
+- [ ] **Open JP Bank account**: available at the post office (JP Bank = Japan Post Bank). Recommended for most students as a primary account (not a hard requirement unless noted below). **MEXT scholarship students**: JP Bank is required, not optional — MEXT scholarships nationally are paid only into a Japan Post Bank account, not Daishi Hokuetsu (confirm the exact process with OAA/Accounting). See [[JP Bank vs Daishi — Comparison & How to Open]]
 - [ ] **Open Daishi Hokuetsu Bank account**: IUJ deposits scholarship stipends here, required if you're on scholarship. Bank staff come to IUJ to help new students set this up on a specific day, so get it done then rather than later. If your account isn't ready in time, your first stipend gets paid out as cash from the Accounting Office instead, which is more hassle. See [[JP Bank vs Daishi — Comparison & How to Open]]
 - [ ] **Set up PayPay**: Japan's dominant QR payment app. Essential for daily purchases. See [[PayPay — Setup, Linking Banks, Loading Money]]
 
@@ -54,6 +54,7 @@ The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelm
 
 ## Week 1–2: Practical Setup
 
+- [ ] **Switch to a proper monthly SIM plan**: once your bank account is set up, move off the temporary airport SIM/pocket WiFi to a real monthly contract (e.g. IIJmio, Ahamo). See [[SIM & Internet Setup]]
 - [ ] **Get an IC Card (Suica/Pasmo)**: for buses and local trains. See [[IC Cards — Suica & Pasmo Setup]]
 - [ ] **Sort your room**: bedding, hangers, basic kitchen supplies. See [[100 Yen & Recycle Shops — Budget Furnishing|100 Yen & Recycle Shops]]
 - [ ] **Figure out waste disposal rules**: Japan's garbage sorting is strict; violations can cause problems with dorm management. See [[Waste Disposal & Recycling]]
