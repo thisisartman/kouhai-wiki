@@ -6,7 +6,7 @@ status: needs-work
 last_updated: 2026-07-25
 ---
 
-A rough first-year cost breakdown, per IUJ's own published budgeting guidance. Use this for planning, not as an exact quote — confirm current figures with Accounting before committing to anything.
+A rough first-year cost breakdown, per IUJ's own published budgeting guidance ([official Budgeting page](https://www2.iuj.ac.jp/oss/future-students/budgeting/)). Use this for planning, not as an exact quote — confirm current figures with Accounting before committing to anything.
 
 ---
 
@@ -19,8 +19,8 @@ A rough first-year cost breakdown, per IUJ's own published budgeting guidance. U
 - **Tuition:** varies by programme — see [[Scholarship Management — Stipend & Tax Notes]] for the current per-term table
 - **Dorm fee:** ¥32,000–53,000/month depending on building — see [[Dorm Life & Facilities]]
 - **Utilities:** billed separately from rent, metered
-- **Accident/Liability insurance:** one-time lump sum, ¥1,340–3,620 depending on programme length — see [[Scholarship Management — Stipend & Tax Notes]]
-- **National Health Insurance ("NHI"):** roughly ¥30,500/year — see [[National Health Insurance]]
+- **Accident/Liability insurance:** one-time lump sum, ¥1,540–3,620 depending on programme length — see [[Scholarship Management — Stipend & Tax Notes]]
+- **National Health Insurance ("NHI"):** roughly ¥30,500/year — ⚠️ [[National Health Insurance]] states a different figure (~¥18,000/year); the two pages disagree and neither is backed by a public official number, so treat both as unconfirmed until checked with Accounting
 
 ## Ongoing Living Costs
 

@@ -51,7 +51,7 @@ IUJ submits the CoE application to Immigration on your behalf, but only after yo
 
 > 💡 Keep the original CoE even after getting your visa. You may need it at the port of entry.
 
-> ⚠️ **Visit Japan Web is not your visa.** It's a separate government tool for pre-registering your immigration/customs info to speed up the airport process. You still need the actual student visa from the embassy — Visit Japan Web doesn't replace it. For the "address in Japan" field, use wherever you're staying your first night (a hotel is fine); you don't need to list IUJ.
+> ⚠️ **Visit Japan Web is not your visa.** It's a separate government tool ([official site](https://vjw-lp.digital.go.jp/en/)) for pre-registering your immigration/customs info to speed up the airport process. You still need the actual student visa from the embassy — Visit Japan Web doesn't replace it. For the "address in Japan" field, use wherever you're staying your first night (a hotel is fine); you don't need to list IUJ.
 
 Once you land on your student visa, immigration at the airport issues your **Residence Card** on the spot — see [[Residence Card — What It Is & Renewal]] for what to do with it next.
 
@@ -105,7 +105,7 @@ Start collecting these as early as possible. Some take weeks to obtain.
 Japan has strict rules about which medications can be brought in.
 
 - **Narcotics and stimulants** (including some ADHD medications like Adderall, and certain pain medications) are **prohibited** even with a prescription. Research your specific medication before you travel.
-- **Allowed prescription medications** can be brought in quantities up to a 1-month supply without a permit; up to 3 months with a **Yakkan Shomei (薬監証明)** import certificate, obtained from the Japanese Embassy before departure.
+- **Allowed prescription medications** can be brought in quantities up to a 1-month supply without a permit; beyond that, you need a **Yakkan Shomei / Yunyu Kakunin-sho (薬監証明／輸入確認書)** import certificate, applied for by post to the Ministry of Health, Labour and Welfare's regional bureau (Niigata falls under Kanto-Shin'etsu) — not obtained at the embassy. Official info (Japanese): [MHLW — 医薬品等の個人輸入について](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000066597.html). Apply at least 2–3 weeks before departure.
 - Carry medications in original packaging with prescriptions.
 
 > ⚠️ If you rely on a controlled substance, sort this out 2–3 months before departure. The Yakkan Shomei process takes time.
