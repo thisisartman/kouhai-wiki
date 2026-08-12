@@ -64,6 +64,13 @@ Network and email passwords start identical but are **changed separately** — u
 
 ---
 
+## Official IUJ Sources
+
+- [MLIC IT Services](https://www2.iuj.ac.jp/cs/) — main contact page, current office hours
+- [Enabling two-step verification](https://www2.iuj.ac.jp/cs/manuals/two-step-verification/) on IUJ Gmail
+
+---
+
 ## Related Articles
 - [[Campus WiFi & LAN Connection]]
 - [[Available Software & Computer Rooms]]
