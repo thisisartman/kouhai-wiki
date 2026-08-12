@@ -124,6 +124,12 @@ For earthquake and heavy snow emergencies specifically, see the dedicated articl
 
 ---
 
+## Official Sources
+
+- [TELL Lifeline — hours and chat](https://telljp.com/lifeline/)
+
+---
+
 ## Related Articles
 - [[National Health Insurance]]
 - [[Nearby Clinics & Hospitals]]

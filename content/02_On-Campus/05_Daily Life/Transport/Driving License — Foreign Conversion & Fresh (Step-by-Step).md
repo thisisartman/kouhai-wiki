@@ -136,6 +136,12 @@ This isn't a minor bureaucratic slip: it's a real criminal offense under Road Tr
 
 ---
 
+## Official Sources
+
+- [JAF official translation service](https://english.jaf.or.jp/driving-in-japan/drive-in-japan/about-dltas) (Japan Automobile Federation)
+
+---
+
 ## Related Articles
 - [[Car Rental — Requirements & Services]]
 - [[Car Ownership — Buying Used]]

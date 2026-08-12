@@ -109,6 +109,14 @@ A basic earthquake kit matters. You don't need much:
 
 ---
 
+## Official Sources
+
+Minami-Uonuma City:
+- [地震への備え (Earthquake Preparedness)](https://www.city.minamiuonuma.niigata.jp/docs/2456.html)
+- [Web-based hazard map](https://www.city.minamiuonuma.niigata.jp/hazardmap/)
+
+---
+
 ## Related Articles
 - [[Emergency Contacts & Procedures]]
 - [[Heavy Snow Emergency]]

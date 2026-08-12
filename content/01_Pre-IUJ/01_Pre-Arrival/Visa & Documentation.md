@@ -142,6 +142,13 @@ Japan has strict rules about which medications can be brought in.
 
 ---
 
+## Official Sources
+
+- [Visit Japan Web](https://vjw-lp.digital.go.jp/en/), Digital Agency
+- [MHLW — 医薬品等の個人輸入について](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000066597.html), Ministry of Health, Labour and Welfare
+
+---
+
 ## Related Articles
 - [[First Week Checklist]]
 - [[Residence Card — What It Is & Renewal]]

@@ -134,6 +134,13 @@ Gakuwari and the JR Pass solve different problems: the JR Pass is a short-term u
 
 ---
 
+## Official Sources
+
+- [Japan Rail Pass](https://japanrailpass.net/en/) — official site
+- [Gakuwari: JR Travel Discounts](https://www2.iuj.ac.jp/oss/current-students/gakuwari/), IUJ
+
+---
+
 ## Related Articles
 - [[03_Off-Campus/01_Travel & Leisure/Vacation Planning/How to Plan & Budget|Vacation Planning: How to Plan & Budget]]
 - [[Domestic Itineraries — Tokyo, Kyoto, Osaka, Hokkaido]]

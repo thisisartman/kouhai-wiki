@@ -187,6 +187,12 @@ Estimated costs for SD4 and off-campus options are distributed with the survey. 
 
 ---
 
+## Official IUJ Sources
+
+- [Dorm and Facility Information](https://www.iuj.ac.jp/admissions/living-guide/dorm/)
+
+---
+
 ## Related Articles
 - [[Residence Card — What It Is & Renewal]]
 - [[Municipal Registration — Minami-Uonuma City Office]]
