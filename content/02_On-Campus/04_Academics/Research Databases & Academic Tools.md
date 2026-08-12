@@ -114,6 +114,12 @@ Not everything needs a library subscription:
 
 ---
 
+## Official IUJ Sources
+
+- [Available Software on Campus](https://www2.iuj.ac.jp/cs/programs/)
+
+---
+
 ## Related Articles
 - [[Library & Research Tools]]
 - [[Thesis Guide (IR) — Supervisor, Timeline, Tips]]

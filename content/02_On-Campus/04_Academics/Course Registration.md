@@ -95,6 +95,13 @@ Register through the **IUJ Student Portal**, using your IUJ computer account (se
 
 ---
 
+## Official IUJ Sources
+
+- [Account-application form](https://www2.iuj.ac.jp/account_registration/) — required before you can register
+- [Official Academic Calendar 2026/27 (PDF)](https://www.iuj.ac.jp/assets/img/Calendar_2026-27.pdf)
+
+---
+
 ## Related Articles
 - [[Fall — Hectic, Settle In Fast]]
 - [[Thesis Guide (IR) — Supervisor, Timeline, Tips]]

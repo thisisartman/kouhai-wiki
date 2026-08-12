@@ -39,6 +39,12 @@ Your student visa already includes **Permission to Engage in Activity Other than
 
 ---
 
+## Official Sources
+
+- [「留学」の在留資格に係る資格外活動許可について](https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html), Immigration Services Agency of Japan
+
+---
+
 ## Related Articles
 - [[Part-Time Work — Income & Finding Jobs]]
 - [[Residence Card — What It Is & Renewal]]

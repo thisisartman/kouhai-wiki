@@ -114,6 +114,14 @@ These reduce your taxable income:
 
 ---
 
+## Official Sources
+
+National Tax Agency (国税庁):
+- [e-Tax](https://www.e-tax.nta.go.jp)
+- [確定申告 (filing-period info)](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2020.htm)
+
+---
+
 ## Related Articles
 - [[My Number Card — How to Get It & Why]]
 - [[Part-Time Work — Permits & Visa Rules]] / [[Part-Time Work — Income & Finding Jobs]]

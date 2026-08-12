@@ -71,6 +71,12 @@ Beyond word of mouth and job boards, **IUJ's own Career Support office (career@i
 
 ---
 
+## Official Sources
+
+- [Niigata Prefecture official minimum wage page](https://www.pref.niigata.lg.jp/sec/shigototeijyu/1317606873248.html)
+
+---
+
 ## Related Articles
 - [[Part-Time Work — Permits & Visa Rules]]
 - [[Tax Filing for Students]]

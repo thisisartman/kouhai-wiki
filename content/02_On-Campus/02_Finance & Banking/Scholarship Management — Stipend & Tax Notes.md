@@ -130,6 +130,14 @@ For the full tax filing process, see [[Tax Filing for Students]].
 
 ---
 
+## Official IUJ Sources
+
+- [Budgeting: Cost of Attending IUJ and Scholarships](https://www2.iuj.ac.jp/oss/future-students/budgeting/)
+- [Tuition & Scholarships](https://www.iuj.ac.jp/admissions/cost/)
+- [Health Insurance](https://www2.iuj.ac.jp/oss/health-insurance/)
+
+---
+
 ## Related Articles
 - [[JP Bank vs Daishi — Comparison & How to Open]]
 - [[Pension Exemption — How to Apply]]

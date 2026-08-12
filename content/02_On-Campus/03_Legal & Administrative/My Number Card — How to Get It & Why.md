@@ -92,6 +92,12 @@ My Number is sensitive. Do not share it unnecessarily. Legitimate uses are: tax,
 
 ---
 
+## Official Sources
+
+- [My Number Card online application](https://www.kojinbango-card.go.jp/apprec/apply/online_apply/) (マイナンバーカード総合サイト)
+
+---
+
 ## Related Articles
 - [[Municipal Registration — Minami-Uonuma City Office]]
 - [[Tax Filing for Students]]

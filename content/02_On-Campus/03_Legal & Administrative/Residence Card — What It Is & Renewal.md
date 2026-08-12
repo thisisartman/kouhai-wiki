@@ -111,6 +111,14 @@ But there's a real trap: if you leave the country **without declaring special re
 
 ---
 
+## Official Sources
+
+Immigration Services Agency of Japan (出入国在留管理庁):
+- [Extension of Period of Stay (在留期間更新許可申請)](https://www.moj.go.jp/isa/applications/procedures/16-3.html)
+- [みなし再入国許可（入管法第26条の2）](https://www.moj.go.jp/isa/immigration/procedures/minashisainyukoku_00001.html)
+
+---
+
 ## Related Articles
 - [[Municipal Registration — Minami-Uonuma City Office]]
 - [[My Number Card — How to Get It & Why]]
