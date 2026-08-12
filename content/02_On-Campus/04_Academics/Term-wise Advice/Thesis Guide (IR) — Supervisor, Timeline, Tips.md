@@ -122,6 +122,12 @@ Most IR theses use one of:
 
 ---
 
+## Official Sources
+
+- [GSIR Curriculum Handbook (PDF)](https://www.iuj.ac.jp/assets/img/Academics-GSIR-CurriculumHandbook_2025.pdf) — the authoritative source for IR/GSIR students specifically (this is a genuinely separate document from GSIM's handbook, with real differences: GSIR grades on a numeric 0-100 scale rather than GSIM's qualitative descriptions, different academic-warning GPA thresholds, its own exchange partner list, advanced seminar and thesis/research-report requirements).
+
+---
+
 ## Related Articles
 - [[Course Registration]]
 - [[Research Databases & Academic Tools]]
