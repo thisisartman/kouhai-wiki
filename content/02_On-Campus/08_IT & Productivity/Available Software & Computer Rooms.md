@@ -72,6 +72,17 @@ Ask MLIC office for exact terms before committing.
 
 ---
 
+## Official IUJ Sources
+
+- [MLIC IT Services](https://www2.iuj.ac.jp/cs/) — main contact page, current application process
+- [PC Rooms](https://www2.iuj.ac.jp/cs/pc-rooms/)
+- [Live room-reservation status](https://www2.iuj.ac.jp/cs/room-resv/)
+- [Available Software on Campus](https://www2.iuj.ac.jp/cs/programs/)
+- [Microsoft Office FAQ](https://www2.iuj.ac.jp/cs/computing-faq/microsoft-office/)
+- [STATA FAQ](https://www2.iuj.ac.jp/cs/computing-faq/stata/)
+
+---
+
 ## Related Articles
 - [[Windows 11 Setup Guide]]
 - [[Printing & Scanning — Campus & Conbini]]
