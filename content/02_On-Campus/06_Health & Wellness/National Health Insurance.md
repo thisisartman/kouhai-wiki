@@ -102,6 +102,12 @@ NHI premiums you pay are tax-deductible (社会保険料控除). Keep your payme
 
 ---
 
+## Official IUJ Sources
+
+- [Health Insurance](https://www2.iuj.ac.jp/oss/health-insurance/), OSS
+
+---
+
 ## Related Articles
 - [[Municipal Registration — Minami-Uonuma City Office]]
 - [[My Number Card — How to Get It & Why]]

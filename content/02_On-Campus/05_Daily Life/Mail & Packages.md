@@ -108,6 +108,15 @@ IUJ campus has a designated area for receiving and storing packages; confirm the
 
 ---
 
+## Official Sources
+
+Japan Post (日本郵便):
+- [Domestic rate table](https://www.post.japanpost.jp/send/domestic/charge/list/one_two.html)
+- [Registered-mail surcharge rates](https://www.post.japanpost.jp/send/domestic/charge/list/option.html)
+- [International rate calculator](https://www.post.japanpost.jp/cgi-charge/)
+
+---
+
 ## Related Articles
 - [[Airport to IUJ Routes]]
 - [[Online Shopping — Amazon JP, Shein, Temu]]

@@ -103,6 +103,12 @@ Beyond Gakuwari:
 
 ---
 
+## Official IUJ Sources
+
+- [Gakuwari: JR Travel Discounts](https://www2.iuj.ac.jp/oss/current-students/gakuwari/)
+
+---
+
 ## Related Articles
 - [[Airport to IUJ Routes]]
 - [[IC Cards — Suica & Pasmo Setup]]

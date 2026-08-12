@@ -105,6 +105,14 @@ Collection happens on specific days for specific categories.
 
 ---
 
+## Official Sources
+
+Minami-Uonuma City:
+- [家庭ごみ分別辞典 (searchable sorting dictionary)](https://www.city.minamiuonuma.niigata.jp/docs/1431.html)
+- [家庭ごみの分け方・出し方（大和地域）](https://www.city.minamiuonuma.niigata.jp/docs/1465.html) (Yamato area, covers IUJ/Urasa)
+
+---
+
 ## Related Articles
 - [[First Week Checklist]]
 - [[Mail & Packages]]

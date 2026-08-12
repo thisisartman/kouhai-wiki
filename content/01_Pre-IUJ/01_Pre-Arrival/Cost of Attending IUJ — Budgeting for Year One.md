@@ -34,6 +34,12 @@ IUJ's own figures put total first-year cost (tuition + admission + dorm + living
 
 ---
 
+## Official IUJ Sources
+
+- [Budgeting: Cost of Attending IUJ and Scholarships](https://www2.iuj.ac.jp/oss/future-students/budgeting/)
+
+---
+
 ## Related Articles
 - [[Scholarship Management — Stipend & Tax Notes]]
 - [[Dorm Life & Facilities]]

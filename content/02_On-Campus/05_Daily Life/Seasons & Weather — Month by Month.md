@@ -134,6 +134,12 @@ Peak summer. Temperatures: 26–34°C with high humidity. Obon holiday period (m
 
 ---
 
+## Official Sources
+
+- [Japan Meteorological Agency data search](https://www.data.jma.go.jp/stats/etrn/index.php)
+
+---
+
 ## Related Articles
 - [[Packing List]]
 - [[Seasonal Activities — Skiing, Hanami, Matsuri]]
