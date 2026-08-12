@@ -34,4 +34,4 @@ Once you're on an article you can improve: click **✏️ Suggest an edit** near
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*

@@ -27,7 +27,7 @@ All single rooms (SD1-3) come with basic living facilities, a private bathroom, 
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - What did your room actually come with on move-in day (bed, desk, shelving, curtains)?
 - What you wished you'd brought from home vs. bought here

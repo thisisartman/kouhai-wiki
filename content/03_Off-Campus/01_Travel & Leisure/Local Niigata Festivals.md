@@ -96,7 +96,7 @@ Watch OSS emails for these rather than the official events calendar — none of 
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Nagaoka Fireworks practical tips: best spots, logistics
 - Local festivals near Urasa/Minami-Uonuma worth attending

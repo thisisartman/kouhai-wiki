@@ -71,7 +71,7 @@ The connections you build here tend to last. Alumni networks from IUJ are unusua
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - A friendship you made at IUJ that surprised you: the context or how it started
 - Things that helped you connect when you were struggling socially

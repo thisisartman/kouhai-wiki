@@ -127,4 +127,4 @@ PayPay runs frequent campaigns, up to 20% cashback at participating stores. Chec
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*

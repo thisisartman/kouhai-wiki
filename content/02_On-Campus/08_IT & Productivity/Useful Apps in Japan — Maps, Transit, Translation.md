@@ -117,7 +117,7 @@ See [[Earthquake Preparedness]] for context.
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Any Japan-specific apps not listed here that you used regularly
 - Best translation or Japanese learning app from your experience

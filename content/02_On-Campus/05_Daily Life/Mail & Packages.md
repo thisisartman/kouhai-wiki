@@ -116,7 +116,7 @@ IUJ campus has a designated area for receiving and storing packages; confirm the
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - IUJ campus package pickup process (location, hours, current system)
 - Best services for sending items back to your home country

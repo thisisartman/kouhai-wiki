@@ -112,7 +112,7 @@ NHI premiums you pay are tax-deductible (社会保険料控除). Keep your payme
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Actual premium amounts you paid as a student
 - Any experience with the premium reduction process

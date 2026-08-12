@@ -31,7 +31,7 @@ This page is for Indian students to share cultural context that would help other
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Cultural context you wish classmates understood about you/your region
 - Etiquette differences between home and Japan that surprised you

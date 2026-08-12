@@ -82,7 +82,7 @@ If you're hosting a gathering:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Exact quiet hours times, if known
 - Best social events that happened at IUJ: what made them work

@@ -78,7 +78,7 @@ Joining a student driver network (if one exists) formalises this and reduces ad-
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - How carpooling is actually organised at IUJ (group chat, app, notice board?)
 - Current fuel contribution norms

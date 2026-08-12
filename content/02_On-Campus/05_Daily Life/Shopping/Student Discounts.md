@@ -88,7 +88,7 @@ Most discounts require one of:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Any local Nagaoka/Urasa business offering unadvertised student discounts
 - Tips on getting the most out of JR student discounts for vacation travel

@@ -72,6 +72,6 @@ Network and email passwords start identical but are **changed separately** — u
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Experience with alumni email access after graduation

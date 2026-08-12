@@ -41,7 +41,7 @@ Per an Office of General Affairs email (June 29, 2026), the IUJ cafeteria's lunc
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Honest review of campus dining: what's good, what to avoid
 - Any hidden menu items or ordering tips

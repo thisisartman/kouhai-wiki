@@ -96,7 +96,7 @@ For short errands (grocery run, Urasa station pickup), the Times Car carshare se
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Which rental company had the best rates or service near IUJ
 - IDP experiences: any issues getting accepted by rental companies

@@ -112,7 +112,7 @@ IUJ's academic integrity policies apply to AI use, and the field is evolving fas
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Specific AI tools or workflows that improved your academic productivity at IUJ
 - IUJ's current official stance on AI use in assignments

@@ -142,7 +142,7 @@ See [[Local Attractions — Urasa, Nagaoka, Niigata City]] for specific recommen
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Best ski resort experience near IUJ: which resort, what conditions
 - Hanami spots near campus that are worth visiting

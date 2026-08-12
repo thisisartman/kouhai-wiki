@@ -102,7 +102,7 @@ Japanese residents (on student visa) can travel internationally without losing t
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Best trips you took during IUJ breaks: where and approximate cost
 - Budget tips specific to travel from Niigata/Tokyo

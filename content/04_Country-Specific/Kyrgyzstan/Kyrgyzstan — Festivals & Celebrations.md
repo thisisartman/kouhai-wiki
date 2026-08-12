@@ -33,7 +33,7 @@ This page is for Kyrgyz students to fill in: which festivals and celebrations fr
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Which festivals from home you've celebrated at IUJ, and how
 - Whether there's an active Kyrgyz (or Central Asian) student group

@@ -123,7 +123,7 @@ These reduce your taxable income:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Experience filing e-Tax as a foreign student
 - Tips on getting withholding tax refunds from part-time work

@@ -121,4 +121,4 @@ If you need to wire tuition or fees to IUJ directly — e.g. before you've arriv
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*

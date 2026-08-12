@@ -151,7 +151,7 @@ Several sections of this wiki are designed to be expanded by specific clubs:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Current coordinator/contact info for specific clubs (this changes yearly)
 - Which clubs are genuinely active vs. nominally existing this year

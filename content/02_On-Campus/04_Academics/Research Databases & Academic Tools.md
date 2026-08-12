@@ -123,7 +123,7 @@ Not everything needs a library subscription:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Which databases were actually useful for your thesis topic
 - Recommended R / STATA / Python resources for students without quant backgrounds

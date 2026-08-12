@@ -144,7 +144,7 @@ Gakuwari and the JR Pass solve different problems: the JR Pass is a short-term u
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - JR Pass experience: did it pay off for your itinerary?
 - Best accommodation finds in Tokyo, Kyoto, or elsewhere

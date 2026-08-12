@@ -84,7 +84,7 @@ Fall term ends and Winter begins relatively quickly. By end of Fall:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - What you wish you'd done differently in Fall
 - How you managed the admin + academic overlap in week 1

@@ -119,7 +119,7 @@ Pension exemption has its own phrase; see [[Pension Exemption — How to Apply]]
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Tips on navigating the city office without Japanese
 - Any quirks with IUJ's group trip schedule or timing

@@ -112,7 +112,7 @@ Whether continuing for another year or graduating:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Your honest experience of Spring at IUJ: what surprised you
 - Best sakura spots within day-trip distance

@@ -132,7 +132,7 @@ Japan's dominant C2C (consumer-to-consumer) marketplace. Think eBay but faster, 
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Amazon JP tips specific to IUJ's rural address
 - Best Mercari finds for incoming students

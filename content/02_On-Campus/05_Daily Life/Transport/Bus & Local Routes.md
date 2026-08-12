@@ -111,7 +111,7 @@ Late-night driving imposes extra fatigue on drivers; the rules matter.
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Clarify with FT-OGA whether night bus service was actually reduced for summer 2026 or not — the announcement email and its own attached timetable disagree
 - Local taxi company names and numbers for late-night situations

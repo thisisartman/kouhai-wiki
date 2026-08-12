@@ -84,7 +84,7 @@ Short, direct, and non-dramatic works best: "That framing was a bit reductive, c
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - A cross-cultural friction at IUJ that was resolved well: how it happened
 - Anything you wish you'd understood earlier about navigating this environment

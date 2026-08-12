@@ -141,7 +141,7 @@ Contact IT Helpdesk (MLIC 1F) — see [MLIC IT Services](https://www2.iuj.ac.jp/
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Any dorm-specific WiFi dead zones or workarounds
 - Whether the Android PEAP connection issue has been fixed for you

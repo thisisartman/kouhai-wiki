@@ -94,7 +94,7 @@ By end of Winter:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - How you personally dealt with winter isolation
 - Best onsen spots near IUJ

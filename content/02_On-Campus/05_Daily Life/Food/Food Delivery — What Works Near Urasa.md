@@ -79,7 +79,7 @@ When you're in Nagaoka for shopping trips, delivery apps work properly. Not usef
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Confirm which platforms actually cover IUJ's address
 - Any local restaurants that do direct delivery to campus

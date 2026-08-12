@@ -165,7 +165,7 @@ Japan customs sets duty-free limits on what you bring in. Personal effects and i
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Things you wish you'd brought that aren't on this list
 - Things you brought and never used

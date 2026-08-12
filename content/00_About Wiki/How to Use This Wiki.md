@@ -24,19 +24,18 @@ The wiki is divided into numbered sections, roughly in the order you'll need the
 
 | Section | What's In It |
 |---|---|
-| **Pre-Arrival** | Visa, packing, money setup before you leave home |
-| **Arrival & First Week** | Getting to IUJ, first-week admin checklist, SIM setup |
-| **Housing** | Dorm info |
-| **Finance & Banking** | Bank accounts, PayPay, part-time work, remittances |
-| **Legal & Administrative** | Residence card, city registration, MyNumber, tax, pension |
-| **Academics** | Course registration, library, term-by-term advice, thesis |
-| **Daily Life** | Food, shopping, transport, laundry, weather, waste disposal |
-| **Health & Wellness** | Insurance, clinics, mental health, emergencies |
-| **Social Life & Culture** | Making friends, Japanese norms, campus culture, events |
-| **Travel & Leisure** | Day trips, skiing, vacation planning, itineraries |
-| **IT & Productivity** | Apps, AI tools, printing |
-| **IUJ Rules & Facilities** | Gym, campus rules |
-| **Country-Specific** | Guides for students from specific countries |
+| [[01_Pre-IUJ/01_Pre-Arrival/index\|Pre-Arrival]] | Visa, packing, money setup before you leave home |
+| [[01_Pre-IUJ/02_Arrival & First Week/index\|Arrival & First Week]] | Getting to IUJ, first-week admin checklist, SIM setup |
+| [[02_On-Campus/01_Housing/index\|Housing]] | Dorm info |
+| [[02_On-Campus/02_Finance & Banking/index\|Finance & Banking]] | Bank accounts, PayPay, part-time work, remittances |
+| [[02_On-Campus/03_Legal & Administrative/index\|Legal & Administrative]] | Residence card, city registration, MyNumber, tax, pension |
+| [[02_On-Campus/04_Academics/index\|Academics]] | Course registration, library, term-by-term advice, thesis |
+| [[02_On-Campus/05_Daily Life/index\|Daily Life]] | Food, shopping, transport, laundry, weather, waste disposal |
+| [[02_On-Campus/06_Health & Wellness/index\|Health & Wellness]] | Insurance, clinics, mental health, emergencies |
+| [[02_On-Campus/07_Social Life & Culture/index\|Social Life & Culture]] | Making friends, Japanese norms, campus culture, events |
+| [[03_Off-Campus/01_Travel & Leisure/index\|Travel & Leisure]] | Day trips, skiing, vacation planning, itineraries |
+| [[02_On-Campus/08_IT & Productivity/index\|IT & Productivity]] | Apps, AI tools, printing |
+| [[04_Country-Specific/index\|Country-Specific]] | Guides for students from specific countries |
 
 ---
 
@@ -107,7 +106,7 @@ If English isn't your first language, most browsers (Chrome, Edge, Safari) can a
 
 This wiki reflects the experiences and knowledge of students at the time of writing. Japan changes, IUJ changes, prices change. For anything legally or financially significant, especially visa rules, tax obligations, and scholarship terms, verify against current official sources before acting.
 
-When in doubt: ask a senior, ask IUJ student affairs, or check the official IUJ student handbook.
+> **When in doubt: ask a senior, ask IUJ student affairs, or check the official IUJ student handbook.**
 
 ---
 
@@ -119,4 +118,4 @@ When in doubt: ask a senior, ask IUJ student affairs, or check the official IUJ 
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*

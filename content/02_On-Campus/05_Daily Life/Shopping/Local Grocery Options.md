@@ -110,7 +110,7 @@ For a full guide to conbini food, see [[Convenience Store Food Guide]].
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Discount timings at Beisia or other local stores
 - Best seasonal buys at Japanese supermarkets

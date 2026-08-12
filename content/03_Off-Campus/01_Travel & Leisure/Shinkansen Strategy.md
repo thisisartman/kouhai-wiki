@@ -113,7 +113,7 @@ Beyond Gakuwari:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Current Urasa–Tokyo fare (unreserved/reserved): the only figure available is over a decade old
 - Best Ekinet discount strategies used by IUJ students

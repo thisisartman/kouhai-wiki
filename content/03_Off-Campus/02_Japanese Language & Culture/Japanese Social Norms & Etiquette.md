@@ -108,7 +108,7 @@ Japanese students at IUJ are typically there specifically because they want inte
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - A norm you learned the hard way at IUJ or in Japan
 - Advice on building friendships with Japanese students specifically

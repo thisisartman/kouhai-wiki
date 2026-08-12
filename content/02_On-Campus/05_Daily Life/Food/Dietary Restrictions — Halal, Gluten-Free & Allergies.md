@@ -132,7 +132,7 @@ Japan's allergy disclosure at restaurants is inconsistent: unlike packaged food,
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Halal meat sources that actually worked near IUJ
 - Gluten-free shopping finds at local supermarkets

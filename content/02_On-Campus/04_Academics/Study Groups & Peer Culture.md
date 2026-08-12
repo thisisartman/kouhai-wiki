@@ -88,7 +88,7 @@ Underused by most students. IUJ professors are accessible in ways that wouldn't 
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Study group structures that actually worked for your cohort
 - Specific courses where peer prep made a noticeable difference

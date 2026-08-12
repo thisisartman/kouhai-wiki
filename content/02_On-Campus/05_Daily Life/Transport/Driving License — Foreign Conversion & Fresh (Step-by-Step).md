@@ -145,7 +145,7 @@ This isn't a minor bureaucratic slip: it's a real criminal offense under Road Tr
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Conversion experience for specific countries (especially India, Indonesia, other common IUJ nationalities)
 - JAF translation timeline and process
