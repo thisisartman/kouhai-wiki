@@ -8,7 +8,7 @@ last_updated: 2026-07-19
 
 This page is for Indian students to share cultural context that would help other IUJ students understand where you're coming from, and to note anything about Japanese/IUJ etiquette that was a genuine adjustment.
 
-> 🔶 This is a stub. General knowledge isn't enough here; this needs real firsthand input.
+> 🔶 Barely any content yet — needs student input. General knowledge isn't enough here.
 
 ---
 

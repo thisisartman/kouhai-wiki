@@ -12,10 +12,10 @@ Japanese convenience stores (コンビニ, *conbini*) are not the sad petrol-sta
 
 ## Which Conbini Are Near IUJ
 
-> ⚠️ Confirm exact locations and walking distances from campus. Add specifics here.
+Per senior submissions (map links below), walking distances from campus still need confirming.
 
-- **7-Eleven (セブン-イレブン)**: nearest to Urasa Station area; also has international ATM
-- **Lawson (ローソン)**: confirm if one is accessible near campus
+- **7-Eleven (セブン-イレブン)**: nearest to Urasa Station area; also has international ATM. [Map: Urasa Station location](https://maps.app.goo.gl/BpMJPXFmtEbjntAZ8), [Map: location near IUJ itself](https://maps.app.goo.gl/XtkLKCgs9FTXdswr8)
+- **Lawson (ローソン)**: confirmed accessible near campus, close to Kikan Hospital. [Map link](https://maps.app.goo.gl/obuiZ5bocsZKE4fw9)
 - **FamilyMart (ファミリーマート)**: confirm location
 
 > 💡 7-Eleven is generally considered to have the best food quality among the three chains.

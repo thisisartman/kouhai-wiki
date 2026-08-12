@@ -362,6 +362,13 @@ a.internal.alias {
   margin-top: 1.25rem !important;
 }
 
+/* Homepage title, centered per a senior submission — scoped to the
+   homepage only via body[data-slug="index"] so other article titles
+   stay left-aligned. */
+body[data-slug="index"] .article-title {
+  text-align: center;
+}
+
 .breadcrumb-element {
   margin-right: -9px;
 }

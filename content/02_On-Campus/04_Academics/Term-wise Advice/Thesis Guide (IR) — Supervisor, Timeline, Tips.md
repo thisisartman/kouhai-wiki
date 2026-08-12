@@ -107,7 +107,7 @@ Most IR theses use one of:
 ## Using Research Tools
 
 - Start your literature review in [[Research Databases & Academic Tools]] early: JSTOR, UN Digital Library, ProQuest are your main sources
-- Use **Zotero** from day one: retroactively organizing citations is painful
+- Use **Zotero** from day one: retroactively organizing citations is painful. [Official quick-start guide](https://www.zotero.org/support/quick_start_guide) if you've never used it
 - Keep a running "argument map" or outline document: your thinking will drift without it
 
 ---

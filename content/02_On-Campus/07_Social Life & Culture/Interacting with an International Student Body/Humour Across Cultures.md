@@ -25,7 +25,7 @@ Most humour relies on shared assumptions. A joke that works in one culture embed
 
 ## What Does Travel
 
-**Situational humour** about shared experiences works almost universally. "Did anyone else's bag not arrive until three days after they did?" connects without needing cultural translation.
+**Situational humour** about shared experiences works almost universally. "iuj-air1 is so bad I'd rather use my roaming SIM's data instead" connects without needing cultural translation — everyone on campus has lived it.
 
 **Absurdism and physical humour** tend to be more universal — reactions to Japan's quirks, unexpected bureaucratic situations, the general chaos of the first week.
 

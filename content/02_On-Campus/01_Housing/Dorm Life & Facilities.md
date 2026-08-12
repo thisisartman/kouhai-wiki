@@ -20,7 +20,7 @@ The primary student dormitories. Around 70 rooms across the three buildings hous
 - **Room size**: SD1 rooms are 14.3m²; SD2/SD3 rooms are 15m².
 - **Dorm Staff Office** is in SD1 (1st floor)
 - Air conditioning/heating is centrally controlled by campus, switching to heating in mid-October and back to cooling around mid-May
-- Each room has a window with an AC unit on the outside; SD2 and SD3 rooms on higher floors can get significant snow accumulation around the window in winter. Do not force the window open if it's blocked; contact Dorm Staff instead.
+- **SD2 and SD3 only**: each room has a window with an AC unit on the outside; rooms on higher floors can get significant snow accumulation around the window in winter. Do not force the window open if it's blocked; contact Dorm Staff instead. Per a senior submission, **SD1 has central air-conditioning only — no window AC unit** — so this doesn't apply there.
 - **No washlets/bidets**, and no electric sockets in the bathroom either, so you can't easily add your own — plan accordingly if you're used to one
 - Dorms typically run at **full capacity**, so a room change/swap request usually isn't possible once you're assigned — don't count on being able to move later
 

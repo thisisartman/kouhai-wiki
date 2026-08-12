@@ -43,6 +43,19 @@ For IUJ's credit-bearing Japanese language courses, see [[Japanese Language Cour
 
 ---
 
+## Making Your Own Flashcards
+
+The phrase tables below are ready-made flashcard material. Quick way to turn them into an actual deck:
+
+1. Copy a table (or just the phrases you want) into a spreadsheet — one column Japanese, one column English/romaji
+2. Export as `.csv` (File → Download → CSV in Google Sheets, or Save As in Excel)
+3. In **Anki**: Create Deck → File → Import → select your CSV → map columns to Front/Back
+4. Study in short daily sessions (10–15 min) rather than long infrequent ones — spaced repetition works because of the spacing, not the session length
+
+> 💡 Start with the Basics table below, then add new phrases as you actually encounter them — a self-built deck from real situations sticks better than a generic one.
+
+---
+
 ## Survival Phrases for Daily Life at IUJ
 
 Learn these first. Pronunciation guide: vowels are pure (a=ah, i=ee, u=oo, e=eh, o=oh).

@@ -27,7 +27,14 @@ None of this is unique to you. Most students feel at least some version of this.
 ## On-Campus Support
 
 ### IUJ Health and Wellness Office
-Staffed by a Health & Wellness Coordinator (registered nurse), Mon–Fri 9:00–12:30 & 13:30–17:00, walk-in, A-Wing Building 1st Floor (behind the ATM), 025-779-1170 / ext. 170. First port of call; can make referrals. See [[Nearby Clinics & Hospitals]] for full detail.
+First port of call; can make referrals. See [[Nearby Clinics & Hospitals]] for full detail.
+
+| | |
+|---|---|
+| **Staffed by** | Health & Wellness Coordinator (registered nurse) |
+| **Hours** | Mon–Fri 9:00–12:30 & 13:30–17:00, walk-in |
+| **Location** | A-Wing Building, 1st Floor (behind the ATM) |
+| **Contact** | 025-779-1170 / ext. 170 |
 
 ### IUJ Counselor
 IUJ has a dedicated on-campus counselor (currently **Kiyoshi Sekihara, "SEKI"**, a certified psychologist and social worker). Sessions are **free**, confidential, and flexible on timing; Zoom is available on request.
