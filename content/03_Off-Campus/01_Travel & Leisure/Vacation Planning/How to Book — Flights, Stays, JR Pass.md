@@ -88,12 +88,14 @@ For domestic travel, **Shinkansen beats flights** for most routes from Niigata (
 
 The JR Pass allows unlimited travel on most JR trains (including Shinkansen, except Nozomi and Mizuho express services) for a fixed period.
 
-**Current prices (2025, approximate):**
+**Current prices**, per the [official Japan Rail Pass site](https://japanrailpass.net/en/):
 | Duration | Ordinary | Green Car (business) |
 |---|---|---|
 | 7 days | ¥50,000 | ¥70,000 |
 | 14 days | ¥80,000 | ¥110,000 |
 | 21 days | ¥100,000 | ¥140,000 |
+
+> ⚠️ **Prices are rising October 1, 2026** for passes bought through travel agencies or overseas resellers (7-day ordinary goes to ¥53,000, etc.) — but stay at the prices above if bought directly through the official site. If you're planning a trip around that date, buying early (or via the official site) is worth checking.
 
 **When it's worth it:**
 - Extensive travel covering Tokyo + Kyoto + Osaka + Hiroshima (or more) within 7-14 days
@@ -111,7 +113,7 @@ The JR Pass allows unlimited travel on most JR trains (including Shinkansen, exc
 
 ## Gakuwari: IUJ's Own JR Student Discount
 
-Before reaching for the JR Pass above, check whether Gakuwari is the better deal for you: per IUJ's own Gakuwari: JR Travel Discounts page, full-time students (exchange and special students don't qualify) get a 20% discount off the base JR fare for one-way trips over 100km. Urasa to Niigata Station already clears that threshold, so this isn't just for long-haul trips.
+Before reaching for the JR Pass above, check whether Gakuwari is the better deal for you: per IUJ's official [Gakuwari: JR Travel Discounts](https://www2.iuj.ac.jp/oss/current-students/gakuwari/) page, full-time students (exchange and special students don't qualify) get a 20% discount off the base JR fare for one-way trips over 100km. Urasa to Niigata Station already clears that threshold, so this isn't just for long-haul trips.
 
 - **Allowance:** 10 coupons per academic year (September 1 - August 31); each coupon is valid for 3 months from issue. You can apply for up to **4 coupons at a time**, so you don't need to make a separate trip to OSS for every single one.
 - **Important limit:** the 20% only applies to the regular ("non-express") fare portion of the ticket, not the Shinkansen/Limited Express surcharge. On a Shinkansen ticket, that means your real savings are noticeably less than 20% of the total price you pay.
