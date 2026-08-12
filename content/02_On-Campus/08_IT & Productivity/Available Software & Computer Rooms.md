@@ -52,7 +52,7 @@ Regular students (not non-regular/exchange) can install the following free of ch
 
 | Software | Notes |
 |---|---|
-| Microsoft Office Suite | Full 2024 Professional Plus (Word, Excel, PowerPoint, Access, InfoPath, OneNote) — **Publisher is not included**. See the [MS Office FAQ](https://www2.iuj.ac.jp/cs/computing-faq/microsoft-office/) |
+| Microsoft Office Suite | Full 2024 Professional Plus (Word, Excel, PowerPoint, Access, InfoPath, OneNote) — **Publisher is not included**. See the [Available Software on Campus list](https://www2.iuj.ac.jp/cs/programs/) (the separate MS Office FAQ page on IUJ's site is years stale — still says Office 2010 with Publisher included — don't use it) |
 | STATA | Activation required at MLIC office. See the [STATA FAQ](https://www2.iuj.ac.jp/cs/computing-faq/stata/) |
 | Stat Transfer | Trial only on personal PCs |
 
@@ -78,8 +78,9 @@ Ask MLIC office for exact terms before committing.
 - [PC Rooms](https://www2.iuj.ac.jp/cs/pc-rooms/)
 - [Live room-reservation status](https://www2.iuj.ac.jp/cs/room-resv/)
 - [Available Software on Campus](https://www2.iuj.ac.jp/cs/programs/)
-- [Microsoft Office FAQ](https://www2.iuj.ac.jp/cs/computing-faq/microsoft-office/)
 - [STATA FAQ](https://www2.iuj.ac.jp/cs/computing-faq/stata/)
+
+⚠️ IUJ's own [Microsoft Office FAQ page](https://www2.iuj.ac.jp/cs/computing-faq/microsoft-office/) is years out of date (still says Office 2010, Publisher included) — deliberately not linked above as a source. Use the Available Software list instead; this is worth flagging to MLIC.
 
 ---
 
