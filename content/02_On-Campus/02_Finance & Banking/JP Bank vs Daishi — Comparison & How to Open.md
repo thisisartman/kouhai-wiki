@@ -118,4 +118,4 @@ For a foreign name, katakana approximation is used (e.g., アルジュン for "A
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*

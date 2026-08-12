@@ -130,7 +130,7 @@ For full details on ongoing remittances, see [[Sending Money Home]].
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Which remittance services worked best for your home country
 - Wise setup tips or gotchas specific to certain countries

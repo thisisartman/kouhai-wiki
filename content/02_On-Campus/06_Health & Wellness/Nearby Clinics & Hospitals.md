@@ -157,7 +157,7 @@ For mental health support specifically, see [[Mental Health Resources]], which c
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Firsthand experience at Uonuma Kikan, Yamato Hospital, or Moegi Clinic: what actually happened
 - Any tips for navigating Japanese medical appointments without Japanese fluency

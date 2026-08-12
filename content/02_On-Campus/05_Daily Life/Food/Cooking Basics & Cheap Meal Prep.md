@@ -110,7 +110,7 @@ Cook instant ramen → add an egg, frozen vegetables, and a dash of sesame oil. 
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Your go-to cheap meal at IUJ
 - Best supermarket discount timing near campus

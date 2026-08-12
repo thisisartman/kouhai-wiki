@@ -105,7 +105,7 @@ Register through the **IUJ Student Portal**, using your IUJ computer account (se
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Which electives are most worth it (MBA and IR separately)
 - Registration quirks: courses that fill instantly, hidden gems, avoid-at-all-costs

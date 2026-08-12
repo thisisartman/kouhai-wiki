@@ -77,6 +77,6 @@ The interface switches to English on your next sign-in. Some Japanese text may p
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Any setup gotchas specific to PCs bought at K's Denki or other local retailers

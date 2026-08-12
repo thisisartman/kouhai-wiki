@@ -85,7 +85,7 @@ The `13_Country-Specific/` section of this wiki includes country profiles that w
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - What you brought or presented, and how the kids responded
 - Whether Japanese language ability matters in practice

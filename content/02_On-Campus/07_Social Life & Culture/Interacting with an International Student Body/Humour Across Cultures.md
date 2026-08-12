@@ -71,7 +71,7 @@ Japanese students at IUJ will often understand international humour better than 
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - A cross-cultural humour moment that worked unexpectedly well at IUJ
 - Something you learned about your own culture's humour from being at IUJ

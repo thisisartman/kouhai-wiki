@@ -106,4 +106,4 @@ Dragging multiple suitcases through Tokyo's train network is brutal. Use luggage
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*

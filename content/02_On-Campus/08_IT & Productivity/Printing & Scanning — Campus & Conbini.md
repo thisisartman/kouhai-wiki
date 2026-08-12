@@ -123,7 +123,7 @@ Japanese bureaucracy still uses fax occasionally. Conbini machines fax to domest
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Which conbini near IUJ has the best multifunction machine
 - Any specific printing situations that came up (official documents, thesis binding, etc.)

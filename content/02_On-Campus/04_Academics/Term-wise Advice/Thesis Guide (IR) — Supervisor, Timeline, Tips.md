@@ -133,7 +133,7 @@ Most IR theses use one of:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - When you actually started your thesis and whether that was too late / too early
 - How you chose your supervisor: what factors mattered in hindsight

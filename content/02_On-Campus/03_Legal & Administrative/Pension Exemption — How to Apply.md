@@ -85,7 +85,7 @@ You have **10 years** after the exemption period to pay back the deferred premiu
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - What actually happens if you miss Tax & Pension Day (who to contact, whether there's a makeup slot)
 - Whether the event date/location is consistent year to year

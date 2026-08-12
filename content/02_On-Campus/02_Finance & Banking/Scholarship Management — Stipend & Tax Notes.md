@@ -140,7 +140,7 @@ For the full tax filing process, see [[Tax Filing for Students]].
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Actual stipend amounts for MIPP/MBA/IRP programmes if different from the JASSO figure above
 - Whether the scholarship stipend is taxable and how to handle it on your tax return

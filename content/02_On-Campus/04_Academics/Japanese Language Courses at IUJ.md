@@ -73,7 +73,7 @@ IUJ's Career Support office has, at least once, forwarded a **free JLPT N3/N2 ex
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Which IUJ Japanese course level to start at for true beginners
 - Language exchange experiences at IUJ

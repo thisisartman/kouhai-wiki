@@ -115,4 +115,4 @@ Only **Toki** services stop here, per IUJ's own current timetable.
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*

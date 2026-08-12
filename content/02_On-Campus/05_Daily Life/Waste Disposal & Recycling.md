@@ -114,7 +114,7 @@ Collection happens on specific days for specific categories.
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Minami-Uonuma City's actual collection schedule (current)
 - Which designated bags are required and where to buy them

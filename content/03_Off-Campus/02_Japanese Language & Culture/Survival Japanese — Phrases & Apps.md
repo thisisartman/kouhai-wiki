@@ -101,7 +101,7 @@ Learn these first. Pronunciation guide: vowels are pure (a=ah, i=ee, u=oo, e=eh,
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Apps or methods that made the biggest difference in daily life
 - Funny or useful moments where Japanese came through unexpectedly

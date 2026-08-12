@@ -126,7 +126,7 @@ Managing sources manually is a waste of time. Use one of these from Day 1:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Which databases were most useful for MBA vs IR thesis work
 - Tips on navigating interlibrary loan for hard-to-find sources

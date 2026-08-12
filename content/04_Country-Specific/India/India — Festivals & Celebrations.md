@@ -33,7 +33,7 @@ This page is for Indian students to fill in: which festivals and celebrations fr
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Which festivals from home you've celebrated at IUJ, and how (Diwali, Holi, etc.)
 - Whether there's an active Indian student group

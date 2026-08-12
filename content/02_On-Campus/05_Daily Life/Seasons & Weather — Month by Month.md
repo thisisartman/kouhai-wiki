@@ -144,7 +144,7 @@ Peak summer. Temperatures: 26–34°C with high humidity. Obon holiday period (m
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Accurate snowfall month-by-month from lived experience
 - Best winter gear you found or bought locally

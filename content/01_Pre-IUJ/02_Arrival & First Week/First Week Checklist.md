@@ -95,4 +95,4 @@ The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelm
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*

@@ -115,7 +115,7 @@ For harder-to-find vegan/vegetarian specialty items:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Specific restaurants near Urasa/Nagaoka that accommodate vegetarians/vegans
 - Campus cafeteria vegetarian options: what's actually available

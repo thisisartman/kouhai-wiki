@@ -100,7 +100,7 @@ For large items (duvets, winter coats, sleeping bags) that won't fit in dorm mac
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Current coin prices at the dorm laundry
 - Best winter drying setup you found

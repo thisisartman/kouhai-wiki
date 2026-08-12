@@ -122,7 +122,7 @@ Japan's northernmost main island. Best in summer (lavender fields, cooler temper
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Your best domestic trip from IUJ: itinerary and cost
 - Tips for Kyoto/Osaka during peak seasons

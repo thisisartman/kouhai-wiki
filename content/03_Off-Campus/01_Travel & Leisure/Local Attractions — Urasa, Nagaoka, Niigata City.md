@@ -138,7 +138,7 @@ The Niigata mountains are onsen country. Several facilities are within 30-60 min
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Hidden local spots near IUJ worth visiting
 - Best onsen facilities accessible from campus

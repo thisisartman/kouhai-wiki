@@ -38,7 +38,7 @@ A lighter-weight option exists alongside the full exchange: a **Virtual MBA Exch
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Actual application window dates and which office runs it (OAA vs OSS vs GSIM-specific)
 - Real experience going through the interview and assignment process

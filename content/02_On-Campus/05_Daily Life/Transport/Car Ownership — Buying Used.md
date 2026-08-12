@@ -131,7 +131,7 @@ Whichever route you take, make sure the ownership-transfer or disposal paperwork
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Which car you bought, how much, and whether it was worth it
 - Where you bought it (dealer, student handoff, online)

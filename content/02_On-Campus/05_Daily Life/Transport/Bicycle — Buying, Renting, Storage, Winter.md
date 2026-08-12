@@ -120,7 +120,7 @@ Don't abandon your bike: it creates problems for the next residents and technica
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Best places to buy bikes near IUJ specifically
 - Winter cycling experience: did anyone do it, and how?

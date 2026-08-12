@@ -117,7 +117,7 @@ A basic earthquake kit matters. You don't need much:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Experience of earthquakes at IUJ: what actually happened
 - Any campus-specific earthquake procedures seniors know about

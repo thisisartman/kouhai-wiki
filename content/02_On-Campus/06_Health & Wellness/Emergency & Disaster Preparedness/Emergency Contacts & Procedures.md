@@ -134,7 +134,7 @@ For earthquake and heavy snow emergencies specifically, see the dedicated articl
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Current IUJ emergency contact numbers
 - Experience calling 119 or 110 as a non-Japanese speaker

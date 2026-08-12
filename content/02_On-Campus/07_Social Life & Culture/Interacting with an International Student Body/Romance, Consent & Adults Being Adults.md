@@ -89,7 +89,7 @@ If you witness something concerning, checking in with the person privately is ap
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Anything about the IUJ social dynamic around relationships that Kouhais should know going in
 - How the small-campus breakup situation actually plays out, and how people handle it well

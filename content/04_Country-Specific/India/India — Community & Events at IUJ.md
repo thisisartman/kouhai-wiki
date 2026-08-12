@@ -32,7 +32,7 @@ This page tracks the Indian student community at IUJ. Is there a group chat, reg
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Whether an Indian student group/chat exists and how to join
 - Events the community has organized at IUJ

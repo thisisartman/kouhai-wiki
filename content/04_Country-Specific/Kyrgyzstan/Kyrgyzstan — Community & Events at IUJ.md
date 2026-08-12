@@ -31,7 +31,7 @@ This page tracks the Kyrgyz student community at IUJ. Is there a group chat, reg
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Whether a Kyrgyz student group/chat exists and how to join
 - Events the community has organized at IUJ

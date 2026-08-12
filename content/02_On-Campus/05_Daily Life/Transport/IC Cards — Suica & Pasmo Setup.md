@@ -97,7 +97,7 @@ Obtain at any JR station ticket machine, including Urasa Station.
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Mobile Suica setup tips for specific phone models or country-issued cards
 - Any IC card quirks specific to the Urasa/Nagaoka bus system

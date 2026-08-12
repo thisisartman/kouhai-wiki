@@ -121,7 +121,7 @@ If you're away from campus when a storm hits unexpectedly:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - Worst snow situations you experienced at IUJ and how you handled it
 - IUJ-specific snow emergency procedures

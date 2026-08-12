@@ -96,7 +96,7 @@ IUJ organises intra-campus sports events. Cricket, football (soccer), basketball
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Contact [your name/handle].*
+> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
 - IUJ cultural nights: standout events and how to make yours great
 - Any annual IUJ events not mentioned above (Culti-Fiesta and Open Day/International Festival dates shift year to year; confirm current-year dates)
