@@ -57,7 +57,7 @@ Countries that have reciprocal agreements with Japan: includes most European cou
 - Passport photos (3–4, check current requirements)
 - Application form (fill in at the centre)
 
-> 💡 Get your JAF translation before going to the centre: [jaf.or.jp/e/switch](https://www.jaf.or.jp/e/switch). Takes 1–2 weeks. Cost: ~¥3,000.
+> 💡 Get your JAF translation before going to the centre: [JAF's official translation service](https://english.jaf.or.jp/driving-in-japan/drive-in-japan/about-dltas). Takes 1–2 weeks. Cost: **¥6,600** (raised from ¥3,000 as of July 1, 2026 — confirm the current fee before budgeting).
 
 ### On the Practical Test
 

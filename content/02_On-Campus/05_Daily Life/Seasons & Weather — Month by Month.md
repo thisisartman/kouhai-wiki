@@ -8,7 +8,7 @@ last_updated: 2026-07-23
 
 Niigata is one of Japan's snowiest regions. Minami-Uonuma specifically sits between mountains that funnel in heavy snowfall every winter. If you're arriving from a tropical or mild climate, this will be the biggest environmental adjustment you make.
 
-The good news: once you know what's coming, preparation is straightforward.
+The good news: once you know what's coming, preparation is straightforward. Figures below are general/illustrative; for actual historical averages and forecasts, see the [Japan Meteorological Agency's data search](https://www.data.jma.go.jp/stats/etrn/index.php).
 
 ---
 

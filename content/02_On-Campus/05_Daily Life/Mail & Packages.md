@@ -53,10 +53,12 @@ Go to the **Post Office (郵便局)**, or drop in a red mailbox (ポスト) on t
 
 | Service | Cost | Speed |
 |---|---|---|
-| Standard letter (定形郵便) | ¥84–94 | 1–2 days |
-| Large letter (定形外郵便) | From ¥120 | 1–2 days |
-| Express (速達, *sokutatsu*) | +¥290 | Next day |
-| Registered (書留, *kakitome*) | +¥435 | Tracked; proof of delivery |
+| Standard letter (定形郵便, up to 50g) | ¥110 flat | 1–2 days |
+| Large letter (定形外郵便) | From ¥140 | 1–2 days |
+| Express (速達, *sokutatsu*) | +¥300 | Next day |
+| Simple registered (簡易書留) | +¥350 | Tracked; proof of delivery |
+
+Japan Post raised domestic rates in October 2024 (standard letters went from a weight-tiered ¥84/94 to a flat ¥110); figures above reflect the [current official rate table](https://www.post.japanpost.jp/send/domestic/charge/list/one_two.html). Registered mail has multiple tiers (簡易書留 shown above is the cheapest); check the [surcharge page](https://www.post.japanpost.jp/send/domestic/charge/list/option.html) if you need a higher tier.
 
 ---
 
@@ -73,6 +75,8 @@ Available at any post office. Reliable and tracked. The counter staff have weigh
 | Surface | 1–3 months | Cheapest; slow |
 
 > 💡 EMS is the best balance of speed and reliability for sending things home. SAL is a good middle ground for non-urgent packages.
+
+Exact current rates by destination and weight: [Japan Post international rate calculator](https://www.post.japanpost.jp/cgi-charge/).
 
 ### Luggage Forwarding via Takkyubin
 
