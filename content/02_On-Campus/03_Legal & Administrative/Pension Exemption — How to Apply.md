@@ -76,6 +76,14 @@ You have **10 years** after the exemption period to pay back the deferred premiu
 
 ---
 
+## Official Sources
+
+Japan Pension Service (日本年金機構):
+- [国民年金保険料 rate page](https://www.nenkin.go.jp/section/faq/kokunen/seido/hokenryo/seidosetsumei/20150331.html)
+- [学生納付特例制度 (student exemption system)](https://www.nenkin.go.jp/service/kokunen/menjo/20150514.html)
+
+---
+
 ## Related Articles
 - [[Municipal Registration — Minami-Uonuma City Office]]
 - [[My Number Card — How to Get It & Why]]

@@ -110,6 +110,12 @@ Pension exemption has its own phrase; see [[Pension Exemption — How to Apply]]
 
 ---
 
+## Official Sources
+
+- [国民健康保険 加入・脱退などの手続き](https://www.city.minamiuonuma.niigata.jp/docs/5905.html), Minami-Uonuma City
+
+---
+
 ## Related Articles
 - [[Residence Card — What It Is & Renewal]]
 - [[My Number Card — How to Get It & Why]]
