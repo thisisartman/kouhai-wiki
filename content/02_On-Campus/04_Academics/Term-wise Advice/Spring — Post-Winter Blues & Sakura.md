@@ -78,11 +78,11 @@ For second-years and those finishing their program:
 - **Start job/career logistics early**: visa status changes after graduation, job searches take time
 - **Administrative checkout**: dormitory checkout, address deregistration at city hall, and closing bank accounts or maintaining them. Plan this in advance
 - **Residence Card**: if staying in Japan post-graduation, apply for new status before current one expires
-- **The goodbyes are real**: IUJ's small, intense community creates strong bonds; acknowledge that the end is happening rather than avoiding it
+- **The goodbyes are real**: IUJ's small, intense community creates strong bonds, and the end of the program is a genuine loss, not just a logistics event — plan time for it rather than letting it get crowded out by checkout admin
 
 ---
 
-## What Spring Gets Right
+## The Upside of Spring
 
 - Outdoor everything: hiking, cycling, picnics all become viable again
 - Campus looks genuinely stunning in spring

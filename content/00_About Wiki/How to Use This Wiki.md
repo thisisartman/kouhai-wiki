@@ -75,7 +75,7 @@ To contribute: use the **✏️ Suggest an edit** button on that article (see ab
 
 ## Suggesting an Edit
 
-Every article on the website has a **✏️ Suggest an edit** button under the title. Found something outdated, wrong, or missing? Click it.
+Every article on the website has a **✏️ Suggest an edit** button in the header toolbar. Found something outdated, wrong, or missing? Click it.
 
 - If you highlight text on the page *before* clicking the button, that passage is pulled into the form automatically, no retyping needed.
 - Describe what should change and why.

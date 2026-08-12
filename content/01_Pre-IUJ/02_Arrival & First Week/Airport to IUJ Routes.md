@@ -35,6 +35,8 @@ IUJ is in Minami-Uonuma, Niigata (rural Japan). There's no direct airport nearby
 
 > 💡 Book Shinkansen tickets in advance via [Ekinet](https://www.eki-net.com) or at any JR ticket office (みどりの窓口). IC cards do not cover reserved Shinkansen seats.
 
+**Cheaper alternative leg 1**: per a senior submission, **Keisei Skyliner** (Narita → Ueno, ~41 min, ~¥2,570) is faster and cheaper than the N'EX → Tokyo Station leg above. From Ueno, the same Joetsu Shinkansen (Toki/Tanigawa) continues on to Urasa — Ueno is one stop before Tokyo Station on that line, so the fare and journey time are close to the Tokyo Station numbers above. Worth comparing both legs when booking, since Skyliner tickets can be bought online in advance at a discount.
+
 ---
 
 ## Route 2: Haneda (HND) → Urasa

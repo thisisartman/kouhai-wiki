@@ -16,13 +16,15 @@ Rural Niigata has a limited job market compared to Tokyo. Realistic options:
 
 | Job Type | Where | Japanese Required? |
 |---|---|---|
-| Convenience store (conbini) | Urasa, Nagaoka | Basic (manageable) |
-| Restaurant / café | Nagaoka | Basic–Intermediate |
-| Ski resort / lodge | Yuzawa, GALA | Basic; foreigners welcomed |
-| English teaching (private tutoring) | Online / local schools | None |
 | Online freelance work | Remote | None |
+| English teaching (private tutoring) | Online / local schools | None |
 | IUJ Teaching/Research Assistant | On-campus | None |
+| IUJ Library Assistant | On-campus (Library) | Limited |
+| IUJ IT Helpdesk Assistant | On-campus (MLIC) | Limited |
 | IUJ administrative assistant | On-campus | Limited |
+| Ski resort / lodge | Yuzawa, GALA | Basic; foreigners welcomed |
+| Restaurant / café | Nagaoka | Basic–Intermediate |
+| Convenience store (conbini) | Urasa, Nagaoka | Basic (manageable) |
 
 > 💡 **Ski resort work in Yuzawa** is popular with IUJ students in winter. Accommodation is sometimes included, and foreigners are common. Keep it within 28 hrs.
 
@@ -30,11 +32,13 @@ Rural Niigata has a limited job market compared to Tokyo. Realistic options:
 
 ## On-Campus Opportunities
 
-- **Teaching Assistant (TA)** positions assist professors with courses; check with your department
+- **Teaching Assistant (TA)** positions assist professors with courses — grading, running lab/discussion sections, holding office hours; check with your department directly, positions aren't centrally posted
 - **Research Assistant (RA)**, paid research support roles; ask your academic advisor
+- **Library Assistant** positions exist at the IUJ library (shelving, circulation desk, basic patron support) — a distinct role from TA/RA, ask at the library counter or watch for postings
+- **IT Helpdesk Assistant** positions exist through MLIC — separate from TA/RA, ask at MLIC or watch for postings; see [[IUJ Network & Email Accounts]] for what the Helpdesk itself covers
 - **Pay rate:** at least Niigata Prefecture's minimum wage, currently **¥1,050/hour** (effective since Oct 2025; a rise to ¥1,108/hour is proposed for Oct 2026) — see the [official prefecture minimum wage page](https://www.pref.niigata.lg.jp/sec/shigototeijyu/1317606873248.html). Don't sign an offer below this. Remember to actually sign the work agreement, not just verbally agree.
 - These are the easiest options for students who prefer not to deal with Japanese-language workplaces
-- **TA/RA positions do not require a Work Permit.** This is an explicit exception per IUJ's official guidance, but library jobs are different: they **do** require a Work Permit like off-campus work does. Don't assume all on-campus jobs are permit-free.
+- **TA/RA positions do not require a Work Permit.** This is an explicit exception per IUJ's official guidance, but **Library and IT Helpdesk jobs are different: they DO require a Work Permit**, same as off-campus work. Don't assume all on-campus jobs are permit-free.
 - **Some scholarships ban part-time work outright.** Many scholarships don't allow part-time employment that requires a Work Permit, and **JICA, ADB, and IMF-sponsored students specifically cannot get a Work Permit at all**. Check your scholarship's terms before assuming you can take any job; this applies beyond just the driving restriction covered elsewhere.
 
 ---

@@ -56,6 +56,12 @@ Upload PDFs of your readings, lecture notes, or papers. Ask questions about them
 
 For non-native English writers: good for catching grammatical patterns you repeat. Don't outsource your voice; use it for error-catching.
 
+### Presentation Generation
+
+Per a senior submission: some AI tools generate actual presentation files, not just outline text — **Kimi** and **Claude** can produce real `.ppt` files directly, and **Gemini** generates Google Slides decks. Useful for a first-pass structure on a tight deadline.
+
+> 💡 **Workflow that actually works**: draft your own bullet points first, *then* use the AI output as a structural starting point, then rework it into your own final version. Presenting an unedited AI-generated deck reads as exactly that in a room full of your classmates — use it to save time on structure and formatting, not to skip the thinking.
+
 ---
 
 ## Academic Productivity Systems
