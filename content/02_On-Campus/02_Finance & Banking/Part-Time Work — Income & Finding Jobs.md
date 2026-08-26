@@ -85,6 +85,7 @@ Beyond word of mouth and job boards, **IUJ's own Career Support office (career@i
 - [[Part-Time Work — Permits & Visa Rules]]
 - [[Tax Filing for Students]]
 - [[Scholarship Management — Stipend & Tax Notes]]
+- [[Career Support & Job Hunting]]
 
 ---
 

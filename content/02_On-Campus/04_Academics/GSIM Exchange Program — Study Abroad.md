@@ -31,10 +31,41 @@ A lighter-weight option exists alongside the full exchange: a **Virtual MBA Exch
 
 ---
 
+## GSIR Exchange Program
+
+GSIR runs its own exchange program, separate from the GSIM process described above, with its own partner list. Source: GSIR Curriculum Handbook 2025-2026, page 15.
+
+The handbook states GSIR has **9 partner institutions**, but the list of names captured from that page runs to 11:
+
+- Carleton University
+- Charles University
+- Bocconi University
+- Blanquerna-URL
+- UIBE (University of International Business and Economics)
+- SNU (Seoul National University)
+- Yonsei University
+- Ewha Womans University
+- Thammasat University
+- NCCU (National Chengchi University)
+- Foreign Trade University Vietnam
+
+> [!warning] Count mismatch
+> The stated count (9) doesn't match the number of names listed (11) above. This is flagged as-is rather than trimmed or adjusted — confirm the correct list and count against the current GSIR Curriculum Handbook or OAA before relying on it.
+
+### Other GSIR-Specific Differences
+
+A couple of GSIR-specific rules that don't have another natural home in the wiki yet — source: GSIR Curriculum Handbook 2025-2026, page 16.
+
+- **Late-registration fee**: GSIR students face a **¥7,000 late-registration fee**. This fee isn't mentioned anywhere in GSIM materials.
+- **Auditing a course**: GSIR requires **no formal application form** to audit a course. GSIM, by contrast, requires a **"Course Registration Form for Audit."**
+
+---
+
 ## Official IUJ Sources
 
 - [Exchange Program Opportunities](https://www.iuj.ac.jp/academics/gsim/exchange/) — partner school list, program details
 - [GSIM Student Handbook 2025-2026 (PDF)](https://www.iuj.ac.jp/assets/img/student-handbook_Handbook2025-26.pdf) — has the current named list of 25 partner institutions plus credit-transfer rules for exchange credits, more detail than summarized here
+- GSIR Curriculum Handbook 2025-2026 (PDF) — source for the GSIR exchange partner list (page 15) and the late-registration fee / audit form differences (page 16)
 
 ---
 
@@ -51,3 +82,5 @@ A lighter-weight option exists alongside the full exchange: a **Virtual MBA Exch
 - Real experience going through the interview and assignment process
 - What happens if your GPA dips below 3.30 mid-exchange
 - Details on the WHU virtual exchange — application process, workload, credit transfer
+- The correct GSIR exchange partner count/list (9 stated vs. 11 named — see the GSIR Exchange Program section above)
+- Whether GSIR has its own GPA requirement, interview process, or housing rules paralleling the GSIM ones above

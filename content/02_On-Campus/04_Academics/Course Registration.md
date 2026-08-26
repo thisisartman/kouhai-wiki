@@ -3,7 +3,7 @@ title: Course Registration
 section: 02_On-Campus/04_Academics
 tags: [academics, registration, courses, portal, unverified]
 status: needs-work
-last_updated: 2026-07-23
+last_updated: 2026-08-27
 ---
 
 > ⚠️ This article is based on general IUJ program information. Verify all deadlines, portal steps, and specific procedures against the current IUJ Student Handbook and academic calendar before each term.
@@ -65,6 +65,21 @@ Register through the **IUJ Student Portal**, using your IUJ computer account (se
 
 ---
 
+## Early Graduation
+
+Both schools offer an option to graduate ahead of the standard timeline, but the GPA bar and procedure differ between them — treat these as two separate rules, not one shared policy. See [[Grading System]] for GPA context.
+
+**GSIM**: 2-year MBA/JGDP students with a cumulative GPA of **3.70+** at the end of Year 1 can graduate in 5 terms instead of the standard 6.
+- JICA-sponsored students are **not** eligible
+- Nakayama scholarship recipients **are** eligible
+- Requires notifying the Office of Academic Affairs (OAA) within the first two weeks of Fall Term of Year 2, plus faculty approval
+
+**GSIR**: the same early-graduation option exists, with a higher GPA bar of **3.80+** and a different procedural deadline — notify within the 2nd week after the 4th term starts.
+
+Source: [GSIM Student Handbook 2025-2026 (PDF)](https://www.iuj.ac.jp/assets/img/student-handbook_Handbook2025-26.pdf), page 19, section III.N; [GSIR Curriculum Handbook (PDF)](https://www.iuj.ac.jp/assets/img/Academics-GSIR-CurriculumHandbook_2025.pdf), pages 3–4.
+
+---
+
 ## Course Types
 
 | Type | Notes |
@@ -105,6 +120,7 @@ Register through the **IUJ Student Portal**, using your IUJ computer account (se
 ---
 
 ## Related Articles
+- [[Grading System]]
 - [[Fall — Hectic, Settle In Fast]]
 - [[Thesis Guide (IR) — Supervisor, Timeline, Tips]]
 - [[Library & Research Tools]]
