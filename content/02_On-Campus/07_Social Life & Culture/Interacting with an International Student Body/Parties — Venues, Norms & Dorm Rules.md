@@ -46,9 +46,9 @@ Alcohol is a normal part of social life for many students. It is not for others;
 
 ## Dorm Noise and Quiet Hours
 
-> ⚠️ Confirm current quiet hours with IUJ student affairs or dorm management. Violations can lead to warnings or residential consequences.
+Lounge quiet hours are **11:00 PM Sunday–Thursday, and midnight Friday–Saturday** — see [[Dorm Life & Facilities]] for the full enforcement process (Floor Representatives, Lounge Busters, the yellow-card system). Violations can lead to warnings or residential consequences.
 
-Most dormitories have quiet hours, typically late evening onwards. Be aware that:
+Be aware that:
 - Sound carries more than you'd expect in dorm buildings
 - Your neighbours include people with early classes and different schedules
 - Being considerate early builds goodwill; being a noise problem early shapes how you're seen for the rest of the year
@@ -84,7 +84,6 @@ If you're hosting a gathering:
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
-- Exact quiet hours times, if known
 - Best social events that happened at IUJ: what made them work
 - Off-campus venues in Nagaoka good for group outings
 - Cultural night tips: what works, what to avoid

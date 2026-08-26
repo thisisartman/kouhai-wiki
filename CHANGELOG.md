@@ -1,5 +1,49 @@
 # Changelog
 
+## [2026-08-27] — Site-wide completeness audit: quick-win batch
+
+Full audit of the site's completion state: read all 33 `status: needs-work`
+articles (via 3 parallel review passes), cross-referenced against
+`suggestions-log.csv` Open/Backlog rows, `MAINTENANCE.md` §15 backlog, and
+`images-todo.md`, then synthesized into a ranked top-10 priority list.
+Actioned the "quick win" tier of that list (~2hrs of work):
+
+- Unpublished (`draft: true`, using the already-enabled `remove-draft`
+  plugin) the 6 near-empty India/Kyrgyzstan stub articles (Community &
+  Events, Cultural Information & Etiquette, Festivals & Celebrations for
+  each country) — they were serving literal `(Add here: ...)` placeholder
+  text to live readers. Content kept on disk, just excluded from the
+  build, so it's still there for whoever eventually fills it in.
+- Flipped 7 articles from `needs-work` to `ready` after review confirmed
+  they were near-complete and only tagged `needs-input` (not
+  `unverified`): Part-Time Work — Income & Finding Jobs, Room Setup Tips,
+  Bus & Local Routes, Clubs & Student Organizations, and the Fall/Spring/
+  Winter term-wise advice articles. Deliberately did NOT flip articles
+  still carrying an `unverified` tag without actually re-checking their
+  facts — flipping those would launder unchecked claims into "ready" and
+  undermine the whole tagging system.
+- `Cost of Attending IUJ — Budgeting for Year One.md` — fixed a metadata
+  bug: `status: needs-work` with no reason tag at all, despite disclosing
+  a real unresolved NHI cost conflict (¥30,500 vs ¥18,000) inline. Added
+  the missing `unverified` tag.
+- `Parties — Venues, Norms & Dorm Rules.md` — replaced a "confirm current
+  quiet hours" placeholder with the real figures (11PM Sun–Thu / midnight
+  Fri–Sat), which were already documented in `Dorm Life & Facilities.md`
+  and just hadn't been cross-linked in.
+- `Shinkansen Strategy.md` — replaced an 11-year-old (March 2015) IUJ
+  reference fare with current Urasa–Tokyo/Ueno/Niigata fares checked
+  2026-08-27 (source: ekitan.com, itemized base fare + seat surcharge).
+  The stale number undercut the article's own "this saves you money"
+  premise. Flipped to `ready`.
+- Verified all of the above with a real build (`npx quartz build`) —
+  clean, 6 files correctly filtered out by `remove-draft`, 431 files
+  emitted.
+- Logged the full audit + this batch in `suggestions-log.csv` (row 66).
+  Remaining top-10 priorities (GSIR-specific policy content missing
+  site-wide, Campus Dining / Food Delivery near-empty stubs, Scholarship
+  Management's tax-notes stub, 4 unread official PDFs, maintainership
+  succession planning) are scoped but not started.
+
 ## [2026-08-27] — Homepage: unofficial/student-led disclaimer
 
 Actions the 2026-08-19 suggestion-form submission from Apoorv Terwadkar

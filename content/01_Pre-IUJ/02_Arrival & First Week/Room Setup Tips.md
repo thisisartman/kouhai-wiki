@@ -1,8 +1,8 @@
 ---
 title: Room Setup Tips
 section: 01_Pre-IUJ/02_Arrival & First Week
-tags: [housing, dorm, first-week, needs-input]
-status: needs-work
+tags: [housing, dorm, first-week]
+status: ready
 last_updated: 2026-07-19
 ---
 
