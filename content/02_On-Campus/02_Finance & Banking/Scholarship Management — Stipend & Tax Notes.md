@@ -120,13 +120,11 @@ If this might apply to you, contact the Academic Affairs Office (教務事務室
 
 ## Tax Notes
 
-> 🔶 Senior input needed: Full tax guidance for scholarship recipients at IUJ.
+**Short answer**: major scholarships (MEXT, JASSO) are **non-taxable** under Japanese law — you don't pay income tax on them and don't need to report them for tax purposes. Confirm this for your specific scholarship type; some private scholarships or stipends may be treated differently, and this article doesn't cover every scholarship IUJ offers individually. See [[Tax Filing for Students]] for the full picture: when you do/don't need to file, e-Tax steps, deductions, and key dates, sourced from the National Tax Agency.
 
-General principle: scholarship stipends in Japan may be partially or fully exempt from income tax depending on the source and type. IUJ holds a **Tax & Pension Day** each February (confirmed for Feb 6, 2026) where students can get individual assistance with tax filing.
+IUJ holds a **Tax & Pension Day** each February (confirmed for Feb 6, 2026) where students can get individual assistance with tax filing.
 
 For pension exemption (which most student visa holders can apply for), see [[Pension Exemption — How to Apply]].
-
-For the full tax filing process, see [[Tax Filing for Students]].
 
 ---
 

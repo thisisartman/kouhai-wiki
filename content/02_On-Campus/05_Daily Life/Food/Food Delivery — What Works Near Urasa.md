@@ -1,9 +1,9 @@
 ---
 title: Food Delivery — What Works Near Urasa
 section: 02_On-Campus/05_Daily Life
-tags: [food, delivery, uber-eats, demae-can, rural, unverified, empty]
+tags: [food, delivery, uber-eats, demae-can, rural, unverified]
 status: needs-work
-last_updated: 2026-07-13
+last_updated: 2026-08-27
 ---
 
 Food delivery in rural Niigata is patchy at best. This is not Tokyo. Manage expectations, know what actually works, and have backup plans.
@@ -21,18 +21,18 @@ Minami-Uonuma is a rural area. Major delivery platforms have limited or no cover
 ## Platform-by-Platform Status
 
 ### Uber Eats (ウーバーイーツ)
-- Coverage in Minami-Uonuma / Urasa: **likely unavailable or very limited**
-- Nagaoka City (~30 min away) has Uber Eats coverage
-- Check by entering your dorm address in the app; it will tell you immediately
+- Checked 2026-08-27: **Minami-Uonuma City is listed as a covered service area** (part of Uber Eats' Chuetsu-region coverage in Niigata, alongside Nagaoka/Sanjo/Kashiwazaki/Tsubame) — this is a real change from the old "likely unavailable" assumption. Source: [Uber Eats Niigata coverage map](https://ubaitsu.com/user/region/niigata/).
+- **But**: the same source explicitly notes "excluding some areas within the listed cities" (記載都市の一部エリアを除く), and doesn't specify whether Urasa itself (a rural part of the city, where IUJ actually is) is included or excluded. City-level coverage existing does **not** confirm campus-level coverage.
+- Nagaoka City (~30 min away) has full Uber Eats coverage regardless.
 
-> ⚠️ **Verify current coverage**: enter IUJ dorm address in the Uber Eats app and add actual result here.
+> ⚠️ **Still needs a real check**: enter IUJ's actual dorm address in the Uber Eats app and report back whether it shows delivery options — city-level listing isn't proof it reaches campus.
 
 ### Demae-can (出前館)
 - Japan's largest domestic delivery platform
-- Better rural coverage than Uber Eats in some areas
-- More likely to have local Nagaoka restaurants than Uber Eats
+- Checked 2026-08-27: Demae-can has dedicated, genre-filtered search pages specifically for Minami-Uonuma City (南魚沼市) — e.g. bento, Western food, Chinese food delivery searches all return a Minami-Uonuma-specific results page, which suggests the city has at least some real coverage. Could not confirm actual restaurant names available near Urasa specifically (page didn't load for direct verification) — this is weaker evidence than the Uber Eats finding above, just "the search infrastructure exists for this city," not confirmed restaurants.
+- Historically had better rural coverage than Uber Eats in many areas of Japan.
 
-> ⚠️ **Verify current coverage**: check demae-can.com with IUJ address.
+> ⚠️ **Still needs a real check**: go to demae-can.com, enter IUJ's actual address, and report which restaurants (if any) actually show up.
 
 ### Menu (メニュー)
 - Smaller platform; worth checking for Nagaoka coverage
