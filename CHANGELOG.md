@@ -1,5 +1,26 @@
 # Changelog
 
+## [2026-08-27] — Homepage: unofficial/student-led disclaimer
+
+Actions the 2026-08-19 suggestion-form submission from Apoorv Terwadkar
+(source email in `Mail/IUJ/MyKouhai! Wiki/Done/`): make it clear the wiki
+isn't affiliated with or supported by IUJ administration.
+
+- `content/index.md` — meta description reworded to lead with "unofficial,
+  student-run"; added a blockquote disclaimer under the intro paragraph
+  (the passage the submitter actually highlighted).
+- Broader ask ("reword every page site-wide") scoped down per this
+  project's established precedent (suggestions-log.csv rows 30, 37, 57):
+  logged as its own Backlog row rather than auto-expanded to all ~95
+  content files. The footer plugin (`quartz.config.yaml`) only supports
+  links, not custom text, so a true site-wide banner would need a Quartz
+  component change or per-page frontmatter — revisit if the homepage
+  disclaimer isn't prominent enough.
+- Also swept `suggestions-log.csv` against the mail folder: confirmed the
+  ~40 other `.eml` files sitting outside `Done/` were already logged as
+  Actioned/Skipped/Open/Backlog through 2026-08-12 — a filing gap, not
+  unactioned work.
+
 ## [2026-07-31] — Site-wide IA reorg: 11 flat sections -> 4 journey-phase buckets
 
 Restructured `content/` from 11 topic-based top-level sections into
