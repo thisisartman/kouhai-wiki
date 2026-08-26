@@ -1,5 +1,36 @@
 # Changelog
 
+## [2026-08-27] — Completeness audit: Campus Dining, Food Delivery, Scholarship tax notes
+
+Closes out the remaining actionable items on the completeness audit's
+top-10 list (excluding maintainership succession, which only the repo
+owner can act on).
+
+- **`Campus Dining.md`** — was almost entirely a TODO checklist. Added
+  real sourced facts: the cafeteria's actual name (**IUJ Shokudo**),
+  term-time hours, sample menu items and prices, and confirmed halal
+  availability with cross-contamination-trained staff — sourced from
+  IUJ's own menu page plus a public review, cross-checked against each
+  other. Left genuinely unconfirmable items (exact quality, crowding,
+  vegetarian/vegan options, exact building location) as open questions
+  rather than guessing.
+- **`Food Delivery — What Works Near Urasa.md`** — found real evidence
+  that Uber Eats now lists Minami-Uonuma City as a covered service area
+  (previously assumed unavailable), and that Demae-can has dedicated
+  search infrastructure for the city. Neither confirms delivery actually
+  reaches Urasa/campus specifically — rewrote the framing from
+  "likely unavailable" to "city-level coverage confirmed, campus-level
+  still needs a real address check," without overclaiming delivery works.
+- **`Scholarship Management — Stipend & Tax Notes.md`**, Tax Notes
+  section — this was an explicit "🔶 Senior input needed" placeholder,
+  but the actual answer (MEXT/JASSO scholarships are non-taxable) already
+  existed, fully sourced to the National Tax Agency, in the separate
+  `Tax Filing for Students.md` article (status: ready). The gap was a
+  missing cross-reference, not missing research. Replaced the placeholder
+  with the real answer and a link to the full article.
+- Verified with `npx quartz build`: clean, 117 files, 444 emitted.
+- Logged in `suggestions-log.csv` (row 67).
+
 ## [2026-08-27] — GSIR/GSIM academic-policy gap: 4 new articles, 1 correction
 
 Continuation of the completeness audit's top-10 priority list (#1: GSIR
