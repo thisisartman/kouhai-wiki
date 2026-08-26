@@ -4,6 +4,7 @@ section: 04_Country-Specific/India
 tags: [india, culture, etiquette, country-specific, needs-input, empty]
 status: needs-work
 last_updated: 2026-07-19
+draft: true
 ---
 
 This page is for Indian students to share cultural context that would help other IUJ students understand where you're coming from, and to note anything about Japanese/IUJ etiquette that was a genuine adjustment.

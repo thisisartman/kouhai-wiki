@@ -4,6 +4,7 @@ section: 04_Country-Specific/India
 tags: [india, community, events, country-specific, needs-input, empty]
 status: needs-work
 last_updated: 2026-07-19
+draft: true
 ---
 
 This page tracks the Indian student community at IUJ. Is there a group chat, regular meetups, or events other Indian students should know about?

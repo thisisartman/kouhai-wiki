@@ -1,8 +1,8 @@
 ---
 title: Bus & Local Routes
 section: 02_On-Campus/05_Daily Life
-tags: [transport, bus, local, daily-life, needs-input]
-status: needs-work
+tags: [transport, bus, local, daily-life]
+status: ready
 last_updated: 2026-07-25
 ---
 

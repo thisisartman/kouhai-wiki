@@ -1,9 +1,9 @@
 ---
 title: Shinkansen Strategy
 section: 03_Off-Campus/01_Travel & Leisure
-tags: [transport, shinkansen, travel, daily-life, unverified]
-status: needs-work
-last_updated: 2026-07-19
+tags: [transport, shinkansen, travel, daily-life]
+status: ready
+last_updated: 2026-08-27
 ---
 
 The Shinkansen is your lifeline out of Urasa. Tokyo is 1.5 hours away. Getting good at booking and pricing the Shinkansen saves significant money over two years.
@@ -34,12 +34,12 @@ Shinkansen tickets have two components:
 
 Both are required. When you buy a Shinkansen ticket at the window or machine, they're bundled together automatically.
 
-**Urasa → Tokyo:** IUJ's own reference figure is **¥7,680 unreserved, "AS OF MARCH 2015"**: over a decade stale, and JR fares have risen since, so treat this as a floor, not a current price. Check the actual current fare via Ekinet or at the station rather than relying on any fixed number here (including the one previously in this article, which was also unconfirmed).
+**Urasa → Tokyo:** current fare, checked 2026-08-27 (base fare ¥4,180 + seat surcharge; source: [ekitan.com](https://ekitan.com/transit/fare/sf-3376/st-2590)) is **¥7,920 unreserved / ¥8,450 reserved**, replacing IUJ's own reference figure of ¥7,680 unreserved "as of March 2015." Fares do change over time, so treat this as current-as-of-checking rather than permanent — confirm via Ekinet or at the station if it's been a while since this page was last updated.
 
-| Seat Type | Reference point |
+| Seat Type | Fare (checked 2026-08-27) |
 |---|---|
-| Unreserved (自由席, *jiyūseki*) | ¥7,680 as of March 2015 (IUJ's own figure); confirm current price |
-| Reserved (指定席, *shiteiseki*) | Typically a few hundred yen more than unreserved |
+| Unreserved (自由席, *jiyūseki*) | ¥7,920 |
+| Reserved (指定席, *shiteiseki*) | ¥8,450 |
 | Green Car (グリーン車, business class) | Significantly more; check current pricing |
 
 > 💡 Unreserved is fine for most trips: just board the Jiyūseki cars (usually 1–5). Avoid unreserved on peak travel days (Golden Week, Obon, New Year); it can be very crowded.
@@ -72,7 +72,7 @@ IC cards do **not** cover Shinkansen fares. You always need a separate ticket.
 
 ## Student Discount
 
-**Gakuwari does partially apply to Shinkansen trips**: this is easy to miss. The 20% discount applies to the base fare (乗車券) portion of your ticket, just not the express surcharge (特急券). Official page: [Gakuwari: JR Travel Discounts](https://www2.iuj.ac.jp/oss/current-students/gakuwari/). Per IUJ's own figures (again dated to 2015, but the mechanism itself still applies): Urasa–Niigata is ¥4,530 regular / -20% with Gakuwari; Urasa–Ueno ¥7,470 / -20%; Urasa–Tokyo ¥7,680 / -20%. You get a maximum of 10 Gakuwari coupons per academic year (Sept 1–Aug 31), each valid up to 3 months, and your trip must be over 100km one-way to qualify: Urasa–Niigata just clears that threshold. See [[Student Discounts]] for how to get the coupons.
+**Gakuwari does partially apply to Shinkansen trips**: this is easy to miss. The 20% discount applies to the base fare (乗車券) portion of your ticket, just not the express surcharge (特急券). Official page: [Gakuwari: JR Travel Discounts](https://www2.iuj.ac.jp/oss/current-students/gakuwari/). Current unreserved fares, checked 2026-08-27 (base fare + surcharge, source: [ekitan.com](https://ekitan.com/transit/fare)), replacing IUJ's own 2015-dated figures: Urasa–Niigata ¥4,730 regular (base ¥2,090, -20% with Gakuwari); Urasa–Ueno ¥7,710 regular (base ¥4,180, -20%); Urasa–Tokyo ¥7,920 regular (base ¥4,180, -20%). You get a maximum of 10 Gakuwari coupons per academic year (Sept 1–Aug 31), each valid up to 3 months, and your trip must be over 100km one-way to qualify: Urasa–Niigata just clears that threshold. See [[Student Discounts]] for how to get the coupons.
 
 Beyond Gakuwari:
 - **Seishun 18 Kippu (青春18きっぷ):** ¥12,050 for 5 days of unlimited local/rapid train travel, sold seasonally (spring/summer/winter). Not valid on Shinkansen, but excellent for budget domestic travel on slow trains.
@@ -121,7 +121,6 @@ Beyond Gakuwari:
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
 
-- Current Urasa–Tokyo fare (unreserved/reserved): the only figure available is over a decade old
 - Best Ekinet discount strategies used by IUJ students
 - Tips for Tokyo day trips from Urasa
 - Seasonal travel advice (Golden Week, winter holidays)

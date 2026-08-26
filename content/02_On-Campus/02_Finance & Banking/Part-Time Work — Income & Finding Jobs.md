@@ -1,8 +1,8 @@
 ---
 title: Part-Time Work — Income & Finding Jobs
 section: 02_On-Campus/02_Finance & Banking
-tags: [part-time, work, income, jobs, finance, needs-input]
-status: needs-work
+tags: [part-time, work, income, jobs, finance]
+status: ready
 last_updated: 2026-07-23
 ---
 

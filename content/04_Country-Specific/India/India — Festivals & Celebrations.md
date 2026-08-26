@@ -4,6 +4,7 @@ section: 04_Country-Specific/India
 tags: [india, festivals, culture, country-specific, needs-input, empty]
 status: needs-work
 last_updated: 2026-07-19
+draft: true
 ---
 
 This page is for Indian students to fill in: which festivals and celebrations from home matter most, and how (or whether) they're marked at IUJ or in Nagaoka/Niigata.

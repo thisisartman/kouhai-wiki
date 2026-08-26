@@ -4,6 +4,7 @@ section: 04_Country-Specific/Kyrgyzstan
 tags: [kyrgyzstan, community, events, country-specific, needs-input, empty]
 status: needs-work
 last_updated: 2026-07-19
+draft: true
 ---
 
 This page tracks the Kyrgyz student community at IUJ. Is there a group chat, regular meetups, or events other Kyrgyz students should know about?
