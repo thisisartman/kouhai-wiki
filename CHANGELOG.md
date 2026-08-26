@@ -27,6 +27,11 @@ isn't affiliated with or supported by IUJ administration.
   breaking all 4 custom plugins. Relinked by hand and confirmed a clean
   build (113 files, no warnings); documented the fix in `MAINTENANCE.md`
   §8 for next time.
+- Fixed a self-inflicted formatting bug in `suggestions-log.csv`: the two
+  rows added above for this suggestion were tab-delimited, inconsistent
+  with the rest of the file (comma-delimited CSV, CRLF line endings).
+  Rewrote both rows in proper CSV form and verified the full file parses
+  cleanly (65 rows, 8 columns each) via Python's `csv` module.
 
 ## [2026-07-31] — Site-wide IA reorg: 11 flat sections -> 4 journey-phase buckets
 
