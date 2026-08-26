@@ -20,6 +20,13 @@ isn't affiliated with or supported by IUJ administration.
   ~40 other `.eml` files sitting outside `Done/` were already logged as
   Actioned/Skipped/Open/Backlog through 2026-08-12 — a filing gap, not
   unactioned work.
+- Verified the change with a real local build (`npx quartz build`), which
+  surfaced an unrelated, pre-existing problem: `.quartz/plugins/*`
+  symlinks were still pointing at this repo's pre-move path
+  (`Projects/Kouhai Wiki/...`, before it moved under `Projects/IUJ/`),
+  breaking all 4 custom plugins. Relinked by hand and confirmed a clean
+  build (113 files, no warnings); documented the fix in `MAINTENANCE.md`
+  §8 for next time.
 
 ## [2026-07-31] — Site-wide IA reorg: 11 flat sections -> 4 journey-phase buckets
 
