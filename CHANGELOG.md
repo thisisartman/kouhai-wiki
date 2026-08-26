@@ -1,5 +1,61 @@
 # Changelog
 
+## [2026-08-27] — GSIR/GSIM academic-policy gap: 4 new articles, 1 correction
+
+Continuation of the completeness audit's top-10 priority list (#1: GSIR
+policy content absent site-wide; #9: 4 unread official PDFs). Wrote up
+GSIM's and GSIR's genuinely-different academic policies from official,
+page-cited handbook sources gathered in an earlier audit pass, rather
+than generalizing one school's rules to both:
+
+- **New: `Grading System.md`** — GSIM's qualitative A/A-/B+/.../F scale
+  (source: GSIM Student Handbook pp.14-16) vs. GSIR's numeric 0-100 scale
+  (source: GSIR Curriculum Handbook p.18), given equal separate treatment.
+  Includes each school's academic-warning GPA threshold (2.5 vs 3.0 — a
+  real, consequential difference) and the shared week-4 withdrawal
+  deadline. Left repeat-course/incomplete-grade mechanics flagged rather
+  than guessed at, since the source material didn't specify them.
+- **`Course Registration.md`** — added an Early Graduation section
+  covering both schools separately (GSIM: 3.70+ GPA at end of Year 1;
+  GSIR: 3.80+ GPA, different procedural deadline).
+- **New: `Certificates.md`** — GSIM's "Japan Focus" certificate (8
+  credits, 13-course pool) vs. GSIR's differently-scoped same-named
+  certificate, plus GSIR's separate "IOP Focus" certificate (5 of 12
+  courses) — flagged rather than conflated the similarly-named GSIM/GSIR
+  Japan Focus programs.
+- **`GSIM Exchange Program — Study Abroad.md`** — added a GSIR Exchange
+  Program section (9 stated partner institutions, though the source
+  lists 11 names — flagged the discrepancy rather than silently
+  reconciling it) and GSIR-specific audit-process/late-fee facts that had
+  no other home yet. Article's title now reads narrower than its content;
+  left as a flag for a deliberate rename decision rather than renaming
+  unilaterally (renaming breaks existing wikilinks).
+- **New: `Career Support & Job Hunting.md`** — the wiki had zero coverage
+  of IUJ's career office despite it running a real annual process (resume
+  book published every November, 3 on-campus recruiting rounds/year,
+  term-by-term flow) — source: IUJ's own Career Support Guide PDF.
+- **New: `GSIM Research Report & Thesis Guide.md`** — GSIM's entire
+  thesis-equivalent process had zero coverage; only GSIR's was documented
+  (in the pre-existing `Thesis Guide (IR)` article). Covers the 1-year
+  program's Research Report track (Research Seminar I/II, 30-page
+  minimum, 2026-grad deadlines) and the 2-year program's Research
+  Report-or-Thesis track (Advanced Seminar I/II/III) separately, sourced
+  from IUJ's official Research/Advanced Seminar Guideline PDFs.
+- **Correction in `Thesis Guide (IR)`**: it previously claimed "MBA
+  students typically do not write a thesis (capstone project instead)" —
+  false. GSIM students choose Research Report or Thesis via
+  Advanced/Research Seminars; there's no "capstone project." Fixed and
+  cross-linked to the new GSIM article instead of guessing at GSIM's
+  process in an IR-focused file.
+- Confirmed the 2026 IUJ Scholarship Guidelines PDF (the 3rd of the 4
+  unread PDFs) is admissions-focused, for prospective applicants choosing
+  scholarships at application time — not relevant to a current-student
+  wiki. No content added from it.
+- Verified with `npx quartz build`: clean, 117 files parsed (up from
+  113), 444 emitted, all 4 new pages present in output.
+- Logged in `suggestions-log.csv` (row 63 updated from Backlog to
+  Actioned, with what was actually done).
+
 ## [2026-08-27] — Site-wide completeness audit: quick-win batch
 
 Full audit of the site's completion state: read all 33 `status: needs-work`

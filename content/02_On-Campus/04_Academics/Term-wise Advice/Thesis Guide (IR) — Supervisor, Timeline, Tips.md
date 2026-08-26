@@ -14,8 +14,8 @@ The thesis is the defining academic challenge of the IR program. It's also the t
 
 ## Who This Applies To
 
-- **IR (International Relations) students** are required to write a thesis
-- MBA students typically do not write a thesis (capstone project instead). ⚠️ Confirm current MBA requirements with your program office
+- **IR (International Relations) students** are required to write a thesis — this article covers that GSIR process specifically
+- **GSIM students (MBA/JGDP/IMBA/DXP/ISEP)** have their own, different process — Research Report or Thesis via Advanced/Research Seminars, not a "capstone project." See [[GSIM Research Report & Thesis Guide]] instead — the two schools' processes are genuinely different, not variants of each other
 - Thesis requirements, credit allocation, and formatting rules are set by IUJ: verify against the current IR Student Handbook
 
 ---
