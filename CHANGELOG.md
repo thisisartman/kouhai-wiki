@@ -1,5 +1,33 @@
 # Changelog
 
+## [2026-09-01] — Design spec: Timetable Builder widget
+
+New feature, not yet built — design spec only, committed for review
+before implementation.
+
+- A new Academics page + widget: a student uploads their official IUJ
+  Registration Form PDF and gets back a color-coded weekly timetable
+  preview, downloadable as `.ics` (calendar import) or PNG.
+- Verified against 5 real sample Registration Forms that the PDF's
+  text stream comes out column-scrambled — parsing has to reconstruct
+  rows from glyph x/y position via `pdf.js`, not read the text stream
+  in order. New dependency; nothing like it exists in this repo yet.
+- Cross-checked the D/P field's period-range notation (e.g. `Wed.2〜3`)
+  against the official term timetable PDF and found it means two
+  separate weekly meetings (one per period, with the normal lunch gap
+  between), not one continuous block — corrected before this went into
+  the spec.
+- Deliberately does *not* hardcode language-course or "unfixed" seminar
+  time patterns, since the wiki's own `Japanese Language Courses at
+  IUJ.md` documents those as shifting every term; instead those courses
+  get an inline day/period picker the student fills in themselves.
+- Term start/end dates (needed to bound the `.ics` recurrence) are
+  always editable and only pre-filled when the academic year happens to
+  already be documented in `Course Registration.md` — the sample PDFs
+  themselves were for a year not yet in that table, which is what
+  surfaced the need for this fallback.
+- Spec: `docs/superpowers/specs/2026-09-01-timetable-builder-design.md`.
+
 ## [2026-08-27] — Completeness audit: Campus Dining, Food Delivery, Scholarship tax notes
 
 Closes out the remaining actionable items on the completeness audit's
