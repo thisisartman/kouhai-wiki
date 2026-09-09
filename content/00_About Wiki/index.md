@@ -6,12 +6,22 @@ About this wiki: how it's organised, how to use it, and how to contribute.
 
 ## About Wiki
 
+<div style="display: flex; gap: 1.5rem; align-items: flex-start; flex-wrap: wrap;">
+
+<img src="images/about-wiki/appu-dr-pepper.png" alt="Cutout illustration of Apoorv in a white lab coat, mid dance move" width="180" style="flex: 0 0 auto; width: 180px; max-width: 40%; height: auto;">
+
+<div style="flex: 1 1 18rem; min-width: 0;">
+
 Hi fellow IUJer! Apoorv here! Better known on campus as Dr. Pepper, or just Appu.
 Class of 2027.
 
 This wiki started as a personal project to see if I could simplify looking up
 information about IUJ, without having to navigate their extensive but somewhat
 confusing digital home.
+
+</div>
+
+</div>
 
 This project, while developed by me, would not have been possible without the
 extensive volunteering efforts of your senpais. Because that was always the plan:
