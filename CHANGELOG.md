@@ -1,5 +1,45 @@
 # Changelog
 
+## [2026-09-09] — SIM & Internet Setup: arrival-window options from MLIC
+
+Acts on the two open SIM suggestions in `suggestions-log.csv`, one of
+them from MLIC staff with a reply already promising the change.
+
+- **New section, "Before Your Residence Card Is Registered."** Covers
+  the gap between landing and being able to sign up for a normal
+  Japanese plan. Anything giving you a Japanese phone number wants a
+  Residence Card with a *registered* address plus a credit card, and a
+  new arrival has neither. Povo is called out by name because it gets
+  recommended student-to-student and fails on exactly this requirement.
+- **GTN Mobile and Mobal Japan SIM** added in a small table with links to
+  each provider. No pricing or plan figures, because none were checked;
+  the section says so and tells the reader to confirm on the providers'
+  own pages. Logged as an open item in `PROGRESS.md` rather than left
+  silent.
+- **The rendered page does not name MLIC as the source**, deliberately.
+  MLIC's own 2026-08-03 response to this project said that information
+  shared with students by email is not necessarily meant for publication
+  on a public site. Printing "MLIC recommends GTN and Mobal" would also
+  read as an office endorsing two commercial vendors, which nobody
+  authorised. The facts are publicly checkable on the providers' and
+  Povo's own pages and stand without the attribution, so the article
+  credits nobody and carries a not-an-endorsement line instead. Full
+  provenance stays in `suggestions-log.csv`.
+- **Long-term step written down**: once the bank cash card arrives, the
+  Docomo counter at AEON is the usual route, and the 3-hour bus slot is
+  the one to book because the paperwork runs long.
+- **`U-Mobile Irodori`** added to the Airport SIM Cards list: sold at
+  the AEON MiniStop inside Narita Airport, ¥6,400 for a 100GB card
+  lasting about a month, with cheaper 30GB and smaller options.
+- **Quick Setup Priority block reworked** so its week-by-week sequence
+  matches the new section instead of jumping straight from airport SIM
+  to a monthly plan.
+- Source is the email thread "Your recommendation for SIM" (2026-09-04
+  to 09-07). Consent to credit the staff member by name was never asked
+  for. Note that `suggestions-log.csv` does record that name, and that
+  file lives in the public repo; whether to redact it there is an open
+  decision, flagged in `PROGRESS.md`.
+
 ## [2026-09-01] — Design spec: Timetable Builder widget
 
 New feature, not yet built — design spec only, committed for review
