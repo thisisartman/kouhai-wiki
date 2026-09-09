@@ -14,7 +14,7 @@ The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelm
 
 ## Day 1–2: Immediate
 
-- [ ] **Check into dormitory**: go straight to the Dorm Staff Office (SD1, 1st floor) to collect your keys. See [[Dorm Life & Facilities]]
+- [ ] **Check into dormitory**: go straight to the Dorm Staff Office (SD1, 1st floor) to collect your keys. See [[Campus Facilities & Dorms]]
 - [ ] **Get your IUJ Student ID**: from the administrative office
 - [ ] **Buy a SIM or pocket WiFi**: you need internet before anything else. This is a temporary/prepaid option to get online immediately — it's not the SIM you'll use long-term. See [[SIM & Internet Setup]]
 - [ ] **Install essential apps**: Google Maps, Google Translate, HyperDia or Navitime, LINE
@@ -90,7 +90,7 @@ The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelm
 - [[PayPay — Setup, Linking Banks, Loading Money]]
 - [[Room Setup Tips]]
 - [[Waste Disposal & Recycling]]
-- [[Dorm Life & Facilities]]
+- [[Campus Facilities & Dorms]]
 - [[Course Registration]]
 
 ---

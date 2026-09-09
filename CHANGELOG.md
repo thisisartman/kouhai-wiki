@@ -1,5 +1,24 @@
 # Changelog
 
+## [2026-09-10] — Rename: Dorm Life & Facilities → Campus Facilities & Dorms
+
+Closes an open item from 2026-07-19. The article had grown to cover the
+gym, classrooms and MLIC Hall, none of which are dorm facilities.
+
+- "Campus Life" was the obvious name and is the one to avoid: a separate
+  `Campus Life & Vibe.md` already exists under Social Life & Culture and
+  covers the *social* side. `Campus Facilities & Dorms` drops "Life"
+  entirely, so the two articles no longer compete.
+- Intro rewritten to state the split and link across to
+  `Campus Life & Vibe`, so a reader who lands on the wrong one is
+  redirected rather than confused.
+- 7 files' inbound wikilinks updated. The `[[...|CNP]]` alias in
+  `Gym Rules.md` was preserved.
+- **No frontmatter alias was added**, so the old URL will 404 once
+  deployed. This is deliberate: aliases caused a live navigation outage
+  during the 2026-07-31 IA reorg, and a 404 on one moved page is the
+  cheaper failure.
+
 ## [2026-09-10] — Site identity, site-wide notice, IC Cards correction
 
 - **Homepage** now opens with what the wiki is and who wrote it, in the

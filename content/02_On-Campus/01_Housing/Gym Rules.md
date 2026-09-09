@@ -25,7 +25,7 @@ IUJ's on-campus gym is free to use (see [[Student Discounts]], [[Mental Health R
 
 ## Hours
 
-- The gymnasium is **closed from midnight to 6:00 AM**, per FT-OGA (Facilities) — relevant if you're relying on it as a hot-shower backup during a dorm hot-water outage (see [[Dorm Life & Facilities]]).
+- The gymnasium is **closed from midnight to 6:00 AM**, per FT-OGA (Facilities) — relevant if you're relying on it as a hot-shower backup during a dorm hot-water outage (see [[Campus Facilities & Dorms]]).
 
 ## Drinking Water
 
@@ -35,14 +35,14 @@ IUJ's on-campus gym is free to use (see [[Student Discounts]], [[Mental Health R
 
 ## Bookings & Closures
 
-Like other campus spaces (classrooms, [[Dorm Life & Facilities|CNP]], and MLIC Hall), the gym can be **booked** for events and can be **closed** for the duration of specific campus events during the year. Check with OSS/GSO if you have a specific date in mind rather than assuming it's always open.
+Like other campus spaces (classrooms, [[Campus Facilities & Dorms|CNP]], and MLIC Hall), the gym can be **booked** for events and can be **closed** for the duration of specific campus events during the year. Check with OSS/GSO if you have a specific date in mind rather than assuming it's always open.
 
 Beyond one-off event bookings, the **1st-floor arena periodically closes entirely for maintenance** — confirmed examples per FT-OGA (Facilities) include an annual floor-waxing closure (arena + storage-room access both unavailable for several days) and, separately, ad-hoc repair work when equipment defects turn up (e.g. a fire-damper repair requiring loud concrete-chipping work, announced with advance notice and a call for students to flag dates they need the arena kept free). The 2nd floor (Music Room, fitness area) typically stays open during 1st-floor arena closures. If you have a storage locker or a fixed event date, check with FT-OGA rather than assuming access.
 
 ---
 
 ## Related Articles
-- [[Dorm Life & Facilities]]
+- [[Campus Facilities & Dorms]]
 - [[Student Discounts]]
 - [[Mental Health Resources]]
 

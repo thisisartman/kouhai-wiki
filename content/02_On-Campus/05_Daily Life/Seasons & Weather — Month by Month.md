@@ -91,7 +91,7 @@ Warm and green: the best surprise of the year for most students. Temperatures: 1
 ### June
 **Rainy season (梅雨, *tsuyu*)** begins: frequent rain, high humidity. Temperatures: 18–26°C. Less dramatic than typhoon season but persistently grey and damp.
 
-*Prepare for:* Good umbrella; mould risk in rooms; keep ventilation up. Also **bear activity picks up**: FT-OGA sent multiple bear-sighting alerts around campus (Yamamoto Fish Farm, Botanyama-mountain at the campus's southern end) in late June 2026, attributing it partly to young bears becoming independent from their mothers at this time of year and behaving unpredictably. See [[Dorm Life & Facilities]] for full safety guidance; avoid walking/jogging alone early morning or after sunset during this period.
+*Prepare for:* Good umbrella; mould risk in rooms; keep ventilation up. Also **bear activity picks up**: FT-OGA sent multiple bear-sighting alerts around campus (Yamamoto Fish Farm, Botanyama-mountain at the campus's southern end) in late June 2026, attributing it partly to young bears becoming independent from their mothers at this time of year and behaving unpredictably. See [[Campus Facilities & Dorms]] for full safety guidance; avoid walking/jogging alone early morning or after sunset during this period.
 
 ---
 

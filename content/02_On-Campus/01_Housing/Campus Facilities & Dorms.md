@@ -1,12 +1,12 @@
 ---
-title: Dorm Life & Facilities
+title: Campus Facilities & Dorms
 section: 02_On-Campus/01_Housing
 tags: [housing, dorm, facilities, campus-life, daily-life, unverified, needs-input]
 status: needs-work
-last_updated: 2026-07-24
+last_updated: 2026-09-10
 ---
 
-IUJ's dormitories are on-campus and within walking distance of everything. For most students, dorm life is the default for at least Year 1. This article covers what to expect, what's available, and how second-year housing works. Official overview: [Dorm and Facility Information](https://www.iuj.ac.jp/admissions/living-guide/dorm/).
+Everything at IUJ is on one campus and within walking distance. This article covers the physical side of that: the dormitories you'll live in, the shared spaces you'll use daily (the CNP lounge, gym, classrooms, MLIC Hall), the house rules attached to them, and how second-year housing works. For the social side of campus life, see [[Campus Life & Vibe]]. Official overview: [Dorm and Facility Information](https://www.iuj.ac.jp/admissions/living-guide/dorm/).
 
 ---
 
