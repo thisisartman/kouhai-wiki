@@ -1,5 +1,22 @@
 # Changelog
 
+## [2026-09-10] — Maintainer illustration on the About page
+
+- Cutout illustration placed beside the self-introduction on
+  `00_About Wiki/index.md`. The white lab coat pairs with the "Dr. Pepper"
+  line already in the copy.
+- Laid out as a flex row rather than a float, so the split is
+  deterministic: the image sits beside exactly the first two paragraphs,
+  and the two that follow run full width. A float wraps text for as long
+  as the image is tall, which shifts with viewport and font size.
+- `flex-wrap` plus `max-width: 40%` drops the text below the image on
+  narrow screens instead of crushing it into a sliver.
+- Asset at `00_About Wiki/images/about-wiki/appu-dr-pepper.png`, following
+  the repo's existing `images/<article>/<file>` convention. The
+  raw-HTML-with-blank-lines pattern is the one already used in
+  `Campus WiFi & LAN Connection.md`, and is what lets markdown render
+  inside the div.
+
 ## [2026-09-10] — Rename: Dorm Life & Facilities → Campus Facilities & Dorms
 
 Closes an open item from 2026-07-19. The article had grown to cover the
