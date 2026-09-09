@@ -22,7 +22,7 @@ All single rooms (SD1-3) come with basic living facilities, a private bathroom, 
 ## Getting Started
 
 - Once you know what's already in your room, you can plan what to buy locally. See [[100 Yen & Recycle Shops — Budget Furnishing]] for cheap furnishing options nearby.
-- SD4 and MSA rooms may differ from SD1–3. See [[Dorm Life & Facilities]] for what's known about each building.
+- SD4 and MSA rooms may differ from SD1–3. See [[Campus Facilities & Dorms]] for what's known about each building.
 
 ---
 
@@ -78,6 +78,6 @@ Per a senior submission — this is what to pick up nearby (Daiso, Seria, Can★
 ---
 
 ## Related Articles
-- [[Dorm Life & Facilities]]
+- [[Campus Facilities & Dorms]]
 - [[100 Yen & Recycle Shops — Budget Furnishing]]
 - [[First Week Checklist]]

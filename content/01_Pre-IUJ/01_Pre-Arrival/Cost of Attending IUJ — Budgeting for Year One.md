@@ -17,7 +17,7 @@ A rough first-year cost breakdown, per IUJ's own published budgeting guidance ([
 ## Per-Term Costs
 
 - **Tuition:** varies by programme — see [[Scholarship Management — Stipend & Tax Notes]] for the current per-term table
-- **Dorm fee:** ¥32,000–53,000/month depending on building — see [[Dorm Life & Facilities]]
+- **Dorm fee:** ¥32,000–53,000/month depending on building — see [[Campus Facilities & Dorms]]
 - **Utilities:** billed separately from rent, metered
 - **Accident/Liability insurance:** one-time lump sum, ¥1,540–3,620 depending on programme length — see [[Scholarship Management — Stipend & Tax Notes]]
 - **National Health Insurance ("NHI"):** roughly ¥30,500/year — ⚠️ [[National Health Insurance]] states a different figure (~¥18,000/year); the two pages disagree and neither is backed by a public official number, so treat both as unconfirmed until checked with Accounting
@@ -42,7 +42,7 @@ IUJ's own figures put total first-year cost (tuition + admission + dorm + living
 
 ## Related Articles
 - [[Scholarship Management — Stipend & Tax Notes]]
-- [[Dorm Life & Facilities]]
+- [[Campus Facilities & Dorms]]
 - [[National Health Insurance]]
 - [[Sending Money Home]]
 
