@@ -3,7 +3,7 @@ title: SIM & Internet Setup
 section: 02_On-Campus/08_IT & Productivity
 tags: [SIM, internet, phone, connectivity, IT, unverified]
 status: needs-work
-last_updated: 2026-07-30
+last_updated: 2026-09-09
 ---
 
 Getting online is your first real task after landing. Without it, you can't navigate, contact IUJ, or do anything else on the first week checklist.
@@ -21,6 +21,7 @@ Getting online is your first real task after landing. Without it, you can't navi
 ### Airport SIM Cards
 - Available at convenience stores and vending machines in arrival halls
 - Brands: **IIJmio**, **HISMobile**, **Docomo tourist SIM**
+- **U-Mobile Irodori** is sold at the AEON MiniStop inside Narita Airport. A ¥6,400 100GB data card lasts about a month; 30GB and smaller options cost less.
 - Data-only (no calls/SMS in basic plans)
 - Good for the journey to IUJ; upgrade to a proper plan after settling in
 
@@ -32,6 +33,23 @@ Getting online is your first real task after landing. Without it, you can't navi
 - Doesn't require a Japanese bank account, credit card, or Residence Card,
   which is useful if you want connectivity active the moment you land, before any
   Japan-side paperwork is possible
+
+---
+
+## Before Your Residence Card Is Registered
+
+There is a gap between landing and being able to sign up for a normal Japanese plan. Almost anything that gives you a **Japanese phone number** asks for a Residence Card showing a *registered* address plus a valid credit card, and you will have neither in your first days. Povo comes up often in student recommendations and fails on exactly this point: it does sell a Japanese-number plan, but the signup requirements rule out new arrivals.
+
+Two options that get suggested for this window:
+
+| Option | Notes |
+| --- | --- |
+| **[GTN Mobile](https://www.gtn-mobile.com/s/data?language=en_US#sim_onlydata_en_US)** | Built for foreign residents in Japan, English signup, data-only SIMs available. Already used by some IUJ students. |
+| **[Mobal Japan SIM](https://www.mobal.com/japan-esims/)** | eSIM, sold for short-term and temporary use. |
+
+Once your bank cash card arrives, move to a long-term plan. The Docomo counter at **AEON** is the usual route for IUJ students; take the 3-hour bus slot rather than a shorter one, because the paperwork takes a while.
+
+> ℹ️ These two came in as a September 2026 suggestion and have not been price-checked or plan-checked here. Confirm current terms on each provider's own page before you sign up. Listing them is not an endorsement, and this page is not an official IUJ recommendation.
 
 ---
 
@@ -94,9 +112,11 @@ Physical SIM plans in Japan often charge per-minute for domestic calls. Avoid bi
 ## Quick Setup Priority
 
 ```
-Day 1: Airport SIM or pocket WiFi rental → get online
-Week 1: Open JP Bank account
-Week 2: Switch to monthly SIM plan (IIJmio/Ahamo) with JP Bank as billing
+Day 1:     Airport SIM, eSIM, or pocket WiFi rental → get online
+Week 1:    GTN or Mobal if you need a Japanese number before your
+           Residence Card address is registered; open your bank account
+Week 2-3:  Once the cash card arrives, switch to a long-term plan
+           (Docomo at AEON, IIJmio, or Ahamo) with the cash card as billing
 ```
 
 ---
