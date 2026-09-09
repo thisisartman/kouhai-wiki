@@ -1,5 +1,27 @@
 # Changelog
 
+## [2026-09-10] — Site identity, site-wide notice, IC Cards correction
+
+- **Homepage** now opens with what the wiki is and who wrote it, in the
+  site's own voice, before the disclaimer. The disclaimer itself gained
+  the "confirm through official IUJ channels" line.
+- **New `site-notice` plugin**: one quiet line above the body on every
+  page except the homepage, saying the site is student-written, not
+  endorsed by IUJ, and that procedures should be confirmed officially.
+  Modelled on `status-badge`, deliberately lower contrast so it reads as
+  chrome rather than a warning, and at priority 6 so it sits below the
+  status banner on the 27 pages that have one. This closes MLIC
+  requirement #5, which had no presence on the site before.
+- **IC Cards**: physical card is now the recommendation, Mobile Suica
+  demoted to Option 2 with the caveat that the Suica app is only reliable
+  on a Japan-bought phone. Removed the false claim that Urasa Station
+  issues IC cards; it has no IC machines at all.
+- **SIM**: real GTN and Mobal plan prices added from the providers' own
+  pages. The check surfaced the distinction that actually matters for a
+  new arrival: Mobal needs no Residence Card, GTN does.
+- **`suggestions-log.csv`**: the one staff-sourced row now credits `MLIC`
+  as an office rather than naming an individual.
+
 ## [2026-09-09] — SIM & Internet Setup: arrival-window options from MLIC
 
 Acts on the two open SIM suggestions in `suggestions-log.csv`, one of

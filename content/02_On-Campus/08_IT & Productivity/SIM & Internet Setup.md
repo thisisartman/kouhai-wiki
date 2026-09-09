@@ -40,16 +40,18 @@ Getting online is your first real task after landing. Without it, you can't navi
 
 There is a gap between landing and being able to sign up for a normal Japanese plan. Almost anything that gives you a **Japanese phone number** asks for a Residence Card showing a *registered* address plus a valid credit card, and you will have neither in your first days. Povo comes up often in student recommendations and fails on exactly this point: it does sell a Japanese-number plan, but the signup requirements rule out new arrivals.
 
-Two options that get suggested for this window:
+Two options that get suggested for this window. The important difference between them is what ID they ask for:
 
-| Option | Notes |
-| --- | --- |
-| **[GTN Mobile](https://www.gtn-mobile.com/s/data?language=en_US#sim_onlydata_en_US)** | Built for foreign residents in Japan, English signup, data-only SIMs available. Already used by some IUJ students. |
-| **[Mobal Japan SIM](https://www.mobal.com/japan-esims/)** | eSIM, sold for short-term and temporary use. |
+| Option | Plans (checked 2026-09-10) | What it asks for |
+| --- | --- | --- |
+| **[Mobal Japan eSIM](https://www.mobal.com/japan-esims/)** | Voice + data 5G from **¥1,650/month**, 1GB up to 200GB. Voice-only eSIM ¥4,950 up front then ¥1,430/month. Both give a real Japanese number (070/080/090). | **No Residence Card and no Japanese address.** Passport is enough for the ID check Japanese law requires. Takes overseas credit/debit cards and PayPal. |
+| **[GTN Mobile](https://www.gtn-mobile.com/s/data?language=en_US#sim_onlydata_en_US)** | 2GB **¥1,200**, 5GB **¥1,980**, 10GB **¥2,780**, 20GB **¥3,480**, on the Docomo/SoftBank network. | **A Residence Card.** Takes overseas credit cards, which most Japanese carriers refuse. Built for foreign residents, multilingual support. |
+
+> 💡 You receive your Residence Card at the airport, so GTN's card requirement is usually satisfied on day one. What you will not have for a couple of weeks is a *registered address*, and that is what blocks Povo. Whether GTN also wants the address registered is not stated on the pages checked here, so ask them before you count on it. Mobal is the option that definitely works from the moment you land.
 
 Once your bank cash card arrives, move to a long-term plan. The Docomo counter at **AEON** is the usual route for IUJ students; take the 3-hour bus slot rather than a shorter one, because the paperwork takes a while.
 
-> ℹ️ These two came in as a September 2026 suggestion and have not been price-checked or plan-checked here. Confirm current terms on each provider's own page before you sign up. Listing them is not an endorsement, and this page is not an official IUJ recommendation.
+> ℹ️ Prices above were read off each provider's own pages on 2026-09-10 and will drift. Confirm before you sign up. Listing these is not an endorsement, and this page is not an official IUJ recommendation.
 
 ---
 
