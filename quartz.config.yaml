@@ -198,6 +198,15 @@ plugins:
     layout:
       position: beforeBody
       priority: 8
+  - source: ./quartz-plugins/site-notice
+    enabled: true
+    layout:
+      position: beforeBody
+      # Lower priority renders earlier in beforeBody, so 12 puts this after
+      # the article title (10) and immediately above the body. It is site
+      # chrome on every page and should not outrank the title or the
+      # status-badge banner (8), both of which sit above it.
+      priority: 12
   - source: github:quartz-community/article-title
     enabled: true
     layout:
