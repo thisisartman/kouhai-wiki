@@ -1,5 +1,27 @@
 # Changelog
 
+## [2026-09-10] — Implementation plan for the schedule tool
+
+Plan only, still nothing built. Plan at
+`docs/superpowers/plans/2026-09-10-schedule-tool.md`.
+
+- Twelve tasks covering phases 1 to 4 of the design. Phase 5, PDF import,
+  is excluded and needs its own plan.
+- All logic sits in pure `lib/` modules unit-tested with vitest in a node
+  environment: interval arithmetic and free-slot search, the versioned
+  group code, ICS output, and the message builder. Only DOM wiring lives
+  in the inline script that tsup bundles to a string.
+- Tasks 1 to 5 are TDD with failing tests first. Tasks 6 onward are DOM
+  work a node test runner cannot cover, so they carry explicit manual
+  verification steps instead. The split is stated in the plan rather than
+  left implicit, because it is a real gap in coverage.
+- The component renders only on pages carrying `tool: schedule`
+  frontmatter, and the plan verifies that with a grep over the built
+  output rather than by eye.
+- **Known deferral:** the spec's mobile list-entry input is not in this
+  plan. Tap-to-toggle ships first and list entry waits until someone has
+  used the grid on a phone.
+
 ## [2026-09-10] — Design spec: schedule tool (my schedule + find group time)
 
 Design only, nothing built. Spec at
