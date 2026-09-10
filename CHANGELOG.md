@@ -1,5 +1,32 @@
 # Changelog
 
+## [2026-09-10] — Schedule tool: built
+
+The design and plan from earlier today, now implemented. Phases 1 to 4;
+PDF import (phase 5) remains unbuilt.
+
+- **New `schedule-tool` plugin**, the sixth local one. Two modes in one
+  widget: a weekly grid where you mark when you are busy, and a group
+  mode that combines several people's schedules to find when they can
+  meet.
+- **Renders on exactly one page.** The component gates on
+  `tool: schedule` frontmatter, the same trick `status-badge` uses.
+  Verified against the built output rather than assumed.
+- **Sharing is a pasteable code**, not a file or an account. Each person
+  exports their schedule as a base64url string and sends it however they
+  already talk. Nothing is transmitted and nothing is stored server side.
+- **All logic is unit tested**: 28 vitest cases covering interval
+  arithmetic, the versioned code round trip, message date resolution and
+  ICS output. The DOM layer has no automated coverage, which is a real
+  gap rather than an oversight.
+- **New page** `Schedule & Group Time Tool.md` under Academics,
+  documenting the group flow as a numbered protocol with a pasteable
+  instruction for the group chat. Linked from `Study Groups & Peer
+  Culture` and `Course Registration`.
+- ICS uses a flat UTC+9 offset with no `VTIMEZONE`, since Japan has no
+  daylight saving. A test covers the case where a morning JST time rolls
+  the UTC date back a day.
+
 ## [2026-09-10] — Implementation plan for the schedule tool
 
 Plan only, still nothing built. Plan at
