@@ -46,6 +46,19 @@ const css = `
 .st-slot[aria-selected="true"] { border-color: var(--secondary); background: var(--highlight); }
 .st-slot-who { font-size: .78rem; color: var(--gray); text-align: right; }
 .st-error { color: #a33; font-size: .8rem; margin-top: .5rem; line-height: 1.5; }
+.st-personrow { display: flex; align-items: center; gap: .6rem; margin-bottom: .45rem; }
+.st-personlabel { flex: 0 0 1.4rem; text-align: right; font-size: .8rem;
+  font-weight: 700; color: var(--gray); }
+.st-personinput { flex: 1 1 auto; min-width: 0; padding: .45em .6em; border-radius: 5px;
+  border: 1px solid var(--lightgray); background: var(--light); color: var(--darkgray);
+  font-family: var(--codeFont); font-size: .78rem; }
+.st-personstate { flex: 0 0 7rem; font-size: .75rem; color: var(--gray);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.st-personstate.st-good { color: var(--secondary); font-weight: 600; }
+.st-personstate.st-bad { color: #a33; }
+@media (max-width: 550px) {
+  .st-personstate { flex-basis: 4.5rem; }
+}
 @media (max-width: 800px) {
   .st-hour { font-size: .62rem; }
   .st-cell { min-height: 26px; }  /* bigger tap target on touch screens */
