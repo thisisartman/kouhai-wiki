@@ -145,6 +145,45 @@ handle appears on its lower edge; drag to extend in 30-minute steps. Tap
 an existing block to select, tap again to clear. Multiple blocks may be
 selected at once.
 
+### Sample Registration Forms
+
+Six real forms were supplied on 2026-09-10, covering Fall 2025, Winter
+2026 and Spring 2026, four students across GSIR and GSIM, and both `1C`
+and `2C` ID prefixes. Two arrived named "Results" but are Registration
+Forms like the rest.
+
+**They stay out of this repository.** They carry four students' full
+names and ID numbers, two of whom are not the maintainer. They live in
+`~/Downloads/Taildrop/` and are read from there. Any test fixture
+committed later must contain a redacted course table only, never the
+header block.
+
+**What they proved.** The spec's `D/P` interpretation was incomplete. In
+addition to `Wed.2〜3` (a period range meaning two separate weekly
+meetings) and `unfixed`, the real forms contain:
+
+| Format | Example | Meaning |
+|---|---|---|
+| Single | `Tue.2` | one meeting |
+| Range | `Wed.2〜3` | two separate meetings, one per period |
+| **Comma list** | **`Mon.1, Tue.1, Thu.6`** | **three meetings on different days** |
+| Saturday | `Sat.3〜4` | Saturday genuinely appears |
+| `unfixed` | | seminar with no set slot |
+
+**The comma list is not documented in `2026-09-01-timetable-builder-design.md`
+and appears in exactly one of the six forms.** It also splits across
+several lines in the extracted text stream. Without that single sample
+the parser would have shipped silently wrong for anyone taking that
+course, which is the argument for collecting more forms before building.
+
+**Text extraction is not reliably column-major.** An early reading
+suggested the stream might be grouped cleanly by column, which would have
+allowed a simple zip of parallel arrays. It does not hold: the `Title`,
+`D/P` and `Cr.` headers repeat two to four times per document, grouping
+differs between the "Required Courses" and "Elective Required Courses"
+sections, and row grouping is inconsistent within a single file. The
+glyph-position reconstruction in the original spec is the right approach.
+
 ### PDF import (phase 2)
 
 Parsing the IUJ Registration Form, per the original Timetable Builder

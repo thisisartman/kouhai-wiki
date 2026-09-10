@@ -1,5 +1,26 @@
 # Changelog
 
+## [2026-09-10] — Spec: findings from six real Registration Forms
+
+Six real forms supplied, covering three terms, four students, GSIR and
+GSIM, and both 1C and 2C ID prefixes. Recorded in the schedule tool spec.
+
+- **The documented `D/P` interpretation was incomplete.** Alongside
+  `Wed.2〜3` and `unfixed`, the forms contain a comma-separated list,
+  `Mon.1, Tue.1, Thu.6`, meaning three meetings on different days. The
+  2026-09-01 spec does not mention that format. It appears in exactly one
+  of the six forms and splits across several lines in the text stream, so
+  without that one sample the parser would have shipped silently wrong.
+- `Sat.3〜4` confirms Saturday sessions are real, not hypothetical.
+- **Extraction is not reliably column-major.** An early reading suggested
+  a simple zip of parallel columns might work. It does not: headers repeat
+  two to four times per document and grouping differs between sections and
+  within files. The glyph-position approach stands.
+- **The PDFs stay out of the repository.** They carry four students' names
+  and IDs, two of them not the maintainer's. They are read from
+  `~/Downloads/Taildrop/`, and any committed fixture must be a redacted
+  course table only.
+
 ## [2026-09-10] — Schedule tool: results are a timetable, not a list
 
 First real use of the group mode showed the results list was the wrong
