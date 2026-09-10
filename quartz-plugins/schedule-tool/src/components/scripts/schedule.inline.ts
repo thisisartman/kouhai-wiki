@@ -1,7 +1,6 @@
 import { DAY_NAMES, SNAP_MINUTES, fmtTime } from "../../lib/model";
 import type { Block, Day, Member, Slot } from "../../lib/model";
 import { encodeCode, decodeCode, extractCode } from "../../lib/code";
-import { findSlots } from "../../lib/intervals";
 import { buildMessage } from "../../lib/message";
 import { buildIcs } from "../../lib/ics";
 
@@ -17,8 +16,12 @@ const state: { blocks: Block[]; name: string; term: string } = {
 
 let members: Member[] = [];
 let groupBlocks: Block[] = [];
-let shortlist: Slot[] = [];
 let groupSize = 4;
+/** Results only cover waking hours by default. Nobody schedules a 03:00 meeting. */
+let viewStart = 8 * 60;
+let viewEnd = 22 * 60;
+/** Cells the organiser has tapped, keyed "day:minute". */
+const picked = new Set<string>();
 let clearPending = false;
 let clearTimer: ReturnType<typeof setTimeout> | undefined;
 let dragging: { day: Day; from: number } | null = null;
@@ -178,7 +181,7 @@ function loadFromSlots(): void {
   const terms = new Set<string>();
   members = [];
   groupBlocks = [];
-  shortlist = [];
+  picked.clear();
 
   values.forEach((code, i) => {
     const state = document.getElementById(`st-state-${i}`);
@@ -237,6 +240,48 @@ function loadFromSlots(): void {
   renderResults();
 }
 
+/** How many members are free across a given half hour, and who is not. */
+function freeAt(day: number, minute: number): { free: string[]; busy: string[] } {
+  const busy = members
+    .filter((m) =>
+      groupBlocks.some(
+        (b) =>
+          b.memberId === m.id &&
+          b.day === day &&
+          b.start < minute + SNAP_MINUTES &&
+          b.end > minute,
+      ),
+    )
+    .map((m) => m.name);
+  const free = members.filter((m) => !busy.includes(m.name)).map((m) => m.name);
+  return { free, busy };
+}
+
+/** Contiguous runs of tapped cells, one Slot per run. */
+function pickedSlots(): Slot[] {
+  const out: Slot[] = [];
+  for (let day = 0; day < 7; day++) {
+    let run: { start: number; end: number } | null = null;
+    for (let m = viewStart; m <= viewEnd; m += SNAP_MINUTES) {
+      const on = picked.has(`${day}:${m}`) && m < viewEnd;
+      if (on && !run) run = { start: m, end: m + SNAP_MINUTES };
+      else if (on && run) run.end = m + SNAP_MINUTES;
+      else if (!on && run) {
+        const { free, busy } = freeAt(day, run.start);
+        out.push({
+          day: day as Day,
+          start: run.start,
+          end: run.end,
+          freeIds: members.filter((x) => free.includes(x.name)).map((x) => x.id),
+          busyIds: members.filter((x) => busy.includes(x.name)).map((x) => x.id),
+        });
+        run = null;
+      }
+    }
+  }
+  return out;
+}
+
 function renderResults(): void {
   const box = document.getElementById("st-results");
   if (!box) return;
@@ -246,44 +291,21 @@ function renderResults(): void {
   }
 
   const minEl = document.getElementById("st-min") as HTMLSelectElement | null;
-  let min = Number(minEl?.value ?? 60);
-
-  let slots = findSlots(members, groupBlocks, min);
-  let relaxed = false;
-
-  // the empty state is when help is most needed, so drop a step rather than show nothing
-  if (!slots.some((s) => s.busyIds.length === 0) && min > 30) {
-    const next = min === 90 ? 60 : 30;
-    const retry = findSlots(members, groupBlocks, next);
-    if (retry.some((s) => s.busyIds.length === 0)) {
-      slots = retry;
-      min = next;
-      relaxed = true;
-    }
-  }
-
-  slots.sort(
-    (a, b) => b.freeIds.length - a.freeIds.length || a.day - b.day || a.start - b.start,
-  );
-  const top = slots.slice(0, 12);
-  const nameOf = (id: string) => members.find((m) => m.id === id)?.name ?? "someone";
+  const min = Number(minEl?.value ?? 60);
 
   box.innerHTML = `
-    ${relaxed ? `<p class="st-note">Nothing that long works for everyone. Showing ${min} minute options instead.</p>` : ""}
-    ${top
-      .map(
-        (s, i) => `
-      <div class="st-slot" data-i="${i}" aria-selected="false">
-        <span><strong>${DAY_NAMES[s.day]} ${fmtTime(s.start)}-${fmtTime(s.end)}</strong></span>
-        <span class="st-slot-who">${
-          s.busyIds.length === 0
-            ? `all ${s.freeIds.length} free`
-            : `${s.freeIds.length} of ${members.length}, ${s.busyIds.map(nameOf).join(", ")} busy`
-        }</span>
-      </div>`,
-      )
-      .join("")}
-    ${top.length === 0 ? `<p class="st-note">No windows that long. Try a shorter meeting length.</p>` : ""}
+    <div class="st-legend">
+      <span><i class="st-key st-all"></i> everyone free</span>
+      <span><i class="st-key st-most"></i> most free</span>
+      <span><i class="st-key st-some"></i> some free</span>
+      <span><i class="st-key st-none"></i> nobody</span>
+      <label class="st-hoursbox">
+        <input type="checkbox" id="st-allhours"> show all 24 hours
+      </label>
+    </div>
+    <div class="st-grid st-resultgrid" id="st-rgrid" style="max-height:60vh"></div>
+    <p class="st-note">Tap the half hours that suit the group. Runs of tapped cells become one option. Only stretches of at least ${min} minutes where everyone is free are outlined.</p>
+    <div id="st-picked"></div>
     <div class="st-actions">
       <button id="st-msg">Copy message</button>
       <select id="st-sessions" aria-label="How many sessions">
@@ -295,18 +317,88 @@ function renderResults(): void {
     </div>
   `;
 
-  box.querySelectorAll<HTMLElement>(".st-slot").forEach((el) => {
-    el.addEventListener("click", () => {
-      const slot = top[Number(el.dataset.i)];
-      const on = el.getAttribute("aria-selected") === "true";
-      el.setAttribute("aria-selected", String(!on));
-      shortlist = on ? shortlist.filter((s) => s !== slot) : [...shortlist, slot];
+  const grid = document.getElementById("st-rgrid");
+  if (grid) {
+    grid.appendChild(
+      Object.assign(document.createElement("div"), { className: "st-head" }),
+    );
+    for (const name of DAY_NAMES) {
+      const h = document.createElement("div");
+      h.className = "st-head";
+      h.textContent = name;
+      grid.appendChild(h);
+    }
+
+    for (let m = viewStart; m < viewEnd; m += SNAP_MINUTES) {
+      const onTheHour = m % 60 === 0;
+      const label = document.createElement("div");
+      label.className = onTheHour ? "st-hour" : "st-hour st-half";
+      label.textContent = fmtTime(m);
+      grid.appendChild(label);
+
+      for (let day = 0; day < 7; day++) {
+        const { free, busy } = freeAt(day, m);
+        const cell = document.createElement("div");
+        const ratio = members.length ? free.length / members.length : 0;
+        const heat =
+          free.length === members.length ? "st-all"
+          : ratio >= 0.5 ? "st-most"
+          : free.length > 0 ? "st-some"
+          : "st-none";
+        cell.className = `st-cell ${heat}${onTheHour ? " st-hourline" : ""}`;
+        if (picked.has(`${day}:${m}`)) cell.classList.add("st-picked");
+        // enough of a run for the chosen meeting length, everyone free
+        if (free.length === members.length && runLength(day, m) >= min) {
+          cell.classList.add("st-viable");
+        }
+        cell.title = busy.length
+          ? `${free.length} of ${members.length} free. Busy: ${busy.join(", ")}`
+          : `everyone free`;
+        cell.addEventListener("click", () => {
+          const key = `${day}:${m}`;
+          if (picked.has(key)) picked.delete(key);
+          else picked.add(key);
+          renderResults();
+        });
+        grid.appendChild(cell);
+      }
+    }
+  }
+
+  const chosen = pickedSlots();
+  const pickedBox = document.getElementById("st-picked");
+  if (pickedBox) {
+    pickedBox.innerHTML = chosen.length
+      ? chosen
+          .map((s) => {
+            const busyNames = s.busyIds
+              .map((id) => members.find((m) => m.id === id)?.name)
+              .filter(Boolean);
+            return `<div class="st-slot" aria-selected="true">
+              <span><strong>${DAY_NAMES[s.day]} ${fmtTime(s.start)}-${fmtTime(s.end)}</strong></span>
+              <span class="st-slot-who">${
+                busyNames.length === 0
+                  ? `all ${s.freeIds.length} free`
+                  : `${s.freeIds.length} of ${members.length}, ${busyNames.join(", ")} busy`
+              }</span>
+            </div>`;
+          })
+          .join("")
+      : `<p class="st-note">Nothing picked yet. Tap the green cells above.</p>`;
+  }
+
+  const allHours = document.getElementById("st-allhours") as HTMLInputElement | null;
+  if (allHours) {
+    allHours.checked = viewStart === 0 && viewEnd === 1440;
+    allHours.addEventListener("change", () => {
+      if (allHours.checked) { viewStart = 0; viewEnd = 1440; }
+      else { viewStart = 8 * 60; viewEnd = 22 * 60; }
+      renderResults();
     });
-  });
+  }
 
   document.getElementById("st-msg")?.addEventListener("click", async () => {
-    const chosen = shortlist.length ? shortlist : top.slice(0, 3);
-    const text = buildMessage(chosen, members, new Date());
+    const text = buildMessage(pickedSlots(), members, new Date());
     try {
       await navigator.clipboard.writeText(text);
       const btn = document.getElementById("st-msg");
@@ -320,7 +412,7 @@ function renderResults(): void {
   });
 
   document.getElementById("st-ics")?.addEventListener("click", () => {
-    const slot = shortlist[0] ?? top[0];
+    const slot = pickedSlots()[0];
     if (!slot) return;
     const sessions = Number(
       (document.getElementById("st-sessions") as HTMLSelectElement).value,
@@ -341,6 +433,18 @@ function renderResults(): void {
     URL.revokeObjectURL(url);
   });
 }
+
+/** How long everyone stays free starting at this half hour. */
+function runLength(day: number, from: number): number {
+  let end = from;
+  while (end < viewEnd) {
+    const { free } = freeAt(day, end);
+    if (free.length !== members.length) break;
+    end += SNAP_MINUTES;
+  }
+  return end - from;
+}
+
 
 function switchTab(which: "mine" | "group"): void {
   for (const key of ["mine", "group"] as const) {

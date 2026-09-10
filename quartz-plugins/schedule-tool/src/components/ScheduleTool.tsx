@@ -65,6 +65,26 @@ const css = `
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .st-personstate.st-good { color: var(--secondary); font-weight: 600; }
 .st-personstate.st-bad { color: #a33; }
+
+/* Results grid: availability as a heat map rather than a list of long windows.
+   A three-hour free window is not a meeting time; the grid lets you pick the
+   part of it you actually want. */
+.st-resultgrid .st-cell { cursor: pointer; }
+.st-cell.st-all  { background: #2e7d52; }
+.st-cell.st-most { background: #4e8f6d; opacity: .72; }
+.st-cell.st-some { background: #4e8f6d; opacity: .34; }
+.st-cell.st-none { background: var(--light); }
+.st-cell.st-viable { box-shadow: inset 0 0 0 1px #8fd3ae; }
+.st-cell.st-picked { background: var(--secondary); box-shadow: inset 0 0 0 2px var(--light); }
+.st-legend { display: flex; flex-wrap: wrap; gap: .9rem; align-items: center;
+  font-size: .74rem; color: var(--gray); margin: .2rem 0 .6rem; }
+.st-key { display: inline-block; width: .85em; height: .85em; border-radius: 2px;
+  vertical-align: -1px; margin-right: .3em; border: 1px solid var(--lightgray); }
+.st-key.st-all  { background: #2e7d52; }
+.st-key.st-most { background: #4e8f6d; opacity: .72; }
+.st-key.st-some { background: #4e8f6d; opacity: .34; }
+.st-key.st-none { background: var(--light); }
+.st-hoursbox { display: inline-flex; align-items: center; gap: .35em; cursor: pointer; }
 @media (max-width: 550px) {
   .st-personstate { flex-basis: 4.5rem; }
 }

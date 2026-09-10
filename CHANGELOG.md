@@ -1,5 +1,28 @@
 # Changelog
 
+## [2026-09-10] — Schedule tool: results are a timetable, not a list
+
+First real use of the group mode showed the results list was the wrong
+shape. It listed whole free windows, so a typical row read
+"Mon 09:30-13:00, all 4 free": true, but a three and a half hour span is
+not a meeting time. It also offered "Mon 00:00-01:00" and
+"Wed 00:00-08:00", because with an all-day range the night counts as
+free.
+
+- **Results now render as the same weekly grid**, coloured by how many
+  people are free in each half hour. Everyone free is solid green, most
+  free is lighter, some free lighter still, nobody free is blank.
+- **Tap the half hours you want.** Runs of tapped cells merge into one
+  option, so you choose the hour inside a free window rather than being
+  handed the whole window.
+- **Waking hours only by default**, 08:00 to 22:00, with a checkbox to
+  show all 24 for anyone who really does meet at midnight.
+- Stretches where everyone is free for at least the chosen meeting length
+  are outlined, so the viable runs stand out from merely-green cells.
+- Hovering a cell names who is busy.
+- `findSlots` in `lib/intervals.ts` is no longer used by the UI. It stays
+  exported and tested, but nothing calls it now.
+
 ## [2026-09-10] — Schedule tool: clear slots
 
 - **Clear slots** button under the grid in My Schedule, for starting the
