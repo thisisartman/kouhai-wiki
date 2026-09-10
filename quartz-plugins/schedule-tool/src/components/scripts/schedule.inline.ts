@@ -18,6 +18,7 @@ const state: { blocks: Block[]; name: string; term: string } = {
 let members: Member[] = [];
 let groupBlocks: Block[] = [];
 let shortlist: Slot[] = [];
+let groupSize = 4;
 let dragging: { day: Day; from: number } | null = null;
 
 document.addEventListener("pointerup", () => {
@@ -115,31 +116,85 @@ function writeSession(text: string): void {
   }
 }
 
-function loadCodes(text: string): void {
+/** One paste box per person, so a bad code can be fixed without redoing the rest. */
+function renderSlots(): void {
+  const box = document.getElementById("st-slots");
+  if (!box) return;
+
+  const existing = readSlotValues();
+  box.innerHTML = "";
+
+  for (let i = 0; i < groupSize; i++) {
+    const row = document.createElement("div");
+    row.className = "st-personrow";
+    row.innerHTML = `
+      <label class="st-personlabel" for="st-code-${i}">${i + 1}</label>
+      <input class="st-personinput" id="st-code-${i}" type="text"
+             placeholder="Paste person ${i + 1}'s code" value="${existing[i] ?? ""}">
+      <span class="st-personstate" id="st-state-${i}"></span>
+    `;
+    box.appendChild(row);
+  }
+
+  for (let i = 0; i < groupSize; i++) {
+    const input = document.getElementById(`st-code-${i}`) as HTMLInputElement | null;
+    input?.addEventListener("input", () => loadFromSlots());
+    input?.addEventListener("paste", () => setTimeout(loadFromSlots, 0));
+  }
+
+  loadFromSlots();
+}
+
+function readSlotValues(): string[] {
+  const out: string[] = [];
+  for (let i = 0; i < groupSize; i++) {
+    const el = document.getElementById(`st-code-${i}`) as HTMLInputElement | null;
+    out.push(el?.value.trim() ?? "");
+  }
+  return out;
+}
+
+function loadFromSlots(): void {
+  const values = readSlotValues();
   const errors: string[] = [];
-  const seen = new Set<string>();
+  const seen = new Map<string, number>();
   const terms = new Set<string>();
   members = [];
   groupBlocks = [];
   shortlist = [];
 
-  const lines = text.split("\n").map((l) => l.trim()).filter(Boolean);
-
-  lines.forEach((line, i) => {
-    if (seen.has(line)) {
-      errors.push(`Line ${i + 1}: that is the same code twice. Each person needs their own.`);
+  values.forEach((code, i) => {
+    const state = document.getElementById(`st-state-${i}`);
+    if (!code) {
+      if (state) { state.textContent = ""; state.className = "st-personstate"; }
       return;
     }
-    seen.add(line);
 
-    const res = decodeCode(line);
-    if (!res.ok) {
-      errors.push(`Line ${i + 1}: ${res.reason}`);
+    const dupeOf = seen.get(code);
+    if (dupeOf !== undefined) {
+      if (state) {
+        state.textContent = `same as ${dupeOf + 1}`;
+        state.className = "st-personstate st-bad";
+      }
+      errors.push(`Person ${i + 1} has the same code as person ${dupeOf + 1}. Each person needs their own.`);
       return;
+    }
+    seen.set(code, i);
+
+    const res = decodeCode(code);
+    if (!res.ok) {
+      if (state) { state.textContent = "not valid"; state.className = "st-personstate st-bad"; }
+      errors.push(`Person ${i + 1}: ${res.reason}`);
+      return;
+    }
+
+    if (state) {
+      state.textContent = res.payload.name || "loaded";
+      state.className = "st-personstate st-good";
     }
 
     const id = `m${i}`;
-    members.push({ id, name: res.payload.name });
+    members.push({ id, name: res.payload.name || `Person ${i + 1}` });
     if (res.payload.term) terms.add(res.payload.term);
     for (const b of res.payload.blocks) groupBlocks.push({ ...b, memberId: id });
   });
@@ -153,14 +208,15 @@ function loadCodes(text: string): void {
   const errBox = document.getElementById("st-errors");
   if (errBox) errBox.textContent = errors.join("  ");
 
-  const list = document.getElementById("st-members");
-  if (list) {
-    list.innerHTML = members.length
-      ? `<p class="st-note">Loaded ${members.length}: ${members.map((m) => m.name).join(", ")}</p>`
+  const missing = groupSize - members.length;
+  const count = document.getElementById("st-count");
+  if (count) {
+    count.textContent = members.length
+      ? `${members.length} of ${groupSize} loaded` + (missing > 0 ? `, ${missing} still to come` : "")
       : "";
   }
 
-  writeSession(text);
+  writeSession(JSON.stringify({ size: groupSize, codes: values }));
   renderResults();
 }
 
@@ -302,11 +358,18 @@ function mount(): void {
     </section>
 
     <section class="st-panel" id="st-panel-group" role="tabpanel" hidden>
-      <p class="st-note">Ask everyone to open this page, mark their busy times, and send you their code. Paste them all below, one per line.</p>
-      <textarea class="st-code" id="st-codes" placeholder="Paste codes here, one per line"></textarea>
+      <p class="st-note">Ask everyone to open this page, mark their busy times, and send you their code. Then set how many of you there are and paste each code into its own box.</p>
       <div class="st-actions">
-        <button id="st-load">Load codes</button>
+        <label for="st-size">People in the group</label>
+        <select id="st-size" aria-label="People in the group">
+          ${[2, 3, 4, 5, 6, 7, 8].map((n) => `<option value="${n}"${n === 4 ? " selected" : ""}>${n}</option>`).join("")}
+        </select>
+        <span class="st-note" id="st-count" style="margin:0"></span>
+      </div>
+      <div id="st-slots"></div>
+      <div class="st-actions">
         <button id="st-clear">Clear all</button>
+        <label for="st-min">Meeting length</label>
         <select id="st-min" aria-label="Minimum meeting length">
           <option value="30">30 min</option>
           <option value="60" selected>1 hour</option>
@@ -314,7 +377,6 @@ function mount(): void {
         </select>
       </div>
       <p class="st-note">Pasted codes stay in this browser tab and are forgotten when you close it. Nothing is uploaded.</p>
-      <div id="st-members"></div>
       <div id="st-errors" class="st-error"></div>
       <div id="st-results"></div>
     </section>
@@ -348,27 +410,48 @@ function mount(): void {
     }
   });
 
-  document.getElementById("st-load")?.addEventListener("click", () => {
-    loadCodes((document.getElementById("st-codes") as HTMLTextAreaElement).value);
+  const sizeEl = document.getElementById("st-size") as HTMLSelectElement | null;
+  sizeEl?.addEventListener("change", () => {
+    groupSize = Number(sizeEl.value);
+    renderSlots();
   });
 
   document.getElementById("st-clear")?.addEventListener("click", () => {
-    (document.getElementById("st-codes") as HTMLTextAreaElement).value = "";
+    for (let i = 0; i < groupSize; i++) {
+      const el = document.getElementById(`st-code-${i}`) as HTMLInputElement | null;
+      if (el) el.value = "";
+    }
     try {
       sessionStorage.removeItem(SESSION_KEY);
     } catch {
       /* ignore */
     }
-    loadCodes("");
+    loadFromSlots();
   });
 
   document.getElementById("st-min")?.addEventListener("change", renderResults);
 
-  const codesEl = document.getElementById("st-codes") as HTMLTextAreaElement | null;
+  // restore a previous collection so a stray refresh does not cost five codes
   const saved = readSession();
-  if (codesEl && saved) {
-    codesEl.value = saved;
-    loadCodes(saved);
+  if (saved) {
+    try {
+      const parsed = JSON.parse(saved) as { size: number; codes: string[] };
+      if (parsed.size >= 2 && parsed.size <= 8) {
+        groupSize = parsed.size;
+        if (sizeEl) sizeEl.value = String(groupSize);
+      }
+      renderSlots();
+      parsed.codes.forEach((c, i) => {
+        const el = document.getElementById(`st-code-${i}`) as HTMLInputElement | null;
+        if (el) el.value = c;
+      });
+      loadFromSlots();
+    } catch {
+      // an older or damaged session payload: start clean rather than half-restored
+      renderSlots();
+    }
+  } else {
+    renderSlots();
   }
 
   renderGrid();

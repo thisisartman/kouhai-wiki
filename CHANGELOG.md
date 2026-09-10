@@ -1,5 +1,24 @@
 # Changelog
 
+## [2026-09-10] — Schedule tool: per-person code slots
+
+Replaces the bulk paste box with a group-size selector and one input per
+person, which is what the original design called for.
+
+- **Set how many people are in the group**, then paste each code into its
+  own numbered box. Each row shows the person's name once their code
+  decodes, or why it did not.
+- Fixing one bad code no longer means re-pasting everyone's. The bulk
+  textarea was fewer actions in the happy path and worse in every other
+  one, which is the wrong trade for a tool used once under mild time
+  pressure.
+- A running count reads "3 of 5 loaded, 2 still to come", so the
+  organiser can see who they are waiting on.
+- Duplicate detection now names the clash directly on the offending row
+  ("same as 2") rather than only in an error list.
+- Session restore carries the group size as well as the codes, and starts
+  clean rather than half-restored if the stored payload is damaged.
+
 ## [2026-09-10] — Schedule tool: grid legibility and mobile fixes
 
 First real look at the tool surfaced three things, all fixed.
