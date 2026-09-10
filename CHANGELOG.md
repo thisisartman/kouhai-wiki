@@ -1,5 +1,15 @@
 # Changelog
 
+## [2026-09-10] — Schedule tool: underline tabs
+
+The mode switcher was two filled rounded rectangles, which read as
+buttons to press rather than as the view you are currently in. Now
+underline tabs: text on a shared baseline, with the active one coloured
+and carrying a 2px underline.
+
+Also adds a hover state and a visible focus ring, neither of which the
+pill version had.
+
 ## [2026-09-10] — Schedule tool: share sheet and paste tolerance
 
 - **Send my code** button in My Schedule opens the phone's native share

@@ -23,11 +23,17 @@ function u2(e2, t2, n2, o2, i2, u3) {
 // src/components/ScheduleTool.tsx
 var css = `
 .st-root { margin: 1.5rem 0 2rem; font-family: var(--bodyFont); }
-.st-tabs { display: flex; gap: .5rem; margin-bottom: 1rem; }
-.st-tab { padding: .45em .9em; border-radius: 5px; border: 1px solid var(--lightgray);
-  background: transparent; color: var(--darkgray); cursor: pointer; font-weight: 600; }
-.st-tab[aria-selected="true"] { background: var(--secondary); color: var(--light);
-  border-color: var(--secondary); }
+/* Underline tabs rather than filled pills. A filled rounded rect reads as a
+   button you press; an underline reads as the view you are currently in. */
+.st-tabs { display: flex; gap: 1.5rem; margin-bottom: 1.25rem;
+  border-bottom: 1px solid var(--lightgray); }
+.st-tab { padding: .5em 0 .55em; border: 0; border-bottom: 2px solid transparent;
+  border-radius: 0; background: none; color: var(--gray); cursor: pointer;
+  font-weight: 600; font-size: .95rem; font-family: inherit;
+  margin-bottom: -1px; transition: color .12s ease, border-color .12s ease; }
+.st-tab:hover { color: var(--darkgray); }
+.st-tab[aria-selected="true"] { color: var(--secondary); border-bottom-color: var(--secondary); }
+.st-tab:focus-visible { outline: 2px solid var(--secondary); outline-offset: 3px; }
 .st-panel[hidden] { display: none !important; }
 .st-note { font-size: .78rem; color: var(--gray); margin-top: .6rem; line-height: 1.5; }
 /* min-width forces sideways scrolling on a phone instead of squeezing seven
