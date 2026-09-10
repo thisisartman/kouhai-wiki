@@ -1,5 +1,15 @@
 # Changelog
 
+## [2026-09-10] — Schedule tool: clear slots
+
+- **Clear slots** button under the grid in My Schedule, for starting the
+  week over without tapping every cell back off.
+- It takes two taps rather than opening a dialog. The first arms it and
+  the label changes to "Tap again to clear"; it disarms itself after three
+  seconds. Wiping a week of marked slots has no undo, but a modal for a
+  one-second action is heavier than the risk warrants.
+- Disabled while the grid is empty, so it never offers to do nothing.
+
 ## [2026-09-10] — Schedule tool: underline tabs
 
 The mode switcher was two filled rounded rectangles, which read as

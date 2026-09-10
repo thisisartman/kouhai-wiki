@@ -19,6 +19,8 @@ let members: Member[] = [];
 let groupBlocks: Block[] = [];
 let shortlist: Slot[] = [];
 let groupSize = 4;
+let clearPending = false;
+let clearTimer: ReturnType<typeof setTimeout> | undefined;
 let dragging: { day: Day; from: number } | null = null;
 
 document.addEventListener("pointerup", () => {
@@ -97,6 +99,20 @@ function renderGrid(): void {
 
   // open the viewport around 07:00 without hiding the rest of the day
   grid.scrollTop = keepScroll || (7 * 60) / SNAP_MINUTES * 15;
+
+  syncClearButton();
+}
+
+/** Nothing to clear means nothing to press, and a pending confirm is stale. */
+function syncClearButton(): void {
+  const btn = document.getElementById("st-clearslots") as HTMLButtonElement | null;
+  if (!btn) return;
+  btn.disabled = state.blocks.length === 0;
+  if (btn.disabled) {
+    clearPending = false;
+    btn.textContent = "Clear slots";
+    btn.classList.remove("st-armed");
+  }
 }
 
 function readSession(): string {
@@ -348,6 +364,9 @@ function mount(): void {
 
     <section class="st-panel" id="st-panel-mine" role="tabpanel">
       <div class="st-grid" id="st-grid" style="max-height:60vh"></div>
+      <div class="st-actions">
+        <button id="st-clearslots" class="st-danger" disabled>Clear slots</button>
+      </div>
       <p class="st-note"><strong>Each row is 30 minutes.</strong> Tap a cell to mark yourself busy, tap it again to clear it. On a computer you can drag down a column to fill several at once. On a phone the grid scrolls sideways, so swipe across to reach the weekend.</p>
       <p class="st-note">Class times like 8:50 do not land on a 30-minute row, so round outward. Being blocked slightly early beats scheduling over a lecture.</p>
       <div class="st-actions">
@@ -386,6 +405,32 @@ function mount(): void {
 
   document.getElementById("st-tab-mine")?.addEventListener("click", () => switchTab("mine"));
   document.getElementById("st-tab-group")?.addEventListener("click", () => switchTab("group"));
+
+  // Two taps rather than a dialog. Wiping a week of marked slots has no undo,
+  // but a modal for a one-second action is heavier than the risk warrants.
+  document.getElementById("st-clearslots")?.addEventListener("click", () => {
+    const btn = document.getElementById("st-clearslots") as HTMLButtonElement | null;
+    if (!btn || btn.disabled) return;
+
+    if (!clearPending) {
+      clearPending = true;
+      btn.textContent = "Tap again to clear";
+      btn.classList.add("st-armed");
+      clearTimer = setTimeout(() => {
+        clearPending = false;
+        btn.textContent = "Clear slots";
+        btn.classList.remove("st-armed");
+      }, 3000);
+      return;
+    }
+
+    clearTimeout(clearTimer);
+    clearPending = false;
+    btn.classList.remove("st-armed");
+    btn.textContent = "Clear slots";
+    state.blocks = [];
+    renderGrid();
+  });
 
   function currentCode(): string {
     const nameEl = document.getElementById("st-name") as HTMLInputElement | null;
