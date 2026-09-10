@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { encodeCode, decodeCode } from "../src/lib/code";
+import { encodeCode, decodeCode, extractCode } from "../src/lib/code";
 import type { Block } from "../src/lib/model";
 
 const blocks: Block[] = [
@@ -67,6 +67,29 @@ describe("group code", () => {
       .replace(/\//g, "_")
       .replace(/=+$/, "");
     expect(decodeCode(bad).ok).toBe(false);
+  });
+
+  it("recovers a code pasted with surrounding chat text", () => {
+    const code = encodeCode({ v: 1, name: "Appu", term: "2026 Fall", blocks });
+    for (const pasted of [
+      `here's mine: ${code}`,
+      `${code} let me know if that works`,
+      `\n${code}\n`,
+      `my code\n${code}`,
+    ]) {
+      const res = decodeCode(extractCode(pasted));
+      expect(res.ok).toBe(true);
+      if (res.ok) expect(res.payload.name).toBe("Appu");
+    }
+  });
+
+  it("leaves a bare code untouched", () => {
+    const code = encodeCode({ v: 1, name: "Appu", term: "2026 Fall", blocks });
+    expect(extractCode(code)).toBe(code);
+  });
+
+  it("returns empty for empty input", () => {
+    expect(extractCode("   ")).toBe("");
   });
 
   it("handles a payload with no blocks", () => {

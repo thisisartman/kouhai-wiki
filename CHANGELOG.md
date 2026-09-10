@@ -1,5 +1,20 @@
 # Changelog
 
+## [2026-09-10] — Schedule tool: share sheet and paste tolerance
+
+- **Send my code** button in My Schedule opens the phone's native share
+  sheet, so a student taps it, picks WhatsApp and picks the person. That
+  removes the copy, switch app, find chat, paste sequence. It shares the
+  bare code so the recipient can paste it straight in.
+- The button only appears where `navigator.share` exists. A button that
+  silently does nothing is worse than no button, so desktop keeps Copy my
+  code alone.
+- **Paste boxes now tolerate surrounding text.** Once codes travel through
+  a chat app people paste the whole message ("here's mine: AbC123"), and a
+  single-line input silently joins newlines. The importer takes the
+  longest base64url-looking token, which recovers the code in both cases.
+  Three new tests cover it.
+
 ## [2026-09-10] — Schedule tool: per-person code slots
 
 Replaces the bulk paste box with a group-size selector and one input per

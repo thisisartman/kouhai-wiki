@@ -38,6 +38,24 @@ export function encodeCode(payload: Payload): string {
   return toBase64Url(raw);
 }
 
+/**
+ * Pull a code out of pasted text that may carry surrounding words.
+ *
+ * Once codes are shared through a chat app, people paste the whole message
+ * ("here's mine: AbC123") rather than the bare string, and a single-line
+ * input silently joins any newlines. Taking the longest base64url-looking
+ * token recovers the code in both cases.
+ */
+export function extractCode(text: string): string {
+  const trimmed = text.trim();
+  if (!trimmed) return "";
+  let best = "";
+  for (const token of trimmed.split(/\s+/)) {
+    if (/^[A-Za-z0-9_-]+$/.test(token) && token.length > best.length) best = token;
+  }
+  return best || trimmed;
+}
+
 export function decodeCode(text: string): DecodeResult {
   const trimmed = text.trim();
   if (!trimmed) return { ok: false, reason: "That code is empty." };
