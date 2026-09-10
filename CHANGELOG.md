@@ -1,5 +1,23 @@
 # Changelog
 
+## [2026-09-11] — Contributor list rebuilt from the suggestions log
+
+The list had drifted from the log it is supposed to reflect.
+
+- **Namra Mehta was missing entirely** despite five rows carrying
+  `credit_consent: yes`. She consented to being named and was not
+  credited. Now listed with her real count.
+- **Koshoi was listed as 2 against 6 consented rows.**
+- Ordered by contribution count.
+- Adithya is kept but has no `credit_consent: yes` row in the log. Left
+  on the maintainer's word and flagged in the maintenance comment for the
+  next audit.
+- The maintainer's own submissions stay excluded.
+- Added a one-line command to the maintenance comment that regenerates
+  counts from `suggestions-log.csv`, since hand-incrementing is how both
+  errors crept in. It also notes the log stores handles (`koshoi_k`) while
+  the page uses real names, so the mapping is manual.
+
 ## [2026-09-11] — My Schedule defaults to waking hours
 
 From a real phone screenshot: the personal grid rendered all 48 rows
