@@ -1,5 +1,21 @@
 # Changelog
 
+## [2026-09-10] — Schedule tool: grid legibility and mobile fixes
+
+First real look at the tool surfaced three things, all fixed.
+
+- **Every 30-minute row is now labelled** (`08:00`, `08:30`, `09:00`).
+  Only the hours carried a label before, so the grid read as hourly when
+  every row is actually half an hour. Half-hour labels are dimmed and the
+  hour rows carry a heavier line, so they read as subdivisions.
+- **The mobile grid no longer crams seven days into the viewport.**
+  Columns have a 74px minimum and the grid scrolls sideways instead of
+  compressing, which had left cells too narrow to tap accurately. Cell
+  height went from 14px to 22px, and 26px below 800px wide.
+- **The 30-minute granularity is stated under the grid**, next to the
+  drag instruction, rather than only in prose further down the page. The
+  note about class times like 8:50 not landing on a row moved up with it.
+
 ## [2026-09-10] — Schedule tool: built
 
 The design and plan from earlier today, now implemented. Phases 1 to 4;
