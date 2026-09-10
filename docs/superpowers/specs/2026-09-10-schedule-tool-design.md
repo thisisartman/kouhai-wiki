@@ -7,7 +7,7 @@ supersedes: partially amends 2026-09-01-timetable-builder-design.md
 
 # Schedule tool: my schedule + find group time
 
-One widget with two modes and three exports. Mode 1 is a student's own
+One widget with two modes and two exports. Mode 1 is a student's own
 weekly schedule. Mode 2 combines several students' schedules to find when
 a group can actually meet.
 
@@ -36,12 +36,12 @@ group tool is what makes it worth building.
                  │   + courses + custom blocks │
                  └──────────────┬──────────────┘
                                 │
-            ┌───────────────────┼───────────────────┐
-            ▼                   ▼                   ▼
-        .ics export        PNG export        group code
-      (your timetable)     (printable)      (paste-shareable)
-                                                    │
-                 ┌──────────────────────────────────┘
+                    ┌───────────┴───────────┐
+                    ▼                       ▼
+                .ics export            group code
+              (your timetable)       (paste-shareable)
+                                            │
+                 ┌──────────────────────────┘
                  ▼
        ┌─────────────────────────────┐
        │   Find Group Time (mode 2)  │
@@ -53,15 +53,18 @@ group tool is what makes it worth building.
 
 ## Non-goals
 
-- **No backend, no accounts, no stored data.** This is a static Quartz
-  site. Everything runs in the browser and nothing is transmitted. The
-  group code is the entire transport mechanism.
+- **No backend, no accounts, no server-side storage.** This is a static
+  Quartz site. Everything runs in the browser and nothing is transmitted.
+  The group code is the entire transport mechanism. Data may sit in the
+  user's own `sessionStorage` for the life of the tab (see
+  *Session storage*), which is theirs to clear and never reaches us.
 - **No course catalogue.** Nothing in the wiki holds
   `course → (day, period)` for the current term, and maintaining such a
   list would go stale every trimester. Courses are entered by the student,
   either by hand or by PDF import.
 - **No shared or persistent groups.** Group assembly is ad-hoc, done once,
-  and thrown away. Nothing survives the page.
+  and thrown away. Nothing survives the browser tab, and no group is ever
+  addressable by anyone else.
 - **No attendee invitations.** No email addresses are collected, so the
   exported calendar file carries no `ATTENDEE` lines.
 
@@ -193,10 +196,31 @@ could read the driver's own schedule directly, but then the instruction in
 the group chat becomes "everyone send a code, except me", which is worse
 to explain than one redundant paste.
 
+### Session storage
+
+Mode 2 keeps the pasted codes in **`sessionStorage`** so a refresh or an
+accidental back-navigation does not force the collector to chase five
+people for their codes again. `sessionStorage` rather than `localStorage`
+is deliberate: it clears when the tab closes, which matches "temporary"
+literally rather than by intention.
+
+This does not weaken the privacy position. Nothing is transmitted and
+nothing is collected by the site; the data sits in the user's own browser
+and the user can clear it. A visible **Clear all** control in mode 2 empties
+it immediately for anyone who would rather not wait for the tab to close.
+
 **Privacy line, shown beside the export button, not buried:**
 
 > This code contains your weekly schedule. Nothing is sent to any server
 > — it only goes where you paste it.
+
+**And in mode 2, beside the paste box:**
+
+> Pasted codes stay in this browser tab and are forgotten when you close
+> it. Nothing is uploaded.
+
+Both lines must remain literally true. If a future change introduces any
+transmission, these strings are the first thing to fix.
 
 ## Group view
 
@@ -308,18 +332,25 @@ phases 1–3 already solve the actual problem.
   set is identical.
 - Rejection paths: bad version, corrupt base64, duplicate payload, term
   mismatch.
+- `sessionStorage`: codes survive a refresh, are gone after a simulated
+  tab close, and **Clear all** empties them immediately. Also confirm the
+  app still works with storage unavailable, since private-browsing modes
+  and blocked site data make it throw rather than return empty.
 - `.ics` output validated against an external parser, and a `COUNT=n`
   series confirmed to produce n occurrences at the right JST times.
 
-## Open questions
+## Resolved during design
 
-- Should mode 2 remember the last set of pasted codes for the length of
-  the browser session? It would help when someone mistypes and has to
-  redo the collection, but it conflicts with "nothing is stored". Leaning
-  no, on the grounds that the stated privacy claim should be literally
-  true.
-- Does the PNG export from the original spec still earn its place, given
-  nobody has asked for it and the `.ics` covers the real use?
+- **Session persistence for pasted codes:** yes, in `sessionStorage`. The
+  data is never collected by the site, so local caching does not
+  contradict the privacy stance, and losing a collection of five codes to
+  a stray refresh would be worse.
+- **PNG export:** dropped. Nobody asked for it and `.ics` covers the real
+  use. Removing it also removes a canvas-rendering path and its own layout
+  code from the build.
+- **Custom blockers:** confirmed as important as courses, not a secondary
+  feature. Part-time shifts and club practice constrain a student's week
+  at least as much as classes do.
 
 ## Amendments to the Timetable Builder spec
 
@@ -336,6 +367,10 @@ decisions are overturned here:
 3. **The widget as a standalone personal tool.** It is now mode 1 of a
    two-mode tool, and its most valuable output is the group code rather
    than the personal grid.
+4. **PNG export.** Dropped. The original spec drew the grid to an
+   off-screen `<canvas>` and exported via `canvas.toBlob()`. Nobody has
+   asked for a picture of their timetable, `.ics` serves the actual need,
+   and removing it deletes a whole rendering path.
 
 Unchanged and still authoritative: the fixed period times, the finding
 that `Wed.2〜3` means two separate weekly meetings rather than one

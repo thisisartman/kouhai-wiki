@@ -22,7 +22,13 @@ Design only, nothing built. Spec at
 - **PDF import moved to phase 5.** It is the riskiest component and its
   value once manual entry exists is a few minutes saved per term, so it
   should not gate the useful part.
-- Amends three decisions in the 2026-09-01 Timetable Builder spec, listed
+- **Pasted codes persist in `sessionStorage`** for the life of the tab, so
+  a stray refresh does not cost the collector five codes. Nothing is
+  transmitted or collected, and a Clear all control empties it on demand.
+- **PNG export dropped.** Nobody asked for a picture of their timetable,
+  `.ics` serves the real need, and removing it deletes a canvas rendering
+  path from the build.
+- Amends four decisions in the 2026-09-01 Timetable Builder spec, listed
   at the end of the new document. Its period times, `Wed.2〜3` finding and
   RFC 5545 approach remain authoritative.
 
