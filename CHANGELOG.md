@@ -1,5 +1,24 @@
 # Changelog
 
+## [2026-09-11] — Spec: validated PDF parsing approach
+
+The parsing method is now written down as measurements against all six
+supplied forms rather than as an assumption.
+
+- **Rows reconstruct from a 3pt y-tolerance cluster.** One sample's 123
+  scattered words become 38 visual rows with course rows intact.
+- **Column bands come from the header words, never hardcoded.** Four
+  forms put the D/P column at x=461-477 and two at x=479-529, so fixed
+  coordinates would have failed silently on a third of the sample.
+- **Wrapped D/P cells are three consecutive rows** about 10pt apart
+  inside the D/P band, with the course's other fields on the middle one.
+- **The header band is narrower than its values** (461-477 against
+  450-489), so it needs padding of at least 15pt per side or a band
+  derived from header and contents together.
+- These forms are Safari prints of an HTML table, so the geometry is
+  machine-regular. The original spec framed this as glyph-position
+  reconstruction, which made it sound harder than it is.
+
 ## [2026-09-10] — Spec: findings from six real Registration Forms
 
 Six real forms supplied, covering three terms, four students, GSIR and
