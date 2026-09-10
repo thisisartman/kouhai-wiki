@@ -207,6 +207,14 @@ plugins:
       # chrome on every page and should not outrank the title or the
       # status-badge banner (8), both of which sit above it.
       priority: 12
+  - source: ./quartz-plugins/schedule-tool
+    enabled: true
+    layout:
+      position: beforeBody
+      # after site-notice (12), so the widget sits between the notice and
+      # the page's own prose. Renders only where frontmatter says
+      # `tool: schedule`, so it appears on exactly one page.
+      priority: 14
   - source: github:quartz-community/article-title
     enabled: true
     layout:
