@@ -11,7 +11,7 @@ Everything here was written by students who arrived before you and worked it out
 
 New here? It's completely normal to feel lost the first few weeks. Ask a senpai (a senior student); nobody expects you to work it all out alone. Need to get around? See [[Bus & Local Routes]] for schedules, or [[Useful Apps in Japan — Maps, Transit, Translation|Useful Apps]] for navigating the city.
 
-🛠️ There's one thing here you can actually *use* rather than read: the [[Schedule & Group Time Tool]] builds your weekly timetable and works out when your whole group is free. No sign-up, nothing stored.
+🛠️ **[[Timetable & Group Work Tool]]** — build your weekly timetable, then find when your whole group is free. No sign-up, nothing stored.
 
 ## 📌 Pinned
 
@@ -19,5 +19,5 @@ New here? It's completely normal to feel lost the first few weeks. Ask a senpai 
 - [[First Week Checklist]]
 - [[Visa & Documentation]]
 - [[SIM & Internet Setup]]
-- [[Schedule & Group Time Tool]]
+- [[Timetable & Group Work Tool]]
 - [[00_About Wiki/Help Improve This Wiki|Help Improve This Wiki]]
