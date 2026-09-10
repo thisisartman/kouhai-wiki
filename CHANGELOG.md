@@ -1,5 +1,19 @@
 # Changelog
 
+## [2026-09-11] — Make the schedule tool findable
+
+It shipped buried three levels down under Academics, in a list of eleven
+articles, with a title that reads like more prose. Nobody browsing would
+have found it.
+
+- Added to the homepage **Pinned** list.
+- A line in the homepage copy naming what makes it different: it is the
+  only thing on a wiki of 118 articles that you use rather than read.
+- Added to **First Week Checklist** under Week 1: Campus Orientation,
+  after course registration rather than in the day-one rush, plus its
+  Related Articles list. Group projects start early and the first one
+  always burns a week arguing about when to meet.
+
 ## [2026-09-11] — Spec: validated PDF parsing approach
 
 The parsing method is now written down as measurements against all six

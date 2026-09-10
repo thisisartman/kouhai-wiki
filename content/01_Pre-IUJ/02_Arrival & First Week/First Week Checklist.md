@@ -49,6 +49,7 @@ The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelm
 - [ ] **Locate key campus spots**: cafeteria, gym, convenience store, mail room, health center
 - [ ] **Learn your HOUSE assignment**: IUJ groups students into "HOUSE" teams (Honoring Our Unique Social Environment) for inter-dorm events and competitions throughout the year — you'll be notified after arrival
 - [ ] **Join the incoming-student Facebook group** (if one exists for your intake): use your real name and student ID when requesting access, not your Facebook display name
+- [ ] **Put your timetable into the [[Schedule & Group Time Tool]]** once course registration is done. Group projects start early and the first one always burns a week arguing about when to meet. The tool works out when everyone in your group is free.
 
 ---
 
@@ -92,6 +93,7 @@ The first week at IUJ is administrative chaos. Everyone is jet-lagged, overwhelm
 - [[Waste Disposal & Recycling]]
 - [[Campus Facilities & Dorms]]
 - [[Course Registration]]
+- [[Schedule & Group Time Tool]]
 
 ---
 
