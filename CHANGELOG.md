@@ -1,5 +1,31 @@
 # Changelog
 
+## [2026-09-10] — Design spec: schedule tool (my schedule + find group time)
+
+Design only, nothing built. Spec at
+`docs/superpowers/specs/2026-09-10-schedule-tool-design.md`.
+
+- Absorbs the Timetable Builder into one widget with two modes and three
+  exports: your own weekly schedule, and a group mode that finds when
+  several students can actually meet.
+- **The group code is the whole transport.** Each student exports their
+  schedule as a pasteable string and sends it however they already talk;
+  one person pastes them all in. That removes the only genuinely hard
+  problem here, which was getting several people's availability into one
+  browser with no backend on a static site.
+- **All time is minutes from midnight.** IUJ's class times do not sit on
+  a 30-minute grid (1st period starts 8:50, 4th at 14:40), so imported
+  blocks keep true times while hand-drawn ones snap. One coordinate
+  system, snapping treated as a drag constraint rather than a storage
+  format.
+- **No period numbers in the UI.** Students say "my 10:30 class".
+- **PDF import moved to phase 5.** It is the riskiest component and its
+  value once manual entry exists is a few minutes saved per term, so it
+  should not gate the useful part.
+- Amends three decisions in the 2026-09-01 Timetable Builder spec, listed
+  at the end of the new document. Its period times, `Wed.2〜3` finding and
+  RFC 5545 approach remain authoritative.
+
 ## [2026-09-10] — Compress the link preview card
 
 - `quartz/static/og-image.png` cut from 1029KB to 323KB, a 69% saving.
