@@ -1,5 +1,19 @@
 # Changelog
 
+## [2026-09-10] — Compress the link preview card
+
+- `quartz/static/og-image.png` cut from 1029KB to 323KB, a 69% saving.
+  Every link preview fetches this file, so the weight is worth removing
+  before the WhatsApp release.
+- Method: 256-colour palette with Floyd-Steinberg dithering. Measured at
+  34.3 dB PSNR and checked by eye for banding in the sky gradient, which
+  is where quantisation would show first. None visible at preview size.
+- Lossless (`zopflipng -m`) was tried first and only saved 1.7%. The
+  card is an illustration with smooth gradients, so PNG's lossless
+  entropy coding has almost nothing to work with.
+- JPEG would give better quality per byte, but `Head.tsx` hardcodes
+  `static/og-image.png`, so the format is fixed unless core is patched.
+
 ## [2026-09-10] — Link preview card and homepage description
 
 Prepares the site for a WhatsApp release to IUJ students, where the link
