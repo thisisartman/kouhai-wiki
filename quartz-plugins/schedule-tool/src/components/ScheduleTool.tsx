@@ -43,6 +43,9 @@ const css = `
   padding: .45em .9em; border-radius: 5px; border: 1px solid var(--lightgray);
   background: var(--light); color: var(--darkgray); font-weight: 600; }
 .st-actions button { cursor: pointer; }
+.st-actions button:disabled { opacity: .45; cursor: default; }
+.st-danger { color: #a33; }
+.st-danger.st-armed { background: #a33; color: var(--light); border-color: #a33; }
 .st-code { width: 100%; min-height: 5rem; font-family: var(--codeFont); font-size: .8rem;
   padding: .5rem; border-radius: 5px; border: 1px solid var(--lightgray);
   background: var(--light); color: var(--darkgray); }
