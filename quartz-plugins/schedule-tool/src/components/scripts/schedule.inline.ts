@@ -1,6 +1,6 @@
 import { DAY_NAMES, SNAP_MINUTES, fmtTime } from "../../lib/model";
 import type { Block, Day, Member, Slot } from "../../lib/model";
-import { encodeCode, decodeCode } from "../../lib/code";
+import { encodeCode, decodeCode, extractCode } from "../../lib/code";
 import { findSlots } from "../../lib/intervals";
 import { buildMessage } from "../../lib/message";
 import { buildIcs } from "../../lib/ics";
@@ -149,7 +149,8 @@ function readSlotValues(): string[] {
   const out: string[] = [];
   for (let i = 0; i < groupSize; i++) {
     const el = document.getElementById(`st-code-${i}`) as HTMLInputElement | null;
-    out.push(el?.value.trim() ?? "");
+    // people paste the whole chat message, not just the code
+    out.push(extractCode(el?.value ?? ""));
   }
   return out;
 }
@@ -352,6 +353,7 @@ function mount(): void {
       <div class="st-actions">
         <input id="st-name" placeholder="Your name">
         <input id="st-term" placeholder="Term, e.g. 2026 Fall">
+        <button id="st-share" hidden>Send my code</button>
         <button id="st-copy">Copy my code</button>
       </div>
       <p class="st-note">This code contains your weekly schedule. Nothing is sent to any server, it only goes where you paste it.</p>
@@ -385,14 +387,34 @@ function mount(): void {
   document.getElementById("st-tab-mine")?.addEventListener("click", () => switchTab("mine"));
   document.getElementById("st-tab-group")?.addEventListener("click", () => switchTab("group"));
 
-  document.getElementById("st-copy")?.addEventListener("click", async () => {
+  function currentCode(): string {
     const nameEl = document.getElementById("st-name") as HTMLInputElement | null;
     const termEl = document.getElementById("st-term") as HTMLInputElement | null;
     state.name = nameEl?.value.trim() || "Someone";
     state.term = termEl?.value.trim() || "";
-    const code = encodeCode({
+    return encodeCode({
       v: 1, name: state.name, term: state.term, blocks: state.blocks,
     });
+  }
+
+  // Only offered where the browser actually has a share sheet. A button that
+  // silently does nothing is worse than no button.
+  const shareBtn = document.getElementById("st-share") as HTMLButtonElement | null;
+  if (shareBtn && typeof navigator.share === "function") {
+    shareBtn.hidden = false;
+    shareBtn.addEventListener("click", async () => {
+      try {
+        // the bare code, so the recipient can paste it straight in without
+        // picking it out of a sentence
+        await navigator.share({ text: currentCode() });
+      } catch {
+        /* the user dismissed the share sheet, which is not an error */
+      }
+    });
+  }
+
+  document.getElementById("st-copy")?.addEventListener("click", async () => {
+    const code = currentCode();
     const btn = document.getElementById("st-copy");
     try {
       await navigator.clipboard.writeText(code);
