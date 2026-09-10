@@ -325,8 +325,8 @@ describe("findSlots", () => {
   it("reports partial availability with who is busy", () => {
     // a busy all day Monday, b free
     const slots = findSlots(members, [block("a", 0, 1440)], 60);
-    expect(slots.every((s) => s.freeIds).toString()).toBeTruthy();
-    const partial = slots.find((s) => s.freeIds.length === 1);
+    const partial = slots.find((s) => s.day === 0 && s.freeIds.length === 1);
+    expect(partial).toBeDefined();
     expect(partial?.freeIds).toEqual(["b"]);
     expect(partial?.busyIds).toEqual(["a"]);
   });
@@ -682,15 +682,17 @@ const members: Member[] = [
 ];
 
 describe("nextDateFor", () => {
+  // Constructed with local-component form on purpose. An ISO string with an
+  // offset would be reinterpreted in the runner's timezone, so these tests
+  // would pass in JST and fail on a UTC CI box.
+  const thursday = new Date(2026, 8, 10); // 10 Sep 2026 is a Thursday
+
   it("returns the coming occurrence of a weekday", () => {
-    // 2026-09-10 is a Thursday
-    const from = new Date("2026-09-10T00:00:00+09:00");
-    expect(nextDateFor(0, from).getDate()).toBe(14); // Monday 14 Sep
+    expect(nextDateFor(0, thursday).getDate()).toBe(14); // Monday 14 Sep
   });
 
   it("returns seven days ahead when the day is today", () => {
-    const from = new Date("2026-09-10T00:00:00+09:00");
-    expect(nextDateFor(3, from).getDate()).toBe(17); // next Thursday
+    expect(nextDateFor(3, thursday).getDate()).toBe(17); // next Thursday
   });
 });
 
@@ -700,7 +702,7 @@ describe("buildMessage", () => {
       { day: 0, start: 990, end: 1080, freeIds: ["a", "b"], busyIds: [] },
       { day: 2, start: 780, end: 870, freeIds: ["a"], busyIds: ["b"] },
     ];
-    const text = buildMessage(slots, members, new Date("2026-09-10T00:00:00+09:00"));
+    const text = buildMessage(slots, members, new Date(2026, 8, 10));
     expect(text).toContain("16:30");
     expect(text).toContain("Mon 14 Sep");
     expect(text).toContain("all 2 free");
@@ -725,7 +727,7 @@ describe("buildIcs", () => {
     start: 990,
     end: 1080,
     sessions: 4,
-    from: new Date("2026-09-10T00:00:00+09:00"),
+    from: new Date(2026, 8, 10), // local-component form, see message.test.ts
   };
 
   it("emits a single event with a weekly count", () => {
@@ -1193,7 +1195,8 @@ Inside `renderGrid()`, replace the cell click listener with:
         toggleCell(day as Day, minutes);
       });
       cell.addEventListener("pointerenter", () => {
-        if (!dragging || dragging.day !== day) return;
+        // the origin cell was already handled by pointerdown
+        if (!dragging || dragging.day !== day || minutes === dragging.from) return;
         const start = Math.min(dragging.from, minutes);
         const end = Math.max(dragging.from, minutes) + SNAP_MINUTES;
         state.blocks = state.blocks.filter((b) => !overlaps(b, day as Day, start, end));
@@ -1327,6 +1330,12 @@ function loadCodes(text: string): void {
 
   writeSession(text);
   renderResults();
+}
+
+// Replaced in full by Task 10. Declared here so Task 9 is runnable on its own.
+function renderResults(): void {
+  const box = document.getElementById("st-results");
+  if (box) box.innerHTML = "";
 }
 ```
 
