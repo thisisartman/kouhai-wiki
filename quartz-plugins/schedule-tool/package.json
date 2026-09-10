@@ -1,0 +1,57 @@
+{
+  "name": "@kouhai-wiki/schedule-tool",
+  "version": "0.1.0",
+  "description": "Weekly schedule builder and group meeting-time finder.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Kouhai Wiki",
+  "files": ["dist", "LICENSE"],
+  "exports": {
+    ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js" },
+    "./types": { "types": "./dist/types.d.ts", "import": "./dist/types.js" },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "peerDependencies": { "preact": "^10.0.0" },
+  "peerDependenciesMeta": { "preact": { "optional": false } },
+  "dependencies": { "@quartz-community/types": "github:quartz-community/types" },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "preact": "^10.28.2",
+    "sass": "^1.97.3",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3",
+    "vitest": "^3.0.0"
+  },
+  "quartz": {
+    "name": "schedule-tool",
+    "displayName": "Schedule Tool",
+    "category": "component",
+    "version": "0.1.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 22,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "ScheduleTool": {
+        "displayName": "Schedule Tool",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 14
+      }
+    }
+  },
+  "engines": { "node": ">=22", "npm": ">=10.9.2" }
+}
