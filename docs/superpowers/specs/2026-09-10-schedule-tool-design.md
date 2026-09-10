@@ -184,6 +184,61 @@ differs between the "Required Courses" and "Elective Required Courses"
 sections, and row grouping is inconsistent within a single file. The
 glyph-position reconstruction in the original spec is the right approach.
 
+### Parsing approach, validated 2026-09-10
+
+Tested against all six supplied forms with `pdftotext -bbox`, which
+produces the same word-level geometry `pdf.js` gives in the browser. The
+findings below are measurements, not assumptions.
+
+**These forms are Safari prints of an HTML table.** The PDF producer
+metadata reads `macOS Version 15.7.3 Quartz PDFContext`, creator `Safari`,
+from `dcweb.iuj.ac.jp/Portal/StudentApp/Regist/StudyEntryCheckPdf.aspx`.
+The geometry is therefore machine-regular rather than scanned or
+hand-placed. The original spec described this as reconstructing rows from
+glyph positions, which framed it as harder than it is.
+
+**Steps:**
+
+1. **Extract words with positions** via `pdf.js`. Each word carries x, y
+   and width.
+2. **Cluster words into visual rows** by `yMin` within a **3pt**
+   tolerance. On one sample this turns 123 scattered words into 38 rows,
+   with course rows intact:
+   `International Political Economy | Cooray, Nawalage | Wed.2〜3 | 2`
+3. **Derive column bands from the header words** (`Course`, `Title`,
+   `Instructor`, `D/P`, `Cr.`), never hardcoded coordinates. Four of the
+   six forms place the D/P column at `x=461-477` and two at `x=479-529`,
+   so a fixed band would silently fail on a third of the sample.
+4. **Assign each row's words to columns by x.** A row carrying a title,
+   an instructor and a D/P value is a course row.
+5. **Merge wrapped D/P cells.** A row whose words all fall inside the D/P
+   band and carry no other content belongs to the nearest content row
+   within roughly 15pt. Measured example:
+
+   ```
+   y=403   Mon.1,                                    <- continuation
+   y=413   Advanced Japanese Ⅱ | Kurashina | Tue.1, | 1
+   y=423   Thu.6                                     <- continuation
+   ```
+
+   Three consecutive rows about 10pt apart, all inside the D/P band, with
+   the course's other fields on the middle one.
+6. **Parse the D/P token** into one of the four known shapes (see the
+   table above): single, range, comma list, or `unfixed`.
+7. **Map period to minutes** with the fixed table from the 2026-09-01
+   spec, emitting one block per meeting. A range emits one block per
+   period in it, not one bridged block.
+
+**Padding note.** The D/P *header* sits at `x=461-477` while its *values*
+span `x=450-489`, so a band taken from the header alone is too narrow and
+drops values by a few points at each edge. Pad the header-derived band by
+at least 15pt on each side, or derive it from the union of header and
+column contents.
+
+**Known risks.** The table shifting horizontally between forms
+(confirmed, handled by step 3), the wrapped D/P cell (confirmed, present
+in one sample of six), and layouts from programs not yet sampled.
+
 ### PDF import (phase 2)
 
 Parsing the IUJ Registration Form, per the original Timetable Builder
