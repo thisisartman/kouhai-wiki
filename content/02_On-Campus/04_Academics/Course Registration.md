@@ -120,6 +120,7 @@ Source: [GSIM Student Handbook 2025-2026 (PDF)](https://www.iuj.ac.jp/assets/img
 ---
 
 ## Related Articles
+- [[Schedule & Group Time Tool]]
 - [[Grading System]]
 - [[Fall — Hectic, Settle In Fast]]
 - [[Thesis Guide (IR) — Supervisor, Timeline, Tips]]

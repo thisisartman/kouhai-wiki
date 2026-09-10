@@ -79,6 +79,7 @@ Underused by most students. IUJ professors are accessible in ways that wouldn't 
 ---
 
 ## Related Articles
+- [[Schedule & Group Time Tool]]
 - [[Course Registration]]
 - [[Clubs & Student Organizations]]
 - [[Thesis Guide (IR) — Supervisor, Timeline, Tips]]
