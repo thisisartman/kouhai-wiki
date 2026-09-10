@@ -59,15 +59,18 @@ function renderGrid(): void {
 
   for (let row = 0; row < ROWS; row++) {
     const minutes = row * SNAP_MINUTES;
+    // every row is 30 minutes, so every row gets a label. Labelling only the
+    // hours made the grid read as hourly, which it is not.
+    const onTheHour = minutes % 60 === 0;
     const label = document.createElement("div");
-    label.className = "st-hour";
-    label.textContent = minutes % 60 === 0 ? fmtTime(minutes) : "";
+    label.className = onTheHour ? "st-hour" : "st-hour st-half";
+    label.textContent = fmtTime(minutes);
     grid.appendChild(label);
 
     for (let d = 0; d < 7; d++) {
       const day = d as Day;
       const cell = document.createElement("div");
-      cell.className = "st-cell";
+      cell.className = onTheHour ? "st-cell st-hourline" : "st-cell";
       if (state.blocks.some((b) => overlaps(b, day, minutes, minutes + SNAP_MINUTES))) {
         cell.classList.add("st-busy");
       }
@@ -288,7 +291,8 @@ function mount(): void {
 
     <section class="st-panel" id="st-panel-mine" role="tabpanel">
       <div class="st-grid" id="st-grid" style="max-height:60vh"></div>
-      <p class="st-note">Tap a cell to mark yourself busy. Tap it again to clear it. On a computer you can drag down a column to fill several at once.</p>
+      <p class="st-note"><strong>Each row is 30 minutes.</strong> Tap a cell to mark yourself busy, tap it again to clear it. On a computer you can drag down a column to fill several at once. On a phone the grid scrolls sideways, so swipe across to reach the weekend.</p>
+      <p class="st-note">Class times like 8:50 do not land on a 30-minute row, so round outward. Being blocked slightly early beats scheduling over a lecture.</p>
       <div class="st-actions">
         <input id="st-name" placeholder="Your name">
         <input id="st-term" placeholder="Term, e.g. 2026 Fall">

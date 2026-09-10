@@ -15,15 +15,22 @@ const css = `
   border-color: var(--secondary); }
 .st-panel[hidden] { display: none !important; }
 .st-note { font-size: .78rem; color: var(--gray); margin-top: .6rem; line-height: 1.5; }
-.st-grid { display: grid; grid-template-columns: 3.5rem repeat(7, 1fr); gap: 1px;
+/* min-width forces sideways scrolling on a phone instead of squeezing seven
+   columns into 375px, where cells become too narrow to tap accurately */
+.st-grid { display: grid; grid-template-columns: 3.9rem repeat(7, minmax(74px, 1fr));
+  gap: 1px; min-width: max-content;
   background: var(--lightgray); border: 1px solid var(--lightgray);
-  overflow: auto; user-select: none; }
-.st-cell { background: var(--light); min-height: 14px; cursor: pointer; }
+  overflow: auto; user-select: none; touch-action: pan-x pan-y; }
+.st-cell { background: var(--light); min-height: 22px; cursor: pointer; }
 .st-cell.st-busy { background: var(--secondary); }
-.st-hour { background: var(--light); font-size: .68rem; color: var(--gray);
-  padding: 2px 4px; text-align: right; }
+/* a heavier line on the hour so the half-hour rows read as subdivisions */
+.st-cell.st-hourline { box-shadow: inset 0 1px 0 var(--lightgray); }
+.st-hour { background: var(--light); font-size: .66rem; color: var(--darkgray);
+  padding: 3px 5px; text-align: right; font-variant-numeric: tabular-nums;
+  white-space: nowrap; }
+.st-hour.st-half { color: var(--gray); opacity: .6; }
 .st-head { background: var(--light); font-size: .75rem; font-weight: 700;
-  text-align: center; padding: 4px 0; position: sticky; top: 0; z-index: 1; }
+  text-align: center; padding: 6px 0; position: sticky; top: 0; z-index: 1; }
 .st-actions { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1rem;
   align-items: center; }
 .st-actions button, .st-actions select, .st-actions input {
@@ -39,7 +46,10 @@ const css = `
 .st-slot[aria-selected="true"] { border-color: var(--secondary); background: var(--highlight); }
 .st-slot-who { font-size: .78rem; color: var(--gray); text-align: right; }
 .st-error { color: #a33; font-size: .8rem; margin-top: .5rem; line-height: 1.5; }
-@media (max-width: 800px) { .st-grid { font-size: .7rem; } .st-hour { font-size: .6rem; } }
+@media (max-width: 800px) {
+  .st-hour { font-size: .62rem; }
+  .st-cell { min-height: 26px; }  /* bigger tap target on touch screens */
+}
 `;
 
 const ScheduleTool: QuartzComponentConstructor = () => {
