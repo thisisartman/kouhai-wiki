@@ -1,5 +1,26 @@
 # Changelog
 
+## [2026-09-10] — Link preview card and homepage description
+
+Prepares the site for a WhatsApp release to IUJ students, where the link
+preview is the entire first impression.
+
+- **New `quartz/static/og-image.png`**, an illustrated card (Echigo
+  mountains, campus, sakura, furin) replacing the plain dark placeholder.
+  1200x630, the exact 1.91:1 the spec wants. Converted from JPEG to PNG
+  because `Head.tsx` derives the `og:image:type` meta from the file
+  extension, so a JPEG at a `.png` path would advertise the wrong type.
+  Checked at 400px wide and under a centre square crop; the wordmark,
+  tagline and both supporting lines stay legible in each.
+- **Homepage `description` shortened** from 183 to 155 characters and
+  reordered. WhatsApp shows roughly 120, so the old one cut at "Written
+  by senpais, for ..." and lost the tagline entirely. The hook is now
+  front-loaded.
+- Note the per-page `og-image` plugin remains disabled, so every page
+  shares this one static card. That is fine while the homepage is what
+  gets shared, but it means this single file is the visual first
+  impression for every link anyone posts.
+
 ## [2026-09-10] — Maintainer illustration on the About page
 
 - Cutout illustration placed beside the self-introduction on

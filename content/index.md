@@ -1,6 +1,6 @@
 ---
 title: MyKouhai! Wiki
-description: The unofficial student-run wiki for incoming students at the International University of Japan. Written by senpais, for kouhais. Not affiliated with or endorsed by IUJ administration.
+description: "From your senpais, for you, our kouhais. The unofficial student-run guide to IUJ life: visas, banking, winter, SIMs, and everything nobody tells you."
 ---
 
 **The unofficial wiki for all things IUJ. From your senpais, for you, our kouhais.**
