@@ -1,5 +1,22 @@
 # Changelog
 
+## [2026-09-11] — My Schedule defaults to waking hours
+
+From a real phone screenshot: the personal grid rendered all 48 rows
+starting at 00:00, so most of a phone screen was empty night before
+anything useful appeared. The results grid already defaulted to 08:00
+to 22:00; the personal one was missed.
+
+- **My Schedule now renders 08:00 to 22:00**, 28 rows instead of 48,
+  matching the results grid.
+- **It widens to the full day automatically** whenever a marked block
+  falls outside that window, so the default can never hide a student's
+  own data. A "show all 24 hours" checkbox is there as well.
+- Removed a scroll hack that tried to open the view at 07:00. It
+  calculated its offset from a stale row height and landed near 04:00,
+  and the shorter range makes it unnecessary.
+- Removed the now-unused `ROWS` constant.
+
 ## [2026-09-11] — Rename to Timetable & Group Work Tool, fix a broken share link
 
 - Renamed from "Schedule & Group Time Tool" across the page, its title,

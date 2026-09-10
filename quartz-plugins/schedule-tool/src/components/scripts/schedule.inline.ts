@@ -5,7 +5,6 @@ import { buildMessage } from "../../lib/message";
 import { buildIcs } from "../../lib/ics";
 
 const ME = "me";
-const ROWS = (24 * 60) / SNAP_MINUTES; // 48
 const SESSION_KEY = "kw-schedule-codes";
 
 const state: { blocks: Block[]; name: string; term: string } = {
@@ -22,6 +21,7 @@ let viewStart = 8 * 60;
 let viewEnd = 22 * 60;
 /** Cells the organiser has tapped, keyed "day:minute". */
 const picked = new Set<string>();
+let showAllHours = false;
 let clearPending = false;
 let clearTimer: ReturnType<typeof setTimeout> | undefined;
 let dragging: { day: Day; from: number } | null = null;
@@ -63,8 +63,10 @@ function renderGrid(): void {
     grid.appendChild(h);
   }
 
-  for (let row = 0; row < ROWS; row++) {
-    const minutes = row * SNAP_MINUTES;
+  // Same waking-hours window as the results grid. Rendering all 48 rows meant
+  // scrolling through seven hours of night before reaching anything usable,
+  // which is most of the grid on a phone.
+  for (let minutes = gridStart(); minutes < gridEnd(); minutes += SNAP_MINUTES) {
     // every row is 30 minutes, so every row gets a label. Labelling only the
     // hours made the grid read as hourly, which it is not.
     const onTheHour = minutes % 60 === 0;
@@ -100,10 +102,24 @@ function renderGrid(): void {
     }
   }
 
-  // open the viewport around 07:00 without hiding the rest of the day
-  grid.scrollTop = keepScroll || (7 * 60) / SNAP_MINUTES * 15;
+  grid.scrollTop = keepScroll;
 
   syncClearButton();
+}
+
+/**
+ * The personal grid's window. Defaults to waking hours, but widens to the full
+ * day the moment a block sits outside it, so nothing a student marked can ever
+ * be hidden by the default.
+ */
+function gridStart(): number {
+  if (showAllHours || state.blocks.some((b) => b.start < 8 * 60)) return 0;
+  return 8 * 60;
+}
+
+function gridEnd(): number {
+  if (showAllHours || state.blocks.some((b) => b.end > 22 * 60)) return 1440;
+  return 22 * 60;
 }
 
 /** Nothing to clear means nothing to press, and a pending confirm is stale. */
@@ -470,6 +486,9 @@ function mount(): void {
       <div class="st-grid" id="st-grid" style="max-height:60vh"></div>
       <div class="st-actions">
         <button id="st-clearslots" class="st-danger" disabled>Clear slots</button>
+        <label class="st-hoursbox">
+          <input type="checkbox" id="st-mine-allhours"> show all 24 hours
+        </label>
       </div>
       <p class="st-note"><strong>Each row is 30 minutes.</strong> Tap a cell to mark yourself busy, tap it again to clear it. On a computer you can drag down a column to fill several at once. On a phone the grid scrolls sideways, so swipe across to reach the weekend.</p>
       <p class="st-note">Class times like 8:50 do not land on a 30-minute row, so round outward. Being blocked slightly early beats scheduling over a lecture.</p>
@@ -601,6 +620,12 @@ function mount(): void {
   });
 
   document.getElementById("st-min")?.addEventListener("change", renderResults);
+
+  const mineAll = document.getElementById("st-mine-allhours") as HTMLInputElement | null;
+  mineAll?.addEventListener("change", () => {
+    showAllHours = mineAll.checked;
+    renderGrid();
+  });
 
   // restore a previous collection so a stray refresh does not cost five codes
   const saved = readSession();
