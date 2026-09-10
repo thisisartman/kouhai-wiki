@@ -1,5 +1,21 @@
 # Changelog
 
+## [2026-09-11] — Rename to Timetable & Group Work Tool, fix a broken share link
+
+- Renamed from "Schedule & Group Time Tool" across the page, its title,
+  and every wikilink in six files.
+- **Fixed a broken URL in the page's own share block.** The line meant to
+  be pasted into a group chat pointed at `schedule-and-group-time-tool`
+  with single dashes, but Quartz renders ` & ` as `--and--`. That link was
+  a 404, on the one line specifically designed to be shared with four
+  other people. Confirmed against the build output this time rather than
+  written from memory.
+- Homepage line reworded to a plain signpost. The previous version
+  ("one thing here you can actually use rather than read") editorialised
+  at the expense of the other 117 articles and sat oddly under the
+  unofficial disclaimer.
+- The old URL now 404s. It had been live for about an hour, unannounced.
+
 ## [2026-09-11] — Make the schedule tool findable
 
 It shipped buried three levels down under Academics, in a list of eleven
@@ -166,7 +182,7 @@ PDF import (phase 5) remains unbuilt.
   arithmetic, the versioned code round trip, message date resolution and
   ICS output. The DOM layer has no automated coverage, which is a real
   gap rather than an oversight.
-- **New page** `Schedule & Group Time Tool.md` under Academics,
+- **New page** `Timetable & Group Work Tool.md` under Academics,
   documenting the group flow as a numbered protocol with a pasteable
   instruction for the group chat. Linked from `Study Groups & Peer
   Culture` and `Course Registration`.

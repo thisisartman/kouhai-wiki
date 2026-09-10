@@ -1,5 +1,5 @@
 ---
-title: Schedule & Group Time Tool
+title: Timetable & Group Work Tool
 section: 02_On-Campus/04_Academics
 tags: [academics, tools, collaboration, group-work]
 status: ready
@@ -31,7 +31,7 @@ paste are forgotten when you close the tab.
 Here is something you can paste into your group chat to get started:
 
 > Open this and mark when you're busy, then hit "Copy my code" and send me the
-> code: https://thisisartman.github.io/kouhai-wiki/02_on-campus/04_academics/schedule-and-group-time-tool
+> code: https://thisisartman.github.io/kouhai-wiki/02_on-campus/04_academics/timetable--and--group-work-tool
 
 ---
 
