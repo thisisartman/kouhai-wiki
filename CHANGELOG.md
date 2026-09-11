@@ -1,5 +1,27 @@
 # Changelog
 
+## [2026-09-11] — Country template made reusable
+
+The one-page country section is now the standing template, so it is
+scripted and documented rather than left as a shape to be inferred from
+existing files.
+
+- **`scripts/add-country.py <Country>...`** generates the page from the
+  same template the 19 live countries use. Idempotent: it skips a country
+  that already has an `index.md` rather than overwriting it. It does not
+  touch the list in `content/04_Country-Specific/index.md`, which is
+  ordered and annotated by hand.
+- **MAINTENANCE.md §17** carries the recipe, the conventions, and the
+  reasoning — including why the older three-page template was retired, so
+  anyone reinstating it has to read that first.
+- Recorded there too: no demonyms ("students from X"), how tags are formed,
+  and what it looks like for a country to graduate to properly titled
+  articles beside its landing page, as India has.
+- Added as §17 with a pointer from §5 rather than inserted next to the
+  related section. **MAINTENANCE.md section numbers are load-bearing**: §7
+  is cross-referenced by number from the comment in
+  `content/00_About Wiki/index.md`, and renumbering would break it silently.
+
 ## [2026-09-11] — Country sections for 19 countries
 
 Every country named in this morning's submission now has a folder and a
