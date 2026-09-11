@@ -45,7 +45,9 @@ Two options that get suggested for this window. The important difference between
 | Option | Plans (checked 2026-09-10) | What it asks for |
 | --- | --- | --- |
 | **[Mobal Japan eSIM](https://www.mobal.com/japan-esims/)** | Voice + data 5G from **¥1,650/month**, 1GB up to 200GB. Voice-only eSIM ¥4,950 up front then ¥1,430/month. Both give a real Japanese number (070/080/090). | **No Residence Card and no Japanese address.** Passport is enough for the ID check Japanese law requires. Takes overseas credit/debit cards and PayPal. |
-| **[GTN Mobile](https://www.gtn-mobile.com/s/data?language=en_US#sim_onlydata_en_US)** | 2GB **¥1,200**, 5GB **¥1,980**, 10GB **¥2,780**, 20GB **¥3,480**, on the Docomo/SoftBank network. | **A Residence Card.** Takes overseas credit cards, which most Japanese carriers refuse. Built for foreign residents, multilingual support. |
+| **[GTN Mobile](https://www.gtn-mobile.com/s/data?language=en_US#sim_onlydata_en_US)** | 2GB **¥1,200**, 5GB **¥1,980**, 10GB **¥2,780**, 20GB **¥3,480**, on the Docomo/SoftBank network. | **A Residence Card.** Takes overseas credit cards, which most Japanese carriers refuse, but see the JCB warning below. Built for foreign residents, multilingual support. They can post a physical SIM to you. |
+
+> ⚠️ **GTN specifics, from a student who has used it.** JCB cards do not work properly with GTN, so pay with a Visa card. GTN can post you a **physical SIM** rather than only an eSIM. And a GTN number **cannot be used to register for Mercari**, which matters if you plan to buy second-hand (see [[Useful Apps in Japan — Maps, Transit, Translation|Useful Apps]]).
 
 > 💡 You receive your Residence Card at the airport, so GTN's card requirement is usually satisfied on day one. What you will not have for a couple of weeks is a *registered address*, and that is what blocks Povo. Whether GTN also wants the address registered is not stated on the pages checked here, so ask them before you count on it. Mobal is the option that definitely works from the moment you land.
 

@@ -8,6 +8,13 @@ last_updated: 2026-07-23
 
 A short list of apps that actually get used. Japan has its own app ecosystem, and some of these are Japan-specific and make daily life significantly easier.
 
+> ⚠️ **Many Japanese apps are region locked**, so they simply will not appear in your home country's store. Per a senior submission, the fix is to give your phone a Japanese store account:
+>
+> - **Android**: sign in to Google Play with your IUJ account
+> - **iPhone**: create a new Apple ID with the region set to Japan
+>
+> Switch to that account when you need a Japanese app. If something in this article seems not to exist, this is almost always why.
+
 ---
 
 ## Essential (Download Before Arrival)
@@ -21,6 +28,8 @@ Works well in Japan, better than in some countries. Transit directions including
 The camera translation mode (point camera at text) is used constantly in Japan. Japanese menus, signs, forms, product labels: all translatable instantly.
 
 **Download Japanese offline language pack** before leaving home.
+
+> 💡 **On Android, Circle to Search is the fastest way to translate what is on your screen**, rather than switching to the Translate app. Long-press the home button or navigation bar, circle the text, and it translates in place. Two things that are not obvious: you can keep scrolling while it is active and it carries on translating, and tapping the **G** moves the pill out of the way when it covers something.
 
 ### Navitime (ナビタイム) / HyperDia
 **For train and transit planning.** HyperDia is the classic, accurate JR train finder. Navitime is more modern with a better interface.
