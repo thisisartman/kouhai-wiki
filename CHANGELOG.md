@@ -1,5 +1,27 @@
 # Changelog
 
+## [2026-09-11] — Country sections for 19 countries
+
+Every country named in this morning's submission now has a folder and a
+page, and the section index lists all of them.
+
+- **17 new country folders**: Bangladesh, Bhutan, Cambodia, Ghana,
+  Indonesia, Kenya, Laos, Myanmar, Nepal, Nigeria, Pakistan, Philippines,
+  Senegal, Thailand, Timor-Leste, Uzbekistan, Vietnam. Kyrgyzstan and India
+  gained landing pages they did not have.
+- **The existing three-page template was not reused.** All six pages it has
+  ever produced, across India and Kyrgyzstan, are still `draft: true` and
+  invisible. Copying it seventeen more times would have produced 51 more
+  invisible files. Each country instead gets one published page, written as
+  a request rather than as an article that pretends to have content.
+- Published rather than drafted on purpose. A draft recruits nobody, and
+  recruiting the student who can write the page is the whole point.
+- Pages avoid demonyms throughout and say "students from X": several in
+  this list are contested or ambiguous, and getting one wrong in a welcome
+  wiki costs more than the extra word.
+- India's landing page links its two real articles and lists what is still
+  open, rather than repeating the generic prompts.
+
 ## [2026-09-11] — Four unread suggestions logged, three actioned
 
 Four submissions sat unread in the inbox and unlogged, the newest from
