@@ -219,6 +219,10 @@ root. Decide which bucket it belongs in first (see
    itself is a small function (`sortFn`) under the `explorer` plugin's settings in
    `quartz.config.yaml`, if this ever needs revisiting.
 
+> **Adding a country?** Country sections under `04_Country-Specific/` do
+> not follow this recipe — they have their own one-page template and a
+> script. See §17.
+
 ---
 
 ## 6. Rearranging, Renaming, and Moving Pages
@@ -940,3 +944,62 @@ not gitignored — always rebuild after editing src/).
    logged.
 4. Decide per §7, act if it's a clear edit, then append a row to the CSV —
    don't leave it untracked even if the decision is "skip."
+
+---
+
+## 17. Adding a Country Section
+
+Country sections live in `content/04_Country-Specific/<Country>/` and get
+**one page**, `index.md`, from a fixed template.
+
+```bash
+# from the repo root
+python3 scripts/add-country.py Mongolia
+python3 scripts/add-country.py Mongolia Malaysia Ethiopia   # several at once
+```
+
+The script is idempotent — it skips any country that already has an
+`index.md` rather than overwriting it — so re-running it over the whole
+list is safe.
+
+It does **not** update the country list in
+`content/04_Country-Specific/index.md`. That list is ordered and annotated
+by hand (India's entry links its two real articles), so add the new country
+there yourself, alphabetically.
+
+### Why one page, not three
+
+An older template gave each country three pages: Festivals &
+Celebrations, Community & Events at IUJ, and Cultural Information &
+Etiquette. It produced six pages across India and Kyrgyzstan and **all six
+are still `draft: true`** and invisible on the live site, years after being
+created. Nobody ever filled one in.
+
+The reason is worth keeping in mind before anyone reinstates it: a draft
+recruits nobody. These pages cannot be researched — no official source
+knows which spice you should have packed — so the only way one ever gets
+written is if a student from that country reads it and recognises that they
+are the person who can fix it. A page they cannot see cannot do that.
+
+So the current template is a single **published** page written openly as a
+request rather than as an article pretending to have content. It says
+nobody has written it yet, then asks specific questions.
+
+The six original drafts still exist under `India/` and `Kyrgyzstan/`. They
+now duplicate the prompts on those countries' landing pages and are
+candidates for deletion, kept only pending a decision.
+
+### Conventions inside the template
+
+- **No demonyms.** The template says "students from X" throughout. Several
+  demonyms in this list are contested or ambiguous (Myanmar and Timor-Leste
+  especially), and getting one wrong in a wiki whose whole purpose is
+  welcoming people costs more than the extra word.
+- **Tags** are the country lowercased with hyphens and spaces stripped, so
+  `Timor-Leste` tags as `timorleste`.
+- **`status: needs-work`** and the `needs-input` tag, so these show up in
+  the same sweeps as other incomplete articles.
+- A country whose page acquires real content should graduate: give it
+  properly titled articles alongside the landing page, the way `India/`
+  has `Indian Food Sources` and `India — Pre-Departure Checklist`, and
+  rewrite its `index.md` to link them (India's is the model).
