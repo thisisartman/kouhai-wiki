@@ -34,7 +34,7 @@ spirit.
 
 Everyone listed here helped make this wiki better by submitting a suggestion through the site.
 
-- **Koshoi** (6): MBA, Class of 2027, Kyrgyzstan
+- **Koshoi** (7): MBA, Class of 2027, Kyrgyzstan
 - **Namra Mehta** (5): MBA, Class of 2027, India
 - **Adithya** (3): MBA, Class of 2026, India
 - **Sree** (1): DXP, Class of 2026, India

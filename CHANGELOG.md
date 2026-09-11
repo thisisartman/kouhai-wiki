@@ -1,5 +1,28 @@
 # Changelog
 
+## [2026-09-11] — Four unread suggestions logged, three actioned
+
+Four submissions sat unread in the inbox and unlogged, the newest from
+this morning.
+
+- **GTN correction, from a student who has actually used it.** JCB cards
+  fail, use Visa; GTN can post a physical SIM; a GTN number cannot
+  register for Mercari. This corrects the GTN row written on 2026-09-10
+  from the provider's own pages, which mentioned none of it. Vendor pages
+  do not list their own failure modes.
+- **Japanese apps are region locked.** Added as a warning at the top of
+  Useful Apps rather than under one app, since it gates every app in the
+  article.
+- **Circle to Search** on Android as the fastest screen translation, with
+  both non-obvious details: scrolling while active keeps translating, and
+  tapping the G moves the pill.
+- **18 new country pages logged as Backlog.** Recorded in the log that
+  this is a recruitment task rather than a writing one, and that six
+  near-empty country stubs were already unpublished as `draft: true` in
+  August, which is the outcome to avoid repeating.
+- Koshoi's contributor count updated 6 to 7, using the regeneration
+  command added yesterday.
+
 ## [2026-09-11] — Stop the grid trapping the page scroll
 
 Both grids carried `max-height: 60vh`, which made each one a nested
