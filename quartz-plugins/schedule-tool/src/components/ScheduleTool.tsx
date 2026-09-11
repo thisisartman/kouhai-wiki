@@ -26,7 +26,14 @@ const css = `
 .st-grid { display: grid; grid-template-columns: 3.9rem repeat(7, minmax(74px, 1fr));
   gap: 1px; min-width: max-content;
   background: var(--lightgray); border: 1px solid var(--lightgray);
-  overflow: auto; user-select: none; touch-action: pan-x pan-y; }
+  /* No height cap, so the grid is exactly as tall as its rows and never
+     becomes a nested vertical scrollbox. That was trapping the scroll: you
+     would reach the bottom of the grid and the page would not take over.
+     overflow-x still gives sideways scrolling for the seven columns, and
+     overscroll-behavior-x keeps a horizontal swipe from triggering
+     browser back navigation. */
+  overflow-x: auto; overscroll-behavior-x: contain;
+  user-select: none; touch-action: pan-x pan-y; }
 .st-cell { background: var(--light); min-height: 22px; cursor: pointer; }
 .st-cell.st-busy { background: var(--secondary); }
 /* a heavier line on the hour so the half-hour rows read as subdivisions */

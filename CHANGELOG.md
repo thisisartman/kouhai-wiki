@@ -1,5 +1,24 @@
 # Changelog
 
+## [2026-09-11] — Stop the grid trapping the page scroll
+
+Both grids carried `max-height: 60vh`, which made each one a nested
+vertical scrollbox. Scrolling over the grid moved the grid, and on
+reaching its bottom the page did not take over, so the two scrolled
+independently.
+
+- **Removed the height cap.** The grid is now exactly as tall as its rows,
+  so there is nothing to scroll inside it and the page owns all vertical
+  scrolling. `overflow-x` still provides the sideways scroll for the seven
+  day columns.
+- Added `overscroll-behavior-x: contain`, so a horizontal swipe on the
+  grid cannot trigger the browser's back-navigation gesture. Separate
+  problem, but one that only appears once sideways scrolling is actually
+  used on a phone.
+- Note the day-name header is `position: sticky`. It used to stick within
+  the grid's own scrollbox and now sticks to the viewport, keeping Mon to
+  Sun visible while the page scrolls.
+
 ## [2026-09-11] — Contributor list rebuilt from the suggestions log
 
 The list had drifted from the log it is supposed to reflect.
