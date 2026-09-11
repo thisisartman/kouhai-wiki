@@ -319,7 +319,7 @@ function renderResults(): void {
         <input type="checkbox" id="st-allhours"> show all 24 hours
       </label>
     </div>
-    <div class="st-grid st-resultgrid" id="st-rgrid" style="max-height:60vh"></div>
+    <div class="st-grid st-resultgrid" id="st-rgrid"></div>
     <p class="st-note">Tap the half hours that suit the group. Runs of tapped cells become one option. Only stretches of at least ${min} minutes where everyone is free are outlined.</p>
     <div id="st-picked"></div>
     <div class="st-actions">
@@ -483,7 +483,7 @@ function mount(): void {
     </div>
 
     <section class="st-panel" id="st-panel-mine" role="tabpanel">
-      <div class="st-grid" id="st-grid" style="max-height:60vh"></div>
+      <div class="st-grid" id="st-grid"></div>
       <div class="st-actions">
         <button id="st-clearslots" class="st-danger" disabled>Clear slots</button>
         <label class="st-hoursbox">
