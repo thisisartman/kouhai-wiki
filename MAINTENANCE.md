@@ -879,6 +879,67 @@ that exist now — don't recreate copies elsewhere.
   - `Available Software & Computer Rooms.md` — **low priority.** Source PDFs
     have no room photos, only a software-availability table already
     transcribed into the article as text.
+- **Google Maps route planning for a set date (not started, logged
+  2026-09-13).** A how-to for planning a trip ahead of time, not on the day:
+  setting a future departure or arrival time in transit directions, saving
+  the route, and downloading offline maps before leaving. Place it with the
+  transport articles, next to `Bus & Local Routes.md`. Screenshots come from
+  a real Android phone (Poco M2 Pro) over ADB, for example
+  `adb exec-out screencap -p > shot.png`, so they show the real UI. Check
+  menu labels on the phone at capture time. Google Maps renames them, so
+  don't write them from memory.
+- **Android and tutorial screenshot pass (not started, logged 2026-09-13).**
+  The same ADB setup can capture, in one sitting, every Android step the wiki
+  currently describes only in words. Known candidates: Circle to Search
+  translation and the Google Play IUJ-account sign-in (both in
+  `Useful Apps in Japan — Maps, Transit, Translation.md`), Suica in Google
+  Wallet (`IC Cards — Suica & Pasmo Setup.md`), and PayPay setup. Build the
+  full list by searching articles for Android steps before the session. The
+  Windows/Mac screenshots listed above are a separate batch, sourced from IT
+  PDFs rather than a phone.
+- **External hosting for images and video (decision pending, logged
+  2026-09-13).** Proposed as a stopgap: walkthrough videos as YouTube embeds,
+  screenshots on Imgur or a similar image host, rather than committing media
+  to the repo. This departs from the per-article `images/` folder convention
+  described above, so decide it before the screenshot pass. Check first:
+  (1) whether Quartz renders a YouTube link as an embed with the current
+  markdown plugins, and (2) the image host's retention and hotlinking
+  policy. If a host deletes or blocks an image, the article breaks and
+  nothing reports it. For scale, `content/` was 4MB and the built site 15MB
+  on 2026-09-13, so repo size is not a problem yet. Related to the hosting
+  item below.
+- **Hosting cost research (not started, logged 2026-09-13).** The site runs
+  on GitHub Pages for free. Research the cheapest paid option, how much
+  storage it includes, and what it would allow that static Pages cannot,
+  such as storing submissions or media on a server. The answer also feeds
+  the parked platform-migration question (Wiki.js, BookStack, DokuWiki), all
+  of which need a server and therefore a hosting bill. Use live prices, not
+  remembered ones.
+- **Bus timetable tool (not started, logged 2026-09-13).** When opened, the
+  page shows the next campus bus and the departures after it, based on the
+  current JST time and the latest FT-OGA timetable. Tapping a departure
+  lists the time it reaches each stop on the route. A search filters by time
+  and by stop. This was first named as a later phase during the 2026-09-10
+  schedule-tool brainstorm. Requirements already visible in
+  `Bus & Local Routes.md`:
+  - Timetables change often, and FT-OGA emails have contradicted their own
+    attached timetables. Keep the timetable in a single data file, so an
+    update is a data edit rather than a code change.
+  - The page must show which timetable date it is using.
+  - Weekday and weekend service differ.
+  - Some stops are served only by some runs, and Kodomo-en is request-only.
+  - One-off days such as graduation replace the regular schedule.
+
+  Run brainstorming before building. The component can follow the schedule
+  tool's pattern: a Quartz component gated on frontmatter, with an inline
+  script.
+- **Timetable PDF import (specified, not built, logged 2026-09-13).** This
+  is the "PDF import (phase 2)" section of
+  `docs/superpowers/specs/2026-09-10-schedule-tool-design.md`. The parsing
+  approach was validated on 2026-09-10 against real Registration Forms (see
+  the spec's "Parsing approach, validated 2026-09-10"). Sample PDFs stay out
+  of the repo; work from `~/Downloads/Taildrop/`. Next step is the
+  implementation plan, then the build.
 
 ---
 
