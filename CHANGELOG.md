@@ -1,5 +1,25 @@
 # Changelog
 
+## [2026-09-13] — Six items added to the backlog
+
+Six deferred items are now in MAINTENANCE.md §15. None have been started.
+
+- A Google Maps how-to for planning routes ahead of a set date, with
+  screenshots taken from a real Android phone over ADB.
+- A single pass to capture every Android and tutorial screenshot the wiki
+  currently describes only in words.
+- A pending decision on hosting images and video externally (YouTube,
+  Imgur or similar) for now. It departs from the in-repo `images/`
+  convention, so decide it before the screenshot pass.
+- Hosting cost research: the cheapest paid option, how much storage it
+  includes, and what it would allow beyond GitHub Pages.
+- A bus timetable tool that shows the next departure and the ones after
+  it, lists stop-by-stop times when a departure is tapped, and filters by
+  time and stop. Timetable data goes in one file because FT-OGA changes
+  the timetable often.
+- Finishing the timetable PDF import, which is specified and has a
+  validated parsing approach but has not been built.
+
 ## [2026-09-11] — Country template made reusable
 
 The one-page country section is now the standing template, so it is
