@@ -1,5 +1,37 @@
 # Changelog
 
+## [2026-09-14] — Real analytics, and a dangling tracker removed
+
+Requested: visit counts for the wiki. What shipped is smaller than it
+sounds, because Quartz already had the mechanism built in.
+
+- **Found first: the site was already sending analytics to a third party,
+  silently, with nowhere for the data to go.** `quartz.config.yaml` has
+  carried `analytics: provider: plausible` since the very first commit —
+  a leftover from Quartz's own template scaffold that nobody set up or
+  even noticed. Confirmed live, not just in config: every page load
+  fetched `plausible.io/js/script.manual.js` and reported the page URL,
+  with no Plausible account ever registered to receive it.
+- **Replaced with GoatCounter** (`websiteId: mykouhai-wiki`), one line of
+  config, no plugin code. Checked before choosing it: GoatCounter's own
+  site states only "free for reasonable public usage... running a
+  personal website is fine, sending millions of pageviews/day isn't" —
+  deliberately no published hard cap, unlike the secondhand figures
+  (6,000/mo, 100k/mo) that third-party review sites quote and disagree
+  with each other on. No cookies, minimal data. Plausible Cloud was the
+  alternative, ruled out on cost ($9/mo+, no permanent free tier).
+- **Dashboard is private for now** (`mykouhai-wiki.goatcounter.com`,
+  login required). Making it public is a one-setting change, left as a
+  deliberate future decision rather than defaulted into either way.
+- Full writeup, including how to verify an analytics change actually
+  reached the live site (grepping the wrong file finds nothing — see the
+  hashed-script gotcha), in MAINTENANCE.md §18.
+
+Verified live after deploy, not just in the build: fetched the real
+hashed script files from the deployed site and confirmed
+`mykouhai-wiki.goatcounter.com/count` fires and zero files reference
+`plausible` anywhere in the output.
+
 ## [2026-09-13] — Six items added to the backlog
 
 Six deferred items are now in MAINTENANCE.md §15. None have been started.

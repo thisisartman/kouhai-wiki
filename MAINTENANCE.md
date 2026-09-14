@@ -477,7 +477,7 @@ To point it at a new address:
 
 | File | Purpose |
 |---|---|
-| `quartz.config.yaml` | Site title, plugins, theme colors, layout, explorer sort order |
+| `quartz.config.yaml` | Site title, plugins, theme colors, layout, explorer sort order, analytics provider (§18) |
 | `quartz/styles/custom.scss` | All manual style overrides (sidebar icons, link highlight fix, content-meta visibility, etc.) — read the comments, each block explains *why* |
 | `content/` | The actual live wiki content — source of truth |
 | `content/<NN_Section>/index.md` | Folder note giving a section its clean title + intro |
@@ -1064,3 +1064,48 @@ candidates for deletion, kept only pending a decision.
   properly titled articles alongside the landing page, the way `India/`
   has `Indian Food Sources` and `India — Pre-Departure Checklist`, and
   rewrite its `index.md` to link them (India's is the model).
+
+---
+
+## 18. Analytics
+
+The site uses **GoatCounter** (`analytics.provider: goatcounter` in
+`quartz.config.yaml`, `websiteId: mykouhai-wiki`), wired through Quartz's
+own built-in analytics support — no custom plugin. Quartz's
+`componentResources.ts` injects the tracking script from this config key
+for six providers (`google`, `plausible`, `umami`, `goatcounter`,
+`posthog`, `tinylytics`); switching providers later is a one-line config
+change, not a code change.
+
+**Dashboard:** `mykouhai-wiki.goatcounter.com` — private by default
+(login required, whoever created the account signs in). It can be made
+public (a "Site stats" link visible to any reader, no login) from
+GoatCounter's own settings; not done as of 2026-09-14, left for a
+deliberate decision rather than defaulted into.
+
+**Why GoatCounter:** free for reasonable non-commercial use with no hard
+pageview cap stated (their own site deliberately doesn't publish one — see
+CHANGELOG for the exact wording checked before choosing it), no cookies,
+minimal data collected. Fits a non-commercial student wiki, and fits the
+site's existing privacy-conscious tone (the unofficial notice, the
+schedule tool's no-data-storage claim).
+
+**What was here before:** `analytics.provider: plausible` had been in
+`quartz.config.yaml` since the very first commit — a leftover from
+Quartz's own template scaffold, never configured or even noticed. It was
+live: every visitor's browser loaded `plausible.io/js/script.manual.js`
+and reported the page URL, silently, with no Plausible account ever
+created to receive it. Caught 2026-09-14 while scoping this feature, by
+fetching the live deployed scripts directly rather than trusting the
+config or a `grep` of the wrong file (see the note on hashed script files
+below). Nobody was harmed — the events had nowhere to land — but it was a
+real, undisclosed third-party request firing on every page load, on a
+site that says elsewhere it's careful about exactly that.
+
+**Verifying an analytics change on the live site, not just the build:**
+Quartz splits `afterDOMLoaded` scripts into separate hashed files under
+`static/scripts/script-N-<hash>.js`, referenced only via `import()` calls
+inside `postscript.js` (itself hashed). Grepping `postscript.js` or
+`index.css` directly will find nothing — fetch the real hashed filename
+from a page's HTML first, then fetch and grep *that* file. This is the
+same gotcha noted in §17's sibling commit about verifying component CSS.
