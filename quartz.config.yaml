@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: goatcounter
+    websiteId: mykouhai-wiki
   locale: en-US
   baseUrl: thisisartman.github.io/kouhai-wiki
   ignorePatterns:
