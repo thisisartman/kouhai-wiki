@@ -15,7 +15,7 @@ The caveat: Niigata winter makes cycling dangerous and impractical for roughly 3
 ## Buying a Bicycle
 
 ### Recycle Shops (Recommended)
-The best value. Off House, Hard Off, and similar recycle shops in Nagaoka regularly have decent used bicycles for ¥3,000–8,000.
+The best value. The nearest are Hard Off / Off House inside AEON Muikamachi (Saturday shopping bus) and Off House 六日町インター店; Nagaoka has more. They regularly have decent used bicycles for ¥3,000–8,000.
 
 **What to check before buying:**
 - Brakes: squeeze both levers hard; the wheel should lock immediately
@@ -106,7 +106,7 @@ Don't abandon your bike: it creates problems for the next residents and technica
 - **Pump up tyres** regularly: petrol stations have free air pumps
 - **Oil the chain** every few months or if it starts squeaking (¥300 chain oil from Beisia or Daiso works fine)
 - **Brake pads** wear over time: if braking becomes weak, a bike shop can replace them cheaply (¥500–1,000)
-- Nearest bike repair: ask seniors for the closest shop in Urasa or Nagaoka
+- Nearest bike repair: the local shops near IUJ listed above (Hirasei, Home Center Urasa, Shiokawa Jitensha) are the first place to ask; Nagaoka otherwise
 
 ---
 

@@ -40,7 +40,7 @@ The general pattern at small international campuses:
 |---|---|
 | Weekly grocery run (Beisia) | Most common; usually informal, regular groups |
 | Nagaoka day trip | Shopping, Aeon, appointments; coordinate in advance |
-| Ski resort (Yuzawa, GALA, Naeba) | Popular group trips; advance planning, split car rental or catch a ride |
+| Ski resort (Hakkaisanroku, Muica, Muikamachi Hakkaisan; farther: Yuzawa, GALA, Naeba) | Popular group trips; advance planning, split car rental or catch a ride |
 | Hospital / clinic | Important to know who can help in an emergency |
 | Airport (Niigata) | Long distance; fuel contribution should reflect this |
 | Tokyo / overnight trips | Rare but some students share long drives |

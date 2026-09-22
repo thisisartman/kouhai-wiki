@@ -41,9 +41,9 @@ The students who thrive in Winter are the ones who prepare for both the credits 
 - Snow-appropriate footwear: fashion boots will betray you
 
 **Where to get it:**
-- Recycle shops (Hard Off, Book Off) in Nagaoka often have good winter gear cheaply
-- Workman (ワークマン) in Nagaoka: excellent value waterproof gear
-- Uniqlo Heattech: thermal layers; pick up in Fall before winter hits
+- Recycle shops: Hard Off, Off House and Book Off inside AEON Muikamachi (Saturday shopping bus) often have good winter gear cheaply; Nagaoka has more branches
+- Workman (ワークマン) 魚沼店 in Shiozawa, Minami-Uonuma: excellent value waterproof gear. Shimamura 塩沢店 is also in Shiozawa for cheap basics
+- Uniqlo Heattech: thermal layers; the nearest Uniqlo is in Nagaoka (Across Plaza or inside Apita Riverside Senshu), so pick up in Fall before winter hits
 - See [[100 Yen & Recycle Shops — Budget Furnishing]] and [[Local Grocery Options]]
 
 **On campus in winter:**
@@ -67,7 +67,7 @@ This deserves its own section because it affects more people than admit it.
 
 ## What Winter Gets Right
 
-- **Skiing and snowboarding**: Yuzawa, GALA Yuzawa, and Naeba are 30–60 min from campus. Among the best skiing in Japan. Even beginners should go at least once. See [[Seasonal Activities — Skiing, Hanami, Matsuri]]
+- **Skiing and snowboarding**: Hakkaisanroku is about 10 min from Urasa; Muica and Muikamachi Hakkaisan are in Muikamachi; Yuzawa, GALA Yuzawa, and Naeba are 40–60 min from campus. Among the best skiing in Japan. Even beginners should go at least once. See [[Seasonal Activities — Skiing, Hanami, Matsuri]]
 - **Onsen**: hot spring bathing culture is peak in winter. There are good options near IUJ.
 - **Nagaoka Snow Festival and local winter events**: worth attending for the full Niigata experience
 - **Focused work time**: fewer distractions, longer evenings, good conditions for deep reading and writing

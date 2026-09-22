@@ -12,41 +12,85 @@ IUJ's location in snow country is a genuine asset for seasonal activities. These
 
 ## Winter: Skiing & Snowboarding
 
-Niigata is one of Japan's best ski regions. Multiple world-class resorts are within 20-60 minutes of IUJ.
+Niigata is one of Japan's best ski regions, and IUJ sits in the middle of it: the nearest resort is about 10 minutes away, and more than ten are within an hour. Resorts are listed nearest first. Lift prices are 1-day adult tickets from the 2025-26 season; check each resort's site for the current year. Drive times are rough estimates, except Hakkaisanroku's, which comes from the resort.
 
-### Key Resorts
+### Near Urasa
+
+**Hakkaisanroku (八海山麓スキー場)**
+- ~10 min by car from Urasa Station, on the Yamato side of Minamiuonuma. The closest resort to IUJ, and the GSO Ski Day venue in 2026
+- No bus or shuttle listed on its access page, so taxi, car or carpool only
+- Lift ticket: ¥3,700, the cheapest nearby
+
+### Muikamachi
+
+**Muica Snow Resort (ムイカスノーリゾート)**
+- ~20 min by car
+- Without a car: free shuttle from Muikamachi Station west exit, ~10 min (weekday rides may need booking)
+- Lift ticket: ¥5,600
+
+**Muikamachi Hakkaisan (六日町八海山)**
+- ~25 min by car, on the east side of Muikamachi
+- Without a car: route bus from Muikamachi Station, ~30 min
+- Lift ticket: ~¥6,000 (from a ski listings site, not the resort's own page)
+
+### Shiozawa & Ishiuchi (still Minamiuonuma)
+
+**Chateau Shiozawa (シャトー塩沢)**
+- ~30 min by car; without a car, Shiozawa Station then a taxi
+- Lift ticket: ¥4,500
+
+**Joetsu Kokusai (上越国際スキー場)**
+- ~30-35 min by car; the resort's free shuttle from Echigo-Yuzawa is for hotel guests
+- Lift ticket: ¥5,500
+
+**Ishiuchi Maruyama (石打丸山)**
+- ~30 min by car; free shuttle from Echigo-Yuzawa Station, ~10-15 min
+- Lift ticket: ¥7,900
+
+**Maiko Snow Resort (舞子スノーリゾート)**
+- ~30 min by car; free shuttle from Echigo-Yuzawa Station, ~20 min
+- Lift ticket: ¥7,000
+
+### Yuzawa (further out)
+
+From Urasa, take the local line to Echigo-Yuzawa (~32 min) or the Shinkansen when one stops at Urasa (few do). All four resorts below are reached from Echigo-Yuzawa Station.
 
 **GALA Yuzawa (ガーラ湯沢)**
-- ~20 min from Urasa by Shinkansen (direct from Tokyo too)
+- ~25-40 min door to gondola from Urasa, depending on connections. The direct Shinkansen to GALA Yuzawa Station runs from Tokyo; from Urasa you change at Echigo-Yuzawa to the free shuttle (~6 min) or the winter branch train
 - Excellent snow quality, well-maintained runs, beginner to intermediate friendly
-- The Shinkansen stops directly at the resort's gondola, so there are no transfers
 - English-friendly; popular with international visitors
-
-**Naeba (苗場スキー場)**
-- ~40 min by car from IUJ
-- One of Japan's largest resorts; long runs, multiple peaks
-- Famous for the Fuji Rock Festival site in summer, and also home of a **2020 Alpine Ski World Championship** event
-- Good for intermediate and advanced skiers
+- Lift ticket: ¥7,300 (¥6,800 online)
 
 **Yuzawa Kogen (湯沢高原)**
-- In Yuzawa town (~20 min); multiple smaller resorts
-- More local feel; some are cheaper than GALA
+- A single ropeway resort, 8-10 min walk from Echigo-Yuzawa Station
+- Lift ticket: ¥6,900 at the window (¥5,000-6,400 online)
 
 **Kagura (かぐらスキー場)**
+- Bus from Echigo-Yuzawa (~20 min, ¥400), then the ropeway; ~55 min by car from IUJ
 - Famous for late-season skiing: runs sometimes open until May
 - Varied terrain; less crowded than GALA
+- Lift ticket: ~¥7,200-7,500
+
+**Naeba (苗場スキー場)**
+- Bus from Echigo-Yuzawa (~45-50 min, ¥700); roughly an hour by car from IUJ
+- One of Japan's largest resorts; long runs, multiple peaks
+- Famous for the Fuji Rock Festival site in summer, and has hosted **FIS Alpine Ski World Cup** races, most recently in February 2020
+- Good for intermediate and advanced skiers
+- Lift ticket: ¥7,800
+
+> 💡 Most of the Minamiuonuma resorts above take the city's ski vouchers (see below), which can make the lift ticket close to free.
 
 ### Gear
 
 You don't need to buy gear: all resorts have rental shops for boards, skis, boots, and helmets. Daily rental: ~¥3,000-5,000 for a full set.
 
-If you plan to ski frequently, buying second-hand at Hard Off recycle shops saves money. Full ski sets (board/skis + boots) often available for ¥5,000-15,000.
+If you plan to ski frequently, buying second-hand at Hard Off recycle shops saves money (the nearest is inside AEON Muikamachi). Full ski sets (board/skis + boots) often available for ¥5,000-15,000.
 
 ### Cost of a Ski Day
 
 | Item | Approx. Cost |
 |---|---|
-| Lift ticket (1 day) | ¥5,000-7,000 |
+| Lift ticket (1 day) | ¥3,700-7,900 (cheapest near Urasa, dearest in Yuzawa) |
 | Gear rental | ¥3,000-5,000 |
 | Food on the mountain | ¥1,000-2,000 |
 | Transport (if by car, split) | ¥500-1,000/person |
@@ -77,11 +121,14 @@ Because IUJ students are registered residents of Minamiuonuma City, you qualify 
 
 Hanami is the Japanese tradition of gathering under cherry trees as they bloom. It's not hyperbole: it's one of the most beautiful things Japan does, and experiencing it in a smaller town without Tokyo crowds is genuinely better.
 
-**Where to go:**
-- IUJ campus: cherry trees on-site
-- Riverside parks in Nagaoka: long avenues of sakura along the Shinano River
-- Hakusan Park, Niigata City: excellent for a day trip during peak bloom
-- Muikamachi area: local spots worth exploring
+**Where to go (nearest first):**
+- **IUJ campus:** the sakura lane on-site, lit up at night in mid-April
+- **Yairo-no-Mori Park (八色の森公園), Urasa:** ~100 trees with mountain views, next to the Ikeda Memorial Museum
+- **Osaki Dam Park (大崎ダム公園), Urasa area:** ~200 trees
+- **Zenibuchi Park (銭淵公園), Muikamachi:** 100+ trees, a cherry-viewing festival and night illumination (from 11 April in 2026)
+- **Koide Park (小出公園), Koide:** ~120 trees, 10 min walk from Koide Station. The Uono River embankment nearby (魚野川桜づつみ) has ~280 trees along 2 km
+- **Riverside parks in Nagaoka:** long avenues of sakura along the Shinano River
+- **Hakusan Park, Niigata City:** excellent for a day trip during peak bloom
 
 **What to bring:** Picnic mat, food and drinks, warm layers (Niigata spring can be cold). Japanese tradition is to eat, drink, and appreciate the blossoms. Bring the former if you want the latter.
 
@@ -119,8 +166,8 @@ Autumn foliage (koyo) in the Japanese Alps and surrounding mountains is spectacu
 
 **Good spots:**
 - Mountain hiking trails near Minami-Uonuma (Kintoki Yama area)
-- Niigata City parks
 - Yuzawa area: the combination of mountain colour and onsen is excellent
+- Niigata City parks
 
 ---
 

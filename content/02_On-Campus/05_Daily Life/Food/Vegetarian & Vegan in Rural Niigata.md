@@ -43,7 +43,7 @@ Rural Niigata has limited vegetarian-aware restaurants. Strategies:
 **Safest bets:**
 - **Ramen shops**: ask for vegetable broth (野菜スープ, *yasai sūpu*) or salt ramen without meat; some shops accommodate
 - **Soba and udon shops**: order zaru soba (cold soba) or vegetable tempura udon; ask about the broth
-- **Indian and Chinese restaurants**: if you can find them in Nagaoka, usually reliable for vegetarian options
+- **Indian and Chinese restaurants**: usually reliable for vegetarian options. The nearest Indian is Suress (インド・ネパールダイニング スレス), an Indian-Nepali restaurant in the Muikamachi area; Nagaoka has Nishan (ニサン) at Across Plaza. See [[Indian Food Sources]]
 - **Italian/Western restaurants**: generally more vegetarian-aware
 - **Conveyor belt sushi (回転寿司)**: egg (たまご), cucumber (かっぱ), avocado, pickled plum options are usually available
 

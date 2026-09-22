@@ -44,7 +44,7 @@ Effective as of the June 8, 2026 timetable (still current as of the July 13 atta
 
 ## Weekend Shopping Buses
 
-Separate weekend service to AEON (Saturdays) and Gyomu Super, near Koide (Sundays), in addition to a separate, more frequent regular bus to Urasa Station that also runs both weekend days.
+Separate weekend service to AEON Muikamachi (イオン六日町店, Saturdays) and Gyomu Super, near Koide (Sundays), in addition to a separate, more frequent regular bus to Urasa Station that also runs both weekend days.
 
 - **Saturday AEON bus:** 4 fixed runs (not "once or twice depending on demand"); 1st bus priority goes to off-campus and SD4 residents.
 - **Sunday Gyomu Super bus:** 6 fixed runs, with seating priority assigned by residency, not by which run you catch: **1st run**: off-campus families; **3rd, 5th**: off-campus & SD4 residents; **2nd, 4th, 6th**: on-campus residents. Earlier runs aren't simply "more capacity": they're reserved for specific resident groups.

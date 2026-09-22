@@ -18,9 +18,10 @@ The immediate area around IUJ is quiet, but not without interest.
 - Small town; the local convenience of a station town
 - Bishamondo Temple (毘沙門堂): a historic temple complex adjacent to Urasa Station with impressive stone stairs and local character. Also the site of the annual Naked Man Festival (裸押合大祭) in early March. See [[Seasonal Activities — Skiing, Hanami, Matsuri]]
 - Rice fields surrounding the area are striking in summer (Niigata koshihikari country)
+- **Yairo-no-Mori Park (八色の森公園, 浦佐5483-1)**: park with around 100 cherry trees and mountain views, next to the Ikeda Memorial Museum (池田記念美術館)
 
 **Minami-Uonuma City**
-- Muikamachi (六日町): the main town of Minami-Uonuma; slightly larger than Urasa; has more restaurants and shops
+- Muikamachi (六日町): the main town of Minami-Uonuma; slightly larger than Urasa; has more restaurants and shops. AEON Muikamachi (イオン六日町店), the Saturday shopping bus destination, has Daiso, Hard Off / Off House / Book Off, and K's Denki next door
 - Hot springs (温泉, *onsen*): several ryokan and day-use onsen facilities in the area. This is one of the most underused local pleasures available to IUJ students.
 - Hiking trails in the surrounding mountains, accessible in spring and autumn; Kintoki Yama and the Echigo mountain trails offer good day hikes
 
@@ -36,6 +37,12 @@ The immediate area around IUJ is quiet, but not without interest.
 Despite being IUJ's own doorstep, Urasa's dining/lodging options rarely get mentioned — per IUJ's own sightseeing guide, worth knowing about:
 - **Restaurants**: Kodamaya, Matsuyoshi, La Grassa, Bistro Rire, Seirin, Ezumiya, Buffalo, Azumaken, Kita no Yado, Maruta, Ako Cafe.
 - **Lodging** (useful if you have visiting family/friends): Hotel Okabe, Paramount in Urasa, Tejimaya, Ryugon, Satoyama Juju.
+
+---
+
+## Ojiya (小千谷市): A Nearby Destination Worth Knowing About
+
+Ojiya has essentially zero presence in most students' plans, despite being close and having a real event/attraction lineup of its own — see [[Local Niigata Festivals]] for the Ojiya Balloon Festival, bull-fighting, Fireworks Display, and the active Ojiya International Society (which runs open community events like a BBQ at Hakusan Sports Park). Worth treating as a real day-trip option, not just an events destination.
 
 ---
 
@@ -61,7 +68,8 @@ The practical urban hub for IUJ students. For daily life needs (bigger shops, be
 
 ### Shopping
 
-- **Aeon Mall Nagaoka**: main mall; Aeon supermarket, Uniqlo, GU, electronics, pharmacy, food court, cinema. Accessible from Nagaoka Station by bus/taxi (~15 min).
+- **Aeon Nagaoka (イオン長岡店, 古正寺1-249-1)**: Aeon supermarket and shops (not an "Aeon Mall"). Accessible from Nagaoka Station by bus/taxi (~15 min).
+- **Uniqlo**: the nearest Uniqlo to IUJ is in Nagaoka, at Across Plaza (沖田1-16) or inside Apita Riverside Senshu (千秋2-278). GU has separate stores in Nagaoka (旭岡1-90 and 喜多町2950).
 - **Don Quijote**: 24-hour discount store near Nagaoka Station; food, alcohol, cheap basics, household items, some imported products
 - **Cocolo Nagaoka**: shopping complex connected directly to Nagaoka Station; pharmacy, clothing, food
 
@@ -69,7 +77,7 @@ The practical urban hub for IUJ students. For daily life needs (bigger shops, be
 
 - **Nagaoka-style ramen (長岡系ラーメン)**: local soy-ginger broth style; worth trying at a dedicated ramen shop
 - **Izakayas**: Japanese gastropubs with private rooms; excellent for group outings; affordable and diverse
-- **Conveyor belt sushi (回転寿司)**: near Aeon Mall; fresh, cheap, no language barrier
+- **Conveyor belt sushi (回転寿司)**: near Aeon Nagaoka; fresh, cheap, no language barrier
 - **Chain restaurants (Gusto, Denny's, Saizeriya)**: affordable, sometimes have English menus
 
 ### Practical Services
@@ -90,16 +98,10 @@ There's also a more durable option: Nagaoka City runs an **unpaid internship pro
 
 ### Half-Day vs Full-Day
 
-**Half-day:** Aeon Mall grocery run + Donki; 2-3 hours total.
-**Full day:** Aeon Mall + lunch at a proper restaurant + riverside walk or cinema. Worth doing once a month to decompress from campus.
+**Half-day:** Aeon grocery run + Donki; 2-3 hours total.
+**Full day:** Aeon + lunch at a proper restaurant + riverside walk or cinema. Worth doing once a month to decompress from campus.
 
 **Nagaoka is also known for its role in World War II.** It was heavily bombed, and the fireworks festival carries a historical peace dimension beyond spectacle.
-
----
-
-## Ojiya (小千谷市): A Nearby Destination Worth Knowing About
-
-Ojiya has essentially zero presence in most students' plans, despite being close and having a real event/attraction lineup of its own — see [[Local Niigata Festivals]] for the Ojiya Balloon Festival, bull-fighting, Fireworks Display, and the active Ojiya International Society (which runs open community events like a BBQ at Hakusan Sports Park). Worth treating as a real day-trip option, not just an events destination.
 
 ---
 
@@ -124,6 +126,7 @@ Niigata's capital city; a proper urban break from campus.
 The Niigata mountains are onsen country. Several facilities are within 30-60 minutes of IUJ:
 
 - **Muikamachi area onsen**: close to IUJ; some ryokan offer day-use bathing
+- **Koide (Uonuma City)**: 見晴らしの湯こまみ, a day-use onsen
 - **Yuzawa Onsen (湯沢温泉)**: famous ski resort area (~20 min); many onsen facilities, some day-use
 
 > 💡 Onsen etiquette: shower thoroughly before entering the bath, no swimwear, tattoos are restricted at some facilities (ask before paying). See [[Japanese Social Norms & Etiquette]] for general guidance on following local norms.
