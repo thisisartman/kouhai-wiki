@@ -72,11 +72,29 @@ This is where laundry gets difficult. **You cannot reliably dry clothes outside 
 
 ## Laundromat (コインランドリー)
 
-For large items (duvets, winter coats, sleeping bags) that won't fit in dorm machines, a laundromat (coin laundry) in Urasa or Nagaoka has large-capacity machines and industrial dryers.
+For large items (duvets, winter coats, sleeping bags) that won't fit in dorm machines, a laundromat (coin laundry) has large-capacity machines and industrial dryers.
 
 - Large washer cycle: ¥500–800
 - Industrial dryer (30 min): ¥100
 - Duvets and heavy winter items: do this once or twice per season
+
+### Himawari Coin Laundry (ひまわりコインランドリー), Urasa
+
+The closest laundromat to IUJ, and it has a coin-operated **shoe washer**: useful for sneakers after slush season or a muddy hike.
+
+- **Where:** 1345-1 Urasa, about a 5-minute walk from Urasa Station, on the side road just before Urasa Bridge. Same building as the izakaya Ippō (居酒屋 一坊).
+- **Hours:** Daily 5:30–22:00
+- **Machines:** Large washers, dryers, and a shoe washer
+- **Payment:** Coins only; a change machine accepts ¥1,000 notes
+- **Parking:** Available
+
+*Details from a senior's visit (September 2026); it isn't listed on the usual map sites, so the landmark is your best guide. Shoe washer price and cycle time still to be confirmed.*
+
+### Other Laundromats Nearby
+
+- **Urasa:** Coin Laundry Cream Soda (コインランドリークリームソーダ), 浦佐3921, about 17 min walk from Urasa Station's east exit
+- **Muikamachi:** Donchan Muikamachi (どんちゃん六日町店), 六日町2407-6, daily 6:00–22:30; IT Coin Laundry Yukari (ITコインランドリーゆかり), 竹俣235-1, 6:00–23:00
+- **Koide:** Sentaku Kaasan Koide (せんたくかあさん小出店), 井口新田935-1, open 24 hours
 
 ---
 
@@ -104,5 +122,4 @@ For large items (duvets, winter coats, sleeping bags) that won't fit in dorm mac
 
 - Current coin prices at the dorm laundry
 - Best winter drying setup you found
-- Laundromat locations near IUJ for large items
 - Any dorm-specific laundry rules or tips
