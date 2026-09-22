@@ -18,7 +18,7 @@ IUJ's social life is active despite (or because of) the rural isolation. Parties
 
 **On-campus outdoor areas:** In warmer months, outdoor barbecues and gatherings happen. Check if there are designated BBQ areas and any permits required.
 
-**Off-campus:** Nagaoka has bars and restaurants suitable for group outings. Some students rent out spaces in Nagaoka for larger events. Izakayas (Japanese gastropubs) are excellent for group dinners; private rooms (個室, *koshitsu*) can be booked.
+**Off-campus:** Start with Urasa itself: there are restaurants and izakaya within walking distance of Urasa Station (for example 居酒屋 一坊, Ippō, by the east exit; see [[Local Attractions — Urasa, Nagaoka, Niigata City]] for more). Muikamachi has more choice, and Nagaoka has bars and restaurants suitable for bigger group outings. Some students rent out spaces in Nagaoka for larger events. Izakayas (Japanese gastropubs) are excellent for group dinners; private rooms (個室, *koshitsu*) can be booked.
 
 ---
 

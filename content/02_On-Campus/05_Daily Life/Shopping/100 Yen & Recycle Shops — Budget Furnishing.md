@@ -16,7 +16,7 @@ Everything costs ¥100 (plus 10% tax = ¥110). Quality is surprisingly good for 
 
 ### Main Chains
 
-**Daiso (ダイソー)**: the biggest. Enormous selection. Most Aeon Malls have one; also standalone stores in Nagaoka.
+**Daiso (ダイソー)**: the biggest. Enormous selection. The nearest is inside AEON Muikamachi (イオン六日町店), the Saturday shopping bus destination; there are also standalone stores in Nagaoka.
 
 **Seria (セリア)**: smaller but excellent for stationery, organizers, and aesthetically nicer items.
 
@@ -58,7 +58,7 @@ Second-hand shops that buy, sell, and trade used goods. The Japanese concept of 
 
 **2nd Street (セカンドストリート)**: clothing and general goods; trendier selection.
 
-> 💡 These are all in Nagaoka or nearby. A single trip to Hard Off + Off House will equip your room for under ¥5,000.
+> 💡 The nearest are in Muikamachi, not Nagaoka. Hard Off, Off House and Book Off share a floor inside AEON Muikamachi (1F, 余川3100), reachable on the Saturday shopping bus, and there is a separate Off House 六日町インター店 nearby (余川3079). Nagaoka has more branches, and 2nd Street, if you need a wider choice. A single trip to Hard Off + Off House will equip your room for under ¥5,000.
 
 ### What to Buy at Recycle Shops
 

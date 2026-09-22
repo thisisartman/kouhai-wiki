@@ -35,7 +35,7 @@ Your student status unlocks meaningful discounts in Japan. Most require either y
 
 - Most national and prefectural museums in Japan charge half-price or less for students
 - Always carry your student ID and ask: 学生割引ありますか？ ("Is there a student discount?")
-- Key spots near IUJ: Niigata City museums, Echigo-Tsumari Art Field; all have student rates
+- Key spots near IUJ: the Ikeda Memorial Museum (池田記念美術館) in Yairo-no-Mori Park, Urasa (ask about a student rate; not confirmed); farther out, Niigata City museums and Echigo-Tsumari Art Field, which have student rates
 
 ---
 

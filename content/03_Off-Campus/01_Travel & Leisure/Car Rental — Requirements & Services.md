@@ -30,7 +30,7 @@ Either converted from a foreign licence or freshly obtained. Full coverage, no e
 
 ## Rental Companies
 
-Major chains have locations in Nagaoka (30 min from IUJ) and at larger JR stations. Booking in advance online is recommended, especially for weekends and ski season.
+The closest options are local: a 六日町魚沼レンタカー office about 2 min from Urasa Station's east exit, and a Toyota Rent a Car branch in Muikamachi. Major chains also have locations in Nagaoka (30 min from IUJ) and at larger JR stations. Booking in advance online is recommended, especially for weekends and ski season.
 
 | Chain | Website | Notes |
 |---|---|---|
@@ -59,7 +59,7 @@ Major chains have locations in Nagaoka (30 min from IUJ) and at larger JR statio
 ## Booking Process
 
 1. Go to the rental company's website (most have English options)
-2. Select pickup location (Nagaoka Station branch is most convenient), date/time, and car type
+2. Select pickup location (the Muikamachi branch is closest to IUJ; Nagaoka Station has more choice), date/time, and car type
 3. Enter your licence details and IDP information
 4. Pay by credit/debit card (international Visa/Mastercard works; Wise card works)
 5. At pickup: bring your home licence + IDP (or Japanese licence), confirm the car, note any existing scratches on the inspection sheet

@@ -6,11 +6,24 @@ status: ready
 last_updated: 2026-05-28
 ---
 
-Grocery shopping near IUJ means working with a limited set of options. There's no supermarket on campus. The nearest ones are in Urasa town or in Nagaoka (~30 min). Knowing what's where saves time and money.
+Grocery shopping near IUJ means working with a limited set of options. There's no supermarket on campus. The nearest ones are in Urasa town, then Muikamachi, then Nagaoka (~30 min). Knowing what's where saves time and money.
 
 ---
 
 ## The Main Options
+
+### Convenience Stores (Conbini), On-Campus/Urasa
+**Distance from IUJ:** On campus or walking distance
+**Type:** Convenience store
+
+There is a convenience store accessible from campus (confirm which chain with current students). Useful for immediate needs: onigiri, drinks, instant noodles, snacks, basic toiletries, ATM. Not a substitute for a proper grocery run but covers daily needs without a trip.
+
+**Pros:** Closest option; open long hours; good for small purchases
+**Cons:** Expensive per item for most things; limited fresh produce
+
+For a full guide to conbini food, see [[Convenience Store Food Guide]].
+
+---
 
 ### Beisia (ベイシア), Urasa
 **Distance from IUJ:** ~10 min by car / bicycle; ~20 min on foot
@@ -20,6 +33,17 @@ The workhorse store for most IUJ students. Beisia is a large regional chain with
 
 **Pros:** Closest large grocery option; good selection; home goods in same trip
 **Cons:** Requires transport; limited in South Asian or halal products
+
+---
+
+### Aeon (イオン), Muikamachi
+**Distance from IUJ:** Saturday shopping bus from campus; roughly 15 min by car
+**Type:** Supermarket inside a shopping centre
+
+AEON Muikamachi (イオン六日町店, 余川3100) is where the Saturday shopping bus goes (see [[Bus & Local Routes]]). Besides the supermarket it has Daiso, Hard Off / Off House / Book Off and a K's Denki electronics store next door, so one trip covers groceries and room setup.
+
+**Pros:** Closest large mall; reachable without a car on Saturdays
+**Cons:** Only 4 bus runs, Saturdays only; otherwise needs a car or taxi
 
 ---
 
@@ -34,27 +58,14 @@ Don Quijote ("Donki") is open 24 hours and stocks a wide range of food, alcohol,
 
 ---
 
-### Aeon (イオン) / Aeon Mall, Nagaoka
+### Aeon (イオン), Nagaoka
 **Distance from IUJ:** ~30 min by car
-**Type:** Full supermarket inside a large mall
+**Type:** Full supermarket with shops attached
 
-Aeon is Japan's largest supermarket chain. The Nagaoka location has a full grocery section with better variety than Beisia: more imported products, better selection of produce, and sometimes halal-friendly options. The mall around it has pharmacies, clothing, electronics, and food courts.
+Aeon is Japan's largest supermarket chain. The Nagaoka location (イオン長岡店, 古正寺1-249-1; it is not an "Aeon Mall") has a full grocery section with better variety than Beisia: more imported products, better selection of produce, and sometimes halal-friendly options. The shops around it include pharmacies, clothing, electronics, and food courts.
 
 **Pros:** Best selection in the area; one-stop for most needs
 **Cons:** Farthest option; a dedicated trip
-
----
-
-### Convenience Stores (Conbini), On-Campus/Urasa
-**Distance from IUJ:** On campus or walking distance
-**Type:** Convenience store
-
-There is a convenience store accessible from campus (confirm which chain with current students). Useful for immediate needs: onigiri, drinks, instant noodles, snacks, basic toiletries, ATM. Not a substitute for a proper grocery run but covers daily needs without a trip.
-
-**Pros:** Closest option; open long hours; good for small purchases
-**Cons:** Expensive per item for most things; limited fresh produce
-
-For a full guide to conbini food, see [[Convenience Store Food Guide]].
 
 ---
 
