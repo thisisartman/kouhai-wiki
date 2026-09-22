@@ -82,6 +82,7 @@ Only **Toki** services stop here, per IUJ's own current timetable.
 
 - **7-Eleven** is a short walk from the station, useful for snacks, cash (international ATM), and printing
 - **Post Office** is a short distance away, useful for receiving packages
+- **Himawari Coin Laundry**, about 5 min on foot, has large machines and a shoe washer. See [[Laundry — Facilities & Winter Challenges]] for directions
 - No restaurants or major shops are at the station itself, so plan accordingly
 
 ![Map of Urasa Station area, showing shops, restaurants, and landmarks](images/urasa-station/urasa-map.png)

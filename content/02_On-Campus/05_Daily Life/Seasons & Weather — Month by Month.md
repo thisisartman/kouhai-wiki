@@ -44,6 +44,12 @@ Cold arrives in earnest: 5–15°C. First frost possible late in the month. Moun
 
 *Prepare for:* Start of heating season; buy/confirm your winter coat by now if you haven't.
 
+> 💡 **Where to get winter wear:**
+> - **Second-hand coats:** Hard Off / Off House inside AEON Muikamachi, reachable on the IUJ Saturday AEON bus. See [[Bus & Local Routes]].
+> - **Cheap new winter wear:** Workman (魚沼店) and Shimamura (塩沢店), both in Shiozawa, Minami-Uonuma.
+> - **Heattech:** the nearest Uniqlo stores are in Nagaoka: Across Plaza Nagaoka (沖田1-16) and Riverside Senshu inside Apita (千秋2-278).
+> - **Online:** Shein or Amazon, if you'd rather not make the trip.
+
 ---
 
 ### December
@@ -56,7 +62,7 @@ Cold arrives in earnest: 5–15°C. First frost possible late in the month. Moun
 ### January
 **Peak winter.** Heaviest snowfall often falls in January. Temperatures: -8 to 2°C. Snow can accumulate faster than it's cleared. The campus and roads are managed but weather-dependent.
 
-*Prepare for:* Snow shovelling may be needed at the dorm; outdoor movement is slow and tiring; budget more time for everything. Skiing is excellent in Yuzawa (20 min away).
+*Prepare for:* Snow shovelling may be needed at the dorm; outdoor movement is slow and tiring; budget more time for everything. Skiing is excellent right on IUJ's doorstep: Hakkaisanroku is about 10 min away by car, and the Muikamachi and Yuzawa resorts are further out.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Indian Food Sources
 section: 04_Country-Specific/India
-tags: [food, indian, spices, groceries, nagaoka, unverified, empty]
+tags: [food, indian, spices, groceries, nagaoka, unverified]
 status: needs-work
 last_updated: 2026-07-16
 ---
@@ -12,12 +12,22 @@ Finding Indian ingredients in rural Niigata takes effort but is doable through a
 
 ## On Campus / Near Urasa
 
-> ⚠️ Add specifics here. Is there any Indian food presence within walking distance of IUJ?
+**Harimaya Urasa (はりまや浦佐店)**
+- Local supermarket at 南魚沼市浦佐1153-1, about a 3–4 min walk from Urasa Station's east exit. Open 9:00–19:00, no fixed closing day. Opened October 2025 on the site of the old Cupid Yamato.
+- A senior reports it carries a good variety of Indian spices. Its listings online don't mention this, so check the shelves yourself.
+- Takes cards, IC cards and PayPay.
 
 **Things to clarify:**
 - [ ] Does the campus cafeteria ever serve Indian food or curry?
 - [ ] Are there any Indian students who cook and share / sell food informally on campus?
-- [ ] Is there any store within Urasa or the immediate area that stocks Indian spices?
+- [ ] Which Indian items Harimaya actually stocks (spices only, or also dal, basmati, atta, ghee)?
+
+---
+
+## Muikamachi (~15 min from IUJ)
+
+**Indian restaurant:**
+- **Suress (インド・ネパールダイニング スレス 六日町店)**, 南魚沼市川窪1192-1. Indian-Nepali dining; Tabelog lists it as open 10:00–15:00 and 17:00–22:00. Same address as the former Nan House / Shiva, so older reviews may use those names.
 
 ---
 
@@ -32,7 +42,7 @@ Nagaoka is the nearest city with meaningful shopping options.
 - International supermarkets or ethnic food sections of large stores (Aeon, MaxValu) sometimes stock basic Indian spices, like curry powder, turmeric, and cumin
 
 **Indian restaurants in Nagaoka:**
-- [ ] **Add names and addresses of Indian restaurants in Nagaoka.** There are likely 1–2; verify with seniors.
+- **Nishan (インド料理専門店ニサン)**: main branch at Across Plaza, 長岡市沖田1-50 (tel 0258-89-6688), plus a second branch in Hasugata
 - Most serve lunch sets (ランチセット) which are good value
 - Useful for a taste of home when cooking fatigue hits
 
@@ -70,10 +80,14 @@ Online ordering is often the most practical solution for hard-to-find ingredient
 
 | Platform | What to Order | Notes |
 |---|---|---|
+| **[Shinjuku Halal Food](https://shinjukuhalalfood.com/)** | Indian spices, basmati, dal, halal meat, frozen items, snacks; stocks Ambika masalas | Tokyo-based online shop with an app; delivers anywhere in Japan by Japan Post or Sagawa. Shipping priced by region and weight (chilled and dry rates differ) |
+| **[Ambika](https://shop.ambikajapan.com/)** | Large spice range, lentils, rice, frozen and chilled items | Big importer since 1998. ¥880 shipping; free from ¥5,999 (room temperature), ¥3,999 (frozen), ¥2,999 (chilled). Orders before 3pm ship next business day. Cards and PayPay |
+| **Indojin / Apna Bazar (Sharma's Groceries)** | Full Indian grocery range | Long-running Tokyo shop. indojin.com now redirects to a store that still says it's a demo, so order by email (order@indojin.com) or WhatsApp (090-9813-5426) until it goes live. Cards or cash on delivery |
+| **[Maharaja Spice](https://www.maharaja-spice.com/)** | MDH, Haldiram's, India Gate | Kawasaki-based. Minimum order ¥6,500, free delivery from ¥8,500. Cash on delivery only |
 | **Amazon Japan** | Spices, lentils, basmati rice, ghee, ready mixes | Fast delivery; Prime recommended |
 | **iHerb** | Some Indian pantry items; good for health foods | Ships from US; 1–2 week delivery |
-| **Kalustyan's JP** | Specialty spices | Verify if they ship to rural Niigata |
-| **Cari.jp** | Indian grocery delivery in Japan | ⚠️ Verify current service availability |
+
+> 💡 Group orders with friends to clear the free-shipping thresholds. Shipping terms above were checked in September 2026; confirm on the site before ordering.
 
 **Amazon Japan search terms:**
 - バスマティライス: basmati rice
