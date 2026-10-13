@@ -349,16 +349,25 @@ Workflow:
    section per §5, if it doesn't fit anywhere existing), citing them as the source if
    useful context, then commit/push as usual.
 4. If `credit_consent` is `"yes"`: add them to the About page's Contributors list —
+   **except the maintainer's own rows.** All 50 of them carry `credit_consent: yes` as of
+   2026-09-16, but they are deliberately not listed on the site. The count is kept privately
+   in `my-contributor-count.sh`, one level up and outside this repo. Do not add a maintainer
+   line to the About page when rebuilding counts unless the maintainer asks for it —
    it's live at `content/00_About Wiki/index.md` under "Senpai Contributors"
    (built 2026-07-17). Just add a `Name (count)` line; Adithya's entry there is
    the running example. Group under `### Class of YYYY` headings once there are
    enough entries per class to justify it — see the page's own HTML-comment
    maintenance note for details.
+   The maintainer can also credit someone directly (Ricardo Gamaliel, 2026-10-13, whose
+   form said `no`); record that in the row's notes so a rebuild from the CSV keeps him.
 5. If it needs more info: email them back at `reply_email`.
 6. If it's spam/junk: ignore and delete. The honeypot field filters most bots, but a
    determined human can still submit garbage — no automated moderation beyond that.
 7. Log every submission in §16's table regardless of outcome — including skips and
    backlog items — so the inbox isn't the only record of what's been triaged.
+8. **Never publish personal referral, invite or affiliate links**, whoever sends them
+   (standing rule, 2026-10-13). Action the content, link the provider's plain homepage,
+   and note "referral link not published" in the log row.
 
 There's no dashboard or queue beyond §16 — it's just your inbox plus that table. If
 volume grows large, filter on subject `Kouhai Wiki suggestion:` (edits) or `Kouhai
