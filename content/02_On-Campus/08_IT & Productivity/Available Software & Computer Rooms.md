@@ -92,7 +92,7 @@ Ask MLIC office for exact terms before committing.
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Typical wait times for single-terminal software (EIKON, SPSS, NVivo) during peak season
 - Whether the free Office/STATA install process was smooth for you

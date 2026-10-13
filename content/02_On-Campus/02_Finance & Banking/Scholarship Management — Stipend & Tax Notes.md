@@ -146,7 +146,7 @@ For pension exemption (which most student visa holders can apply for), see [[Pen
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Actual stipend amounts for MIPP/MBA/IRP programmes if different from the JASSO figure above
 - Whether the scholarship stipend is taxable and how to handle it on your tax return

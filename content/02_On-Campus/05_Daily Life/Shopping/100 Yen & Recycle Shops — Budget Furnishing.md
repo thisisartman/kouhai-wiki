@@ -103,7 +103,7 @@ For a well-equipped room for under ¥15,000 total:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Best specific finds at Hard Off / Off House near Nagaoka
 - Items worth buying new vs. second-hand

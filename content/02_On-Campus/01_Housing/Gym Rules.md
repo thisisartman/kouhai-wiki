@@ -49,7 +49,7 @@ Beyond one-off event bookings, the **1st-floor arena periodically closes entirel
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - What's actually on the reservation schedule for non-Women's-Hour slots?
 - What equipment is available (weights, cardio machines, etc.)? Not yet documented.
