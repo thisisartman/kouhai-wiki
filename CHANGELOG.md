@@ -1,5 +1,16 @@
 # Changelog
 
+## [2026-10-13] — Contributor credits and a no-referral-links rule
+
+- **Ricardo Gamaliel credited** on the About page for the microwave
+  suggestion, on the maintainer's instruction (his form had said no).
+- **Never publish personal referral links** is now a standing rule,
+  written into MAINTENANCE.md §7. The JP Smart log row records it.
+- **Maintainer consent flags committed.** The 2026-09-16 change (38 of
+  the maintainer's own rows set to `credit_consent: yes`) had sat
+  uncommitted for review. The maintainer is still deliberately left off
+  the About page, and MAINTENANCE.md §7 now says so.
+
 ## [2026-10-13] — Three reader suggestions: microwaves, JP Smart, edit-button wording
 
 All three suggestions received since the 2026-09-22 pass, logged in

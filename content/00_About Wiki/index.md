@@ -39,6 +39,7 @@ Everyone listed here helped make this wiki better by submitting a suggestion thr
 - **Adithya** (3): MBA, Class of 2026, India
 - **Sree** (1): DXP, Class of 2026, India
 - **Arwa Harga** (1): MBA, Class of 2025, Egypt
+- **Ricardo Gamaliel** (1): PMPP, Class of 2026, Indonesia
 
 <!--
   TODO (fill in yourself, as suggestions come in):
