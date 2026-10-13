@@ -109,7 +109,7 @@ For ongoing Indian food sourcing in Japan, see [[Indian Food Sources]].
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Indian-specific banking gotchas (SBI international, Jio phone unlock, etc.)
 - Which Indian spices/foods you found locally and which were impossible

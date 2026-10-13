@@ -24,7 +24,7 @@ Click through to browse articles under any of those tags, pick one that matches 
 
 ## How to Actually Contribute
 
-Once you're on an article you can improve: click **✏️ Suggest an edit** near the title. Highlight the specific passage first if you're correcting something: it gets pulled into the form automatically. No account or technical setup needed; see [[How to Use This Wiki]] for the full flow.
+Once you're on an article you can improve: if you're correcting something, highlight that passage first, then click the **✏️ pencil button** at the top of the page (top of the left-hand column on a wide screen; hovering over it shows "Suggest an edit"). The highlighted text is pulled into the form automatically. No account or technical setup needed; see [[How to Use This Wiki]] for the full flow.
 
 ---
 
@@ -34,4 +34,4 @@ Once you're on an article you can improve: click **✏️ Suggest an edit** near
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*

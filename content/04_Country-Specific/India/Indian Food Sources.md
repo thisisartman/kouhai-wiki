@@ -138,7 +138,7 @@ Indian students at IUJ have historically organized community cooking sessions ar
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Current Indian/Asian grocery store options in Nagaoka and Niigata City with addresses
 - Indian restaurant recommendations near IUJ

@@ -3,7 +3,7 @@ title: Cooking Basics & Cheap Meal Prep
 section: 02_On-Campus/05_Daily Life
 tags: [food, cooking, budget, meal-prep, dorm]
 status: ready
-last_updated: 2026-07-13
+last_updated: 2026-10-13
 ---
 
 Many students arrive at IUJ having never cooked seriously. Rural Niigata (with limited delivery options and a campus cafeteria that gets old fast) will change that. Cooking is one of the best investments of time you can make here: cheaper, healthier, and genuinely social.
@@ -27,6 +27,33 @@ Many students arrive at IUJ having never cooked seriously. Rural Niigata (with l
 - Basic bowls, plates, chopsticks, a spoon
 
 > 💡 A rice cooker is the single most useful kitchen item you can own in Japan. Rice + whatever protein/vegetable you have = a meal. Buy one in the first week.
+
+### Using a Japanese Microwave
+
+Kitchen microwaves in Japan are labelled in Japanese, and most new arrivals end up pressing the one preset button they recognise. Setting your own time and power level is easy once you know the handful of words that matter.
+
+| Label | Reading | What it does |
+| --- | --- | --- |
+| レンジ / 電子レンジ | renji | Microwave mode, the one you want for heating food |
+| 手動 | shudō | Manual: you choose the power and time yourself |
+| あたため / 温め | atatame | Auto reheat: the microwave decides the time for you |
+| 解凍 | kaitō | Defrost |
+| W / ワット / 出力 | watto / shutsuryoku | Power level, e.g. 200W, 500W, 600W |
+| 分 / 秒 | fun / byō | Minutes / seconds (buttons like 10分, 1分, 10秒) |
+| スタート | sutāto | Start |
+| 取消 / とりけし | torikeshi | Cancel or clear what you entered |
+| オーブン / グリル / トースト | ōbun / guriru / tōsuto | Oven, grill and toast modes on combination units: these heat the whole inside, so no plastic containers or wrap |
+
+**Setting a time and power by hand** usually goes:
+
+1. Press **レンジ** (or **手動**).
+2. Choose the power: press the same button again, or a **W** button, until the display shows the wattage you want. The power is normally shown as a number ending in W, before the time.
+3. Enter the time with the **分 / 秒** buttons or the dial.
+4. Press **スタート**. If you get lost, press **取消** and start again.
+
+> 💡 Convenience-store and supermarket food prints heating times for **500W** and **600W** on the label. Set the microwave to the same wattage and use that time. If you only know the 500W time, about five-sixths of it at 600W is roughly the same. See [[Convenience Store Food Guide]].
+
+> 🔶 Button layouts differ by model, and the microwaves in IUJ's own kitchens have not been checked against this list yet. If yours looks different, describe how its buttons differ using the **✏️ pencil button** at the top of the page; it helps the next person.
 
 ---
 
@@ -110,7 +137,7 @@ Cook instant ramen → add an egg, frozen vegetables, and a dash of sesame oil. 
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Your go-to cheap meal at IUJ
 - Best supermarket discount timing near campus

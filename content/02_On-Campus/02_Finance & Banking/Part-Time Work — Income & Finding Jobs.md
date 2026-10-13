@@ -90,7 +90,7 @@ Beyond word of mouth and job boards, **IUJ's own Career Support office (career@i
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Specific job recommendations near Urasa/Nagaoka with honest reviews
 - Ski resort work experiences (Yuzawa, GALA, Naeba)

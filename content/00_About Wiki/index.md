@@ -38,6 +38,7 @@ Everyone listed here helped make this wiki better by submitting a suggestion thr
 - **Namra Mehta** (5): MBA, Class of 2027, India
 - **Adithya** (3): MBA, Class of 2026, India
 - **Sree** (1): DXP, Class of 2026, India
+- **Arwa Harga** (1): MBA, Class of 2025, Egypt
 
 <!--
   TODO (fill in yourself, as suggestions come in):

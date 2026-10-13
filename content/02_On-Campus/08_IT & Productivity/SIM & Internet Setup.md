@@ -3,7 +3,7 @@ title: SIM & Internet Setup
 section: 02_On-Campus/08_IT & Productivity
 tags: [SIM, internet, phone, connectivity, IT, unverified]
 status: needs-work
-last_updated: 2026-09-09
+last_updated: 2026-10-13
 ---
 
 Getting online is your first real task after landing. Without it, you can't navigate, contact IUJ, or do anything else on the first week checklist.
@@ -68,8 +68,11 @@ Japan's MVNO (virtual carrier) market is large. These are the most student-relev
 | **Ahamo (Docomo)**    | Docomo             | ¥2,970       | 20GB, no contract, good coverage in rural areas               |
 | **LINEMO (SoftBank)** | SoftBank           | ¥990–2,728   | Cheap entry plan; LINE data free                              |
 | **Mineo**             | au/Docomo/SoftBank | ¥1,298+      | Flexible; packet sharing community feature                    |
+| **[JP Smart](https://jpsmart.net/)** | Docomo | ¥880–5,478 | English-first; applying from inside Japan, no credit card or bank account needed (details below) |
 
-> 💡 **For rural Niigata, coverage matters more than price.** Docomo has the strongest rural network. IIJmio (Docomo line) or Ahamo are safest bets for Minami-Uonuma.
+> 💡 **For rural Niigata, coverage matters more than price.** Docomo has the strongest rural network. IIJmio (Docomo line), Ahamo or JP Smart are safest bets for Minami-Uonuma.
+
+> 💡 **JP Smart, if you are in Japan with no credit card or Japanese bank account yet** (suggested by a senior). This only applies once you are here: applying from overseas, the initial fee must be paid by credit card. The whole site and support are in English and several other languages. Voice + data plans run from 1GB (¥880/month) to 50GB (¥5,038/month), data-only from ¥1,078, with eSIM available. You pay a one-time ¥3,300 registration fee and the first month's plan fee is free. You can pay the initial fee **in cash to the courier when the SIM arrives** (voice plans only), or at a convenience store; after that, monthly bills can be paid in cash at a convenience store or by direct debit. Applying from inside Japan, the ID check uses your **Residence Card**, done at a Seven Bank ATM (inside 7-Eleven) or through the Sagawa courier. Whether a *registered* address is also needed is not stated on their pages, so ask before you count on it in your first days. Details read off jpsmart.net on 2026-10-13.
 
 > ⚠️ Most SIM contracts require a Japanese bank account or credit card for ongoing billing — but per a senior submission, this doesn't strictly mean a debit/credit card. IUJ students get a **Daishi Hokuetsu cash card** by default (see [[JP Bank vs Daishi — Comparison & How to Open]]), and docomo accepts that cash card for billing registration; you'll also need your My Number. A **cash card is not the same as a debit or credit card** — it only works at ATMs and for direct-debit billing like this, not for purchases — so don't assume you need a full debit/credit card just to sign up. That said, if you're staying long-term or plan to work part-time, get a JP Bank account too: Daishi is a Niigata-local bank with limited ATM coverage elsewhere in Japan, so JP Bank is the better primary account for anything beyond IUJ-specific billing.
 
@@ -135,4 +138,4 @@ Week 2-3:  Once the cash card arrives, switch to a long-term plan
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*

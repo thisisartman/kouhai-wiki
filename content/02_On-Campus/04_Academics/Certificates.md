@@ -40,7 +40,7 @@ Source: GSIR Curriculum Handbook 2025-2026, pages 14-15.
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - The actual 13-course GSIM Japan Focus list, and how often it changes term to term
 - Confirmed requirements for GSIM's ISEP-track certificate (course pool, credit/count requirement)

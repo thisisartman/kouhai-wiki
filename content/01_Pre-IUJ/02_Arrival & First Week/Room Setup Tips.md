@@ -71,7 +71,7 @@ Per a senior submission — this is what to pick up nearby (Daiso, Seria, Can★
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - What did your room actually come with on move-in day (bed, desk, shelving, curtains)?
 - What you wished you'd brought from home vs. bought here
