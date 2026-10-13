@@ -122,7 +122,7 @@ Minami-Uonuma City:
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Minami-Uonuma City's actual collection schedule (current)
 - Which designated bags are required and where to buy them

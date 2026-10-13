@@ -32,7 +32,7 @@ This page is for Kyrgyz students to share cultural context that would help other
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Cultural context you wish classmates understood about you/your country
 - Etiquette differences between home and Japan that surprised you

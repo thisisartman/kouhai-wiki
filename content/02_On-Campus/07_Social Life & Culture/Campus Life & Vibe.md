@@ -71,7 +71,7 @@ This sounds grand. In practice it develops through hundreds of small interaction
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - What the campus vibe is actually like across the three terms
 - How the dynamic between cohorts (first-year vs second-year) plays out

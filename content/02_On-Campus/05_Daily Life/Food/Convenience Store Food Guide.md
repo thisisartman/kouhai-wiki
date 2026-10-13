@@ -108,7 +108,7 @@ Using conbini as your primary food source is expensive over time (¥600–900/da
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Confirm nearest conbini locations and walking time from campus
 - Conbini items that became personal staples

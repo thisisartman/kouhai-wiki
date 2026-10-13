@@ -113,7 +113,7 @@ Mental health stigma exists in most of the cultures represented at IUJ. It's wor
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - What helped you most during difficult periods at IUJ
 - Experience using the campus health centre for mental health

@@ -53,7 +53,7 @@ Your student visa already includes **Permission to Engage in Activity Other than
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Any cases where the permission was not pre-stamped and what the process was like
 - Tips for managing 28-hr limit with a heavy course load

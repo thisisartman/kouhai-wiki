@@ -146,7 +146,7 @@ Japan's position in East Asia makes it an excellent base for international trave
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - International trip you took from IUJ: destination, cost, and highlights
 - Visa experience for your passport/nationality to any of these destinations

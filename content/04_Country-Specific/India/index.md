@@ -23,7 +23,7 @@ exist and the rest is still open.
 ## Still open
 
 Nobody has filled these in yet. If you can answer any of them, even in one
-paragraph, click **✏️ Suggest an edit** near the title.
+paragraph, click the **✏️ Suggest an edit** button at the top of the page.
 
 **Festivals and celebrations.** Which ones matter, roughly when they fall,
 and whether anyone at IUJ marks them. If Diwali or Holi has been celebrated
@@ -48,4 +48,4 @@ is particular to India and not already covered in [[Sending Money Home]].
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click **✏️ Suggest an edit** near the title.*
+> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
