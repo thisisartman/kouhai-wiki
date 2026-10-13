@@ -107,4 +107,4 @@ My Number is sensitive. Do not share it unnecessarily. Legitimate uses are: tax,
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*

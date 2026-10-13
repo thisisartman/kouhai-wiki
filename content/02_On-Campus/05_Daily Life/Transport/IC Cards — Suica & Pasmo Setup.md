@@ -99,7 +99,7 @@ Adding Suica to Apple Wallet or Google Wallet works, with real caveats that catc
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Mobile Suica setup tips for specific phone models or country-issued cards
 - Any IC card quirks specific to the Urasa/Nagaoka bus system

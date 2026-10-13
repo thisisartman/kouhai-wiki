@@ -53,7 +53,7 @@ Individual consultation (including by email) is available essentially year-round
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - How to actually register for career support and get into the resume book
 - Real experience with the 3 on-campus recruiting rounds: how competitive, what to expect

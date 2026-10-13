@@ -53,7 +53,7 @@ Kitchen microwaves in Japan are labelled in Japanese, and most new arrivals end 
 
 > 💡 Convenience-store and supermarket food prints heating times for **500W** and **600W** on the label. Set the microwave to the same wattage and use that time. If you only know the 500W time, about five-sixths of it at 600W is roughly the same. See [[Convenience Store Food Guide]].
 
-> 🔶 Button layouts differ by model, and the microwaves in IUJ's own kitchens have not been checked against this list yet. If yours looks different, a photo of its control panel via **✏️ Suggest an edit** would help the next person.
+> 🔶 Button layouts differ by model, and the microwaves in IUJ's own kitchens have not been checked against this list yet. If yours looks different, describe how its buttons differ using the **✏️ pencil button** at the top of the page; it helps the next person.
 
 ---
 
@@ -137,7 +137,7 @@ Cook instant ramen → add an egg, frozen vegetables, and a dash of sesame oil. 
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Your go-to cheap meal at IUJ
 - Best supermarket discount timing near campus
