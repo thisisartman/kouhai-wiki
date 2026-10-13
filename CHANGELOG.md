@@ -10,24 +10,30 @@ All three suggestions received since the 2026-09-22 pass, logged in
   button was "near the title", which stopped being true when it moved to
   the header toolbar in July. The footer on 119 articles, the
   `scripts/add-country.py` template, the India index and the Help Improve
-  This Wiki paragraph now point to the button at the top of the page and
-  say to highlight the passage first when correcting something. The
-  button's colour is deliberately not mentioned, since it follows the
-  light/dark theme.
+  This Wiki paragraph now point to "the ✏️ pencil button at the top of the
+  page" and say to highlight the passage first when correcting something.
+  The button is icon-only ("Suggest an edit" is only its hover tooltip),
+  so the copy names the pencil rather than a label readers won't see. Its
+  colour is deliberately not mentioned, since it follows the light/dark
+  theme.
 - **SIM & Internet Setup: JP Smart added**, from a senior's suggestion. It
   goes in the plans table (Docomo network) with a callout on why it helps
   new arrivals with no credit card or bank account. Checked against the
   operator's own pages before writing, which narrowed the suggestion:
   cash on delivery covers only the initial fee and only for voice plans,
   and monthly bills are paid in cash at a convenience store or by direct
-  debit. The submitter's personal referral link was not published.
+  debit. The no-card route also only works when applying from inside
+  Japan; overseas applicants pay the initial fee by credit card, and the
+  article says so. The submitter's personal referral link was not
+  published.
 - **Cooking Basics: "Using a Japanese Microwave".** A reader asked for a
   guide to setting the time and power by hand, since most new students only
   know the presets. Added as a subsection of Dorm Kitchen Setup: a table of
   the labels that matter, a four-step manual sequence, and the 500W/600W
   label tip. It covers standard Japanese labels only; the microwaves in
   IUJ's own kitchens have not been photographed or checked yet, and the
-  section says so.
+  section says so. It asks readers whose panel differs to describe it
+  through the form, which takes no attachments, rather than send a photo.
 
 ## [2026-09-14] — Real analytics, and a dangling tracker removed
 
