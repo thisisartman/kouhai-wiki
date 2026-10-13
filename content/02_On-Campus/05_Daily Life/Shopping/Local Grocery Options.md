@@ -121,7 +121,7 @@ Aeon is Japan's largest supermarket chain. The Nagaoka location (イオン長岡
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Discount timings at Beisia or other local stores
 - Best seasonal buys at Japanese supermarkets

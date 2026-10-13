@@ -49,7 +49,7 @@ IUJ's own figures put total first-year cost (tuition + admission + dorm + living
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - Actual total spend for your first year, and where the biggest surprises were
 - Per-programme tuition confirmation if it's changed since 2022 figures

@@ -66,7 +66,7 @@ Source: [Advanced Seminar Guidelines 2024-2025 (PDF)](https://www.iuj.ac.jp/asse
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - What choosing Research Report vs. Thesis actually meant for your workload and career plans
 - How you picked a supervisor and what the relationship was actually like

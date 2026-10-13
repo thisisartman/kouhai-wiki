@@ -203,7 +203,7 @@ Estimated costs for SD4 and off-campus options are distributed with the survey. 
 ---
 
 ## 🗣️ Senior Submissions
-> *Have a tip, correction, or experience to add? Click the **✏️ Suggest an edit** button at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
+> *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
 - SD4 layout, facilities, and what to expect vs SD1–3
 - MSA experience: was it manageable, or as bad as it sounds?
