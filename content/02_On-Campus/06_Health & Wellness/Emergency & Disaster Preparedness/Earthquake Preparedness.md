@@ -73,7 +73,7 @@ A basic earthquake kit matters. You don't need much:
 | Water | 3 litres per person per day; 3-day supply minimum |
 | Non-perishable food | 3-day supply: rice, instant noodles, canned goods |
 | Torch/flashlight | With spare batteries or hand-crank |
-| First aid kit | Basic; available at Beisia or 100 yen shops |
+| First aid kit | Basic; available at drugstores or 100 yen shops |
 | Phone charger/power bank | Keep it charged |
 | Copies of key documents | Passport, Residence Card, NHI card |
 | Sturdy shoes near bed | In case of broken glass during a night earthquake |

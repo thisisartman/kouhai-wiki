@@ -90,7 +90,7 @@ For a well-equipped room for under ¥15,000 total:
 1. **100 yen shop first**: plates, cups, kitchen basics, hangers, cleaning supplies (~¥2,000–3,000)
 2. **Recycle shop for appliances**: kettle, rice cooker, desk lamp, fan/heater (~¥3,000–6,000)
 3. **Recycle shop or Mercari for bedding and extras**: duvet, pillow, small shelves (~¥1,000–3,000)
-4. **Beisia or Amazon JP for any gaps**: things that must be new or specific
+4. **A home centre or Amazon JP for any gaps**: things that must be new or specific
 
 ---
 

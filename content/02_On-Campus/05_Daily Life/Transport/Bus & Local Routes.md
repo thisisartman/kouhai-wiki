@@ -25,7 +25,7 @@ Stops have names, not route numbers. The main ones:
 | **Hospital** | Yamato Hospital and Uonuma Kikan Hospital; see [[Nearby Clinics & Hospitals]] |
 | **Tenno-machi** | Near Moegi Clinic and many off-campus family apartments |
 | **Station** (駅, Urasa Station) | Shinkansen and local trains |
-| **Supermarket** | キューピット大和 (Cupid Yamato) supermarket in Urasa, the main grocery run |
+| **Supermarket** | Harimaya (はりまや浦佐店), the supermarket near Urasa Station, on the site of the old Cupid Yamato; the main grocery run |
 | **City Office** (市役所) | Minami-Uonuma City Office and Daishi Hokuetsu Bank (now inside the City Office building) |
 | **Kodomo-en** | Childcare centre and schools. On the way to the station the bus stops here only if someone asks before it leaves IUJ |
 | **MSA** | The MSA dormitory building; not every bus goes here |
