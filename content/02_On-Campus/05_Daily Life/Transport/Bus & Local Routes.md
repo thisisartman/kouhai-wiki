@@ -3,87 +3,87 @@ title: Bus & Local Routes
 section: 02_On-Campus/05_Daily Life
 tags: [transport, bus, local, daily-life]
 status: ready
-last_updated: 2026-07-25
+last_updated: 2026-10-20
 ---
 
-The IUJ campus bus is the primary way to get between campus and the outside world without a car. The network is limited but well-organised: knowing the routes and schedules is important because buses don't run all day.
+If you don't have a car, the IUJ campus bus is how you get to Urasa Station, the shops and the hospital. It doesn't run all day, so learn the timetable early.
 
 ![Map of Japan showing Niigata Prefecture with Urasa, Koide, and Muikamachi marked relative to Niigata City, Nagaoka City, and Tokyo](images/bus-local-routes/niigata-lines-map.gif)
-*Where these places actually are, relative to Tokyo: Urasa is IUJ's own station; Koide and Muikamachi are the next stations over on the local lines.*
+*Where these places are, relative to Tokyo. Urasa is IUJ's own station; Koide and Muikamachi are the next stations along the local lines.*
 
 ---
 
 ## The IUJ Campus Bus System
 
-IUJ operates its own bus fleet (managed by the General Affairs Office / FT-OGA). This is not a public bus: it's an IUJ-run service for students and staff. Timetables are posted on campus and updated by email when they change.
+IUJ runs its own buses, managed by the Office of General Affairs (FT-OGA). They aren't public buses: they carry IUJ students, faculty, staff and visitors, with some help for off-campus families as a secondary service. The timetable is on IUJ's [Bus, Train Schedules](https://www2.iuj.ac.jp/oss/current-students/iuj-bus-train-schedules/) page, and changes are announced by email.
 
-The system runs on **named stops**, not route numbers. Key stops include:
+Stops have names, not route numbers. The main ones:
 
 | Stop | What's there |
 |---|---|
-| **Toda Store** | Convenience store, first stop after IUJ on every run |
-| **Hospital** | Yukiguni Yamato Hospital; see [[Nearby Clinics & Hospitals]] |
-| **Tenno-machi** | Near Moegi Clinic |
-| **Station** (駅, Urasa Station) | Shinkansen access |
-| **Supermarket** | Beisia supermarket, main grocery run |
-| **City Office** (市役所) | Minami-Uonuma City Office and Daishi Hokuetsu Bank (now relocated inside the City Office building) |
-| **Kodomo-en** | Local childcare facility, request-only; bus won't stop unless asked before departing IUJ |
-| **MSA** | The MSA dormitory building; not all buses go here |
+| **Toda Store** | Toda grocery store, the first stop after IUJ on every run; handy for SD4, with a 7-Eleven nearby |
+| **Hospital** | Yamato Hospital and Uonuma Kikan Hospital; see [[Nearby Clinics & Hospitals]] |
+| **Tenno-machi** | Near Moegi Clinic and many off-campus family apartments |
+| **Station** (駅, Urasa Station) | Shinkansen and local trains |
+| **Supermarket** | キューピット大和 (Cupid Yamato) supermarket in Urasa, the main grocery run |
+| **City Office** (市役所) | Minami-Uonuma City Office and Daishi Hokuetsu Bank (now inside the City Office building) |
+| **Kodomo-en** | Childcare centre and schools. On the way to the station the bus stops here only if someone asks before it leaves IUJ |
+| **MSA** | The MSA dormitory building; not every bus goes here |
 
-**Bus capacity is 32 passengers, including babies**: if a bus is full, wait for the next one. Large items (baby strollers, shelves, etc.) aren't allowed on board, except luggage when you're arriving at or departing IUJ for good. Arrive at your stop **5 minutes before** the posted time; times are approximate.
+**A bus holds 32 people, babies included.** If it's full, wait for the next one. Large items such as strollers or shelves aren't allowed, except luggage when you're arriving at or leaving IUJ for good. Times are approximate, so be at your stop **5 minutes early**.
 
-> ⚠️ **Timetables change — often, and with real notice-period changes, not just corrections.** Per FT-OGA's own emails, the whole weekday/weekend timetable was revised on June 1, 2026 (extending hours, adding shopping-bus runs, rerouting the Sunday Gyomu Super bus through campus), then corrected and clarified on June 8. IUJ's July 13, 2026 announcement itself is internally inconsistent: the email text claims night bus service was being **suspended** "to optimize labor and fuel costs," but the actual attached timetable for that same date shows **no reduction at all** — identical run counts and times to the June 8 schedule. Until FT-OGA clarifies which is right, treat the "suspension" claim as unconfirmed and the times below as current.
+> ⚠️ **The timetable changes often.** FT-OGA revised the whole weekday and weekend timetable on 1 June 2026 (longer hours, more shopping-bus runs, the Sunday Gyomu Super bus rerouted through campus) and corrected it on 8 June. A 13 July 2026 email said night buses would be **suspended** to save labour and fuel costs, but the timetable attached to that same email was unchanged. The timetable on IUJ's site is still the 8 June version as of October 2026, and the times below come from it. If you hear of a change, trust the latest email.
 
 ---
 
 ## Weekday Buses
 
-Effective as of the June 8, 2026 timetable (still current as of the July 13 attachment — see the note above): **15 runs a day**, Monday–Friday, from the first (7:50 AM) to the last (10:10 PM departing IUJ, arriving back 10:44 PM). This already covers late returns; there's no separate "night bus" to wait for. Every run stops at Toda Store, Hospital, Tenno-machi, and Urasa Station; the Supermarket and City Office are only served by some runs (mid-day through evening), so check the current timetable for which. Kodomo-en is request-only.
+From the 8 June 2026 timetable: **15 runs a day**, Monday to Friday. The first leaves IUJ at 7:50 and the last at 22:10, getting back at 22:44, so late returns are covered and there's no separate night bus. Every run stops at Toda Store, Hospital, Tenno-machi and Urasa Station. Only the mid-day and early evening runs go on to the Supermarket and City Office, so check the timetable before you rely on one. Kodomo-en is request-only on the way out.
 
 ---
 
 ## Weekend Shopping Buses
 
-Separate weekend service to AEON Muikamachi (イオン六日町店, Saturdays) and Gyomu Super, near Koide (Sundays), in addition to a separate, more frequent regular bus to Urasa Station that also runs both weekend days.
+At weekends there are shopping buses to AEON Muikamachi (イオン六日町店) on Saturdays and to Gyomu Super near Koide on Sundays. A separate, more frequent bus to Urasa Station runs on both days.
 
-- **Saturday AEON bus:** 4 fixed runs (not "once or twice depending on demand"); 1st bus priority goes to off-campus and SD4 residents.
-- **Sunday Gyomu Super bus:** 6 fixed runs, with seating priority assigned by residency, not by which run you catch: **1st run**: off-campus families; **3rd, 5th**: off-campus & SD4 residents; **2nd, 4th, 6th**: on-campus residents. Earlier runs aren't simply "more capacity": they're reserved for specific resident groups.
-- **To board a weekend bus:** get a ticket, distributed about **10 minutes before departure**. Your ticket shows your assigned priority seating for the return trip; board a different time than your ticket at your own risk, first-come-first-served ("Gentlemen's rules"), and if there's no seat, you're on your own to get back.
-- Bus capacity is capped at 32 passengers (including babies) by law, same as weekday buses.
-- **Regular service is suspended on graduation day.** FT-OGA ran a one-off replacement timetable on June 27, 2026 (graduation ceremony), with runs marked for graduating-student/faculty priority vs. general use. This is a one-time event pattern, not a fixed date — expect an announcement before each graduation, not a recurring "late June" rule.
+- **Saturday AEON bus:** 4 fixed runs. Off-campus and SD4 residents have priority on the first one.
+- **Sunday Gyomu Super bus:** 6 fixed runs, each with priority for a set group: **1st**, off-campus families; **3rd and 5th**, off-campus and SD4 residents; **2nd, 4th and 6th**, on-campus residents.
+- **Boarding:** you need a ticket, handed out about **10 minutes before departure**. The ticket shows which return bus you have priority on. If you try another one, you board only if there's room after the ticket holders ("Gentlemen's rules"). If there's no seat, you get back at your own expense.
+- The 32-passenger limit (babies included) is a legal limit and applies at weekends too.
+- **Graduation day has its own timetable.** On 27 June 2026, the graduation ceremony, FT-OGA replaced the regular service with a one-off timetable, with some runs reserved for graduating students and faculty. Expect a similar announcement before each graduation.
 
 ---
 
 ## Taxi
 
-Available from Urasa Station. No Uber or rideshare in this area.
+Taxis wait at Urasa Station. There's no Uber or ride-sharing here.
 
-- Approximate fare: Urasa Station → IUJ ~¥1,000–1,500
-- Essential for late-night returns when the bus isn't running
-- No standing taxi service: arrange in advance for late returns or use whatever is at the station rank
-- **The former 10 PM weekday night taxi service was discontinued as of June 1, 2026** (per FT-OGA), when the campus bus's operating hours were extended to cover late returns instead. FT-OGA's July 13 email claims that extended coverage was then suspended for summer, but the actual timetable for that date doesn't back that up — see the note above. Confirm with OSS if you're planning a very late return.
+- The fare from Urasa Station to IUJ is roughly ¥1,000-1,500 (students' estimate)
+- A taxi is your option for late nights when the bus has stopped
+- Taxis don't wait around all night, so book one in advance for a late return, or take whatever is at the station rank
+- **The 10 PM weekday night taxi was discontinued on 1 June 2026** (per FT-OGA), when the bus hours were extended to cover late returns. Because of the July email above, check the current timetable, or ask OSS, before a very late return.
 
 ---
 
 ## Getting Around Without a Car
 
-**Practical hierarchy:**
-1. **Bicycle**: best for Beisia runs, station trips in non-winter months. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]]
-2. **IUJ campus bus**: for Shinkansen travel, supermarket, City Office
-3. **Weekend shopping bus**: AEON (Sat) and Gyomu Super (Sun)
-4. **Carpool with a car-owning student**: often the most practical option for bigger trips or off-schedule errands. See [[Carpooling — Student Networks]]
-5. **Taxi**: for emergencies and late nights
+**In rough order of usefulness:**
+1. **Bicycle:** best for supermarket runs and station trips outside winter. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]]
+2. **IUJ campus bus:** for the Shinkansen, the supermarket and the City Office
+3. **Weekend shopping bus:** AEON on Saturdays, Gyomu Super on Sundays
+4. **A ride with a student who has a car:** often the easiest way to do bigger trips or errands outside bus times. See [[Carpooling — Student Networks]]
+5. **Taxi:** for emergencies and late nights
 
 ---
 
 ## Bus Rules
 
-Students are reminded by OSS to:
-- Board and exit only at designated stops, not mid-route
-- Not cross in front of the bus at the last moment
-- Keep the bus clean: no trash, no spills
-
-Late-night driving imposes extra fatigue on drivers; the rules matter.
+From IUJ's Bus Guide:
+- Board and get off only at bus stops. Don't run after the bus or try to flag it down.
+- Everyone wears a seatbelt, small children included, and nobody stands while the bus is moving.
+- No eating, smoking or drinking from open containers. Take your rubbish with you.
+- While you wait, stay off private property and don't block the entrances of Lawson or Toda Store.
+- Never cross around the bus. It's a common cause of accidents.
 
 ---
 
@@ -113,6 +113,6 @@ Late-night driving imposes extra fatigue on drivers; the rules matter.
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
-- Clarify with FT-OGA whether night bus service was actually reduced for summer 2026 or not — the announcement email and its own attached timetable disagree
+- Whether night buses were actually cut in summer 2026 (the 13 July email and its attached timetable disagree)
 - Local taxi company names and numbers for late-night situations
 - Tips for getting around in winter when cycling isn't viable

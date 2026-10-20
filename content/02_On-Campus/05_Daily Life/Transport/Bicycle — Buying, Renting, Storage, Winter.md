@@ -6,7 +6,7 @@ status: ready
 last_updated: 2026-10-20
 ---
 
-A bicycle makes life at IUJ much easier. Beisia, Urasa Station and the shops in town are a long walk but a short ride, and buses out here don't run often.
+A bicycle makes life at IUJ much easier. The supermarket, Urasa Station and the shops in town are a long walk but a short ride, and buses out here don't run often.
 
 You won't ride it all year, though. Niigata winters make cycling dangerous for about three to four months, so plan around that.
 
@@ -106,7 +106,7 @@ Don't abandon your bike. It leaves a problem for the next residents, and dumping
 ## Maintenance Basics
 
 - **Pump up the tyres** regularly. Most mamachari have English (Dunlop) valves, which car pumps at petrol stations often don't fit, so buy a cheap bike pump or ask a bike shop.
-- **Oil the chain** every few months, or when it starts squeaking. A ¥300 bottle of chain oil from Beisia or Daiso is fine.
+- **Oil the chain** every few months, or when it starts squeaking. A ¥300 bottle of chain oil from a home centre or Daiso is fine.
 - **Brake pads** wear down. If braking gets weak, a bike shop can replace them cheaply (around ¥500-1,000).
 - For repairs, start with the shops near IUJ listed above (Hirasei, Home Center Urasa, Shiokawa Jitensha). Otherwise, go to Nagaoka.
 

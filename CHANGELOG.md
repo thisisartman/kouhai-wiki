@@ -19,6 +19,18 @@ Senior Submissions footer are kept.
   sends readers to petrol stations, whose car pumps usually don't fit
   mamachari valves. The bell line no longer says it is a legal requirement
   everywhere, since Niigata's rule couldn't be confirmed.
+- **Bus & Local Routes.** Checked against the timetable on IUJ's site, which
+  is still the 8 June 2026 one (Last-Modified 2026-06-08 as of 2026-10-20),
+  and IUJ's Bus Guide and bus stop photos. All run counts, times and weekend
+  rules matched. Fixes: the "Supermarket" stop is キューピット大和 (Cupid
+  Yamato), as IUJ's stop photos show, not Beisia; Toda Store is a grocery
+  store; the Hospital stop also serves Uonuma Kikan Hospital; Kodomo-en is
+  request-only only on the way out. The bus rules now follow the Bus Guide.
+  The taxi fare is marked as a students' estimate (no source found).
+- **No Beisia near IUJ.** Store listings show only two Beisia stores in
+  Niigata (Niigata Toyosaka and Ojiya). Transport articles no longer mention
+  it. Other articles still do (Local Grocery Options, Laundry, Earthquake
+  Preparedness, 100 Yen & Recycle Shops) and are left for a separate fix.
 
 ## [2026-10-20] — Car parking permit and tyre storage
 
