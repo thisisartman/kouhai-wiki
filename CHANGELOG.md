@@ -33,6 +33,20 @@ Senior Submissions footer are kept.
   Transport Act (Article 78). Emergencies now say to call 119. Kei cars are
   stated as legally limited to four people. Car owners get IUJ's daiko advice
   for drinking.
+- **Driving License.** Added the 1 October 2025 tightening of foreign-licence
+  conversion (residence record with nationality required; written check now
+  50 questions at about 90%; stricter driving check). The document list now
+  asks for a 住民票 instead of a My Number card. The "simplified conversion"
+  section contradicted itself (it listed the written and driving tests for
+  exempt countries) and named countries that couldn't be confirmed; it now
+  says exempt licences take only the document and eyesight checks, confirmed
+  at the interview. Corrected: licence revocation starts at 15 points with
+  no prior record (not 25); drink-driving is up to 3 years or ¥500,000 at
+  0.15 mg/L (13 or 25 points), up to 5 years or ¥1,000,000 when drunk; the
+  JAF translation fee note no longer claims a ¥3,000 earlier price. Added
+  六日町自動車学校 in Minami-Uonuma as the nearest driving school. Sources:
+  IUJ's Drivers License page, the National Police Agency, JAF's July 2026
+  leaflet, prefectural police pages.
 - **No Beisia near IUJ.** Store listings show only two Beisia stores in
   Niigata (Niigata Toyosaka and Ojiya). Transport articles no longer mention
   it. Other articles still do (Local Grocery Options, Laundry, Earthquake
