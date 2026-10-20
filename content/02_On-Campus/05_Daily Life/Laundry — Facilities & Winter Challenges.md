@@ -29,7 +29,7 @@ IUJ dorms have shared coin-operated washing machines and dryers in a laundry roo
 
 - **Cold water wash (30°C)** is fine for most clothes and uses less electricity; select the lower temperature setting
 - **Net bags (洗濯ネット, *sentaku netto*):** Use for delicates, underwear, and anything that could snag. Available at 100 yen shops.
-- **Detergent:** Liquid detergent is easier to use in Japanese machines than powder. Available at Beisia and convenience stores. Travel-size sachets sold at conbini work for small loads.
+- **Detergent:** Liquid detergent is easier to use in Japanese machines than powder. Available at supermarkets, drugstores and convenience stores. Travel-size sachets sold at conbini work for small loads.
 - **Machine etiquette:** Don't leave your clothes in the machine after the cycle ends, since others are waiting. Set a timer on your phone.
 
 ---

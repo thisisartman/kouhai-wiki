@@ -1,5 +1,17 @@
 # Changelog
 
+## [2026-10-20] Beisia removed site-wide, article titles without em dashes
+
+- **The Urasa supermarket is Harimaya, not Beisia.** There is no Beisia near
+  IUJ (only Niigata Toyosaka and Ojiya). The IUJ bus "Supermarket" stop was
+  Cupid Yamato, which closed on 20 September 2025; Harimaya (はりまや浦佐店)
+  opened on the same site on 10 October 2025 and kept the halal section.
+  This also corrects the Transport review below, which named Cupid Yamato
+  from IUJ's older stop photos. Local Grocery Options now has a Harimaya
+  section (facts as already sourced in Indian Food Sources); Laundry,
+  Earthquake Preparedness and 100 Yen & Recycle Shops now name generic shop
+  types instead.
+
 ## [2026-10-20] Transport section review
 
 The maintainer's suggestion that the whole Transport section needs work and
