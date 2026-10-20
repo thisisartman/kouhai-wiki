@@ -1,5 +1,5 @@
 ---
-title: Seasons & Weather — Month by Month
+title: "Seasons & Weather: Month by Month"
 section: 02_On-Campus/05_Daily Life
 tags: [daily-life, weather, seasons, winter, niigata]
 status: ready

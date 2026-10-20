@@ -1,5 +1,5 @@
 ---
-title: Seasonal Activities — Skiing, Hanami, Matsuri
+title: "Seasonal Activities: Skiing, Hanami, Matsuri"
 section: 03_Off-Campus/01_Travel & Leisure
 tags: [travel, leisure, skiing, hanami, matsuri, seasons, unverified]
 status: ready

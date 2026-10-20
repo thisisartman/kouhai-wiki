@@ -1,5 +1,5 @@
 ---
-title: JP Bank vs Daishi — Comparison & How to Open
+title: "JP Bank vs Daishi: Comparison & How to Open"
 section: 02_On-Campus/02_Finance & Banking
 tags: [banking, JP-bank, Daishi, money, finance]
 status: ready

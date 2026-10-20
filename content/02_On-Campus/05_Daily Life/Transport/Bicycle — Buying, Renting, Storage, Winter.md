@@ -1,5 +1,5 @@
 ---
-title: Bicycle — Buying, Renting, Storage, Winter
+title: "Bicycle: Buying, Renting, Storage, Winter"
 section: 02_On-Campus/05_Daily Life
 tags: [transport, bicycle, daily-life, winter]
 status: ready

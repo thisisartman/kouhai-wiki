@@ -1,5 +1,5 @@
 ---
-title: Thesis Guide (IR) — Supervisor, Timeline, Tips
+title: "Thesis Guide (IR): Supervisor, Timeline, Tips"
 section: 02_On-Campus/04_Academics/Term-wise Advice
 tags: [academics, thesis, IR, research, supervisor, needs-input, unverified]
 status: needs-work

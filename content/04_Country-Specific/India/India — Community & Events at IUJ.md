@@ -1,5 +1,5 @@
 ---
-title: India — Community & Events at IUJ
+title: "India: Community & Events at IUJ"
 section: 04_Country-Specific/India
 tags: [india, community, events, country-specific, needs-input, empty]
 status: needs-work

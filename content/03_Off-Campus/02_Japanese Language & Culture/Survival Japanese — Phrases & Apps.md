@@ -1,5 +1,5 @@
 ---
-title: Survival Japanese — Phrases & Apps
+title: "Survival Japanese: Phrases & Apps"
 section: 03_Off-Campus/02_Japanese Language & Culture
 tags: [japanese, language, phrases, apps, daily-life, survival]
 status: ready

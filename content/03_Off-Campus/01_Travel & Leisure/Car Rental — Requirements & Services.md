@@ -1,5 +1,5 @@
 ---
-title: Car Rental — Requirements & Services
+title: "Car Rental: Requirements & Services"
 section: 03_Off-Campus/01_Travel & Leisure
 tags: [transport, car, rental, daily-life]
 status: ready

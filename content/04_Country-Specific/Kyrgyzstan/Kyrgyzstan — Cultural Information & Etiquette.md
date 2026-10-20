@@ -1,5 +1,5 @@
 ---
-title: Kyrgyzstan — Cultural Information & Etiquette
+title: "Kyrgyzstan: Cultural Information & Etiquette"
 section: 04_Country-Specific/Kyrgyzstan
 tags: [kyrgyzstan, culture, etiquette, country-specific, needs-input, empty]
 status: needs-work
