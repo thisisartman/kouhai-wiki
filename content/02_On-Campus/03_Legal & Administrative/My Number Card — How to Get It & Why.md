@@ -1,5 +1,5 @@
 ---
-title: My Number Card — How to Get It & Why
+title: "My Number Card: How to Get It & Why"
 section: 02_On-Campus/03_Legal & Administrative
 tags: [my-number, マイナンバー, legal, admin, ID]
 status: ready

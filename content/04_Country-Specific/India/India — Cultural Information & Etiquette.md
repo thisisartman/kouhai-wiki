@@ -1,5 +1,5 @@
 ---
-title: India — Cultural Information & Etiquette
+title: "India: Cultural Information & Etiquette"
 section: 04_Country-Specific/India
 tags: [india, culture, etiquette, country-specific, needs-input, empty]
 status: needs-work

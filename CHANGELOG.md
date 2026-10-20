@@ -11,6 +11,12 @@
   section (facts as already sourced in Indian Food Sources); Laundry,
   Earthquake Preparedness and 100 Yen & Recycle Shops now name generic shop
   types instead.
+- **No em dashes in article titles.** All 40 titles that used "X — Y" now
+  read "X: Y" (quoted in the frontmatter, as the term articles already
+  were). On the maintainer's decision, only the displayed `title:` changed:
+  filenames, URLs and wikilinks are untouched, because alias redirects are
+  switched off and renaming would break every old link. Link text that
+  shows a filename can still contain the dash.
 
 ## [2026-10-20] Transport section review
 

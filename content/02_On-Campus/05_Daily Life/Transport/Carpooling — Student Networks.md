@@ -1,5 +1,5 @@
 ---
-title: Carpooling — Student Networks
+title: "Carpooling: Student Networks"
 section: 02_On-Campus/05_Daily Life
 tags: [transport, carpooling, daily-life, community, needs-input]
 status: needs-work

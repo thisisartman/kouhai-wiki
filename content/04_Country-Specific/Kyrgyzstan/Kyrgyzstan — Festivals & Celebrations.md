@@ -1,5 +1,5 @@
 ---
-title: Kyrgyzstan — Festivals & Celebrations
+title: "Kyrgyzstan: Festivals & Celebrations"
 section: 04_Country-Specific/Kyrgyzstan
 tags: [kyrgyzstan, festivals, culture, country-specific, needs-input, empty]
 status: needs-work

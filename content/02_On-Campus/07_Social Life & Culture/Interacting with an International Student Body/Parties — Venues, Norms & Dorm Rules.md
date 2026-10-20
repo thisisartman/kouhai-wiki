@@ -1,5 +1,5 @@
 ---
-title: Parties — Venues, Norms & Dorm Rules
+title: "Parties: Venues, Norms & Dorm Rules"
 section: 02_On-Campus/07_Social Life & Culture/Interacting with an International Student Body
 tags: [social, parties, events, dorm, culture, unverified]
 status: needs-work

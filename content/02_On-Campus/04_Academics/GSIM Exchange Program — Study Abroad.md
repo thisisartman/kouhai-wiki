@@ -1,5 +1,5 @@
 ---
-title: GSIM Exchange Program — Study Abroad
+title: "GSIM Exchange Program: Study Abroad"
 section: 02_On-Campus/04_Academics
 tags: [academics, exchange, study-abroad, unverified, needs-input]
 status: needs-work

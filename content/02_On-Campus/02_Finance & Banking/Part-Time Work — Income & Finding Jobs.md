@@ -1,5 +1,5 @@
 ---
-title: Part-Time Work — Income & Finding Jobs
+title: "Part-Time Work: Income & Finding Jobs"
 section: 02_On-Campus/02_Finance & Banking
 tags: [part-time, work, income, jobs, finance]
 status: ready

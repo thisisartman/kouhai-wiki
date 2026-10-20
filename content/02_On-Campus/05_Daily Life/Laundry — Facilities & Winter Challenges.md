@@ -1,5 +1,5 @@
 ---
-title: Laundry — Facilities & Winter Challenges
+title: "Laundry: Facilities & Winter Challenges"
 section: 02_On-Campus/05_Daily Life
 tags: [daily-life, laundry, facilities, winter]
 status: ready

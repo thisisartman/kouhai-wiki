@@ -1,5 +1,5 @@
 ---
-title: Local Attractions — Urasa, Nagaoka, Niigata City
+title: "Local Attractions: Urasa, Nagaoka, Niigata City"
 section: 03_Off-Campus/01_Travel & Leisure
 tags: [travel, leisure, local, niigata, attractions, unverified]
 status: ready
