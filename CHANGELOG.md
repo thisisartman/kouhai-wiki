@@ -56,6 +56,14 @@ Senior Submissions footer are kept.
   and JR East's plan to merge its Suica areas by March 2027. "All local buses
   take IC cards" is now a warning that buses around Urasa may be cash only.
   The dead-battery tip is now specific to iPhone Express Mode.
+- **Car Ownership.** Today's permit and tyre-storage facts kept as written.
+  Fixed: the Goo-net link pointed at goo.gl (Google's old link shortener),
+  now goo-net.com; shaken is every two years, not "bi-annual"; parking at
+  IUJ is free with the OSS permit; the car tax is billed by the prefecture
+  (ordinary cars) or the city (kei cars), with IUJ's dates kept and readers
+  told to go by their bill; kei tax varies with the car's age; fuel is
+  around ¥170/L (national average, September 2026). Removed the unsourced
+  claim that Gulliver supports English.
 - **No Beisia near IUJ.** Store listings show only two Beisia stores in
   Niigata (Niigata Toyosaka and Ojiya). Transport articles no longer mention
   it. Other articles still do (Local Grocery Options, Laundry, Earthquake
