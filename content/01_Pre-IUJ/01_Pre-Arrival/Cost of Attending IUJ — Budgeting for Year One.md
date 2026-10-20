@@ -1,5 +1,5 @@
 ---
-title: Cost of Attending IUJ — Budgeting for Year One
+title: "Cost of Attending IUJ: Budgeting for Year One"
 section: 01_Pre-IUJ/01_Pre-Arrival
 tags: [finance, budgeting, tuition, cost-of-living, unverified]
 status: needs-work

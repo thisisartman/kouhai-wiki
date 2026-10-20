@@ -1,5 +1,5 @@
 ---
-title: Scholarship Management — Stipend & Tax Notes
+title: "Scholarship Management: Stipend & Tax Notes"
 section: 02_On-Campus/02_Finance & Banking
 tags: [finance, scholarship, stipend, tax, banking, unverified, needs-input]
 status: needs-work

@@ -1,5 +1,5 @@
 ---
-title: Car Ownership — Buying Used
+title: "Car Ownership: Buying Used"
 section: 02_On-Campus/05_Daily Life
 tags: [transport, car, ownership, daily-life, needs-input, unverified]
 status: needs-work

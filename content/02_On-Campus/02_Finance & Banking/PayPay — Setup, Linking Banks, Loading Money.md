@@ -1,5 +1,5 @@
 ---
-title: PayPay — Setup, Linking Banks, Loading Money
+title: "PayPay: Setup, Linking Banks, Loading Money"
 section: 02_On-Campus/02_Finance & Banking
 tags: [PayPay, payments, cashless, finance, apps]
 status: ready

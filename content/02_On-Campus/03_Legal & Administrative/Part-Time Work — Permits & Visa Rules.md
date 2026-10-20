@@ -1,5 +1,5 @@
 ---
-title: Part-Time Work — Permits & Visa Rules
+title: "Part-Time Work: Permits & Visa Rules"
 section: 02_On-Campus/03_Legal & Administrative
 tags: [part-time, work, visa, legal, permits, residence-card, unverified]
 status: needs-work

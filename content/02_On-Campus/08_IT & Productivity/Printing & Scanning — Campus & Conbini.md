@@ -1,5 +1,5 @@
 ---
-title: Printing & Scanning — Campus & Conbini
+title: "Printing & Scanning: Campus & Conbini"
 section: 02_On-Campus/08_IT & Productivity
 tags: [daily-life, printing, scanning, campus, convenience-store]
 status: ready

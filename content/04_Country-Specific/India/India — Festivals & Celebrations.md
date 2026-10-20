@@ -1,5 +1,5 @@
 ---
-title: India — Festivals & Celebrations
+title: "India: Festivals & Celebrations"
 section: 04_Country-Specific/India
 tags: [india, festivals, culture, country-specific, needs-input, empty]
 status: needs-work

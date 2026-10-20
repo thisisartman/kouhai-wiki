@@ -1,5 +1,5 @@
 ---
-title: Online Shopping — Amazon JP, Shein, Temu
+title: "Online Shopping: Amazon JP, Shein, Temu"
 section: 02_On-Campus/05_Daily Life
 tags: [shopping, online, amazon, daily-life]
 status: ready

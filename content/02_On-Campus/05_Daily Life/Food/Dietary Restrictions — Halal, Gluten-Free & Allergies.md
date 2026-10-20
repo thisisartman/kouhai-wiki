@@ -1,5 +1,5 @@
 ---
-title: Dietary Restrictions — Halal, Gluten-Free & Allergies
+title: "Dietary Restrictions: Halal, Gluten-Free & Allergies"
 section: 02_On-Campus/05_Daily Life
 tags: [food, halal, gluten-free, allergies, dietary-restrictions]
 status: ready
