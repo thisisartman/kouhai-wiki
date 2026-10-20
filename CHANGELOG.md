@@ -1,5 +1,24 @@
 # Changelog
 
+## [2026-10-20] — Car parking permit and tyre storage
+
+Two senior suggestions from a first-hand visit to OSS and the Dorm Staff
+Office, logged in `suggestions-log.csv`.
+
+- **Car Ownership: parking-permit list corrected.** The permit is free
+  (OSS hands you a form), the insurance copy is the compulsory Jibaiseki
+  Hoken rather than the voluntary Nin-i Hoken, and students sharing a car
+  can be added to the form by name and student ID. The OSS web page still
+  shows the old list; OSS is being asked by email to update it, so the
+  article does not discuss the discrepancy.
+- **Car Ownership: tyre storage added.** Off-season tyres can go in the
+  SD2 dorm storage for a one-time ¥2,000, arranged and paid at the Dorm
+  Staff Office after registering the car with OSS.
+- The Senior Submissions footer now says these details come from a
+  senior's own visits.
+- A third suggestion (the whole Transport section needs verification) is
+  logged as Open until its scope is decided.
+
 ## [2026-10-13] — Contributor credits and a no-referral-links rule
 
 - **Ricardo Gamaliel credited** on the About page for the microwave
