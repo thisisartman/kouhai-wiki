@@ -27,6 +27,12 @@ Senior Submissions footer are kept.
   store; the Hospital stop also serves Uonuma Kikan Hospital; Kodomo-en is
   request-only only on the way out. The bus rules now follow the Bus Guide.
   The taxi fare is marked as a students' estimate (no source found).
+- **Carpooling.** Still marked as needing senior input. The made-up
+  "¥200-500 per trip" norm is gone; riders now split the actual fuel, toll
+  and parking costs, with a note that charging more is illegal under the Road
+  Transport Act (Article 78). Emergencies now say to call 119. Kei cars are
+  stated as legally limited to four people. Car owners get IUJ's daiko advice
+  for drinking.
 - **No Beisia near IUJ.** Store listings show only two Beisia stores in
   Niigata (Niigata Toyosaka and Ojiya). Transport articles no longer mention
   it. Other articles still do (Local Grocery Options, Laundry, Earthquake

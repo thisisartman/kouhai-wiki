@@ -3,34 +3,34 @@ title: Carpooling — Student Networks
 section: 02_On-Campus/05_Daily Life
 tags: [transport, carpooling, daily-life, community, needs-input]
 status: needs-work
-last_updated: 2026-05-28
+last_updated: 2026-10-20
 ---
 
-Carpooling is essential at IUJ. A minority of students have cars; the majority benefit from rides for grocery runs, Nagaoka trips, ski days, and the occasional emergency. Knowing how this works from day one saves hassle and builds goodwill.
+Most IUJ students don't have a car, so rides from the few who do matter a lot: for grocery runs, trips to Nagaoka, ski days and the odd urgent errand. It helps to know how this works from your first week.
 
-> 🔶 This article needs senior input on the specific norms, tools, and culture at IUJ. The structure below is based on general knowledge of small international campus communities.
+> 🔶 This article needs senior input on how rides are actually arranged at IUJ. The outline below is how it usually works on small international campuses.
 
 ---
 
 ## Why Carpooling Matters at IUJ
 
-- No Uber or rideshare in Minami-Uonuma
-- Buses to Nagaoka are infrequent
-- Grocery runs, winter travel, ski trips, and hospital visits are much easier with a car
-- Car owners are community assets: treat them accordingly
+- There's no Uber or ride-sharing in Minami-Uonuma
+- Buses to Nagaoka don't run often
+- Grocery runs, winter travel, ski trips and hospital visits are much easier with a car
+- Students with cars help a lot of people, so treat them well
 
 ---
 
 ## How It Works at IUJ
 
-> 🔶 Senior input needed: Is there a dedicated LINE group? WhatsApp? A notice board? How do students typically coordinate rides?
+> 🔶 Senior input needed: is there a LINE or WhatsApp group for rides, or a notice board? How do students usually arrange them?
 
-The general pattern at small international campuses:
-- Car owners post available seats in a student group chat
-- Passengers contribute fuel money proportional to their share
-- For regular routes (e.g. weekly Beisia run), informal standing arrangements form
+On most small international campuses:
+- Drivers post free seats in a student group chat
+- Passengers share the cost of the trip
+- Regular trips, like a weekly grocery run, turn into standing arrangements
 
-**Fuel contribution norm:** Typically ¥200–500 per person per trip depending on distance. Confirm with the driver: some don't ask, but offering is always correct.
+**Sharing costs:** split the actual cost of fuel, plus tolls and parking if there are any. Ask the driver what they'd like. Some won't take anything, but you should always offer. A driver mustn't charge more than the real cost: in Japan, carrying passengers for payment in a private car is illegal under the Road Transport Act (Article 78), which is what unlicensed "shirotaku" taxis get caught for. Sharing the actual fuel cost is generally allowed.
 
 ---
 
@@ -38,33 +38,34 @@ The general pattern at small international campuses:
 
 | Trip | Notes |
 |---|---|
-| Weekly grocery run (Beisia) | Most common; usually informal, regular groups |
-| Nagaoka day trip | Shopping, Aeon, appointments; coordinate in advance |
-| Ski resort (Hakkaisanroku, Muica, Muikamachi Hakkaisan; farther: Yuzawa, GALA, Naeba) | Popular group trips; advance planning, split car rental or catch a ride |
-| Hospital / clinic | Important to know who can help in an emergency |
-| Airport (Niigata) | Long distance; fuel contribution should reflect this |
-| Tokyo / overnight trips | Rare but some students share long drives |
+| Weekly grocery run | The most common; usually a regular, informal group |
+| Nagaoka day trip | Shopping, AEON, appointments; arrange it in advance |
+| Ski resort (Hakkaisanroku, Muica, Muikamachi Hakkaisan; farther: Yuzawa, GALA, Naeba) | Popular group trips; plan ahead, and either split a rental car or get a ride |
+| Hospital / clinic | Worth knowing who can help. In a real emergency, call **119** for an ambulance instead of looking for a ride |
+| Airport (Niigata) | A long drive, so the fuel share is bigger |
+| Tokyo / overnight trips | Rare, but some students share long drives |
 
 ---
 
 ## Etiquette
 
-- **Be on time.** The driver is doing you a favour; don't make them wait.
-- **Offer fuel contribution** proactively: don't wait to be asked.
-- **Help navigate** if the driver needs it.
-- **Don't overload the car**: K-cars have limited space and legal passenger limits.
-- **Reciprocate where you can**: share useful information, help with other tasks, or return the favour in other ways.
+- **Be on time.** The driver is doing you a favour, so don't keep them waiting.
+- **Offer your share of the costs** before you're asked.
+- **Help with directions** if the driver wants it.
+- **Don't overload the car.** A kei car (the small yellow-plate cars) is legally limited to four people, driver included.
+- **Return the favour** where you can, with information, help or a ride of your own later.
 
 ---
 
 ## For Car Owners
 
-If you own a car, you'll be asked for rides frequently. Setting clear expectations early is fine:
-- Post when you're doing regular runs
-- State your fuel contribution expectation upfront
-- It's okay to say no; just be consistent
+If you have a car, people will ask you for rides a lot. It's fine to set expectations early:
+- Post when you do regular runs
+- Say up front how you'd like to split costs
+- It's okay to say no; just be consistent about it
+- If you've been drinking, don't drive. IUJ recommends the local "daiko" service, which drives you and your car home for a bit more than a taxi fare
 
-Joining a student driver network (if one exists) formalises this and reduces ad-hoc requests.
+A drivers' group, if one exists, makes this more organised and cuts down on one-off requests.
 
 ---
 
