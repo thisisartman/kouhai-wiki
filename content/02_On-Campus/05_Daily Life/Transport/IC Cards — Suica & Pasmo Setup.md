@@ -3,67 +3,71 @@ title: IC Cards — Suica & Pasmo Setup
 section: 02_On-Campus/05_Daily Life
 tags: [transport, ic-card, suica, pasmo, daily-life]
 status: ready
-last_updated: 2026-09-10
+last_updated: 2026-10-20
 ---
 
-An IC card is a rechargeable contactless card used for trains, buses, and many shops across Japan. Get one as soon as you arrive: it's the single most useful piece of infrastructure for daily life in Japan.
+An IC card is a rechargeable contactless card for trains, buses and many shops across Japan. Get one as soon as you arrive. You'll use it almost every time you travel.
 
 ---
 
 ## Suica vs Pasmo: What's the Difference?
 
-Almost none, for practical purposes. Both work on the same network and are accepted everywhere the other is. The difference is historical (different issuing companies) and regional (Suica = JR East, Pasmo = Tokyo Metro/private railways).
+For everyday use, almost none. They work on the same network and each is accepted wherever the other is. They were issued by different companies (Suica by JR East, Pasmo by Tokyo Metro and the private railways), and that's the only real difference. They're the two most common cards in the country.
 
-**For IUJ students:** get a **physical card**. Mobile Suica sounds more convenient and often is not, for reasons covered below.
+**For IUJ students:** get a **physical card**. Mobile Suica sounds easier, but often isn't, for the reasons below.
 
 ---
 
 ## Option 1: Physical Suica or Pasmo Card (Recommended)
 
-> ⚠️ **Urasa Station has no IC card machines.** You cannot buy or top up a card there. Get yours at a larger JR station on your way in, such as at the airport or at Echigo-Yuzawa or Nagaoka when you change trains. Ticket machines at Urasa do accept IC cards as *payment*, they just will not issue or charge one.
+> ⚠️ **Urasa Station has no IC card machines.** You can't buy a card or top one up there. Get yours at a bigger JR station on your way in: at the airport, or at Echigo-Yuzawa or Nagaoka when you change trains.
 
-**At a machine that does issue them:**
+**At a machine that sells them:**
 1. Select "Suica" or "IC Card"
-2. Choose a load amount (¥1,000–10,000)
-3. Pay: ¥500 is held as a deposit (refundable when you return the card)
-4. Card is issued on the spot
+2. Choose how much to load (¥1,000-10,000)
+3. Pay. ¥500 of it is a deposit, which you get back when you return the card.
+4. The card comes out straight away
 
-**Loading more money:** any ticket machine with a Suica/IC mark, or at convenience stores (ask for チャージ, *chāji* = top-up). Since Urasa cannot top you up, the conbini route is the practical one once you are on campus.
+Cards are on sale again after a shortage stopped sales in 2023. JR East said in August 2026 that it will stop selling the current penguin design once stock runs out, so the card you get may look different.
+
+**Adding money:** use any ticket machine with the Suica/IC mark, or a convenience store counter (ask for チャージ, *chāji*, which means top-up). Since Urasa can't top you up, the convenience store is the easy way once you're on campus.
 
 ---
 
 ## Option 2: Mobile Suica
 
-Adding Suica to Apple Wallet or Google Wallet works, with real caveats that catch out students arriving with a phone bought outside Japan.
+You can add Suica to Apple Wallet or Google Wallet, but there are catches for students whose phones were bought outside Japan.
 
-> ⚠️ **The Suica app itself is only reliable on a phone bought in Japan.** On an overseas-bought handset, add the card through **Google Wallet** (Android) or Apple Wallet rather than the Suica app. Some overseas-issued cards are also refused for top-ups. If it does not work on the first try, this is why, and the physical card is the fix.
+> ⚠️ **The Suica app is only reliable on a phone bought in Japan.** On a phone from overseas, add the card through **Google Wallet** (Android) or Apple Wallet instead of the Suica app. Some overseas cards are also refused for top-ups. If it doesn't work first time, that's probably why, and a physical card solves it.
 
 **iPhone:**
-1. Open Wallet app → tap + → search "Suica"
-2. Select card type and load amount with a credit/debit card (Visa/Mastercard international cards work)
-3. Done: tap your phone to any Suica reader
+1. Open Wallet, tap +, and search for "Suica"
+2. Choose the card type and load money with a credit or debit card (international Visa and Mastercard work)
+3. That's it: tap your phone on any Suica reader
 
 **Android:**
-1. Add via **Google Wallet** (preferred over the Suica app, see the warning above)
-2. Same process: load with an international Visa/Mastercard
+1. Add it through **Google Wallet** (better than the Suica app; see the warning above)
+2. Load it the same way, with an international Visa or Mastercard
 
-**Pros:** No physical card to lose, always on your phone, easy to top up
-**Cons:** Needs an NFC-capable phone, depends on battery, and the setup route differs depending on where the phone was bought
+**Pros:** nothing to lose, always on your phone, easy to top up
+**Cons:** needs a phone with NFC, depends on your battery, and how you set it up depends on where the phone was bought
 
-> 💡 Mobile Suica works even when your phone is off: there's a small reserve charge that allows exit from a station after battery dies.
+> 💡 On recent iPhones, Express Mode keeps Suica working for a few hours after the battery dies, so you can still get out of the station.
 
 ---
 
 ## Where IC Cards Work
 
-- All local buses in the Nagaoka/Urasa area
-- Shinkansen non-reserved local services (limited; Shinkansen usually requires separate tickets)
+- Trains and many buses (local buses around Urasa may still take cash only, so carry some coins)
+- The Joetsu Shinkansen's non-reserved seats, through JR East's **Touch de Go Shinkansen** service: register your card once, then tap through the Shinkansen gates on the Tokyo to Niigata line. Because Urasa has no IC card machines, ask the station staff there whether you can tap in before you rely on it.
 - Convenience stores (7-Eleven, Lawson, FamilyMart)
-- Vending machines (most of them)
+- Most vending machines
 - Supermarkets and many shops
 - Coin lockers at stations
 
-> ⚠️ IC cards do **not** cover reserved Shinkansen seats; you need a separate ticket for those. See [[Shinkansen Strategy]].
+> ⚠️ IC cards don't cover **reserved** Shinkansen seats; you need a ticket for those. See [[Shinkansen Strategy]].
+
+JR East has announced that its six separate Suica areas will become one by the end of the 2026 financial year (March 2027).
 
 ---
 
@@ -71,12 +75,12 @@ Adding Suica to Apple Wallet or Google Wallet works, with real caveats that catc
 
 | Method | Notes |
 |---|---|
-| Station ticket machines | Main method; accepts cash |
-| Convenience store counter | Tell staff チャージ and hand over cash + card |
-| Mobile Suica app | Credit/debit card; instant |
-| Suica-linked bank account | Advanced setup; auto top-up possible |
+| Station ticket machines | The usual way; takes cash |
+| Convenience store counter | Say チャージ and hand over cash and the card |
+| Mobile Suica | Credit or debit card; instant |
+| Suica linked to a bank account | More setup; can top up automatically |
 
-**How much to load:** ¥2,000–3,000 is comfortable for a week of local bus use. Top up before long travel.
+**How much to load:** ¥2,000-3,000 is plenty for a week of local buses. Top up before a long trip.
 
 ---
 

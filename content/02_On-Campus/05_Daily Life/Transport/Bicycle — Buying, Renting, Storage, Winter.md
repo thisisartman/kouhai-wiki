@@ -3,110 +3,112 @@ title: Bicycle — Buying, Renting, Storage, Winter
 section: 02_On-Campus/05_Daily Life
 tags: [transport, bicycle, daily-life, winter]
 status: ready
-last_updated: 2026-07-19
+last_updated: 2026-10-20
 ---
 
-A bicycle is the single best quality-of-life investment you can make at IUJ. Beisia, the station, and local spots that are impractical on foot become routine. It's also how you stay sane in a rural environment with limited public transport.
+A bicycle makes life at IUJ much easier. The supermarket, Urasa Station and the shops in town are a long walk but a short ride, and buses out here don't run often.
 
-The caveat: Niigata winter makes cycling dangerous and impractical for roughly 3–4 months. Plan for that.
+You won't ride it all year, though. Niigata winters make cycling dangerous for about three to four months, so plan around that.
 
 ---
 
 ## Buying a Bicycle
 
 ### Recycle Shops (Recommended)
-The best value. The nearest are Hard Off / Off House inside AEON Muikamachi (Saturday shopping bus) and Off House 六日町インター店; Nagaoka has more. They regularly have decent used bicycles for ¥3,000–8,000.
+This is the cheapest way to get a decent bike. The nearest are Hard Off / Off House inside AEON Muikamachi (take the Saturday shopping bus) and Off House 六日町インター店. Nagaoka has more. Used bikes there usually cost ¥3,000-8,000.
 
 **What to check before buying:**
-- Brakes: squeeze both levers hard; the wheel should lock immediately
-- Tyres: no cracks, reasonable pressure
-- Chain: shouldn't be stiff or rusty; should rotate smoothly
-- Gears: if it has them, test shifting
-- Bell: legally required in Japan
-- Lights: legally required at night; check front and rear
+- Brakes: squeeze both levers hard. The wheel should lock straight away.
+- Tyres: no cracks, and they should hold air.
+- Chain: it should turn smoothly, not feel stiff or rusty.
+- Gears: if it has them, try every shift.
+- Bell: most prefectures require one. If the bike has none, fit one.
+- Lights: you must use a front and rear light (or reflector) at night. Check both work.
 
-> 💡 Bring a senior or anyone who knows bikes if you're not confident assessing condition. Many students have bought a bike that lasted a week.
+> 💡 If you can't judge a bike's condition, take a senior or a friend who knows bikes. Plenty of students have bought one that broke within a week.
 
 ### New Bikes
-Available at Beisia, Aeon, or Homac (home improvement stores in Nagaoka). Budget ¥10,000–20,000 for a basic mamachari (ママチャリ, the standard Japanese everyday bike). Reliable but not exciting.
+IUJ's own guide points to Urasa Home Center near the station, Hirasei, or ordering online. A basic mamachari (ママチャリ, the ordinary Japanese shopping bike) costs about ¥10,000-20,000.
 
 ### Mercari / Student Handoffs
-Check [[Online Shopping — Amazon JP, Shein, Temu|Mercari]] for listings near Minami-Uonuma. Also ask seniors directly; departing students often sell bikes cheaply within the IUJ community.
+Search [[Online Shopping — Amazon JP, Shein, Temu|Mercari]] for listings near Minami-Uonuma. Ask seniors too. Students who are leaving often sell their bikes cheaply to someone at IUJ.
 
 ---
 
 ## Bicycle Registration (防犯登録, Bouhan Touroku)
 
-All bicycles in Japan must carry a **Bouhan Touroku** sticker: registration with the prefectural police. This is mandatory to own a bicycle in Japan at all, and IUJ requires it to park on campus.
+Every bicycle in Japan has to carry a **Bouhan Touroku** sticker, which registers it with the prefectural police. You need it to own a bike here at all, and IUJ won't let you park on campus without it.
 
-> ⚠️ **Don't buy a used bike without a Bouhan Touroku sticker already on it.** Without one, it's not considered legit in Japan and can be genuinely difficult to register with IUJ afterward.
+> ⚠️ **Don't buy a used bike that has no Bouhan Touroku sticker.** IUJ's guidance is that such a bike isn't legitimate in Japan, and it can be very hard to register it with IUJ afterwards.
 
-**Buying new online (e.g. Amazon):** the bike may arrive without Bouhan Touroku depending on the shop. If so, take it to a local bike shop with your **Residence Card** and **proof of purchase (receipt)** and pay the registration fee. Local shops near IUJ: **Hirasei**, **Home Center Urasa**, **Shiokawa Jitensha**.
+**Buying new online (e.g. Amazon):** some shops ship bikes without Bouhan Touroku. If yours arrives without it, take it to a local bike shop with your **Residence Card** and the **receipt**, and pay the registration fee there. Shops near IUJ: **Hirasei**, **Home Center Urasa**, **Shiokawa Jitensha**.
 
-**Selling or giving away your bike:** it's the seller's responsibility to hand over valid Bouhan Touroku. Some shops also require a signed Transfer of Ownership form (available in English translation) handed to the new owner.
+**Selling or giving away your bike:** the seller has to hand over valid Bouhan Touroku. Some shops also want a Transfer of Ownership form signed by the previous owner (IUJ has one with an English translation), which you give to the new owner.
 
-> ⚠️ **Mandatory bicycle insurance since April 1, 2023.** Under Niigata Prefecture's Ordinance on the Promotion of Safe and Proper Bicycle Use, every bicycle user in Niigata Prefecture must carry insurance to cover damages if you injure someone or damage property in an accident: real compensation cases have run into the tens of millions of yen. Helmets are also a "best effort" requirement under the same ordinance. Check with a local shop (e.g. Lawson sells a bicycle insurance product) about getting covered; this isn't optional and isn't the same thing as Bouhan Touroku.
+> ⚠️ **Bicycle insurance is compulsory in Niigata.** Since 1 October 2022, Niigata Prefecture's Ordinance on the Promotion of Safe and Proper Bicycle Use has required everyone who rides a bike in the prefecture to carry insurance that pays out if you injure someone or damage property. Court awards after bicycle accidents have reached tens of millions of yen. Lawson sells one such policy, and local shops can point you to others. This is separate from Bouhan Touroku.
 
-**IUJ's own registration is separate again.** In addition to Bouhan Touroku and the prefectural insurance requirement, IUJ (Dorm Staff) requires every student who owns a bicycle (including SD4 dorm residents and off-campus students) to submit 4 documents to the Dorm Staff Office (or send them electronically for electronic registration):
+> ⚠️ **Helmets and fines.** Since 1 April 2023, national law says every cyclist should make an effort to wear a helmet. There's no penalty, but IUJ asks about it when you register. Since 1 April 2026, riders aged 16 and over can be given a "blue ticket" fine on the spot for traffic violations. Riding after drinking is illegal and heavily fined.
+
+**IUJ has its own registration on top of all this.** Dorm Staff ask every student who owns a bicycle, including SD4 residents and students living off campus, to hand in four documents at the Dorm Staff Office (or send them in electronically):
 1. IUJ Bicycle Registration Form
-2. A color photo of the bicycle
+2. A colour photo of the bicycle
 3. A copy of your Bouhan Touroku card
-4. A completed sheet confirming your bicycle insurance/helmet status
+4. A completed sheet about your bicycle insurance and helmet
 
-One bicycle per person (ask Dorm Staff if you're in MSA with a spouse/children). See [sites.google.com/iuj.ac.jp/bicycle/home](https://sites.google.com/iuj.ac.jp/bicycle/home) for the current forms. IUJ periodically sweeps the dormitory and main building parking areas and **confiscates any bicycle that isn't registered or is still under a graduated student's name**, and no advance notice is given for the collection date. Register promptly after buying a bike, don't wait for a reminder email.
+The limit is one bicycle per person (ask Dorm Staff if you live in MSA with a spouse or children). The current forms are at [sites.google.com/iuj.ac.jp/bicycle/home](https://sites.google.com/iuj.ac.jp/bicycle/home). IUJ checks the dormitory and main building parking areas from time to time and **removes any bicycle that isn't registered or is still under a graduated student's name**. There's no warning before the collection date, so register as soon as you buy a bike instead of waiting for a reminder.
 
 ---
 
 ## Renting
 
-IUJ may have bicycles available for short-term rental; check with the student affairs office. Useful for the first week before you buy, or for occasional use.
+None of IUJ's public pages mention a bicycle rental service, so don't count on one. For your first week, walk or take the bus, or ask a senior if you can borrow a bike while you look for your own.
 
 ---
 
 ## Locks
 
-Get a good lock. Bicycle theft happens even in rural Japan.
+Get a good lock. Bikes get stolen in rural Japan too.
 
-- **U-lock (U字ロック):** Best security; lock the frame and rear wheel to a fixed object
-- **Chain lock:** Flexible; combine with the built-in rear wheel lock
-- The built-in wheel lock (ワイヤーロック or ring lock on the rear) is not sufficient alone: it prevents the wheel from turning but doesn't secure the bike
+- **U-lock (U字ロック):** the most secure. Lock the frame and rear wheel to something fixed.
+- **Chain lock:** more flexible. Use it together with the built-in rear wheel lock.
+- The built-in ring lock on the rear wheel isn't enough by itself. It stops the wheel turning, but someone can still carry the bike away.
 
 ---
 
 ## Winter: What Happens to Your Bike
 
-Niigata gets serious snow, typically from December through March. Cycling in snow and ice is dangerous and hard on the bike.
+Niigata gets heavy snow, usually from December to March. Riding on snow and ice is dangerous and wears the bike out.
 
 **What most students do:**
-- Store the bike from December/January when snow accumulates
-- Switch to walking, bus, and carpooling for winter
-- Resume in late March/April when roads clear
+- Put the bike away in December or January, once snow starts to pile up
+- Walk, take the bus, or carpool through the winter
+- Start riding again in late March or April, when the roads are clear
 
-**If you must cycle in winter:**
-- Snow tyres exist but are a significant extra cost and effort
-- Studded tyres work on ice but are heavy and slow
-- Most students don't bother: the infrastructure isn't there
+**If you really want to ride in winter:**
+- Snow tyres for bikes exist, but they cost extra and take effort to fit
+- Studded tyres grip on ice but are heavy and slow
+- Most students don't bother, because the roads aren't cleared with cyclists in mind
 
-**Storage:** Most dorms have a covered bike storage area. If space is limited, deflate the tyres slightly and cover the bike. Keep it off the ground if possible to avoid freeze-damage.
+**Where to park and store it:** on campus, park only in the designated places: beside the MLIC building or in the SD2 sheltered parking area. Off campus, use marked bicycle parking. Don't leave your bike at a shop or restaurant you aren't using (Lawson, or the small post office near the blue bridge), or by the lift at Urasa Station. Over winter, let a little air out of the tyres, cover the bike, and keep it off the ground if you can so it doesn't freeze.
 
 ---
 
 ## Selling Your Bike When You Leave
 
-Don't abandon your bike: it creates problems for the next residents and technically constitutes illegal dumping. Options:
+Don't abandon your bike. It leaves a problem for the next residents, and dumping a bike counts as illegal dumping. Instead:
 
-1. **Sell to an incoming student**: best outcome; post in student groups
-2. **Sell to a recycle shop**: they'll buy it for ¥500–2,000 depending on condition
-3. **Donate to the IUJ community**: if there's a tradition of this, ask around
+1. **Sell it to an incoming student.** This is the best option. Post in the student groups.
+2. **Sell it to a recycle shop.** Expect very little for it, often only a few hundred to a couple of thousand yen.
+3. **Give it away within IUJ.** Ask around whether anyone needs one.
 
 ---
 
 ## Maintenance Basics
 
-- **Pump up tyres** regularly: petrol stations have free air pumps
-- **Oil the chain** every few months or if it starts squeaking (¥300 chain oil from Beisia or Daiso works fine)
-- **Brake pads** wear over time: if braking becomes weak, a bike shop can replace them cheaply (¥500–1,000)
-- Nearest bike repair: the local shops near IUJ listed above (Hirasei, Home Center Urasa, Shiokawa Jitensha) are the first place to ask; Nagaoka otherwise
+- **Pump up the tyres** regularly. Most mamachari have English (Dunlop) valves, which car pumps at petrol stations often don't fit, so buy a cheap bike pump or ask a bike shop.
+- **Oil the chain** every few months, or when it starts squeaking. A ¥300 bottle of chain oil from a home centre or Daiso is fine.
+- **Brake pads** wear down. If braking gets weak, a bike shop can replace them cheaply (around ¥500-1,000).
+- For repairs, start with the shops near IUJ listed above (Hirasei, Home Center Urasa, Shiokawa Jitensha). Otherwise, go to Nagaoka.
 
 ---
 
