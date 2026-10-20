@@ -1,5 +1,25 @@
 # Changelog
 
+## [2026-10-20] Transport section review
+
+The maintainer's suggestion that the whole Transport section needs work and
+verification. Each article is fact-checked against IUJ's own pages and
+official sources, then rewritten in plainer language. Headings, facts and the
+Senior Submissions footer are kept.
+
+- **Bicycle.** Insurance has been compulsory in Niigata since 1 October 2022
+  (the prefecture's own page; IUJ's pages say 1 April 2023, which is when the
+  national helmet rule started). Helmets are a national "make an effort" rule,
+  not part of the prefectural ordinance. Added the blue-ticket fines for riders
+  16 and over (from 1 April 2026) and the drink-riding ban. Campus parking is
+  now the two places IUJ designates (beside MLIC, SD2 sheltered area), plus
+  IUJ's off-campus parking rules. Removed Homac in Nagaoka (no store found);
+  new bikes now point to the shops IUJ's guide names. The renting section no
+  longer claims IUJ rents bikes (no IUJ page says so). The tyre tip no longer
+  sends readers to petrol stations, whose car pumps usually don't fit
+  mamachari valves. The bell line no longer says it is a legal requirement
+  everywhere, since Niigata's rule couldn't be confirmed.
+
 ## [2026-10-20] — Car parking permit and tyre storage
 
 Two senior suggestions from a first-hand visit to OSS and the Dorm Staff
