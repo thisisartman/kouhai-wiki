@@ -47,6 +47,15 @@ Senior Submissions footer are kept.
   六日町自動車学校 in Minami-Uonuma as the nearest driving school. Sources:
   IUJ's Drivers License page, the National Police Agency, JAF's July 2026
   leaflet, prefectural police pages.
+- **IC Cards.** The maintainer's 2026-08-31 correction stays (physical card
+  first; Urasa has no IC card machines). Removed "ticket machines at Urasa
+  accept IC cards as payment", a misreading of that correction (it said
+  machines *elsewhere*). Added that cards are on sale again after the
+  2023-2025 shortage and the penguin design is being phased out (JR East,
+  August 2026), the Touch de Go Shinkansen service for non-reserved seats,
+  and JR East's plan to merge its Suica areas by March 2027. "All local buses
+  take IC cards" is now a warning that buses around Urasa may be cash only.
+  The dead-battery tip is now specific to iPhone Express Mode.
 - **No Beisia near IUJ.** Store listings show only two Beisia stores in
   Niigata (Niigata Toyosaka and Ojiya). Transport articles no longer mention
   it. Other articles still do (Local Grocery Options, Laundry, Earthquake
