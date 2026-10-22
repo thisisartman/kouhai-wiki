@@ -3,7 +3,7 @@ title: "Car Ownership: Buying Used"
 section: 02_On-Campus/05_Daily Life
 tags: [transport, car, ownership, daily-life, needs-input, unverified]
 status: needs-work
-last_updated: 2026-10-20
+last_updated: 2026-10-23
 ---
 
 A car makes life at IUJ much easier, especially in winter, when cycling stops and buses are few. Second-year students and people staying longer often have one. If you buy carefully, the upfront cost is manageable.
@@ -40,6 +40,8 @@ A driving licence isn't the only requirement. Anyone who parks a car or motorcyc
 - Your Compulsory Liability Insurance papers (Jibaiseki Hoken)
 
 If other students share the car, add their names and student IDs to the form.
+
+If you need a residence record (住民票) for registering the car or the parking permit, a 7-Eleven printout made with your My Number Card is fine. The licence conversion is stricter and needs the City Office version; see [[Driving License — Foreign Conversion & Fresh (Step-by-Step)|Driving License]].
 
 **Where to park:** dorm residents use the space near SD2 or SD3; off-campus residents use the area above or near the Baiten or the Library. The Main Entrance car park is for short-term visitors, so don't use it.
 
@@ -94,6 +96,8 @@ Voluntary insurance (任意保険) isn't required by law, but get it anyway. A s
 
 With no Japanese driving record, it can be expensive (¥50,000-80,000 a year or more), and some insurers may turn you down at first.
 
+**Driving someone else's car:** it's legal with the owner's permission, but their voluntary insurance often covers only the owner, their family or drivers in a certain age range. Check the policy first, or buy one-day car insurance (about ¥500-2,000 a day) before you drive.
+
 > 🔶 Senior input needed: which insurers have worked for IUJ international students, and roughly what did it cost?
 
 ---
@@ -119,7 +123,7 @@ Used cars sell easily in Japan. Your options:
 - **Sell on Car Sensor or Goo-net**: a better price, more work
 - **Sell to an IUJ student**: keeps the car in the community
 
-Whichever you choose, make sure the transfer or disposal is actually filed (see Car Tax Deadlines above). Don't just hand over the keys.
+Whichever you choose, make sure the transfer or disposal is actually filed (see Car Tax Deadlines above). Don't just hand over the keys. A change of owner has to be registered within 15 days, so if you're leaving Japan, do it before you go.
 
 **Minami-Uonuma's normal rubbish collection doesn't take car tyres or batteries.** Take them to a petrol station instead (there's a charge). See [[Waste Disposal & Recycling]].
 
