@@ -1,5 +1,13 @@
 # Changelog
 
+## [2026-10-23] Four suggestions from 20-22 October
+
+- **Bicycle.** Buying a used bike: also get the seller's Bouhan Touroku
+  card and a signed Transfer of Ownership form. Renting: IUJ doesn't rent
+  bikes, but the MYU tourist information desk on the 2nd floor of Urasa
+  Station rents electric-assist bikes (listed on the Niigata tourism site;
+  prices and hours not published, so readers are told to ask).
+
 ## [2026-10-20] Beisia removed site-wide, article titles without em dashes
 
 - **The Urasa supermarket is Harimaya, not Beisia.** There is no Beisia near
