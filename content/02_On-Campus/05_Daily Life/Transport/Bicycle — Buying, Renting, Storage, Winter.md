@@ -39,7 +39,7 @@ Search [[Online Shopping — Amazon JP, Shein, Temu|Mercari]] for listings near 
 
 Every bicycle in Japan has to carry a **Bouhan Touroku** sticker, which registers it with the prefectural police. You need it to own a bike here at all, and IUJ won't let you park on campus without it.
 
-> ⚠️ **Don't buy a used bike that has no Bouhan Touroku sticker.** IUJ's guidance is that such a bike isn't legitimate in Japan, and it can be very hard to register it with IUJ afterwards.
+> ⚠️ **Don't buy a used bike that has no Bouhan Touroku sticker.** IUJ's guidance is that such a bike isn't legitimate in Japan, and it can be very hard to register it with IUJ afterwards. Also get the ownership paper from the seller: their Bouhan Touroku card and a Transfer of Ownership form they've signed. You need these to put the bike in your name.
 
 **Buying new online (e.g. Amazon):** some shops ship bikes without Bouhan Touroku. If yours arrives without it, take it to a local bike shop with your **Residence Card** and the **receipt**, and pay the registration fee there. Shops near IUJ: **Hirasei**, **Home Center Urasa**, **Shiokawa Jitensha**.
 
@@ -61,7 +61,7 @@ The limit is one bicycle per person (ask Dorm Staff if you live in MSA with a sp
 
 ## Renting
 
-None of IUJ's public pages mention a bicycle rental service, so don't count on one. For your first week, walk or take the bus, or ask a senior if you can borrow a bike while you look for your own.
+IUJ doesn't rent bicycles. You can rent one at Urasa Station: the MYU tourist information desk on the station's 2nd floor rents electric-assist bikes, and you return them there (tel. 025-775-7244; ask about prices and hours). Otherwise, walk or take the bus in your first week, or ask a senior if you can borrow a bike while you look for your own.
 
 ---
 
