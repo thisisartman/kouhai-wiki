@@ -1,5 +1,31 @@
 # Changelog
 
+## [2026-10-23] Four suggestions from 20-22 October
+
+- **Bicycle.** Buying a used bike: also get the seller's Bouhan Touroku
+  card and a signed Transfer of Ownership form. Renting: IUJ doesn't rent
+  bikes, but the MYU tourist information desk on the 2nd floor of Urasa
+  Station rents electric-assist bikes (listed on the Niigata tourism site;
+  prices and hours not published, so readers are told to ask).
+- **Driving License.** Rewritten from a senior's own conversion of an Indian
+  licence (document check passed at Seirō on 22 October 2026) and the
+  centre's handouts. Corrects the 20 October version: you choose where to
+  take the tests (Seirō does both on one day, Nagaoka needs two trips),
+  rather than being sent to Nagaoka; bookings are on 025-256-4040, not
+  025-256-1212; real fees replace the ¥4,000-5,000 guess (¥2,500 per test,
+  ¥2,350 issuance). Adds: about 29 countries skip the tests; the document
+  check and a knowledge-test pass are each valid 6 months; the knowledge and
+  driving test rules; what to bring; a full document list (all passports,
+  one photo, a 住民票 with every item but no My Number, from the City
+  Office); JAF translation printing; buses and Shinkansen times to Seirō;
+  driving-school steps and costs; residential camps; the direct-test
+  practice rules; new Useful Japanese terms. Senior Submissions prompts that
+  were answered are marked received.
+- **Car Ownership.** Driving someone else's car: check their insurance or
+  buy one-day car insurance. A change of owner must be registered within 15
+  days. A 7-Eleven 住民票 printout is fine for car paperwork, unlike the
+  licence conversion.
+
 ## [2026-10-20] Beisia removed site-wide, article titles without em dashes
 
 - **The Urasa supermarket is Harimaya, not Beisia.** There is no Beisia near
