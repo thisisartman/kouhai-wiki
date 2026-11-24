@@ -25,14 +25,14 @@ For a full guide to conbini food, see [[Convenience Store Food Guide]].
 
 ---
 
-### Beisia (ベイシア), Urasa
-**Distance from IUJ:** ~10 min by car / bicycle; ~20 min on foot
-**Type:** Large supermarket + home goods + clothing
+### Harimaya (はりまや浦佐店), Urasa
+**Distance from IUJ:** the "Supermarket" stop on the IUJ bus; a 3-4 min walk from Urasa Station's east exit (浦佐1153-1)
+**Type:** Local supermarket
 
-The workhorse store for most IUJ students. Beisia is a large regional chain with a solid grocery section: produce, meat, fish, tofu, dairy, rice, noodles, snacks, frozen food. Prices are reasonable. It also has a home goods section (useful for room setup) and clothing.
+The closest supermarket to IUJ, and the one the weekday IUJ bus serves. It opened in October 2025 on the site of the old Cupid Yamato (キューピット大和), which closed that September, and kept its halal section. Open 9:00-19:00 with no fixed closing day. Takes cards, IC cards and PayPay.
 
-**Pros:** Closest large grocery option; good selection; home goods in same trip
-**Cons:** Requires transport; limited in South Asian or halal products
+**Pros:** Closest supermarket; on the weekday bus route; halal section
+**Cons:** Smaller than AEON; the bus only stops there on some runs
 
 ---
 
@@ -62,7 +62,7 @@ Don Quijote ("Donki") is open 24 hours and stocks a wide range of food, alcohol,
 **Distance from IUJ:** ~30 min by car
 **Type:** Full supermarket with shops attached
 
-Aeon is Japan's largest supermarket chain. The Nagaoka location (イオン長岡店, 古正寺1-249-1; it is not an "Aeon Mall") has a full grocery section with better variety than Beisia: more imported products, better selection of produce, and sometimes halal-friendly options. The shops around it include pharmacies, clothing, electronics, and food courts.
+Aeon is Japan's largest supermarket chain. The Nagaoka location (イオン長岡店, 古正寺1-249-1; it is not an "Aeon Mall") has a full grocery section with better variety than the Urasa supermarket: more imported products, better selection of produce, and sometimes halal-friendly options. The shops around it include pharmacies, clothing, electronics, and food courts.
 
 **Pros:** Best selection in the area; one-stop for most needs
 **Cons:** Farthest option; a dedicated trip
@@ -71,7 +71,7 @@ Aeon is Japan's largest supermarket chain. The Nagaoka location (イオン長岡
 
 ## Produce & Fresh Food Tips
 
-- **Buy produce at Beisia**: fresher and cheaper than conbini, better selection than Donki
+- **Buy produce at a supermarket** (Harimaya in Urasa, or AEON): fresher and cheaper than conbini, better selection than Donki
 - Japanese supermarkets have excellent **tofu, natto, and fresh fish**, much cheaper than in Tokyo
 - **Bargain hours:** Most supermarkets mark down meat, sushi, and bento in the evening (around 7–8pm). Look for yellow discount stickers (割引 or %).
 - **Seasonal produce is very cheap**: Niigata is rice country; local koshihikari rice is excellent and affordable. Edamame in summer, mushrooms in autumn.
@@ -93,7 +93,7 @@ Aeon is Japan's largest supermarket chain. The Nagaoka location (イオン長岡
 
 ## Getting There Without a Car
 
-- **Bicycle:** Beisia is manageable by bicycle in non-winter months. Panniers or a front basket help. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]].
+- **Bicycle:** Harimaya in Urasa is manageable by bicycle in non-winter months. Panniers or a front basket help. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]].
 - **Bus:** Check the local bus schedule for Urasa routes. See [[Bus & Local Routes]].
 - **Carpool:** Many IUJ students with cars do grocery runs and welcome passengers; ask in the student community group. See [[Carpooling — Student Networks]].
 
@@ -123,7 +123,7 @@ Aeon is Japan's largest supermarket chain. The Nagaoka location (イオン長岡
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
-- Discount timings at Beisia or other local stores
+- Discount timings at Harimaya or other local stores
 - Best seasonal buys at Japanese supermarkets
 - Budget-saving tips specific to IUJ students
 - Any other grocery options discovered near campus

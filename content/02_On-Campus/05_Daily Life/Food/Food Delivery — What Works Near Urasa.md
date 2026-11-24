@@ -1,5 +1,5 @@
 ---
-title: Food Delivery — What Works Near Urasa
+title: "Food Delivery: What Works Near Urasa"
 section: 02_On-Campus/05_Daily Life
 tags: [food, delivery, uber-eats, demae-can, rural, unverified]
 status: needs-work

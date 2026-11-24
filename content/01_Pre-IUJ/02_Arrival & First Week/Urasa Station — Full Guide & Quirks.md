@@ -1,5 +1,5 @@
 ---
-title: Urasa Station — Full Guide & Quirks
+title: "Urasa Station: Full Guide & Quirks"
 section: 01_Pre-IUJ/02_Arrival & First Week
 tags: [arrival, transport, urasa, station, shinkansen]
 status: ready

@@ -1,5 +1,5 @@
 ---
-title: International Travel — SEA & Korea
+title: "International Travel: SEA & Korea"
 section: 03_Off-Campus/01_Travel & Leisure/Vacation Planning
 tags: [travel, international, sea, korea, visa, unverified]
 status: ready
