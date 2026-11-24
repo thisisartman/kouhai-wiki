@@ -3,7 +3,7 @@ title: Car Ownership — Buying Used
 section: 02_On-Campus/05_Daily Life
 tags: [transport, car, ownership, daily-life, needs-input, unverified]
 status: needs-work
-last_updated: 2026-07-19
+last_updated: 2026-10-20
 ---
 
 Owning a car at IUJ is a significant quality-of-life upgrade (especially in winter when cycling stops and buses run infrequently). It's common among second-year students and those staying longer. The upfront cost is manageable if you buy right.
@@ -34,17 +34,20 @@ You need a Japanese driving licence or a valid IDP (International Driving Permit
 
 ## IUJ Vehicle Registration (Mandatory)
 
-Owning a car isn't just about a driving licence: anyone who parks a car or motorcycle on campus at any time must register it with **OSS** and get an **IUJ parking sticker**, no exceptions. To get your parking permit (Shako-shomei), submit copies of:
+Owning a car isn't just about a driving licence: anyone who parks a car or motorcycle on campus at any time must register it with **OSS** and get an **IUJ parking sticker**, no exceptions. To get your parking permit (Shako-shomei), fill in the form OSS gives you (**free**) and submit copies of:
 - Your valid driver's license (Japanese license, or international license + your home country's license)
 - Your Shaken-sho (car registration papers)
-- Your Third-party Insurance papers (Nin-i Hoken)
-- **¥1,000** for issuance of the permit
+- Your Compulsory Liability Insurance papers (Jibaiseki Hoken)
+
+If other students share the car, add their names and student IDs to the form.
 
 **Where to park:** dorm residents use the space near SD2 or SD3; off-campus residents use the area above or near the Baiten or Library. The Main Entrance parking area is reserved for short-term visitors; don't use it.
 
 Unregistered vehicles on IUJ premises are treated the same way as unregistered bicycles: subject to confiscation/removal during periodic sweeps. See [[Bicycle — Buying, Renting, Storage, Winter|Bicycle]] for how the parallel bicycle registration system works.
 
 **Winter note:** Snow removal in IUJ parking areas is handled by an outside contractor and clears the lot, not individual vehicles: owners are responsible for clearing snow off their own car regularly (accumulated snow can damage wipers, mirrors, antennas, and dent the roof; IUJ is not liable for this damage). If you'll be away for an extended period in winter, arrange for a friend to clear your car, and start the engine occasionally to keep it from failing to start.
+
+**Tyre storage:** you can keep your off-season set of tyres (winter or summer) in the SD2 dorm storage room. Ask at the **Dorm Staff Office** (SD1, 1st floor): it's run by Dorm Staff and you pay them a one-time **¥2,000**, which covers you until you graduate. Register your car with OSS first (see above).
 
 ---
 
@@ -136,6 +139,8 @@ Whichever route you take, make sure the ownership-transfer or disposal paperwork
 - Which car you bought, how much, and whether it was worth it
 - Where you bought it (dealer, student handoff, online)
 - Insurance provider and cost as an international student
-- Winter tyre experience: where to buy/store them near IUJ
+- Winter tyre experience: where to buy them near IUJ
 - Any bureaucratic surprises in the ownership process
 - Selling process when you left IUJ
+
+*Received so far: the parking-permit requirements and the SD2 tyre storage details come from a senior's own visits to OSS and the Dorm Staff Office (October 2026).*
