@@ -1,5 +1,74 @@
 # Changelog
 
+## [2026-10-20] Transport section review
+
+The maintainer's suggestion that the whole Transport section needs work and
+verification. Each article is fact-checked against IUJ's own pages and
+official sources, then rewritten in plainer language. Headings, facts and the
+Senior Submissions footer are kept.
+
+- **Bicycle.** Insurance has been compulsory in Niigata since 1 October 2022
+  (the prefecture's own page; IUJ's pages say 1 April 2023, which is when the
+  national helmet rule started). Helmets are a national "make an effort" rule,
+  not part of the prefectural ordinance. Added the blue-ticket fines for riders
+  16 and over (from 1 April 2026) and the drink-riding ban. Campus parking is
+  now the two places IUJ designates (beside MLIC, SD2 sheltered area), plus
+  IUJ's off-campus parking rules. Removed Homac in Nagaoka (no store found);
+  new bikes now point to the shops IUJ's guide names. The renting section no
+  longer claims IUJ rents bikes (no IUJ page says so). The tyre tip no longer
+  sends readers to petrol stations, whose car pumps usually don't fit
+  mamachari valves. The bell line no longer says it is a legal requirement
+  everywhere, since Niigata's rule couldn't be confirmed.
+- **Bus & Local Routes.** Checked against the timetable on IUJ's site, which
+  is still the 8 June 2026 one (Last-Modified 2026-06-08 as of 2026-10-20),
+  and IUJ's Bus Guide and bus stop photos. All run counts, times and weekend
+  rules matched. Fixes: the "Supermarket" stop is キューピット大和 (Cupid
+  Yamato), as IUJ's stop photos show, not Beisia; Toda Store is a grocery
+  store; the Hospital stop also serves Uonuma Kikan Hospital; Kodomo-en is
+  request-only only on the way out. The bus rules now follow the Bus Guide.
+  The taxi fare is marked as a students' estimate (no source found).
+- **Carpooling.** Still marked as needing senior input. The made-up
+  "¥200-500 per trip" norm is gone; riders now split the actual fuel, toll
+  and parking costs, with a note that charging more is illegal under the Road
+  Transport Act (Article 78). Emergencies now say to call 119. Kei cars are
+  stated as legally limited to four people. Car owners get IUJ's daiko advice
+  for drinking.
+- **Driving License.** Added the 1 October 2025 tightening of foreign-licence
+  conversion (residence record with nationality required; written check now
+  50 questions at about 90%; stricter driving check). The document list now
+  asks for a 住民票 instead of a My Number card. The "simplified conversion"
+  section contradicted itself (it listed the written and driving tests for
+  exempt countries) and named countries that couldn't be confirmed; it now
+  says exempt licences take only the document and eyesight checks, confirmed
+  at the interview. Corrected: licence revocation starts at 15 points with
+  no prior record (not 25); drink-driving is up to 3 years or ¥500,000 at
+  0.15 mg/L (13 or 25 points), up to 5 years or ¥1,000,000 when drunk; the
+  JAF translation fee note no longer claims a ¥3,000 earlier price. Added
+  六日町自動車学校 in Minami-Uonuma as the nearest driving school. Sources:
+  IUJ's Drivers License page, the National Police Agency, JAF's July 2026
+  leaflet, prefectural police pages.
+- **IC Cards.** The maintainer's 2026-08-31 correction stays (physical card
+  first; Urasa has no IC card machines). Removed "ticket machines at Urasa
+  accept IC cards as payment", a misreading of that correction (it said
+  machines *elsewhere*). Added that cards are on sale again after the
+  2023-2025 shortage and the penguin design is being phased out (JR East,
+  August 2026), the Touch de Go Shinkansen service for non-reserved seats,
+  and JR East's plan to merge its Suica areas by March 2027. "All local buses
+  take IC cards" is now a warning that buses around Urasa may be cash only.
+  The dead-battery tip is now specific to iPhone Express Mode.
+- **Car Ownership.** Today's permit and tyre-storage facts kept as written.
+  Fixed: the Goo-net link pointed at goo.gl (Google's old link shortener),
+  now goo-net.com; shaken is every two years, not "bi-annual"; parking at
+  IUJ is free with the OSS permit; the car tax is billed by the prefecture
+  (ordinary cars) or the city (kei cars), with IUJ's dates kept and readers
+  told to go by their bill; kei tax varies with the car's age; fuel is
+  around ¥170/L (national average, September 2026). Removed the unsourced
+  claim that Gulliver supports English.
+- **No Beisia near IUJ.** Store listings show only two Beisia stores in
+  Niigata (Niigata Toyosaka and Ojiya). Transport articles no longer mention
+  it. Other articles still do (Local Grocery Options, Laundry, Earthquake
+  Preparedness, 100 Yen & Recycle Shops) and are left for a separate fix.
+
 ## [2026-10-20] — Car parking permit and tyre storage
 
 Two senior suggestions from a first-hand visit to OSS and the Dorm Staff
