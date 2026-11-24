@@ -3,7 +3,7 @@ title: "Driving License: Foreign Conversion & Fresh (Step-by-Step)"
 section: 02_On-Campus/05_Daily Life
 tags: [transport, driving-license, legal, daily-life]
 status: ready
-last_updated: 2026-10-20
+last_updated: 2026-10-23
 ---
 
 To drive in Japan for longer than your International Driving Permit (IDP) allows, or if your country's IDP isn't accepted here, you need a Japanese driving licence. This article covers converting a foreign licence and getting one from scratch.
@@ -36,31 +36,65 @@ Options 2 and 3 last **one year from the day you landed in Japan**, or until the
 
 Japan lets you convert a foreign licence (外免切替, *gaimen kirikae*). How much you have to do depends on the country that issued it.
 
-> ⚠️ **The rules got stricter on 1 October 2025.** You now need a copy of your residence record (住民票, *jūminhyō*) that shows your nationality and Residence Card details. The written check went from 10 questions to 50, and you need about 90% to pass. The driving check on the course is also stricter. Older advice from seniors may not match what you'll face.
+> ⚠️ **The rules got stricter on 1 October 2025.** You now need a residence record (住民票, *jūminhyō*), so tourists can't convert any more. The knowledge test went from 10 questions to 50, and you need 45 right. The driving test now uses several courses, picked on the day. Advice from seniors who converted before October 2025 may not apply.
+
+**Which track are you on?** Licences from about 29 countries and regions skip the knowledge and driving tests and need only the document check and the eyesight test (the police keep the official list). Everyone else, including India, Indonesia, Bangladesh, Pakistan, the Philippines and China, goes through every step below.
 
 ### Steps
 
-1. Gather your documents (see below)
-2. Ask a Japanese-speaking friend to call the **聖籠町運転免許センター (Seirō-machi Unten Menkyo Center)**, tel. 025-256-1212, and book your first interview. This is the centre IUJ sends students to, in Seirō, outside Niigata City.
-3. After the interview, you'll probably be sent to the **Nagaoka branch (長岡運転免許試験場)**, tel. 0258-22-1050, for follow-up visits and testing
-4. Take an **eyesight test** (including colour vision), and unless your country is exempt, a **written check on Japanese road rules** and a **driving check** on the centre's course
-5. Pay the fees, roughly ¥4,000-5,000 in total (ask when you book)
-6. Very few people pass the driving check on the first or second try, so plan for retakes
+1. **Get your documents ready** (see the list below). Apply for the JAF translation at least two weeks before your appointment.
+2. **Book the document check** (書類審査, *shorui shinsa*) at the **Niigata Prefectural Driving Licence Centre in Seirō** (聖籠町東港7-1-1) on **025-256-4040**. The line is Japanese only, open weekdays about 9:00-16:00 and closed 12:00-13:30, so call before noon or ask a Japanese-speaking friend to call.
+3. **Go to the document check in person** (2nd floor, counter 2). If your papers are in order you pass the same day. They hand your application papers back in a folder, with instruction sheets for booking the tests. **The document check is valid for 6 months**, and you have to pass both tests within that time. If your foreign licence expires, you lose your eligibility; if your licence or registration details change, you may need a new document check.
+4. **Choose where to take the tests.** It's your choice:
+   - **Seirō (Niigata centre):** knowledge test and driving test on the **same day**. Book on 025-256-4040.
+   - **Nagaoka branch** (運転免許センター長岡支所, *Nagaoka shisho*): much closer to IUJ, but the two tests are on **different days**, so it's two trips. Tel. 0258-22-1050, 9:00-16:15. Staff are sometimes away from the phone and voicemail isn't answered, so call again.
+5. **Take the tests, in this order:** aptitude and eyesight test (適性検査, including colours), then the knowledge test, then the driving test. You can't skip ahead. A knowledge-test pass is valid for 6 months; if that runs out before you pass the driving test, you start again from the knowledge test.
+6. **Get your licence.** Very few people pass the driving test on the first or second try, so plan for retakes.
+
+**What it costs** (as charged at Seirō, October 2026):
+- Document check: free
+- Knowledge test: ¥2,500 per attempt
+- Driving test: ¥2,500 per attempt
+- Issuing the licence card: ¥2,350 (the sheet gives a range of ¥1,550-2,450)
+- Photo taken at the centre: ¥900 (bring your own to skip it); copies made at the centre: ¥100
+- JAF translation: ¥6,600
 
 **Documents needed:**
-- Your foreign driving licence (the original) and a photocopy
-- An official Japanese translation of it (from JAF, the Japan Automobile Federation, or your embassy)
-- Your passport, showing you spent at least 3 months in the issuing country after getting the licence
+- Your foreign driving licence (the original, still valid)
+- An official Japanese translation of it (from JAF, ZIPLUS, ALADDIN or your embassy)
+- **All** your passports, including expired ones, to prove you spent at least 3 months in the issuing country after getting the licence
 - Your Residence Card (在留カード)
-- A residence record (住民票) with your nationality shown, from the City Office
-- A photo (3 cm x 2.4 cm; check the size when you book)
-- The application form (filled in at the centre)
+- One residence record (住民票) showing **every item** (nationality, residence status, period of stay, expiry date and Residence Card number) but **not** your My Number. Get it at the City Office counter (see below), not from a 7-Eleven printer.
+- **One** photo, 3 cm x 2.4 cm, taken in the last 6 months
+- A4 copies of the front and back of each document
+- Glasses, if you need them
+- An interpreter if you don't speak Japanese; Niigata requires one
 
-> 💡 Get your JAF translation before you go: [JAF's translation service](https://english.jaf.or.jp/driving-in-japan/drive-in-japan/about-dltas). It takes 1-2 weeks and costs **¥6,600** (JAF's July 2026 price; check it before you apply).
+> 💡 **Indian licences:** if your card has been renewed, print your licence extract from Parivahan/Sarathi to show the date it was first issued.
 
-### On the Practical Test
+**Getting the 住民票 at the City Office:** it takes about 10-15 minutes at the City Office branch near Urasa and costs about ¥300. Bring your Residence Card. Staff check that every item is on it. You can say: 「住民票の写しを一通、全部の項目を記載して、マイナンバーはなしでお願いします。運転免許の切り替えに使います。」(*Jūminhyō no utsushi o ittsū, zenbu no kōmoku o kisai shite, mai nambā wa nashi de onegai shimasu. Unten menkyo no kirikae ni tsukaimasu.*) They'll ask for ID, whether it's just for you (本人だけ, *honnin dake*), and whether to include My Number (say いりません, *irimasen*).
 
-IUJ's own materials on which countries skip the tests aren't fully up to date, so confirm your track at the interview rather than assuming. Licences from some countries need only the document check and the eyesight test; everyone else also takes the written and driving checks. The driving check is in Japanese, so bring a Japanese-speaking friend. OSS doesn't provide interpreters for licence matters, because the police don't accept IUJ's translations. The examiners are strict about Japanese driving habits: the order of mirror checks, speed and road position. Failing once or twice is normal, so leave time for retakes.
+### The JAF Translation
+
+Apply online through [JAF's translation service](https://english.jaf.or.jp/driving-in-japan/drive-in-japan/about-dltas). It costs **¥6,600** for a conversion, paid by card or at a convenience store. JAF quotes 5-10 business days for Indian licences; one senior applied on a Friday night and it was ready the next Tuesday. Apply at least two weeks ahead anyway.
+
+You print it yourself at a convenience store:
+1. When My Page says "Ready to print", tap **Preview** first. Check the PDF carefully: name, licence number and dates. If anything is wrong, tell JAF through the Chat on My Page **before** you print, because a correction after printing can cost another ¥6,600. A printout of the preview isn't valid.
+2. Close the preview. An 8-character print code now appears next to the Preview button.
+3. At the store's multi-copy machine (at 7-Eleven: Print, then Net Print), enter the code, pay and print. "Change of printing convenience store" lets you switch chains.
+4. The code expires on the 7th day, counting the day printing became possible. If you need it later, use "Request print-ready reservation number" for a new one; it appears straight away.
+
+The translation's Remarks (備考, *bikō*) show the date your licence was first issued (取得日, *shutoku-bi*), which the centre uses to check the 3 months.
+
+### On the Tests
+
+**Knowledge test** (知識確認, *chishiki kakunin*): 50 true/false questions (mark ○ for true, × for false) in 30 minutes; you pass with 45. Fill each answer box completely and erase cleanly if you change an answer. Pencils and erasers are lent; everything else is put away, and your phone is switched off and left where the examiner says. Cheating ends the test, and staff won't answer questions about the content.
+
+**Driving test** (技能確認, *ginō kakunin*): wear clothes you can drive in, or you may be turned away. Tests can be cancelled on the day for bad weather. The course counts as a public road, and you're scored from getting in to getting out; the warm-up lap isn't scored. Do every safety check by looking directly **and** in the mirrors. If a wheel goes off the edge (脱輪, *datsurin*), stop at once and reverse back to before that point; if you can't stop straight away, the test ends. If you take a wrong turn, follow the examiner back: the wrong turn isn't penalised, but your driving until you're back on route is. The test is stopped for dangerous driving, if the examiner has to help, or if you ignore instructions. The handout has QR codes for both centres' course maps, so study the one for where you're testing.
+
+**Bring to every test:** the folder of application papers they gave back to you, your foreign licence (and anything attached to it), your Residence Card, your passport, and the fee in cash. Without these you can't sit the test.
+
+The tests are in Japanese, so bring a Japanese-speaking friend. OSS doesn't provide interpreters for licence matters, because the police don't accept IUJ's translations.
 
 ---
 
@@ -70,11 +104,13 @@ If you have no driving licence at all:
 
 ### Option A: Driving School (教習所, *Kyōshūjo*)
 
-The usual route. You go to a licensed driving school, complete the required classes and driving lessons, then take the final test at the licence centre.
+The usual route. The steps are: the school course; a provisional-licence test at the school (50 questions in 30 minutes, 90% to pass); lessons on public roads; the school's graduation test (the certificate is valid for a year); and a final written test at the licence centre (95 questions in 50 minutes, 90 out of 100 to pass). You display a beginner's mark for your first year. The eyesight standard is 0.7 with both eyes and 0.3 in each eye.
 
-**Timeline:** 1-3 months, depending on your schedule and the school
+**Timeline:** 1-6 months if you commute to a school
 
-**Cost:** ¥200,000-350,000 for a full course (manual or automatic)
+**Cost:** about ¥250,000-400,000. For example, Sekihara driving school in Nagaoka charges ¥337,700 for its student automatic course, plus a ¥2,900 provisional-licence fee.
+
+**Residential camps** (合宿, *gasshuku*): from about ¥210,000 for 2-3 weeks of full-time training, so only realistic during a break.
 
 **Nearest driving school:** 六日町自動車学校 (Muikamachi Driving School) in Minami-Uonuma; there are more in Nagaoka. Ask seniors which one has worked for international students, because English support varies.
 
@@ -82,20 +118,24 @@ The usual route. You go to a licensed driving school, complete the required clas
 
 ### Option B: Direct Test at the Licence Centre (一発試験)
 
-You take the written and driving tests without going to a driving school. It's much cheaper but much harder, because the centre's driving test is stricter than a school's.
-
-Experienced drivers who don't want to pay for school use this route. Expect 2-4 attempts.
+You take the tests without going to a driving school. It's cheaper but much harder. After getting a provisional licence, you need at least 5 days of practice on public roads within 3 months, supervised by someone who has held a licence for 3 years or more, and you have to take paid compulsory courses (over ¥10,000). That's very hard to arrange as a new student.
 
 ---
 
 ## The Driving License Centers
 
-IUJ students deal with **two places**:
+- **Niigata Prefectural Driving Licence Centre, Seirō** (聖籠町東港7-1-1, tel. 025-256-4040): for the document check, and for both tests on the same day if you choose.
+- **Nagaoka branch** (運転免許センター長岡支所, tel. 0258-22-1050): closer to IUJ, but the knowledge and driving tests are on separate days. Its online-only booking (no Wednesdays) is for driving-school graduates. Take the local train from Urasa to Miyauchi Station, then a taxi or walk.
 
-- **聖籠町運転免許センター (Seirō-machi Unten Menkyo Center)** (tel. 025-256-1212): for your first interview. Get there by Shinkansen (Urasa to Niigata Station, then the express bus from the Bandai Bus Terminal) or by local train (Urasa to Nagaoka, then the bus to Niigata Station and the same express bus).
-- **長岡運転免許試験場 (Nagaoka Unten Menkyo Shikenjō)** (tel. 0258-22-1050): the branch you're usually sent to afterwards for tests and follow-up visits. Take the local train from Urasa to Miyauchi Station, then a taxi or walk.
-
-Bring every document. Arrive early: the centres handle applicants in groups, and if you miss your slot you'll have to rebook.
+**Getting to Seirō without a car** (times as of October 2026; check before you go):
+- Weekday Shinkansen from Urasa to Niigata in the late morning: only 10:32 and 11:43 (about 40-45 minutes), and nothing in the 12 o'clock hour.
+- From Niigata Station, an express bus to the licence centre leaves from stop 12 (12番線): ¥710, about 40 minutes, IC cards accepted. On weekdays it leaves only at 7:50, 9:50 and 12:35; on Sundays at 7:50 and 12:45. There's no bus on Saturdays, holidays or 29 December-3 January.
+- Buses back from the centre: weekdays 10:50, 11:55, 14:55, 16:15 and 17:00; Sundays 10:30, 12:02 and 16:00.
+- For a 1 PM appointment, the 12:35 bus arrives around 13:15. One senior phoned ahead and was told that arriving by 13:30 was fine. Otherwise, a taxi from Niigata Station takes 25-30 minutes and costs several thousand yen.
+- For same-day tests at Seirō, you'll probably need the 7:50 or 9:50 bus, so check against your booked time.
+- Coming back, **not every Toki from Niigata stops at Urasa.** Check the board for 浦佐, or ask 「浦佐に止まりますか？」(*Urasa ni tomarimasu ka?*). Weekday trains reach Urasa at about 16:56, 17:04 and 18:00 in the late afternoon.
+- For the IUJ bus to and from Urasa Station, see [[Bus & Local Routes]].
+- An example day: City Office near Urasa at about 10:00, a 7-Eleven to print the JAF translation, the 10:32 Toki, the 12:35 bus, done by 14:15, and the 14:55 bus back. Leaving IUJ at about 9:15 was enough.
 
 ---
 
@@ -117,8 +157,9 @@ Driving without a valid licence is a crime under the Road Traffic Act:
 ## Timeline Advice
 
 - **IDP holders:** start converting well before the one-year mark
+- **Converting:** allow at least two weeks for the JAF translation, then book the document check; after it, you have 6 months to pass both tests
+- **If your country is exempt from the tests:** after the document check you take only the eyesight test, so it can be quick. Check whether your country is on the police list before you book.
 - **Fresh licence:** if you want one before winter, start driving school in September or October of your first term
-- **If your country is exempt from the tests:** you may finish in a day, with only the document check and eyesight test. Check whether your country is exempt before you book.
 
 ---
 
@@ -128,6 +169,16 @@ Driving without a valid licence is a crime under the Road Traffic Act:
 |---|---|---|
 | 運転免許証 | Unten menkyo-shō | Driving licence |
 | 外免切替 | Gaimen kirikae | Foreign licence conversion |
+| 書類審査 | Shorui shinsa | Document check |
+| 適性検査 | Tekisei kensa | Aptitude/eyesight test |
+| 知識確認 | Chishiki kakunin | Knowledge test |
+| 技能確認 | Ginō kakunin | Driving test |
+| 受験手数料 | Juken tesūryō | Test fee |
+| 免許証交付手数料 | Menkyoshō kōfu tesūryō | Licence issuance fee |
+| 脱輪 | Datsurin | A wheel off the road edge |
+| 取得日 | Shutoku-bi | Date the licence was first issued |
+| 長岡支所 | Nagaoka shisho | Nagaoka branch |
+| 13時の外免切替の予約です | Jūsan-ji no gaimen kirikae no yoyaku desu | "I have the 1 PM conversion appointment" |
 | 仮免許 | Kari menkyo | Provisional licence |
 | 教習所 | Kyōshūjo | Driving school |
 | 一発試験 | Ippatsu shiken | Direct test (no school) |
@@ -154,8 +205,8 @@ Driving without a valid licence is a crime under the Road Traffic Act:
 ## 🗣️ Senior Submissions
 > *Have a tip, correction, or experience to add? Click the **✏️ pencil button** at the top of the page. If you are correcting something, highlight that passage first and it goes into the form for you.*
 
-- Conversion experience for specific countries (especially India, Indonesia, other common IUJ nationalities)
-- JAF translation timeline and process
-- Niigata Licence Centre experience: what to expect on the day
+- Conversion experience for specific countries (especially Indonesia and other common IUJ nationalities)
 - Driving school recommendations near IUJ for fresh licence seekers
 - Any translation/interpretation support available at the centre
+
+*Received so far: the October 2026 conversion details (document check, tests, costs, getting to Seirō, the 住民票 and JAF printing) come from a senior's own conversion of an Indian licence.*
